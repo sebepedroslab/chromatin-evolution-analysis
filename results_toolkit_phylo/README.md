@@ -128,7 +128,7 @@ Once all this work is done, pull the necessary data into the repository:
 
 ```bash
 # add data to gene_counts/ folder:
-for s in euk arc bac vir ; do while read -a i ; do cat ${s}.${i[2]}.genes.list | sed "s/$/\t${i[2]}/" ; done < ../../histonome-analysis/data/gene_families_hmm.csv  > gene_counts/${s}_genecounts.csv ; done
+for s in euk arc bac vir ; do while read -a i ; do cat ${s}.${i[2]}.genes.list | sed "s/$/\t${i[2]}/" ; done < <repo_home_dir>/data/gene_families_hmm.csv  > gene_counts/${s}_genecounts.csv ; done
 
 # add data to gene_trees/
 cp alignments/*treefile gene_trees/
@@ -291,7 +291,7 @@ makeblastdb -dbtype nucl -parse_seqids -in Dfam_clean.fasta
 
 # get TE annotation taxonomy
 grep "^NAME\|^ACC\|^CT" <(zcat Dfam.hmm.gz) | awk '{ print $2 }'| awk 'NR%3{printf "%s ",$0;next;}1' | awk '{ print $2,$1,$3 }'  | tr ' ' '\t' > Dfam.TEclasses.txt
-cp Dfam.TEclasses.txt ~/Documents/histonome-analysis/data # path to data folder in repository
+cp Dfam.TEclasses.txt <repo_home_dir>/data # path to data folder in repository
 
 # first, prepare list of genes of interest, and dedicated fasta file:
 cat results_domains/*network_genes.csv | fgrep -w -f <(cut -f1 ../data/transposable_element_domains.csv) | sort -u > results_TEfusions/architectures_with_TEs.csv
