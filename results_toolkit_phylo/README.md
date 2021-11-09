@@ -396,4 +396,3 @@ Rscript s42_preeuk_annotation_famcentric-phylogeny_2021-03-22.R
    +                         +
         O      *        '       .
 ```
-
