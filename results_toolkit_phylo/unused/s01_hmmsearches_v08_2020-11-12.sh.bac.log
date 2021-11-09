@@ -1,0 +1,503 @@
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Acetyltransf_1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Acetyltransf_1 | # genes found = 943708
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Acetyltransf_1 | # unique domains = 957630
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Acetyltransf_1.seqs.fasta...    done.
+Indexed 943708 sequences (943708 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Acetyltransf_1.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: GNAT_acetyltr_2 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: GNAT_acetyltr_2 | # genes found = 9428
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: GNAT_acetyltr_2 | # unique domains = 9840
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.GNAT_acetyltr_2.seqs.fasta...    done.
+Indexed 9428 sequences (9428 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.GNAT_acetyltr_2.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hat1_N | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hat1_N | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hat1_N | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hat1_N.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hat1_N.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: KAT11 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: KAT11 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: KAT11 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MOZ_SAS | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MOZ_SAS | # genes found = 77
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MOZ_SAS | # unique domains = 77
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.MOZ_SAS.seqs.fasta...    done.
+Indexed 77 sequences (77 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.MOZ_SAS.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hist_deacetyl | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hist_deacetyl | # genes found = 34144
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hist_deacetyl | # unique domains = 34223
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hist_deacetyl.seqs.fasta...    done.
+Indexed 34144 sequences (34144 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hist_deacetyl.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SIR2 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SIR2 | # genes found = 35442
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SIR2 | # unique domains = 35478
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SIR2.seqs.fasta...    done.
+Indexed 35442 sequences (35442 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SIR2.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: DOT1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: DOT1 | # genes found = 4305
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: DOT1 | # unique domains = 4306
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.DOT1.seqs.fasta...    done.
+Indexed 4305 sequences (4305 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.DOT1.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SET | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SET | # genes found = 6377
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SET | # unique domains = 6384
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SET.seqs.fasta...    done.
+Indexed 6377 sequences (6377 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SET.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SWIRM | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SWIRM | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SWIRM | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SWIRM.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SWIRM.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CupinJmjC | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CupinJmjC | # genes found = 23974
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CupinJmjC | # unique domains = 24030
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.CupinJmjC.seqs.fasta...    done.
+Indexed 23974 sequences (23974 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.CupinJmjC.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HIF-1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HIF-1 | # genes found = 22
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HIF-1 | # unique domains = 22
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.HIF-1.seqs.fasta...    done.
+Indexed 22 sequences (22 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.HIF-1.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Histone | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Histone | # genes found = 242
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Histone | # unique domains = 242
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Histone.seqs.fasta...    done.
+Indexed 242 sequences (242 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Histone.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: LinkerHistone | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: LinkerHistone | # genes found = 49
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: LinkerHistone | # unique domains = 49
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.LinkerHistone.seqs.fasta...    done.
+Indexed 49 sequences (49 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.LinkerHistone.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ASF1_hist_chap | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ASF1_hist_chap | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ASF1_hist_chap | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.ASF1_hist_chap.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.ASF1_hist_chap.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CAF1A | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CAF1A | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CAF1A | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CHZ | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CHZ | # genes found = 3
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CHZ | # unique domains = 3
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.CHZ.seqs.fasta...    done.
+Indexed 3 sequences (3 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.CHZ.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Daxx | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Daxx | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Daxx | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hira | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hira | # genes found = 6
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hira | # unique domains = 6
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hira.seqs.fasta...    done.
+Indexed 6 sequences (6 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hira.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HJURP_mid | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HJURP_mid | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HJURP_mid | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: NAP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Acetyltransf_1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Acetyltransf_1 | # genes found = 943708
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Acetyltransf_1 | # unique domains = 957630
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Acetyltransf_1.seqs.fasta...    done.
+Indexed 943708 sequences (943708 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Acetyltransf_1.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: GNAT_acetyltr_2 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: GNAT_acetyltr_2 | # genes found = 9428
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: GNAT_acetyltr_2 | # unique domains = 9840
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.GNAT_acetyltr_2.seqs.fasta...    done.
+Indexed 9428 sequences (9428 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.GNAT_acetyltr_2.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hat1_N | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hat1_N | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hat1_N | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hat1_N.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hat1_N.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: KAT11 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: KAT11 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: KAT11 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MOZ_SAS | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MOZ_SAS | # genes found = 77
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MOZ_SAS | # unique domains = 77
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.MOZ_SAS.seqs.fasta...    done.
+Indexed 77 sequences (77 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.MOZ_SAS.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hist_deacetyl | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hist_deacetyl | # genes found = 34144
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hist_deacetyl | # unique domains = 34223
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hist_deacetyl.seqs.fasta...    done.
+Indexed 34144 sequences (34144 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hist_deacetyl.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SIR2 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SIR2 | # genes found = 35442
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SIR2 | # unique domains = 35478
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SIR2.seqs.fasta...    done.
+Indexed 35442 sequences (35442 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SIR2.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: DOT1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: DOT1 | # genes found = 4305
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: DOT1 | # unique domains = 4306
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.DOT1.seqs.fasta...    done.
+Indexed 4305 sequences (4305 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.DOT1.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SET | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SET | # genes found = 6377
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SET | # unique domains = 6384
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SET.seqs.fasta...    done.
+Indexed 6377 sequences (6377 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SET.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SWIRM | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SWIRM | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SWIRM | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SWIRM.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SWIRM.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CupinJmjC | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CupinJmjC | # genes found = 23974
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CupinJmjC | # unique domains = 24030
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.CupinJmjC.seqs.fasta...    done.
+Indexed 23974 sequences (23974 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.CupinJmjC.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HIF-1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HIF-1 | # genes found = 22
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HIF-1 | # unique domains = 22
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.HIF-1.seqs.fasta...    done.
+Indexed 22 sequences (22 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.HIF-1.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Histone | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Histone | # genes found = 242
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Histone | # unique domains = 242
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Histone.seqs.fasta...    done.
+Indexed 242 sequences (242 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Histone.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: LinkerHistone | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: LinkerHistone | # genes found = 49
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: LinkerHistone | # unique domains = 49
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.LinkerHistone.seqs.fasta...    done.
+Indexed 49 sequences (49 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.LinkerHistone.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ASF1_hist_chap | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ASF1_hist_chap | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ASF1_hist_chap | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.ASF1_hist_chap.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.ASF1_hist_chap.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CAF1A | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CAF1A | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CAF1A | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CHZ | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CHZ | # genes found = 3
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CHZ | # unique domains = 3
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.CHZ.seqs.fasta...    done.
+Indexed 3 sequences (3 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.CHZ.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Daxx | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Daxx | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Daxx | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hira | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hira | # genes found = 6
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Hira | # unique domains = 6
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hira.seqs.fasta...    done.
+Indexed 6 sequences (6 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Hira.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HJURP_mid | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HJURP_mid | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: HJURP_mid | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: NAP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: NAP | # genes found = 8
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: NAP | # unique domains = 8
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.NAP.seqs.fasta...    done.
+Indexed 8 sequences (8 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.NAP.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Rtt106 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Rtt106 | # genes found = 3
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Rtt106 | # unique domains = 3
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Rtt106.seqs.fasta...    done.
+Indexed 3 sequences (3 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Rtt106.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SPT16 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SPT16 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SPT16 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SSrecog | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SSrecog | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SSrecog | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SSrecog.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SSrecog.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-CCHH | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-CCHH | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-CCHH | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ADD_ATRX | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ADD_ATRX | # genes found = 3
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ADD_ATRX | # unique domains = 3
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.ADD_ATRX.seqs.fasta...    done.
+Indexed 3 sequences (3 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.ADD_ATRX.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ADD_DNMT3 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ADD_DNMT3 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ADD_DNMT3 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: BAH | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: BAH | # genes found = 2
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: BAH | # unique domains = 2
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.BAH.seqs.fasta...    done.
+Indexed 2 sequences (2 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.BAH.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: BIR | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: BIR | # genes found = 39
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: BIR | # unique domains = 49
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.BIR.seqs.fasta...    done.
+Indexed 39 sequences (39 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.BIR.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Bromodomain | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Bromodomain | # genes found = 6
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Bromodomain | # unique domains = 6
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Bromodomain.seqs.fasta...    done.
+Indexed 6 sequences (6 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Bromodomain.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Chromo | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Chromo | # genes found = 88
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Chromo | # unique domains = 88
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Chromo.seqs.fasta...    done.
+Indexed 88 sequences (88 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Chromo.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ING | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ING | # genes found = 23
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ING | # unique domains = 23
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.ING.seqs.fasta...    done.
+Indexed 23 sequences (23 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.ING.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MBT | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MBT | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MBT | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.MBT.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.MBT.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MRG | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MRG | # genes found = 10
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: MRG | # unique domains = 10
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.MRG.seqs.fasta...    done.
+Indexed 10 sequences (10 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.MRG.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PHD | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PHD | # genes found = 18
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PHD | # unique domains = 18
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.PHD.seqs.fasta...    done.
+Indexed 18 sequences (18 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.PHD.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PWWP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PWWP | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PWWP | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.PWWP.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.PWWP.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SAWADEE | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SAWADEE | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SAWADEE | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SAWADEE.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SAWADEE.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: TTD | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: TTD | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: TTD | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.TTD.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.TTD.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: TUDOR | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: TUDOR | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: TUDOR | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.TUDOR.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.TUDOR.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-CW | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-CW | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-CW | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ATF7IP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ATF7IP | # genes found = 2
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: ATF7IP | # unique domains = 2
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.ATF7IP.seqs.fasta...    done.
+Indexed 2 sequences (2 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.ATF7IP.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PA1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PA1 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PA1 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Dpy-30 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Dpy-30 | # genes found = 4
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Dpy-30 | # unique domains = 4
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Dpy-30.seqs.fasta...    done.
+Indexed 4 sequences (4 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Dpy-30.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Menin | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Menin | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Menin | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: NCOA6 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: NCOA6 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: NCOA6 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PTIP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PTIP | # genes found = 46577
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: PTIP | # unique domains = 46588
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.PTIP.seqs.fasta...    done.
+Indexed 46577 sequences (46577 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.PTIP.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: TRRAP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: TRRAP | # genes found = 38
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: TRRAP | # unique domains = 38
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.TRRAP.seqs.fasta...    done.
+Indexed 38 sequences (38 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.TRRAP.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: AF9 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: AF9 | # genes found = 2
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: AF9 | # unique domains = 2
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.AF9.seqs.fasta...    done.
+Indexed 2 sequences (2 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.AF9.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: RAWUL | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: RAWUL | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: RAWUL | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: YAF2_RYBP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: YAF2_RYBP | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: YAF2_RYBP | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.YAF2_RYBP.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.YAF2_RYBP.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SAM | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SAM | # genes found = 1690
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SAM | # unique domains = 1690
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SAM.seqs.fasta...    done.
+Indexed 1690 sequences (1690 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SAM.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SLED | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SLED | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SLED | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Suz12 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Suz12 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Suz12 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CAF1C | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CAF1C | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: CAF1C | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.CAF1C.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.CAF1C.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Kelch | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Kelch | # genes found = 9980
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Kelch | # unique domains = 21790
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Kelch.seqs.fasta...    done.
+Indexed 9980 sequences (9980 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.Kelch.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-C2H2 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-C2H2 | # genes found = 297
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-C2H2 | # unique domains = 767
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.zf-C2H2.seqs.fasta...    done.
+Indexed 297 sequences (297 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.zf-C2H2.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-CXXC | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-CXXC | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: zf-CXXC | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: WD40 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: WD40 | # genes found = 27195
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: WD40 | # unique domains = 155983
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.WD40.seqs.fasta...    done.
+Indexed 27195 sequences (27195 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.WD40.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SNF2_N | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SNF2_N | # genes found = 76389
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SNF2_N | # unique domains = 76477
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SNF2_N.seqs.fasta...    done.
+Indexed 76389 sequences (76389 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//bac.SNF2_N.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: Acetyltransf_1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: SNF2_N | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: UBN_AB | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: UBN_AB | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.fasta: UBN_AB | Omit downstream analyses
+# END

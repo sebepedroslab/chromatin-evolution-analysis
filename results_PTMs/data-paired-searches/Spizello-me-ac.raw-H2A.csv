@@ -1,0 +1,5 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Spun_SPPG_01096|Histone_H2A	Spun_SPPG_01096|Histone_H2A	H2A	FALSE	AGGKG KAGAE KAPKG GKSR	Me1	K	4				99.99	AGGKGKAGAEKAPKGGKSR	res
+Spun_SPPG_01096|Histone_H2A	Spun_SPPG_01096|Histone_H2A	H2A	FALSE	MAGGK GKAGA EKAPK GGKSR	Me1	K	5				100	MAGGKGKAGAEKAPKGGKSR	res
+Spun_SPPG_01096|Histone_H2A	Spun_SPPG_01096|Histone_H2A	H2A	FALSE	GKAGA EKAPK GGKSR	Me1	K	10				100	GKAGAEKAPKGGKSR	res
+Spun_SPPG_02344|Histone_H2A	Spun_SPPG_02344|Histone_H2A	H2A	FALSE	MAGGK GKSGA EKVAA KTNSK SR	Me1	K	5				100	MAGGKGKSGAEKVAAKTNSKSR	res

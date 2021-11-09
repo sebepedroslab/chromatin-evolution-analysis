@@ -1,0 +1,9 @@
+Ancyromonadida|Fabtro_Gene.13157
+Ancyromonadida|Plamic_ANCSI_05699.mRNA.1
+ArchaeCry|Gonavo_g19725.t1
+Obazoa|Hduj_OQV22200.1
+Obazoa|Hsap_ENSP00000227758.2
+Obazoa|Linana_g4258.t1
+Obazoa|Notgen_g21050.t1
+Obazoa|Spur_XP_030854288.1
+Obazoa|Tcas_XP_008195666.1

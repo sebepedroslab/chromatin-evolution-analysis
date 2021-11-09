@@ -1,0 +1,6 @@
+tmp/*
+alignments_reduced/*iqtree*
+alignments_reduced/*l.fasta*
+alignments_reduced/*lt.fasta*
+alignments_reduced/*treeshrink*
+reduced_alignments/

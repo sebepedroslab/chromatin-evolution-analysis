@@ -1,0 +1,14 @@
+Bilateria|Apla_XP_022082378.1
+Bilateria|Cgig_EKC29643
+Bilateria|Hsap_ENSP00000216297.2
+Bilateria|Phoaus_g9458.t1
+Bilateria|Skow_XP_002733005.1
+Bilateria|Tcas_XP_972477.1
+Cnidaria|Exapal_XP_020911009.1
+Cnidaria|Nvec_NVE13787
+Cnidaria|Spis_XP_022794768_1
+Ctenophora|Mlei_ML2635_g19_t1
+Placozoa|Tadh_P18255
+Porifera|Aque_Aqu2.1.37890_001
+Porifera|Lcom_lcpid28005
+Porifera|Scil_scpid27997

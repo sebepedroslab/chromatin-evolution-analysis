@@ -1,0 +1,238 @@
+# pfam_scan.pl,  run at Fri Dec 18 14:50:20 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Rirr.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Rirr_GBC11452     48    146     47    147 PF00665.27  rve               Domain     3   101   102     34.8   1.6e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y++vv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+ ++f  pgr
+#PP        699999********.77888***********************.999999999999999888768899***************964899*********998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFFVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMIRFGEPGR
+Rirr_GBC11452    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     58.2   5.6e-16   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp+++l+++ ++li++F++
+#PP        689*************..*********************************96
+#SEQ       FIPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADQLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC13696     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.2   5.1e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.999999999999999888768899***************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC13696    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     57.0   1.3e-15   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp++ l+++ ++li++F++
+#PP        689*************..*********************************96
+#SEQ       FIPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADRLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC17414     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.2   5.1e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.999999999999999888768899***************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC17414    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     57.1   1.3e-15   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp++ l+++ ++li++F++
+#PP        578*************..*********************************96
+#SEQ       FVPEQILQHRIRKGQD--QYLVKWERYPDTEATWEPADRLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC20287     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.4   4.4e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.999999999999998888768899***************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYKRNRIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC20287    291    341    291    341 PF00385.25  Chromo            Domain     1    53    54     57.9   7.1e-16   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp+++l+++ ++li++F+k
+#PP        578*************..*********************************96
+#SEQ       FVPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADQLKEDIPDLIRKFWK
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC22316     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.8   3.3e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  ++++  +g ++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++ +      r+ +D gse+t+ ++r+f l++lg+  +f+ pgr
+#PP        699999********77776.***********************.999999999999988888768899***************964899**********98
+#SEQ       KPNATHQADLAEMPVDLKG-FHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNHIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFSEPGR
+Rirr_GBC22316    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     57.9   7.2e-16   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp+++l+++ ++li++F++
+#PP        578*************..*********************************96
+#SEQ       FVPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADQLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC26775     48    146     47    147 PF00665.27  rve               Domain     3   101   102     34.0   2.8e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+ + q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        6999**********.77888***********************.999999999999999888768899***************964899*******99998
+#SEQ       KPNAIHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC26775    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     56.7   1.7e-15   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp++ l+++ ++li++F++
+#PP        578*************..*********************************96
+#SEQ       FVPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADRLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC29429     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.4   4.2e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ ++++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++ +      r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.66777***********************.999999999999988888768899***************964899*******99998
+#SEQ       KPNATHQADLAEMP-VNPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNHIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC29429    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     54.3   9.2e-15   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp++ le++ ++l+ +F++
+#PP        578*************..******************************99986
+#SEQ       FVPEQILRHRIRKSQD--QYLVKWERYPDTEATWEPADRLEEDVPNLVLKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC31121     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.2   5.1e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.999999999999999888768899***************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC31121    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     57.9   7.2e-16   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp+++l+++ ++li++F++
+#PP        578*************..*********************************96
+#SEQ       FVPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADQLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC31217     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.2   5.1e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.999999999999999888768899***************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC31217    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     57.8   7.5e-16   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp+++l+++ ++li++F++
+#PP        578*************..*********************************96
+#SEQ       FVPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADQLKEDVPDLIHKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC36397     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.2   5.1e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.999999999999999888768899***************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC36397    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     54.7   6.9e-15   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e++WEp++ l+++ ++li++F++
+#PP        578*************..*********************************96
+#SEQ       FVPEQILRHRIRKGQD--QYLVKWERYPDTEASWEPADRLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC38547     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.5   4.1e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.99999999999999999977899****************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKSpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC38547    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     56.7   1.7e-15   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp++ l+++ ++li++F++
+#PP        578*************..*********************************96
+#SEQ       FVPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADRLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC39243     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.1   5.4e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+l+v+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f+ pgr
+#PP        699999********.77888***********************.99999999999999998876889999*************964899**********98
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLIVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPlTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFSEPGR
+Rirr_GBC39243    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     57.9   7.2e-16   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp+++l+++ ++li++F++
+#PP        578*************..*********************************96
+#SEQ       FVPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADQLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC39272     48    146     47    147 PF00665.27  rve               Domain     3   101   102     34.0   2.9e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.99999999999999988876889****************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRLKTDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC39272    315    363    313    363 PF00385.25  Chromo            Domain     3    53    54     56.2   2.5e-15   1 CL0049   
+#HMM       VerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH      e+I+ hr++k++   +YlVKW+++p+ e+tWEp+++l+++ ++li++F++
+#PP        69************..*********************************96
+#SEQ       LEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADQLKEDVPDLIRKFWE
+#CS        EEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC43175     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.9   3.1e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.999999999999999888768899****************64899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRLETDSGSEFTNDQIRDFfLNSLGVMMRFGEPGR
+Rirr_GBC43175    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     57.9   7.2e-16   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp+++l+++ ++li++F++
+#PP        578*************..*********************************96
+#SEQ       FVPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADQLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC46531     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.7   3.5e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.99999999999999988876889****************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRIETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC46531    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     58.7   3.8e-16   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++erI+ hr++k++   +YlVKW+++p+ e+tWEp++ le++ + li++F++
+#PP        579*************..*********************************96
+#SEQ       FVPERILRHRIRKGQD--QYLVKWERYPDTEATWEPADRLEEDVPALIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC46928     48    146     47    147 PF00665.27  rve               Domain     3   101   102     35.3   1.1e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y++vv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f+ pgr
+#PP        699999********.77888***********************.999999999999999888768899***************964899**********98
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFFVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFSEPGR
+Rirr_GBC46928    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     58.7   3.8e-16   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++erI+ hr++k++   +YlVKW+++p+ e+tWEp++ le++ + li++F++
+#PP        579*************..*********************************96
+#SEQ       FVPERILRHRIRKGQD--QYLVKWERYPDTEATWEPADRLEEDVPALIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC47598     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.2   5.1e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.999999999999999888768899***************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpTHRLETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC47598    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     56.7   1.7e-15   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp++ l+++ ++li++F++
+#PP        578*************..*********************************96
+#SEQ       FVPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADRLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Rirr_GBC49842     48    146     47    147 PF00665.27  rve               Domain     3   101   102     33.3   4.6e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ +  +++ ae ++d+ +a  v+   ++ +++        r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.99999999998998888876889****************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVTGKRVDAEPLKDK-TANKVLNGFVKIYRRNRIKPpTHRIETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC49842    316    343    313    343 PF00385.25  Chromo            Domain     4    33    54     29.2   6.6e-07   1 CL0049   
+#HMM       erIidhrtdkdgleleYlVKWkglpysent
+#MATCH     erI+ hr++k++   +Yl+KW+++p+ e+t
+#PP        9************..***********9987
+#SEQ       ERILRHRIRKGQD--QYLIKWERYPDTEAT
+#CS        EEEEEEEEETTEECEEEEEEETTSTGGGTE
+Rirr_GBC54399     48    146     47    147 PF00665.27  rve               Domain     3   101   102     34.0   2.8e-08   1 CL0219   
+#HMM       apgelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggve.pervlsDngseytskafref.laelgirvsftrpgr
+#MATCH     +p+   q D  +++ +d++g++y+lvv+ ++ +++ ae ++d+ +a  v+   ++ +++      + r+ +D gse+t+ ++r+f l++lg+  +f  pgr
+#PP        699999********.77888***********************.99999999999999988876899****************964899*******99998
+#SEQ       KPNATHQADLAEMP-VDPKGFHYFLVVVEVAGKRVDAEPLKDK-TANRVLNGFVKIYRRNRIKPpIHRLETDSGSEFTNDQVRDFfLNSLGVMMRFGEPGR
+Rirr_GBC54399    313    363    313    363 PF00385.25  Chromo            Domain     1    53    54     56.7   1.7e-15   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +++e+I+ hr++k++   +YlVKW+++p+ e+tWEp++ l+++ ++li++F++
+#PP        578*************..*********************************96
+#SEQ       FVPEQILRHRIRKGQD--QYLVKWERYPDTEATWEPADRLKEDVPDLIRKFWE
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH

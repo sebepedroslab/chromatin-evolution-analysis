@@ -1,0 +1,8 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Ppat_XP_001761191|Histone_H2A	Ppat_XP_001761191|Histone_H2A	H2A	FALSE	GKSSG KKTVS RSSKA GLQFP VGR	Me1	K	2				99.89	GKSSGKKTVSRSSKAGLQFPVGR	res
+Ppat_XP_001761191|Histone_H2A	Ppat_XP_001761191|Histone_H2A	H2A	FALSE	GKSSG KKTVS R	Me1	K	6				50	GKSSGKKTVSR	res
+Ppat_XP_001761191|Histone_H2A	Ppat_XP_001761191|Histone_H2A	H2A	FALSE	GKSSG KKTVS R	Me1	K	7				50	GKSSGKKTVSR	res
+Ppat_XP_001761191|Histone_H2A	Ppat_XP_001761191|Histone_H2A	H2A	FALSE	SGRGK SSGKK TVSR	Me1	K	9				49.91	SGRGKSSGKKTVSR	res
+Ppat_XP_001761191|Histone_H2A	Ppat_XP_001761191|Histone_H2A	H2A	FALSE	SGRGK SSGKK TVSR	Me1	K	10				49.9	SGRGKSSGKKTVSR	res
+Ppat_XP_001762476|Histone_H2A	Ppat_XP_001762476|Histone_H2A	H2A	FALSE	ASKSI SR	Me1	K	3				100	ASKSISR	res
+Ppat_XP_001769677|Histone_H2A	Ppat_XP_001769677|Histone_H2A	H2A	FALSE	EKKVK GEKAS K	Me1	K	11				99.28	EKKVKGEKASK	res

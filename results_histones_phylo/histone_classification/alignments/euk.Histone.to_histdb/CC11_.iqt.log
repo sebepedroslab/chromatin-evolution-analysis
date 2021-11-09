@@ -1,0 +1,85 @@
+IQ-TREE multicore version 2.1.0 for Linux 64-bit built Jul 18 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    lapis (AVX2, FMA3, 15 GB RAM)
+Command: iqtree2 -s alignments/euk.Histone.to_histdb/CC11_.l.fasta -m LG+G4 -ntmax 8 -fast -pre alignments/euk.Histone.to_histdb/CC11_.iqt
+Seed:    758528 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Nov 16 18:14:47 2020
+Kernel:  AVX+FMA - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file alignments/euk.Histone.to_histdb/CC11_.l.fasta ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 13 sequences with 82 columns, 79 distinct patterns
+57 parsimony-informative, 15 singleton sites, 10 constant sites
+                                          Gap/Ambiguity  Composition  p-value
+   1  Spis_XP_022785167_1_1-78                    4.88%    passed     99.29%
+   2  Adig_XP_015772948.1_1-78                    4.88%    passed     98.72%
+   3  Exapal_XP_020899418.1_1-80                  2.44%    passed     98.19%
+   4  Apla_XP_022092476.1_2-81                    2.44%    passed     99.52%
+   5  Spur_XP_003730423.2_7-85                    3.66%    passed     98.90%
+   6  Bralan_BL21864_evm0_1-80                    2.44%    passed     98.99%
+   7  Drer_ENSDARP00000109030.2_4-81              4.88%    passed     98.19%
+   8  Gonavo_comp112645_c0_seq1_6_ORF5_80_2-80    3.66%    passed     99.50%
+   9  Skow_XP_002742025.1_27-95                  15.85%    passed     35.76%
+  10  Cfra_CFRG0828T1_1-78                        4.88%    passed     81.43%
+  11  Cowc_KJE95684_2-80                          3.66%    passed     16.94%
+  12  Tcas_XP_008195980.1_25-91                  18.29%    passed     69.58%
+  13  Tcas_XP_008195981.1_21-87                  18.29%    passed     56.17%
+****  TOTAL                                       6.94%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.000 seconds
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -1555.250
+2. Current log-likelihood: -1532.018
+Optimal log-likelihood: -1531.781
+Gamma shape alpha: 1.282
+Parameters optimization took 2 rounds (0.013 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.012484 sec (of wall-clock time) 0.012488 sec(of CPU time)
+Computing RapidNJ tree took 0.000024 sec (of wall-clock time) 0.000023 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -1535.550
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -1527.928
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 2: -1527.808
+Finish initializing candidate tree set (4)
+Current best tree score: -1527.808 / CPU time: 0.050
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -1527.808
+Optimal log-likelihood: -1527.807
+Gamma shape alpha: 1.295
+Parameters optimization took 1 rounds (0.004 sec)
+BEST SCORE FOUND : -1527.807
+Total tree length: 6.640
+
+Total number of iterations: 2
+CPU time used for tree search: 0.100 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.050 sec (0h:0m:0s)
+Total CPU time used: 0.155 sec (0h:0m:0s)
+Total wall-clock time used: 0.093 sec (0h:0m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                alignments/euk.Histone.to_histdb/CC11_.iqt.iqtree
+  Maximum-likelihood tree:       alignments/euk.Histone.to_histdb/CC11_.iqt.treefile
+  Likelihood distances:          alignments/euk.Histone.to_histdb/CC11_.iqt.mldist
+  Screen log file:               alignments/euk.Histone.to_histdb/CC11_.iqt.log
+
+Date and Time: Mon Nov 16 18:14:47 2020

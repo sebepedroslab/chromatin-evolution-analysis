@@ -1,0 +1,138 @@
+# pfam_scan.pl,  run at Fri Jan 22 09:16:07 2021
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Clyhem.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Clyhem_TCONS_00003313-protein    198    413    150    414 PF15299.7   ALS2CR8           Family     4   217   218    113.2   1.6e-32   1 No_clan  
+#HMM       dasrlmwedsesssssvpFdgvPfivvgekvleCqyGkdregaikkkkkvlkevsrl........skkrslskgtkKidcpAqidikkvikfksek...lvvsedtkarrkvvsekLrkalannpssvkaevryyikfPtleeHkgHpivgeaaelreevderivekirelvekglkkvsemrkhlkafvedelfkgedlppttrrrykPtvrdikNrmasvkdt
+#MATCH     ++++++we      + ++  g Pf+  ++k+++C++G+dr+ + k+ +k +k ++rl         k     ++tkK+dcpA+++++++++f++++      s   +  +++ s+ L+++la+++   + e+r+  ++ +   Hk+Hp+ g+  ++++ +d++i +ki+ +v++g+++v+em++ +k +v +++f +e+lpp++ rr++P+   i+ +m+++k++
+#PP        56888888.....777888899*******************99887775444.444447888875555667899*********************95543445556778****************99.9*******************9.**********************************999666.99****************************9986
+#SEQ       KNHKVYWE-----AEGISNNGKPFVILSSKSMDCHHGPDRNVKHKQTYKEKK-KERLstnsdhykGKSYLIVQDTKKFDCPAKVTMQEIVQFPEYNkakSPPSIKLETFKRNSSKTLKEKLADKSLA-NYERRILLSIDDVGCHKYHPM-GKTQNISQSMDPEISSKIDMFVKEGITSVREMKRLIKLVV-ADMFGKENLPPSNSRRFYPSIPIIRSKMDKSKQK
+Clyhem_TCONS_00003313-protein    476    568    476    569 PF10551.10  MULE              Domain     1    97    98     57.2   1.8e-15   1 CL0219   
+#HMM       vlvlDgTYktnkyklpLftvvgvdsngqvvpiafalveneteesfewllqelkelleeasgespkviitDrdkalknaleevfPeakhrlCifHink
+#MATCH     +l+lD+T+kt++y +pLf +v+ ++  + +++ f ++ene+ es+  +l+    +++ + +++p  ++tD++k ++n le vfP+++ ++C fH ++
+#PP        589***************9999998888777777.888887777666666...77777778*********************************987
+#SEQ       ILLLDATHKTTRYAIPLFFLVVPTNLDYQIVATF-VTENESFESILEALK---VVKSWNPSLKPLFAMTDYCKEEINSLECVFPGCEVLICDFHREQ
+Clyhem_TCONS_00003313-protein    767    797    766    802 PF04434.18  SWIM              Domain     2    35    40     22.0   9.2e-05   1 No_clan  
+#HMM       rVtlddervrlnkatCsCpefqkngipCkHalAv
+#MATCH      V  +de   + + +C+Cp++++++++CkH  A 
+#PP        5666666...7889****************6555
+#SEQ       IVKFGDE---ETMPSCTCPSWKHSRYLCKHFFAI
+Clyhem_TCONS_00003313-protein   1096   1191   1081   1205 PF02902.20  Peptidase_C48     Domain    90   198   216     21.0   0.00025   1 CL0125   predicted_active_site[1102,1120,1162] 
+#HMM       inedgkHWvll.iinlpdktililDSlislhtvkkenrpinnlkpyLleealkkkqkqldltpfeierltkvpqqknsgDCGiyvlkfiellaegapqessvtltekdvd
+#MATCH     ++++g HW ++  i  ++  +  lDS  +     + +r+i++l++  +++                +r  +v qq  ++DCG++++ fi++la+++     v++++  + 
+#PP        789999**999889999999*****99998885555666666555554443..............566679***********************9998888886555444
+#SEQ       LHTGGAHWLAIsTIGCEKDEVNLLDSSFNRSMTLHTKRQICCLLKTPASKL--------------TIRSVPVQQQTGGVDCGLFAISFIQHLAQTKMNPTEVWFDQGKMR
+#CS        EEC.TTEEEEE.EEETCCCEEEEE-TTS-SSH.HHHHHHHHHHHHHHHHHCCCCCSTT-.GGGEEEEEEE-----SSCCCHHHHHHHHHHHHHCTHHCHHHHHSS.HHHH
+Clyhem_TCONS_00003313-protein   1228   1281   1228   1282 PF00628.30  PHD               Domain     1    51    52     34.3   1.6e-08   1 CL0390   
+#HMM       rCsvCkk......ksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C vC+       + ++++e+v Cd+C++wfH  Cl++p+   e ++ ew C++C +
+#PP        68.999999877666679*********************88..555558******75
+#SEQ       FC-VCRTiwspsdARTKGKEMVECDECGKWFHRMCLNIPEF--EGDTVEWECPECIK
+#CS        SBTTTTS......TTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Clyhem_TCONS_00018694-protein     42     80     36     82 PF08073.13  CHDNT             Domain    13    51    54     26.8   3.6e-06   1 CL0114   
+#HMM       tnyKlFsqhvrPlllkenPkvpvsKlmmLvaakwreFqe
+#MATCH     ++yK F+ +vr  +++ nP +    +  Lv+akwreF e
+#PP        79***********************************86
+#SEQ       ITYKQFNRIVRKKVVESNPDASGLHVTSLVGAKWREFKE
+Clyhem_TCONS_00018694-protein    261    304    261    306 PF00628.30  PHD               Domain     1    50    52     35.7   5.9e-09   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     +C+vC +    ++++++Cd+C  + H++Cl+ppl+  e+peg+w C+kC 
+#PP        5******....************************..************7
+#SEQ       VCDVCAE----GGDILLCDTCTCSWHMTCLDPPLD--EVPEGQWSCPKCV
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Clyhem_TCONS_00018694-protein    325    369    325    370 PF00628.30  PHD               Domain     1    51    52     33.8   2.3e-08   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C++Ck+    ++el++Cd C  ++H+ C+kp+l   ++pegew C+ Ck 
+#PP        7******....************************..9999********85
+#SEQ       YCKICKD----GGELLCCDFCPGTYHMRCVKPQLI--SVPEGEWKCPMCKV
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Clyhem_TCONS_00018694-protein    490    543    488    544 PF00385.25  Chromo            Domain     4    53    54     36.7     3e-09   1 CL0049   
+#HMM       erIidhrtdkdgleleYlVKWkglpysentWEpeenlekc....fqelideFkk
+#MATCH     +rIi hr  k++++++YlVKWk+  y+ +tWE +++ +++    fq++id +++
+#PP        79*****9999999******************9998888889999******985
+#SEQ       HRIIWHRDLKKQGGTQYLVKWKEIGYDAATWEFKSDEDNKdipdFQKMIDDYNN
+#CS        EEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSC....SHHHHHHHHH
+Clyhem_TCONS_00018694-protein    607    887    576    888 PF00176.24  SNF2_N            Family    54   349   350    193.1   5.5e-57   1 CL0023   
+#HMM       svrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk................mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH     +  + iLaDemGLGKT+q+++ +    +         ++++  gp+Li +P s+l +We+e+e +++++    ++++ +++                + +k  k++  +  +++ ++t+Y+ ++ +a       +l++++wk +v+DE+h+lkn++sk   +++ +s  + ++ltGTP+qn+le+l+ Ll+fL +++f +++tf   +++  +   e+++++L+++l + mlrr k+dv k +P k+e i++++ls++++k+Y+            ++l+++  al+++ + +  +l+ ++el+++cnhp+l
+#PP        56789*******************...322.......346678**************************887777777666**************9866667789999****************999......9*************************************************************************998777...9***********************************************............6666666666666645566***************98
+#SEQ       QRENTILADEMGLGKTIQTITYLN---SLF-------KEGRCDGPFLICAPLSTLVNWEREFEFWAPDMYCVTYTGHRENRvvirnyemcfdednirKGHKAYKMKSGTPVKFHALLTSYELVAIDA------ATLQSINWKVLVIDEAHRLKNNQSKFFRTMNGYSIGYTLLLTGTPLQNNLEELFHLLNFLCPDKFIQRETFLAEFEDIGK---EDQIKKLHEMLGPHMLRRLKADVLKGMPTKSEFIVRVELSPMQKKFYK------------FILTKNFGALNAKGSAQVSLLNVVMELKKCCNHPYL
+#CS        TT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH................HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Clyhem_TCONS_00018694-protein    915   1027    913   1027 PF00271.32  Helicase_C        Family     3   111   111     65.8     4e-18   1 CL0023   
+#HMM       leallell.kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn..kgesd.vLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     l  ++++l kl+++g+++lif++ ++ l+ ++ + e +  ++ +l+g+++   r++++++fn  + ++  +L++t++++ Gi++  +++Vi+fd ++n+++ iq+  R++R+g
+#PP        56678888899***************9976444446668***********************664455559****************************************97
+#SEQ       LVLMCKMLqKLKAQGHRVLIFSQMTRVLDLLEDFFEGHMWRYERLDGTITGMVRQAAIDRFNqpNSDIFaFLLSTRAGGLGINLATADTVIIFDSDWNPHNDIQAFSRAHRIG
+#CS        HHHHHHHH.HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH..TTSSS.EEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Clyhem_TCONS_00018694-protein   1143   1196   1141   1199 PF06465.14  DUF1087           Domain     4    61    65     72.0   3.2e-20   1 No_clan  
+#HMM       eeeaekevikekieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsv
+#MATCH     ++e + ev+k+    +e  d  YWekLL++hYEq+qe  + +LGKGKRvRKqvNY ++
+#PP        67888899999....5899************************************986
+#SEQ       KDEPDVEVLKQ----EEVIDNTYWEKLLRHHYEQEQEYIASTLGKGKRVRKQVNYSDG
+Clyhem_TCONS_00018694-protein   1234   1362   1226   1369 PF06461.12  DUF1086           Domain     9   131   138    135.0   1.5e-39   1 No_clan  
+#HMM       srkkarsdkdeplPllegegkslevLGFnerqRkaflnalmRyGv.....gdfdskelvrelkqktedeikaYgslFlrHlaeegadn.setfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipg
+#MATCH      r+k+ +++d   Pll+++g++lev GFn rqR+afl+a+mRyG+     +    k+ +++l+ kte+ ++aY+s+FlrHl+e+ +dn +e+++DGvP+eG++r +vl r++++sL+++kv+e+++i++
+#PP        3333334666666********************************99544444569****************************98763689**********************************998
+#SEQ       ARQKKFRERDVLPPLLAKVGNQLEVYGFNPRQRRAFLTAVMRYGLpprdfKTARDKWCIHNLRGKTEKAFQAYTSMFLRHLCEPMHDNkAEAYSDGVPREGVNRLQVLSRVGIMSLIRRKVEEYSSINT
+Clyhem_TCONS_00018694-protein   1632   1752   1631   1752 PF08074.12  CHDCT2            Domain     2   126   126    170.2     2e-50   1 No_clan  
+#HMM       yeiWhrrhDyWllagvvlhGyarwqDilndprfsiinepfkeesekgnfleiknkflarrfklleqalvieeqlrraaklnl.qeeeenvgalaqrfaelellaeahqhlskeslagnknanavlh
+#MATCH     ++iW+r hDyWllagvv+hGy+rwqDilnd rf  in pf +++     l++knkf+arrfklleqal++eeq++r+++ n  q++ ++v++l+ rfaele+lae+hqhlskeslagnk+anavlh
+#PP        68***************************************998.....89******************************978899*************************************98
+#SEQ       DNIWWRYHDYWLLAGVVVHGYGRWQDILNDIRFDTINRPFSRMT-----LDYKNKFIARRFKLLEQALIVEEQMKRSTFKNIqQSTTHQVMSLQSRFAELECLAESHQHLSKESLAGNKPANAVLH
+Clyhem_TCONS_00037964-protein    138    195    138    197 PF17921.2   Integrase_H2C2    Domain     1    56    58     69.3   2.2e-19   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrk
+#MATCH     vp+++r++il  +H +  +gH+G+ekt++++ + y+Wpgm++dv  yv +Ce C ++k
+#PP        89*****************************************************998
+#SEQ       VPQRHRQDILDAVHMHptGGHFGVEKTINKVWQSYFWPGMYQDVVTYVEKCEGCREHK
+Clyhem_TCONS_00037964-protein    215    307    209    307 PF00665.27  rve               Domain     8   102   102     39.1   7.4e-10   1 CL0219   
+#HMM       wqvDvt.viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     ++vD+   ++ ++  g  y+l ++d fs +  a+++++   +++++++++  +  ++gv p+ +lsDng+ ++s  ++e++a lg++  +t p+++
+#PP        6788888777.4445589*********************.9999999999999999999.**********************************97
+#SEQ       ITVDILgPFK-MTITGNKYILSFVDRFSSWPEAFCIPSC-ETPVLAQIMVDEIITRHGV-PRSILSDNGPNFVSLLMKEVCAILGMEKLTTTPYHC
+Clyhem_TCONS_00037964-protein    540    588    540    588 PF00385.25  Chromo            Domain     1    54    54     48.2   7.3e-13   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     y+V++I++h+++  g   +Yl++Wkg+ +s++tWEp +n+ ++   li+e++++
+#PP        89**************..**********************977...9****986
+#SEQ       YVVDKIVSHKKNGRGF--KYLIRWKGYEESDDTWEPSKNVHSQ---LIKEYWEK
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Clyhem_TCONS_00069107-protein     28     85     28     87 PF17921.2   Integrase_H2C2    Domain     1    56    58     50.8   1.3e-13   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrk
+#MATCH     +p++ r+++++e H +  agHl  e ++++l++ yyWp m k++   vk+Ce C+  k
+#PP        79****************************************************9887
+#SEQ       IPRKYREQLIHEGHATpfAGHLNSEIVYQKLKSEYYWPEMMKEIITKVKQCEKCAIFK
+Clyhem_TCONS_00069107-protein    104    197     98    197 PF00665.27  rve               Domain     7   102   102     33.2   5.1e-08   1 CL0219   
+#HMM       lwqvDvt..viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH      ++vDv   +++  ++ g  y+  ++d fs++  ++av +   ++ ++ ll++ v  ++     ++lsD g+ ++s+ ++e+++ lgi+   t+p++p
+#PP        578999998888..44556**********************.9999999999999988887.99********************************98
+#SEQ       DISVDVLgpFVE--TNSGNRYIVSFVDRFSGWPECFAVATT-ETPIIASLLVNEVIARFST-LSTILSDCGTNFISSLMKEVCRILGIKKLQTAPYSP
+Clyhem_TCONS_00069107-protein    425    472    425    473 PF00385.25  Chromo            Domain     1    53    54     47.0   1.7e-12   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     y Ve++i+h++ ++g    +lVKW ++++++ntWEp en+ k    +i+e+++
+#PP        56**************..**********************966...9****97
+#SEQ       YLVEKLIKHKKTRNGI--RFLVKWLNYDENQNTWEPTENIPKE---IIEEYWR
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH

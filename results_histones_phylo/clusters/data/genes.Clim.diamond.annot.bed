@@ -1,0 +1,15 @@
+scaffold100_len86541_cov0	79209	79520	Clim_Clim_evm19s1	-	1
+scaffold100_len86541_cov0	80839	81207	Clim_Clim_evm20s1	+	1
+scaffold125_len27656_cov0_single	21887	22339	Clim_Clim_evm9s28	+	2
+scaffold142_len115615_cov0	86201	86554	Clim_Clim_evm26s47	+	3
+scaffold156_len36101_cov0	29832	30215	Clim_Clim_evm12s62	-	4
+scaffold21_len296039_cov0	283316	284086	Clim_Clim_evm112s128	+	5
+scaffold2_len248061_cov0	69252	69662	Clim_Clim_evm30s146	-	6
+scaffold32_len448231_cov0	364818	366113	Clim_Clim_evm123s149	+	7
+scaffold37_len71344_cov0_single	63411	63899	Clim_Clim_evm23s154	+	8
+scaffold40_len127122_cov0	109700	110110	Clim_Clim_evm43s158	+	9
+scaffold435_len73767_cov0_single	33559	33870	Clim_Clim_evm13s167	-	10
+scaffold435_len73767_cov0_single	38088	38456	Clim_Clim_evm15s167	+	10
+scaffold48_len131406_cov0	25256	25660	Clim_Clim_evm8s197	-	11
+scaffold72_len86944_cov0	49792	50271	Clim_Clim_evm18s224	+	12
+scaffold8_len302946_cov0	51093	51497	Clim_Clim_evm15s243	-	13

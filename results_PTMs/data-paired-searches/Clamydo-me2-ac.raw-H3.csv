@@ -1,0 +1,5 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Crei_XP_001698188|Histone_H3	Crei_XP_001698188|Histone_H3	H3	FALSE	KTPAT GGVKK PHR	Me2	K	1				100	KTPATGGVKKPHR	res
+Crei_XP_001698188|Histone_H3	Crei_XP_001698188|Histone_H3	H3	FALSE	TPATG GVKKP HR	Me2	K	8				49.75	TPATGGVKKPHR	res
+Crei_XP_001698188|Histone_H3	Crei_XP_001698188|Histone_H3	H3	FALSE	TPATG GVKKP HR	Me2	K	9				49.75	TPATGGVKKPHR	res
+Crei_XP_001698188|Histone_H3	Crei_XP_001698188|Histone_H3	H3	FALSE	KTPAT GGVKK PHR	Me2	K	10				87.91	KTPATGGVKKPHR	res

@@ -1,0 +1,15 @@
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: YEATS | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: YEATS | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: YEATS | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.YEATS.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.YEATS.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Nucleoplasmin | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Nucleoplasmin | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Nucleoplasmin | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Nucleoplasmin | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Nucleoplasmin | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Nucleoplasmin | Omit downstream analyses
+# END

@@ -1,0 +1,17 @@
+Alveolata|Ptet_CAK74877
+Alveolata|Ptet_CAK79573
+Alveolata|Vitbra_CEM33348.1
+Chlorophyta|Mpus_XP_003055477.1
+Chlorophyta|Otau_XP_022838570.1
+Cryptista|Gthe_EKX54736
+Rhizaria|Plabra_CEP02752
+Rhizaria|Retfil_ETO25130
+Rhodophyta|Cmer_CMS083CT
+Rhodophyta|Gracho_PXF42570.1
+Rhodophyta|Porpur_KAA8497880.1
+Stramenopiles|Coka_g14089.t1
+Stramenopiles|Esil_CBJ48377
+Stramenopiles|Pinf_PITG_00186T0
+Stramenopiles|Sappar_KDO30017
+Streptophyta|Chabra_GBG87303
+Streptophyta|Klenit_GAQ87777.1

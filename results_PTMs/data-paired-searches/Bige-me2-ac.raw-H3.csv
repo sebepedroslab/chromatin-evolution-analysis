@@ -1,0 +1,12 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Bnat_35667|Histone_H3	Bnat_35667|Histone_H3	H3	FALSE	KTTGG KAPR	Me2	K	1				100	KTTGGKAPR	res
+Bnat_35667|Histone_H3	Bnat_35667|Histone_H3	H3	FALSE	KTTGG KAPR	Me2	K	1				99.92	KTTGGKAPR	res
+Bnat_35667|Histone_H3	Bnat_35667|Histone_H3	H3	FALSE	SAPAT GGVKK PHR	Me2	K	9				99.19	SAPATGGVKKPHR	res
+Bnat_35667|Histone_H3	Bnat_35667|Histone_H3	H3	FALSE	KSAPA TGGVK KPHR	Me2	K	10				99.79	KSAPATGGVKKPHR	res
+Bnat_35667|Histone_H3	Bnat_35667|Histone_H3	H3	FALSE	KSAPA TGGVK KPHR	Me2	K	11				87.66	KSAPATGGVKKPHR	res
+Bnat_49481|Histone_H3	Bnat_49481|Histone_H3	H3	FALSE	KAAPT TGGVK KPHR	Me2	K	1				100	KAAPTTGGVKKPHR	res
+Bnat_50205|Histone_H3	Bnat_50205|Histone_H3	H3	FALSE	KSAPT TGGVK KPHR	Me2	K	1				100	KSAPTTGGVKKPHR	res
+Bnat_50205|Histone_H3	Bnat_50205|Histone_H3	H3	FALSE	KSTGG KAPR	Me2	K	1				100	KSTGGKAPR	res
+Bnat_50205|Histone_H3	Bnat_50205|Histone_H3	H3	FALSE	KSTGG KAPR	Me2	K	1				99.34	KSTGGKAPR	res
+Bnat_50205|Histone_H3	Bnat_50205|Histone_H3	H3	FALSE	EIAQD FKNDL R	Me2	K	7				100	EIAQDFKNDLR	res
+Bnat_50205|Histone_H3	Bnat_50205|Histone_H3	H3	FALSE	SAPTT GGVKK PHR	Me2	K	9				99.28	SAPTTGGVKKPHR	res

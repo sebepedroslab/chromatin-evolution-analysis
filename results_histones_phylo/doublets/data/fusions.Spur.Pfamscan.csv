@@ -1,0 +1,69 @@
+# pfam_scan.pl,  run at Tue Jan 19 16:43:08 2021
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: data/fusions.Spur.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Spur_XP_030830328.1      1    110      1    115 PF00125.25  Histone           Domain     1   109   131    126.1   1.1e-36   1 CL0012   
+#HMM       marekekarkesektapekkvsakker.kasskskkkkkrryrpgtvalkeirkyqkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnl
+#MATCH     mar+k++ark+++++ap+k++++k +r +a+++   kk++ryrpgtval+eir+yqkst+lli+klpf+R+vrei +++k++lr++++av+alqea+Ea+lv lfe++nl
+#PP        9***********************************************************************************************************97
+#SEQ       MARTKQTARKSTGGKAPRKQLATKAARkSAPATGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTELRFQSSAVMALQEASEAYLVGLFEDTNL
+#CS        XXEESXEEEXXXXEEXXXXXXXXXXHT.TS-SSSSB--TT--XTTHHHHHHHHHHHHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHH
+Spur_XP_030830328.1    154    211    139    214 PF15511.7   CENP-T_C          Domain    22    79   108     30.6   2.9e-07   1 CL0012   
+#HMM       kasgskaklekealkalekasdkffeqvgeDLeayakHagRKtidesDvilLmkrqrk
+#MATCH      ++g  ++++   ++    +++ f+e v +D  +y +Ha+RKt+ + Dv+  +krq++
+#PP        3445666788888888899999**********************************86
+#SEQ       ARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYCEHAKRKTVTAMDVVYALKRQGR
+Spur_XP_030838374.1     39     96     25     99 PF15511.7   CENP-T_C          Domain    22    79   108     29.3   7.4e-07   1 CL0012   
+#HMM       kasgskaklekealkalekasdkffeqvgeDLeayakHagRKtidesDvilLmkrqrk
+#MATCH      ++g  ++++   ++    +++ f+e v +D  +y +Ha+RKt+ + Dv+  +krq++
+#PP        3445666788888888889999**********************************86
+#SEQ       ARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYCEHAKRKTVTAMDVVYALKRQGR
+Spur_XP_030838374.1    134    208    103    209 PF00125.25  Histone           Domain    52   130   131     70.4   1.8e-19   1 CL0012   
+#HMM       rkyqkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArrl
+#MATCH      k++ +++++++ +++++v++++++    d +is++a++++++++++++++++ e+++la ++K++Ti +++iq+A+rl
+#PP        4677888999***************....*************************************************7
+#SEQ       GKKRNRKRKESYGIYIYKVLKQVHP----DTGISSRAMVIMNSFVNDIFERIAGESSRLAQYNKKSTISSREIQTAVRL
+#CS        HHHHHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHHH
+Spur_XP_030838374.1    230    361    230    361 PF00125.25  Histone           Domain     1   131   131    175.8   4.9e-52   1 CL0012   
+#HMM       marekekarkesektapekkvsakker.kasskskkkkkrryrpgtvalkeirkyqkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArrlr
+#MATCH     mar+k++ark+++++ap+k++++k +r +a+++   kk++ryrpgtval+eir+yqkst+lli+klpf+R+vrei +++k++lr++++av+alqea+Ea+lv lfe++nl+a+haKRvTi+pkDiqlArr+r
+#PP        9*********************************************************************************************************************************97
+#SEQ       MARTKQTARKSTGGKAPRKQLATKAARkSAPATGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTELRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIR
+#CS        XXEESXEEEXXXXEEXXXXXXXXXXHT.TS-SSSSB--TT--XTTHHHHHHHHHHHHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHHHT
+Spur_XP_030840799.1      1    132      1    132 PF00125.25  Histone           Domain     1   131   131    176.4     3e-52   1 CL0012   
+#HMM       marekekarkesektapekkvsakker.kasskskkkkkrryrpgtvalkeirkyqkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArrlr
+#MATCH     mar+k++ark+++++ap+k++++k +r +a+s+   kk++ryrpgtval+eir+yqkst+lli+klpf+R+vrei +++k++lr+++ a+ alqea+Ea+lv lfe++nl+a+haKRvTi+pkDiqlArr+r
+#PP        9*********************************************************************************************************************************97
+#SEQ       MARTKQTARKSTGGKAPRKQLATKAARkSAPSTGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTELRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIR
+#CS        XXEESXEEEXXXXEEXXXXXXXXXXHT.TS-SSSSB--TT--XTTHHHHHHHHHHHHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHHHT
+Spur_XP_030840799.1    151    282    151    282 PF00125.25  Histone           Domain     1   131   131    176.4     3e-52   1 CL0012   
+#HMM       marekekarkesektapekkvsakker.kasskskkkkkrryrpgtvalkeirkyqkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArrlr
+#MATCH     mar+k++ark+++++ap+k++++k +r +a+s+   kk++ryrpgtval+eir+yqkst+lli+klpf+R+vrei +++k++lr+++ a+ alqea+Ea+lv lfe++nl+a+haKRvTi+pkDiqlArr+r
+#PP        9*********************************************************************************************************************************97
+#SEQ       MARTKQTARKSTGGKAPRKQLATKAARkSAPSTGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTELRFQSAAIGALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIR
+#CS        XXEESXEEEXXXXEEXXXXXXXXXXHT.TS-SSSSB--TT--XTTHHHHHHHHHHHHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHHHT

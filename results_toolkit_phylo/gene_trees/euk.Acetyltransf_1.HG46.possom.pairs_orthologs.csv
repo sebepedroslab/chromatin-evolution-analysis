@@ -1,0 +1,7 @@
+in_gene	out_gene	branch_support	ev_type	sos
+Tvag_XP_001329055.1	Klenit_GAQ82553.1	1.0	S	0.0
+Tvag_XP_001329055.1	Ppat_Pp3c25_14650V3.1	1.0	S	0.0
+Tvag_XP_001329055.1	Hduj_OQV15967.1	1.0	S	0.0
+Ppat_Pp3c25_14650V3.1	Klenit_GAQ82553.1	1.0	S	0.0
+Ppat_Pp3c25_14650V3.1	Hduj_OQV15967.1	1.0	S	0.0
+Hduj_OQV15967.1	Klenit_GAQ82553.1	87.0	S	0.0

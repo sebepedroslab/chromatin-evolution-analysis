@@ -1,0 +1,9 @@
+i	j	weight
+ADD_ATRX	ADD_ATRX	19
+ADD_ATRX	Helicase_C	28
+ADD_ATRX	SMP	2
+ADD_ATRX	SNF2_N	30
+Helicase_C	SMP	2
+Helicase_C	SNF2_N	28
+SMP	SNF2_N	2
+zf-MIZ	zf-MIZ	1

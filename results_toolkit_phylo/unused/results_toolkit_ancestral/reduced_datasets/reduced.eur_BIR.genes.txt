@@ -1,0 +1,4 @@
+Ancyromonadida|Plamic_ANCSI_05699.mRNA.1
+ArchaeCry|Gonavo_g19725.t1
+Obazoa|Hduj_OQV22200.1
+Obazoa|Linana_g4258.t1

@@ -1,0 +1,17 @@
+Bilateria|Apla_XP_022081927.1
+Bilateria|Cgig_EKC24670
+Bilateria|Lgig_LotgiP107440
+Bilateria|Lpol_XP_013775899.2
+Bilateria|Lpol_XP_022247720.1
+Bilateria|Notgen_g5116.t1
+Cnidaria|Adig_XP_015751169.1
+Cnidaria|Adig_XP_015751171.1
+Cnidaria|Exapal_XP_020912288.1
+Cnidaria|Morvir_scaffold21.g96.t1
+Cnidaria|Morvir_scaffold251.g10.t1
+Cnidaria|Nvec_NVE8986
+Cnidaria|Spis_XP_022788860_1
+Cnidaria|Spis_XP_022796962_1
+Porifera|Lcom_lcpid11952
+Porifera|Scil_scpid40697
+Porifera|Scil_scpid41679

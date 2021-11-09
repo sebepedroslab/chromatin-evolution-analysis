@@ -1,0 +1,9 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Cfra_3674T1|Histone_H3	Cfra_3674T1|Histone_H3	H3	FALSE	KSAPA TGGVK KPHR	Me3	K	1				92.08	KSAPATGGVKKPHR	res
+Cfra_3674T1|Histone_H3	Cfra_3674T1|Histone_H3	H3	FALSE	SAPAT GGVKK PHR	Me3	K	9				50	SAPATGGVKKPHR	res
+Cfra_3674T1|Histone_H3	Cfra_3674T1|Histone_H3	H3	FALSE	KSAPA TGGVK KPHR	Me3	K	10				99.48	KSAPATGGVKKPHR	res
+Cfra_3674T1|Histone_H3	Cfra_3674T1|Histone_H3	H3	FALSE	KSAPA TGGVK KPHR	Me3	K	10				50	KSAPATGGVKKPHR	res
+Cfra_3674T1|Histone_H3	Cfra_3674T1|Histone_H3	H3	FALSE	SAPAT GGVKK PHR	Me3	K	10				50	SAPATGGVKKPHR	res
+Cfra_3674T1|Histone_H3	Cfra_3674T1|Histone_H3	H3	FALSE	KSAPA TGGVK KPHR	Me3	K	11				50	KSAPATGGVKKPHR	res
+Cfra_4727T1|Histone_H3	Cfra_4727T1|Histone_H3	H3	FALSE	KSAPH TTGGV KKPHR	Me3	K	11				50	KSAPHTTGGVKKPHR	res
+Cfra_4727T1|Histone_H3	Cfra_4727T1|Histone_H3	H3	FALSE	KSAPH TTGGV KKPHR	Me3	K	12				50	KSAPHTTGGVKKPHR	res

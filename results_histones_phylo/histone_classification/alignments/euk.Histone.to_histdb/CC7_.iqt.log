@@ -1,0 +1,140 @@
+IQ-TREE multicore version 2.1.0 for Linux 64-bit built Jul 18 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    lapis (AVX2, FMA3, 15 GB RAM)
+Command: iqtree2 -s alignments/euk.Histone.to_histdb/CC7_.l.fasta -m LG+G4 -ntmax 8 -fast -pre alignments/euk.Histone.to_histdb/CC7_.iqt
+Seed:    120187 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Nov 16 18:22:45 2020
+Kernel:  AVX+FMA - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file alignments/euk.Histone.to_histdb/CC7_.l.fasta ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 65 sequences with 131 columns, 128 distinct patterns
+86 parsimony-informative, 23 singleton sites, 22 constant sites
+                                            Gap/Ambiguity  Composition  p-value
+   1  Helrob_HelroP77283_13-94                     37.40%    passed     78.80%
+   2  Sacu_v1.1_s0137.g022456_16-105               31.30%    passed     99.42%
+   3  Azfi_s0007.g010982_22-105                    35.88%    passed     99.79%
+   4  Atha_AT5G50930.1_134-214                     38.17%    passed     46.46%
+   5  Acoe_PIA33753.1_45-132                       32.82%    passed     99.30%
+   6  Mgut_XP_012852649.1_25-104                   38.93%    passed     91.70%
+   7  Atri_ERN06144_26-118                         29.01%    passed     99.99%
+   8  Sphfal_Sphfalx03G022600.2.p_23-105           36.64%    passed     91.68%
+   9  Sphfal_Sphfalx03G022600.1.p_39-121           36.64%    passed     91.68%
+  10  Sphfal_Sphfalx03G022600.3.p_39-108           46.56%    passed     85.67%
+  11  Sphfal_Sphfalx03G022600.4.p_23-92            46.56%    passed     85.67%
+  12  Ppat_PAC_32935014.CDS.1_43-121               39.69%    passed     88.69%
+  13  Klenit_GAQ80023.1_24-131                     17.56%    passed      9.26%
+  14  Marpol_PTQ31597_8-101                        28.24%    passed     87.40%
+  15  Mcir_OAD03858_18-104                         33.59%    passed     59.35%
+  16  Plebac_Pbla_mRNA_15541_26-97                 45.04%    passed     99.60%
+  17  Pbla_XP_018284068.1_26-97                    45.04%    passed     99.60%
+  18  Bden_EGF80430_29-119                         30.53%    passed     53.94%
+  19  Tmel_CAZ81356_54-115                         52.67%    passed     51.54%
+  20  Ncra_EAA32120_23-98                          41.98%    passed     53.47%
+  21  Morelo_OAQ35186_24-94                        45.80%    passed     99.34%
+  22  Coerev_PIA16112.1_7-96                       31.30%    passed     36.76%
+  23  Meteor_CRO19MET_NODE_12254.p1_18-106         32.06%    passed     96.03%
+  24  Drer_ENSDARP00000094265.2_14-94              38.17%    passed     43.26%
+  25  Hsap_ENSP00000383692.2_29-104                41.98%    passed     95.67%
+  26  Hsap_ENSP00000308583.2_29-104                41.98%    passed     91.35%
+  27  Adig_XP_015761247.1_27-106                   38.93%    passed     79.57%
+  28  Adig_XP_015761246.1_27-107                   38.17%    passed     82.61%
+  29  Spis_XP_022792230_1_50-132                   36.64%    passed     93.40%
+  30  Nvec_NVE3916_36-108                          44.27%    passed     98.97%
+  31  Exapal_XP_020907317.2_74-143                 46.56%    passed     92.89%
+  32  Linana_g18074.t1_99-177                      39.69%    passed     12.57%
+  33  Linana_g19088.t1_21-101                      38.17%    passed     12.62%
+  34  Phoaus_g1451.t1_16-119                       20.61%    passed     98.03%
+  35  Lpol_XP_013782602.1_16-100                   35.11%    passed     99.39%
+  36  Hydvul_Sc4wPfr_175.1.g31528.t1_23-110        32.82%    passed     24.60%
+  37  Spur_XP_030847519.1_30-102                   44.27%    passed     99.48%
+  38  Tadh_P57398_29-102                           43.51%    passed     96.42%
+  39  Cgig_EKC36457_27-104                         40.46%    passed     86.64%
+  40  Notgen_g7034.t1_16-97                        37.40%    passed     99.83%
+  41  Morvir_scaffold64.g77.t1_18-102              35.11%    passed     86.93%
+  42  Auraur_scaffold2674.g1.t1_3-78               41.98%    passed     91.73%
+  43  Lgig_LotgiP59040_2-82                        38.17%    passed     61.11%
+  44  Clim_evm26s47_25-97                          44.27%    passed     71.55%
+  45  Spom_SPBC2D10.16.1_pep_35-94                 54.20%    passed     30.67%
+  46  Aque_Aqu2.1.30319_001_29-105                 41.22%    passed     19.54%
+  47  Spimul_7613_TR3999_c0_g2_30-106              41.22%    passed     77.18%
+  48  Sman_Smp_054230.1_pep_12-94                  36.64%    passed     48.34%
+  49  Emul_CDS37714.1_34-98                        50.38%    passed     85.28%
+  50  Plamic_ANCSI_05058.mRNA.1_19-109             30.53%    passed     19.64%
+  51  Cfra_CFRG2302T1_46-127                       37.40%    passed     88.58%
+  52  Sarc_Sarc4_g1273T_39-130                     29.77%    passed     83.15%
+  53  Gonavo_comp20955_c0_seq1_6_ORF6_160_38-119   37.40%    passed     96.73%
+  54  Nutlon_comp5929_c0_seq1.p2_36-110            42.75%    passed     95.45%
+  55  Ancsig_Gene.61378_15-113                     24.43%    passed     56.64%
+  56  Secula_SECUL_03685.mRNA.1_36-124             32.06%    passed     66.25%
+  57  Recame_RECAM_09665.mRNA.1_15-86              45.04%    passed     66.85%
+  58  Cint_ENSCINP00000031465.1_20-90              45.80%    passed     38.89%
+  59  Tcas_XP_008200904.1_20-93                    43.51%    passed     38.16%
+  60  Gefoke_MALSP_04502.mRNA.2_9-106              25.19%    passed     29.85%
+  61  Gefoke_MALSP_04502.mRNA.1_9-108              23.66%    passed     91.26%
+  62  Plafun_PRP80580_3-84                         37.40%    passed     97.96%
+  63  Diprot_Gene.30297_17-98                      37.40%    passed     25.78%
+  64  Clyhem_TCONS_00034831-protein_30-105         41.98%    passed     91.71%
+  65  Hduj_OQV25620.1_22-105                       35.88%    passed     25.96%
+WARNING: 3 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                        37.93%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Sphfal_Sphfalx03G022600.1.p_39-121 is identical to Sphfal_Sphfalx03G022600.2.p_23-105 but kept for subsequent analysis
+NOTE: Sphfal_Sphfalx03G022600.4.p_23-92 is identical to Sphfal_Sphfalx03G022600.3.p_39-108 but kept for subsequent analysis
+NOTE: Pbla_XP_018284068.1_26-97 is identical to Plebac_Pbla_mRNA_15541_26-97 but kept for subsequent analysis
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.006 seconds
+
+NOTE: 5 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -8385.211
+2. Current log-likelihood: -8186.642
+3. Current log-likelihood: -8181.039
+Optimal log-likelihood: -8180.506
+Gamma shape alpha: 1.112
+Parameters optimization took 3 rounds (0.208 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.441764 sec (of wall-clock time) 0.441698 sec(of CPU time)
+Computing RapidNJ tree took 0.000266 sec (of wall-clock time) 0.000262 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -8123.502
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -8091.622
+Finish initializing candidate tree set (4)
+Current best tree score: -8091.622 / CPU time: 0.955
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:1s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -8091.622
+Optimal log-likelihood: -8091.622
+Gamma shape alpha: 1.091
+Parameters optimization took 1 rounds (0.048 sec)
+BEST SCORE FOUND : -8091.622
+Total tree length: 33.972
+
+Total number of iterations: 2
+CPU time used for tree search: 1.002 sec (0h:0m:1s)
+Wall-clock time used for tree search: 0.955 sec (0h:0m:0s)
+Total CPU time used: 1.995 sec (0h:0m:1s)
+Total wall-clock time used: 1.818 sec (0h:0m:1s)
+
+Analysis results written to: 
+  IQ-TREE report:                alignments/euk.Histone.to_histdb/CC7_.iqt.iqtree
+  Maximum-likelihood tree:       alignments/euk.Histone.to_histdb/CC7_.iqt.treefile
+  Likelihood distances:          alignments/euk.Histone.to_histdb/CC7_.iqt.mldist
+  Screen log file:               alignments/euk.Histone.to_histdb/CC7_.iqt.log
+
+Date and Time: Mon Nov 16 18:22:46 2020

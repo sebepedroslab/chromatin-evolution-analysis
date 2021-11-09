@@ -1,0 +1,113 @@
+IQ-TREE multicore version 2.1.0 for Linux 64-bit built Jul 18 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    lapis (AVX2, FMA3, 15 GB RAM)
+Command: iqtree2 -s alignments/euk.Histone.to_histdb/CC9_.l.fasta -m LG+G4 -ntmax 8 -fast -pre alignments/euk.Histone.to_histdb/CC9_.iqt
+Seed:    631506 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Nov 16 18:22:47 2020
+Kernel:  AVX+FMA - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file alignments/euk.Histone.to_histdb/CC9_.l.fasta ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 32 sequences with 89 columns, 84 distinct patterns
+54 parsimony-informative, 14 singleton sites, 21 constant sites
+                                       Gap/Ambiguity  Composition  p-value
+   1  Hemkuk_13743_TR4674_c0_g1_105-186        7.87%    passed     56.53%
+   2  Dmel_FBpp0079514_103-169                24.72%    passed     99.78%
+   3  Tcas_XP_966985.1_107-188                 7.87%    passed     99.99%
+   4  Dpul_EFX83631_15-95                      8.99%    passed    100.00%
+   5  Lpol_XP_013776584.1_140-221              7.87%    passed    100.00%
+   6  Cscu_XP_023216745.1_102-180             11.24%    passed     99.71%
+   7  Lgig_LotgiP133658_14-81                 23.60%    passed     99.91%
+   8  Adig_XP_015753031.1_91-174               5.62%    passed     99.62%
+   9  Spis_XP_022781736_1_96-175              10.11%    passed     99.85%
+  10  Nvec_NVE17460_118-201                    5.62%    passed     95.22%
+  11  Exapal_XP_020904303.1_118-201            5.62%    passed     99.89%
+  12  Clyhem_TCONS_00070555-protein_102-169   23.60%    passed     99.52%
+  13  Notgen_g14829.t1_156-237                 7.87%    passed     99.91%
+  14  Bralan_BL09553_evm0_111-192              7.87%    passed     97.79%
+  15  Skow_XP_002731323.1_123-205              6.74%    passed     92.29%
+  16  Drer_ENSDARP00000055151.3_115-195        8.99%    passed     99.98%
+  17  Hsap_ENSP00000354633.4_120-200           8.99%    passed     99.99%
+  18  Cgig_EKC19746_108-190                    6.74%    passed     97.35%
+  19  Helrob_HelroP108569_41-122               7.87%    passed     75.70%
+  20  Ctel_CapteP182628_105-186                7.87%    passed     99.96%
+  21  Phoaus_g11200.t1_105-186                 7.87%    passed     99.59%
+  22  Hsap_ENSP00000491873.1_108-173          25.84%    passed     99.67%
+  23  Hsap_ENSP00000491174.1_108-173          25.84%    passed     99.67%
+  24  Hsap_ENSP00000492874.1_108-173          25.84%    passed     99.67%
+  25  Hsap_ENSP00000491385.1_108-173          25.84%    passed     99.67%
+  26  Hsap_ENSP00000491351.1_108-173          25.84%    passed     99.67%
+  27  Hsap_ENSP00000491494.1_108-173          25.84%    passed     99.67%
+  28  Hsap_ENSP00000492463.1_108-173          25.84%    passed     99.67%
+  29  Hsap_ENSP00000491332.1_108-173          25.84%    passed     99.75%
+  30  Hsap_ENSP00000492787.1_108-188           8.99%    passed     97.75%
+  31  Scil_scpid101977_81-165                  4.49%    passed     67.30%
+  32  Aque_Aqu2.1.38753_001_68-150             6.74%    passed     97.83%
+****  TOTAL                                   13.76%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Hsap_ENSP00000491174.1_108-173 is identical to Hsap_ENSP00000491873.1_108-173 but kept for subsequent analysis
+NOTE: 5 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Hsap_ENSP00000492874.1_108-173 (identical to Hsap_ENSP00000491873.1_108-173) is ignored but added at the end
+NOTE: Hsap_ENSP00000491385.1_108-173 (identical to Hsap_ENSP00000491873.1_108-173) is ignored but added at the end
+NOTE: Hsap_ENSP00000491351.1_108-173 (identical to Hsap_ENSP00000491873.1_108-173) is ignored but added at the end
+NOTE: Hsap_ENSP00000491494.1_108-173 (identical to Hsap_ENSP00000491873.1_108-173) is ignored but added at the end
+NOTE: Hsap_ENSP00000492463.1_108-173 (identical to Hsap_ENSP00000491873.1_108-173) is ignored but added at the end
+Alignment was printed to alignments/euk.Histone.to_histdb/CC9_.iqt.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to alignments/euk.Histone.to_histdb/CC9_.iqt.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.005 seconds
+
+NOTE: 1 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -1772.184
+2. Current log-likelihood: -1757.335
+3. Current log-likelihood: -1756.311
+Optimal log-likelihood: -1756.190
+Gamma shape alpha: 0.865
+Parameters optimization took 3 rounds (0.067 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.053064 sec (of wall-clock time) 0.052687 sec(of CPU time)
+Computing RapidNJ tree took 0.000078 sec (of wall-clock time) 0.000078 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -1726.390
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -1709.251
+Finish initializing candidate tree set (4)
+Current best tree score: -1709.251 / CPU time: 0.254
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -1709.251
+Optimal log-likelihood: -1709.248
+Gamma shape alpha: 0.906
+Parameters optimization took 1 rounds (0.011 sec)
+BEST SCORE FOUND : -1709.248
+Total tree length: 5.741
+
+Total number of iterations: 2
+CPU time used for tree search: 0.402 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.254 sec (0h:0m:0s)
+Total CPU time used: 0.580 sec (0h:0m:0s)
+Total wall-clock time used: 0.421 sec (0h:0m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                alignments/euk.Histone.to_histdb/CC9_.iqt.iqtree
+  Maximum-likelihood tree:       alignments/euk.Histone.to_histdb/CC9_.iqt.treefile
+  Likelihood distances:          alignments/euk.Histone.to_histdb/CC9_.iqt.mldist
+  Screen log file:               alignments/euk.Histone.to_histdb/CC9_.iqt.log
+
+Date and Time: Mon Nov 16 18:22:48 2020

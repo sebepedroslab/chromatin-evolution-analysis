@@ -1,0 +1,41 @@
+# pfam_scan.pl,  run at Wed Jan 20 08:58:52 2021
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: data/fusions.Ddis.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Ddis_EAL60556      8     79      1     80 PF00125.25  Histone           Domain    55   130   131     33.3   5.5e-08   1 CL0012   
+#HMM       qkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArrl
+#MATCH     + + ++  + +++++++++i +      ri+ ++v++l++++ + +++++ eA  l+  ++++T+ ++D+q+ +rl
+#PP        44444555569***********....***********************************************998
+#SEQ       STQHTHVREGIYIKKLIKQINP----ACRIQVKSVQILTSLIRDTTISIMNEAFHLVQLSNKRTLSARDVQTSVRL
+#CS        HHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHHH
+Ddis_EAL60556    144    197    135    200 PF00125.25  Histone           Domain    74   128   131     35.0   1.6e-08   1 CL0012   
+#HMM       ivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlAr
+#MATCH     +++    ++ris++++ +l +++E+ll e++e++++ a  aKR  i+p+Di lA+
+#PP        444.6679********************************************997
+#SEQ       VKQ-MNYNYRISNSSMHYLSAVIEYLLSEILELSSNGAVSAKRTLIQPRDIFLAI
+#CS        HH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHH

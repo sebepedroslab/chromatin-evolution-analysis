@@ -1,0 +1,17 @@
+Chlorophyta|Cocsub_XP_005645029.1
+Chlorophyta|Crei_PNW71909
+Chlorophyta|Cvar_XP_005849514.1
+Cryptista|Gonavo_comp28907_c0_seq1_6_ORF15_243
+Cryptista|Gonavo_comp87157_c0_seq1_6_ORF11_276
+Glaucophyta|Cpar_Cpar_evm2s8214
+Rhizaria|Bnat_JGI_V11_50075
+Rhizaria|Plabra_CEO98138
+Rhodophyta|Cmer_CMQ358CT
+Stramenopiles|Alblai_CCA20127
+Stramenopiles|Pinf_PITG_14847T0
+Stramenopiles|Sappar_KDO24077
+Streptophyta|Acoe_PIA48371.1
+Streptophyta|Azfi_s0098.g043912
+Streptophyta|Chabra_GBG68502
+Streptophyta|Ppat_Pp3c17_6960V3.1
+Streptophyta|Sphfal_Sphfalx01G083500.1.p

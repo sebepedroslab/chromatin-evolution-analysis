@@ -1,0 +1,16 @@
+in_gene	out_gene	branch_support	ev_type	sos
+Sphfal_Sphfalx09G029800.1.p	Sphfal_Sphfalx02G061100.1.p	1.0	D	1.0
+Sphfal_Sphfalx09G029800.1.p	Sphfal_Sphfalx08G131700.1.p	1.0	D	1.0
+Sphfal_Sphfalx09G029800.1.p	Sphfal_Sphfalx14G029300.1.p	1.0	D	1.0
+Sphfal_Sphfalx09G029800.1.p	Sphfal_Sphfalx06G071900.1.p	1.0	D	1.0
+Sphfal_Sphfalx19G006100.1.p	Sphfal_Sphfalx02G061100.1.p	1.0	D	1.0
+Sphfal_Sphfalx19G006100.1.p	Sphfal_Sphfalx08G131700.1.p	1.0	D	1.0
+Sphfal_Sphfalx19G006100.1.p	Sphfal_Sphfalx14G029300.1.p	1.0	D	1.0
+Sphfal_Sphfalx19G006100.1.p	Sphfal_Sphfalx06G071900.1.p	1.0	D	1.0
+Sphfal_Sphfalx19G006100.1.p	Sphfal_Sphfalx09G029800.1.p	61.0	D	1.0
+Sphfal_Sphfalx06G071900.1.p	Sphfal_Sphfalx02G061100.1.p	61.0	D	1.0
+Sphfal_Sphfalx06G071900.1.p	Sphfal_Sphfalx08G131700.1.p	61.0	D	1.0
+Sphfal_Sphfalx06G071900.1.p	Sphfal_Sphfalx14G029300.1.p	61.0	D	1.0
+Sphfal_Sphfalx02G061100.1.p	Sphfal_Sphfalx08G131700.1.p	47.0	D	1.0
+Sphfal_Sphfalx02G061100.1.p	Sphfal_Sphfalx14G029300.1.p	47.0	D	1.0
+Sphfal_Sphfalx08G131700.1.p	Sphfal_Sphfalx14G029300.1.p	90.0	D	1.0

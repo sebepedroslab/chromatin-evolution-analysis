@@ -1,0 +1,12 @@
+Bilateria|Apla_XP_022083615.1
+Bilateria|Hsap_ENSP00000257829.3
+Bilateria|Skow_XP_006819163.1
+Cnidaria|Adig_XP_015769988.1
+Cnidaria|Clyhem_TCONS_00052312-protein
+Cnidaria|Morvir_scaffold33.g86.t2
+Cnidaria|Nvec_NVE16352
+Ctenophora|Mlei_ML3061_g12_t1
+Placozoa|Tadh_P20052
+Porifera|Aque_Aqu2.1.28503_001
+Porifera|Lcom_lcpid30594
+Porifera|Scil_scpid27031

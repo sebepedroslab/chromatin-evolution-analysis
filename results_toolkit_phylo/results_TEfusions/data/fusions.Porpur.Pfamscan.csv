@@ -1,0 +1,318 @@
+# pfam_scan.pl,  run at Fri Dec 18 14:53:05 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Porpur.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Porpur_KAA8490381.1    375    390    374    391 PF00098.24  zf-CCHC           Domain     2    17    18     21.7   0.00016   1 CL0511   
+#HMM       kCynCGepGHiardCp
+#MATCH     +C+ CGe GH++rdC 
+#PP        7**************7
+#SEQ       QCWQCGELGHLKRDCR
+#CS        CTSSSSSSSSTTTTST
+Porpur_KAA8490381.1    463    551    462    551 PF13650.7   Asp_protease_2    Domain     2    90    90     33.4   5.6e-08   1 CL0129   
+#HMM       pvtinGkpv..rflvDTGasttlispelaeklglkvresklpvlvsgaggevtadl.vrldslklggitlknvpalvldlgeeidglLGmdf
+#MATCH     ++t  G+ v   +++DTGa++t +sp++a++lglk+++s+    ++g +g++ +++ v + +l lg+++++  ++ v++ + + d l+G df
+#PP        5667776333599*************************96..78899999988755144559*********99999999.**********98
+#SEQ       KLTACGQAVvaLAVLDTGANSTWVSPSVADRLGLKTQPSS--WGARGPDGASLGRVsVGFLDLHLGSFVFPCETVRVAE-HLKTDLLIGWDF
+Porpur_KAA8490381.1    710    870    710    870 PF00078.28  RVT_1             Family     1   222   222     92.7   2.3e-26   1 CL0027   
+#HMM       ipKkgpgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     i+K++ gsyR+     +d++ ln++++k         + +++p   ++             l+   + ++ + lDlk++F++vpl+ ++  lta+ ++                         +g++e+++lpqG+ +SP +f+++ n++l ++r+     +   Y+DD+++ +++ ee+ e l+ + ++++ sgl++++ K+k++l      ev++LG+++
+#PP        89***.*****7....7***********.........***********.............78899********************************.........................9*******************************9....5*********************************************6.....*******976
+#SEQ       IRKPD-GSYRMT----TDFRPLNAITIK---------DRYPIPDVGEM-------------LDWLSRRRWKSALDLKDGFFQVPLAPESMHLTAMITR-------------------------EGLFEYTRLPQGCCNSPPTFQRLNNRILGPMRH----AHAQIYIDDLTVGHETFEEHVEGLRQILRRFAASGLTLSARKCKIAL-----AEVQFLGHRI
+#CS        EE-TT.S-EEE......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Porpur_KAA8490381.1    982   1082    981   1082 PF17917.2   RT_RNaseH         Domain     2   105   105    109.8   7.7e-32   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     p ++++le+DAs++gigavL+q    +++rp+af+Sr+++gae nys++e+e+l+ + +++kfrhyl gkkf+++tDh++l +ll++k+  gr arw++  +++
+#PP        77899*****************...6678************************************************************88********99987
+#SEQ       PAAEMVLEVDASQVGIGAVLLQ---GDQRRPVAFYSRAFRGAELNYSVTEQECLGAILSMEKFRHYLFGKKFILVTDHSALLWLLRQKEPRGRTARWIMRVQDF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Porpur_KAA8490381.1   1183   1242   1183   1243 PF17921.2   Integrase_H2C2    Domain     1    57    58     47.7   1.2e-12   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrr.ryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++l+  +l+ +H    ++H+G+ +t ar+ + +++Wpg+++dv+k+v+ C++C  rk+
+#PP        799***************************98548**********************997
+#SEQ       VPDALVSAVLNVYHGAplSAHMGTARTAARIADaQWWWPGWTEDVRKFVRCCHECIARKA
+Porpur_KAA8490381.1   1260   1355   1256   1355 PF00665.27  rve               Domain     5   102   102     56.6   2.7e-15   1 CL0219   
+#HMM       gelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH      e++ +D+  i+  ++ g + +lv++d+++r+++a+a++de++ +++  +l+  +  fg+  pe +lsD+gs ++ + +++++a+lgir  +t +++p
+#PP        678889***999899999***********************6666667777777777777..**********************************98
+#SEQ       FEIVGMDILTISPETRTGNIKVLVMMDAWTRWAVAVALPDEKAETVARSFLQTWLTVFGP--PESILSDRGSNFVGEVITSLCARLGIRRLMTTAYHP
+Porpur_KAA8490381.1   1556   1603   1556   1604 PF00385.25  Chromo            Domain     1    53    54     29.7   4.5e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     ++Ve I+ +r   +g+  eY+V+W+g+    +tWE e++l  +   l+ ++++
+#PP        79**************..*********************9865...7888765
+#SEQ       WVVEAIVEDRAAGGGR--EYKVRWRGMGKRGDTWEAEKTLPPM---LVAAYRD
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Porpur_KAA8490462.1    375    390    374    391 PF00098.24  zf-CCHC           Domain     2    17    18     21.7   0.00016   1 CL0511   
+#HMM       kCynCGepGHiardCp
+#MATCH     +C+ CGe GH++rdC 
+#PP        7**************7
+#SEQ       QCWQCGELGHLKRDCR
+#CS        CTSSSSSSSSTTTTST
+Porpur_KAA8490462.1    463    551    462    551 PF13650.7   Asp_protease_2    Domain     2    90    90     33.4   5.6e-08   1 CL0129   
+#HMM       pvtinGkpv..rflvDTGasttlispelaeklglkvresklpvlvsgaggevtadl.vrldslklggitlknvpalvldlgeeidglLGmdf
+#MATCH     ++t  G+ v   +++DTGa++t +sp++a++lglk+++s+    ++g +g++ +++ v + +l lg+++++  ++ v++ + + d l+G df
+#PP        5667776333599*************************96..78899999988755144559*********99999999.**********98
+#SEQ       KLTACGQAVvaLAVLDTGANSTWVSPSVADRLGLKTQPSS--WGARGPDGASLGRVsVGFLDLHLGSFVFPCETVRVAE-HLKTDLLIGWDF
+Porpur_KAA8490462.1    710    870    710    870 PF00078.28  RVT_1             Family     1   222   222     92.7   2.3e-26   1 CL0027   
+#HMM       ipKkgpgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     i+K++ gsyR+     +d++ ln++++k         + +++p   ++             l+   + ++ + lDlk++F++vpl+ ++  lta+ ++                         +g++e+++lpqG+ +SP +f+++ n++l ++r+     +   Y+DD+++ +++ ee+ e l+ + ++++ sgl++++ K+k++l      ev++LG+++
+#PP        89***.*****7....7***********.........***********.............78899********************************.........................9*******************************9....5*********************************************6.....*******976
+#SEQ       IRKPD-GSYRMT----TDFRPLNAITIK---------DRYPIPDVGEM-------------LDWLSRRRWKSALDLKDGFFQVPLAPESMHLTAMITR-------------------------EGLFEYTRLPQGCCNSPPTFQRLNNRILGPMRH----AHAQIYIDDLTVGHETFEEHVEGLRQILRRFAASGLTLSARKCKIAL-----AEVQFLGHRI
+#CS        EE-TT.S-EEE......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Porpur_KAA8490462.1    982   1082    981   1082 PF17917.2   RT_RNaseH         Domain     2   105   105    109.8   7.7e-32   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     p ++++le+DAs++gigavL+q    +++rp+af+Sr+++gae nys++e+e+l+ + +++kfrhyl gkkf+++tDh++l +ll++k+  gr arw++  +++
+#PP        77899*****************...6678************************************************************88********99987
+#SEQ       PAAEMVLEVDASQVGIGAVLLQ---GDQRRPVAFYSRAFRGAELNYSVTEQECLGAILSMEKFRHYLFGKKFILVTDHSALLWLLRQKEPRGRTARWIMRVQDF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Porpur_KAA8490462.1   1183   1242   1183   1243 PF17921.2   Integrase_H2C2    Domain     1    57    58     47.7   1.2e-12   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrr.ryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++l+  +l+ +H    ++H+G+ +t ar+ + +++Wpg+++dv+k+v+ C++C  rk+
+#PP        799***************************98548**********************997
+#SEQ       VPDALVSAVLNVYHGAplSAHMGTARTAARIADaQWWWPGWTEDVRKFVRCCHECIARKA
+Porpur_KAA8490462.1   1260   1355   1256   1355 PF00665.27  rve               Domain     5   102   102     56.6   2.7e-15   1 CL0219   
+#HMM       gelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH      e++ +D+  i+  ++ g + +lv++d+++r+++a+a++de++ +++  +l+  +  fg+  pe +lsD+gs ++ + +++++a+lgir  +t +++p
+#PP        678889***999899999***********************6666667777777777777..**********************************98
+#SEQ       FEIVGMDILTISPETRTGNIKVLVMMDAWTRWAVAVALPDEKAETVARSFLQTWLTVFGP--PESILSDRGSNFVGEVITSLCARLGIRRLMTTAYHP
+Porpur_KAA8490462.1   1556   1603   1556   1604 PF00385.25  Chromo            Domain     1    53    54     29.7   4.5e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     ++Ve I+ +r   +g+  eY+V+W+g+    +tWE e++l  +   l+ ++++
+#PP        79**************..*********************9865...7888765
+#SEQ       WVVEAIVEDRAAGGGR--EYKVRWRGMGKRGDTWEAEKTLPPM---LVAAYRD
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Porpur_KAA8490489.1    375    390    374    391 PF00098.24  zf-CCHC           Domain     2    17    18     21.7   0.00016   1 CL0511   
+#HMM       kCynCGepGHiardCp
+#MATCH     +C+ CGe GH++rdC 
+#PP        7**************7
+#SEQ       QCWQCGELGHLKRDCR
+#CS        CTSSSSSSSSTTTTST
+Porpur_KAA8490489.1    463    551    462    551 PF13650.7   Asp_protease_2    Domain     2    90    90     33.4   5.6e-08   1 CL0129   
+#HMM       pvtinGkpv..rflvDTGasttlispelaeklglkvresklpvlvsgaggevtadl.vrldslklggitlknvpalvldlgeeidglLGmdf
+#MATCH     ++t  G+ v   +++DTGa++t +sp++a++lglk+++s+    ++g +g++ +++ v + +l lg+++++  ++ v++ + + d l+G df
+#PP        5667776333599*************************96..78899999988755144559*********99999999.**********98
+#SEQ       KLTACGQAVvaLAVLDTGANSTWVSPSVADRLGLKTQPSS--WGARGPDGASLGRVsVGFLDLHLGSFVFPCETVRVAE-HLKTDLLIGWDF
+Porpur_KAA8490489.1    710    870    710    870 PF00078.28  RVT_1             Family     1   222   222     92.7   2.3e-26   1 CL0027   
+#HMM       ipKkgpgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     i+K++ gsyR+     +d++ ln++++k         + +++p   ++             l+   + ++ + lDlk++F++vpl+ ++  lta+ ++                         +g++e+++lpqG+ +SP +f+++ n++l ++r+     +   Y+DD+++ +++ ee+ e l+ + ++++ sgl++++ K+k++l      ev++LG+++
+#PP        89***.*****7....7***********.........***********.............78899********************************.........................9*******************************9....5*********************************************6.....*******976
+#SEQ       IRKPD-GSYRMT----TDFRPLNAITIK---------DRYPIPDVGEM-------------LDWLSRRRWKSALDLKDGFFQVPLAPESMHLTAMITR-------------------------EGLFEYTRLPQGCCNSPPTFQRLNNRILGPMRH----AHAQIYIDDLTVGHETFEEHVEGLRQILRRFAASGLTLSARKCKIAL-----AEVQFLGHRI
+#CS        EE-TT.S-EEE......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Porpur_KAA8490489.1    982   1082    981   1082 PF17917.2   RT_RNaseH         Domain     2   105   105    109.8   7.7e-32   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     p ++++le+DAs++gigavL+q    +++rp+af+Sr+++gae nys++e+e+l+ + +++kfrhyl gkkf+++tDh++l +ll++k+  gr arw++  +++
+#PP        77899*****************...6678************************************************************88********99987
+#SEQ       PAAEMVLEVDASQVGIGAVLLQ---GDQRRPVAFYSRAFRGAELNYSVTEQECLGAILSMEKFRHYLFGKKFILVTDHSALLWLLRQKEPRGRTARWIMRVQDF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Porpur_KAA8490489.1   1183   1242   1183   1243 PF17921.2   Integrase_H2C2    Domain     1    57    58     47.7   1.2e-12   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrr.ryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++l+  +l+ +H    ++H+G+ +t ar+ + +++Wpg+++dv+k+v+ C++C  rk+
+#PP        799***************************98548**********************997
+#SEQ       VPDALVSAVLNVYHGAplSAHMGTARTAARIADaQWWWPGWTEDVRKFVRCCHECIARKA
+Porpur_KAA8490489.1   1260   1355   1256   1355 PF00665.27  rve               Domain     5   102   102     56.6   2.7e-15   1 CL0219   
+#HMM       gelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH      e++ +D+  i+  ++ g + +lv++d+++r+++a+a++de++ +++  +l+  +  fg+  pe +lsD+gs ++ + +++++a+lgir  +t +++p
+#PP        678889***999899999***********************6666667777777777777..**********************************98
+#SEQ       FEIVGMDILTISPETRTGNIKVLVMMDAWTRWAVAVALPDEKAETVARSFLQTWLTVFGP--PESILSDRGSNFVGEVITSLCARLGIRRLMTTAYHP
+Porpur_KAA8490489.1   1556   1603   1556   1604 PF00385.25  Chromo            Domain     1    53    54     29.7   4.5e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     ++Ve I+ +r   +g+  eY+V+W+g+    +tWE e++l  +   l+ ++++
+#PP        79**************..*********************9865...7888765
+#SEQ       WVVEAIVEDRAAGGGR--EYKVRWRGMGKRGDTWEAEKTLPPM---LVAAYRD
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Porpur_KAA8490611.1    375    390    374    391 PF00098.24  zf-CCHC           Domain     2    17    18     21.7   0.00016   1 CL0511   
+#HMM       kCynCGepGHiardCp
+#MATCH     +C+ CGe GH++rdC 
+#PP        7**************7
+#SEQ       QCWQCGELGHLKRDCR
+#CS        CTSSSSSSSSTTTTST
+Porpur_KAA8490611.1    463    551    462    551 PF13650.7   Asp_protease_2    Domain     2    90    90     33.4   5.6e-08   1 CL0129   
+#HMM       pvtinGkpv..rflvDTGasttlispelaeklglkvresklpvlvsgaggevtadl.vrldslklggitlknvpalvldlgeeidglLGmdf
+#MATCH     ++t  G+ v   +++DTGa++t +sp++a++lglk+++s+    ++g +g++ +++ v + +l lg+++++  ++ v++ + + d l+G df
+#PP        5667776333599*************************96..78899999988755144559*********99999999.**********98
+#SEQ       KLTACGQAVvaLAVLDTGANSTWVSPSVADRLGLKTQPSS--WGARGPDGASLGRVsVGFLDLHLGSFVFPCETVRVAE-HLKTDLLIGWDF
+Porpur_KAA8490611.1    710    870    710    870 PF00078.28  RVT_1             Family     1   222   222     92.7   2.3e-26   1 CL0027   
+#HMM       ipKkgpgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     i+K++ gsyR+     +d++ ln++++k         + +++p   ++             l+   + ++ + lDlk++F++vpl+ ++  lta+ ++                         +g++e+++lpqG+ +SP +f+++ n++l ++r+     +   Y+DD+++ +++ ee+ e l+ + ++++ sgl++++ K+k++l      ev++LG+++
+#PP        89***.*****7....7***********.........***********.............78899********************************.........................9*******************************9....5*********************************************6.....*******976
+#SEQ       IRKPD-GSYRMT----TDFRPLNAITIK---------DRYPIPDVGEM-------------LDWLSRRRWKSALDLKDGFFQVPLAPESMHLTAMITR-------------------------EGLFEYTRLPQGCCNSPPTFQRLNNRILGPMRH----AHAQIYIDDLTVGHETFEEHVEGLRQILRRFAASGLTLSARKCKIAL-----AEVQFLGHRI
+#CS        EE-TT.S-EEE......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Porpur_KAA8490611.1    982   1082    981   1082 PF17917.2   RT_RNaseH         Domain     2   105   105    109.8   7.7e-32   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     p ++++le+DAs++gigavL+q    +++rp+af+Sr+++gae nys++e+e+l+ + +++kfrhyl gkkf+++tDh++l +ll++k+  gr arw++  +++
+#PP        77899*****************...6678************************************************************88********99987
+#SEQ       PAAEMVLEVDASQVGIGAVLLQ---GDQRRPVAFYSRAFRGAELNYSVTEQECLGAILSMEKFRHYLFGKKFILVTDHSALLWLLRQKEPRGRTARWIMRVQDF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Porpur_KAA8490611.1   1183   1242   1183   1243 PF17921.2   Integrase_H2C2    Domain     1    57    58     47.8   1.1e-12   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrr.ryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++l+  +l+ +H    ++H+G+ +t ar+ + +++Wpg+++dv+k+v+ C++C  rk+
+#PP        799***************************98548**********************997
+#SEQ       VPDALVSAVLNVYHGAplSAHMGTARTAARIADaQWWWPGWTEDVRKFVRCCHECTARKA
+Porpur_KAA8490611.1   1260   1355   1256   1355 PF00665.27  rve               Domain     5   102   102     56.6   2.7e-15   1 CL0219   
+#HMM       gelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH      e++ +D+  i+  ++ g + +lv++d+++r+++a+a++de++ +++  +l+  +  fg+  pe +lsD+gs ++ + +++++a+lgir  +t +++p
+#PP        678889***999899999***********************6666667777777777777..**********************************98
+#SEQ       FEIVGMDILTISPETRTGNIKVLVMMDAWTRWAVAVALPDEKAETVARSFLQTWLTVFGP--PESILSDRGSNFVGEVITSLCARLGIRRLMTTAYHP
+Porpur_KAA8490611.1   1556   1603   1556   1604 PF00385.25  Chromo            Domain     1    53    54     29.7   4.5e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     ++Ve I+ +r   +g+  eY+V+W+g+    +tWE e++l  +   l+ ++++
+#PP        79**************..*********************9865...7888765
+#SEQ       WVVEAIVEDRAAGGGR--EYKVRWRGMGKRGDTWEAEKTLPPM---LVAAYRD
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Porpur_KAA8491006.1    375    390    374    391 PF00098.24  zf-CCHC           Domain     2    17    18     21.7   0.00016   1 CL0511   
+#HMM       kCynCGepGHiardCp
+#MATCH     +C+ CGe GH++rdC 
+#PP        7**************7
+#SEQ       QCWQCGELGHLKRDCR
+#CS        CTSSSSSSSSTTTTST
+Porpur_KAA8491006.1    463    551    462    551 PF13650.7   Asp_protease_2    Domain     2    90    90     33.4   5.6e-08   1 CL0129   
+#HMM       pvtinGkpv..rflvDTGasttlispelaeklglkvresklpvlvsgaggevtadl.vrldslklggitlknvpalvldlgeeidglLGmdf
+#MATCH     ++t  G+ v   +++DTGa++t +sp++a++lglk+++s+    ++g +g++ +++ v + +l lg+++++  ++ v++ + + d l+G df
+#PP        5667776333599*************************96..78899999988755144559*********99999999.**********98
+#SEQ       KLTACGQAVvaLAVLDTGANSTWVSPSVADRLGLKTQPSS--WGARGPDGASLGRVsVGFLDLHLGSFVFPCETVRVAE-HLKTDLLIGWDF
+Porpur_KAA8491006.1    710    870    710    870 PF00078.28  RVT_1             Family     1   222   222     92.7   2.3e-26   1 CL0027   
+#HMM       ipKkgpgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     i+K++ gsyR+     +d++ ln++++k         + +++p   ++             l+   + ++ + lDlk++F++vpl+ ++  lta+ ++                         +g++e+++lpqG+ +SP +f+++ n++l ++r+     +   Y+DD+++ +++ ee+ e l+ + ++++ sgl++++ K+k++l      ev++LG+++
+#PP        89***.*****7....7***********.........***********.............78899********************************.........................9*******************************9....5*********************************************6.....*******976
+#SEQ       IRKPD-GSYRMT----TDFRPLNAITIK---------DRYPIPDVGEM-------------LDWLSRRRWKSALDLKDGFFQVPLAPESMHLTAMITR-------------------------EGLFEYTRLPQGCCNSPPTFQRLNNRILGPMRH----AHAQIYIDDLTVGHETFEEHVEGLRQILRRFAASGLTLSARKCKIAL-----AEVQFLGHRI
+#CS        EE-TT.S-EEE......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Porpur_KAA8491006.1    982   1082    981   1082 PF17917.2   RT_RNaseH         Domain     2   105   105    109.8   7.7e-32   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     p ++++le+DAs++gigavL+q    +++rp+af+Sr+++gae nys++e+e+l+ + +++kfrhyl gkkf+++tDh++l +ll++k+  gr arw++  +++
+#PP        77899*****************...6678************************************************************88********99987
+#SEQ       PAAEMVLEVDASQVGIGAVLLQ---GDQRRPVAFYSRAFRGAELNYSVTEQECLGAILSMEKFRHYLFGKKFILVTDHSALLWLLRQKEPRGRTARWIMRVQDF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Porpur_KAA8491006.1   1183   1242   1183   1243 PF17921.2   Integrase_H2C2    Domain     1    57    58     47.7   1.2e-12   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrr.ryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++l+  +l+ +H    ++H+G+ +t ar+ + +++Wpg+++dv+k+v+ C++C  rk+
+#PP        799***************************98548**********************997
+#SEQ       VPDALVSAVLNVYHGAplSAHMGTARTAARIADaQWWWPGWTEDVRKFVRCCHECIARKA
+Porpur_KAA8491006.1   1260   1355   1256   1355 PF00665.27  rve               Domain     5   102   102     56.6   2.7e-15   1 CL0219   
+#HMM       gelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH      e++ +D+  i+  ++ g + +lv++d+++r+++a+a++de++ +++  +l+  +  fg+  pe +lsD+gs ++ + +++++a+lgir  +t +++p
+#PP        678889***999899999***********************6666667777777777777..**********************************98
+#SEQ       FEIVGMDILTISPETRTGNIKVLVMMDAWTRWAVAVALPDEKAETVARSFLQTWLTVFGP--PESILSDRGSNFVGEVITSLCARLGIRRLMTTAYHP
+Porpur_KAA8491006.1   1556   1603   1556   1604 PF00385.25  Chromo            Domain     1    53    54     29.7   4.5e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     ++Ve I+ +r   +g+  eY+V+W+g+    +tWE e++l  +   l+ ++++
+#PP        79**************..*********************9865...7888765
+#SEQ       WVVEAIVEDRAAGGGR--EYKVRWRGMGKRGDTWEAEKTLPPM---LVAAYRD
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Porpur_KAA8492298.1    342    430    341    430 PF13650.7   Asp_protease_2    Domain     2    90    90     33.5   5.1e-08   1 CL0129   
+#HMM       pvtinGkpv..rflvDTGasttlispelaeklglkvresklpvlvsgaggevtadl.vrldslklggitlknvpalvldlgeeidglLGmdf
+#MATCH     ++t  G+ v   +++DTGa++t +sp++a++lglk+++s+    ++g +g++ +++ v + +l lg+++++  ++ v++ + + d l+G df
+#PP        5667776333599*************************96..78899999988755144559*********99999999.**********98
+#SEQ       KLTACGQAVvaLAVLDTGANSTWVSPSVADRLGLKTQPSS--WGARGPDGASLGRVsVGFLDLHLGSFVFPCETVRVAE-HLKTDLLIGWDF
+Porpur_KAA8492298.1    589    749    589    749 PF00078.28  RVT_1             Family     1   222   222     92.9   2.1e-26   1 CL0027   
+#HMM       ipKkgpgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     i+K++ gsyR+     +d++ ln++++k         + +++p   ++             l+   + ++ + lDlk++F++vpl+ ++  lta+ ++                         +g++e+++lpqG+ +SP +f+++ n++l ++r+     +   Y+DD+++ +++ ee+ e l+ + ++++ sgl++++ K+k++l      ev++LG+++
+#PP        89***.*****7....7***********.........***********.............78899********************************.........................9*******************************9....5*********************************************6.....*******976
+#SEQ       IRKPD-GSYRMT----TDFRPLNAITIK---------DRYPIPDVGEM-------------LDWLSRRRWKSALDLKDGFFQVPLAPESMHLTAMITR-------------------------EGLFEYTRLPQGCCNSPPTFQRLNNRILGPMRH----AHAQIYIDDLTVGHETFEEHVEGLRQILRRFAASGLTLSARKCKIAL-----AEVQFLGHRI
+#CS        EE-TT.S-EEE......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Porpur_KAA8492298.1    861    961    860    961 PF17917.2   RT_RNaseH         Domain     2   105   105    109.9     7e-32   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     p ++++le+DAs++gigavL+q    +++rp+af+Sr+++gae nys++e+e+l+ + +++kfrhyl gkkf+++tDh++l +ll++k+  gr arw++  +++
+#PP        77899*****************...6678************************************************************88********99987
+#SEQ       PAAEMVLEVDASQVGIGAVLLQ---GDQRRPVAFYSRAFRGAELNYSVTEQECLGAILSMEKFRHYLFGKKFILVTDHSALLWLLRQKEPRGRTARWIMRVQDF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Porpur_KAA8492298.1   1062   1121   1062   1122 PF17921.2   Integrase_H2C2    Domain     1    57    58     47.8   1.1e-12   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrr.ryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++l+  +l+ +H    ++H+G+ +t ar+ + +++Wpg+++dv+k+v+ C++C  rk+
+#PP        799***************************98548**********************997
+#SEQ       VPDALVSAVLNVYHGAplSAHMGTARTAARIADaQWWWPGWTEDVRKFVRCCHECIARKA
+Porpur_KAA8492298.1   1139   1234   1135   1234 PF00665.27  rve               Domain     5   102   102     56.7   2.4e-15   1 CL0219   
+#HMM       gelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH      e++ +D+  i+  ++ g + +lv++d+++r+++a+a++de++ +++  +l+  +  fg+  pe +lsD+gs ++ + +++++a+lgir  +t +++p
+#PP        678889***999899999***********************6666667777777777777..**********************************98
+#SEQ       FEIVGMDILTISPETRTGNIKVLVMMDAWTRWAVAVALPDEKAETVARSFLQTWLTVFGP--PESILSDRGSNFVGEVITSLCARLGIRRLMTTAYHP
+Porpur_KAA8492298.1   1435   1482   1435   1483 PF00385.25  Chromo            Domain     1    53    54     28.5   1.1e-06   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     ++Ve I+ +r   +g+  eY+V+W+g     +tWE e++l  +   l+ ++++
+#PP        79**************..*********************9865...7888765
+#SEQ       WVVEAIVEDRAAGGGR--EYKVRWRGTGKRGDTWEAEKTLPPM---LVAAYRD
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Porpur_KAA8493480.1    375    390    374    391 PF00098.24  zf-CCHC           Domain     2    17    18     21.7   0.00016   1 CL0511   
+#HMM       kCynCGepGHiardCp
+#MATCH     +C+ CGe GH++rdC 
+#PP        7**************7
+#SEQ       QCWQCGELGHLKRDCR
+#CS        CTSSSSSSSSTTTTST
+Porpur_KAA8493480.1    463    551    462    551 PF13650.7   Asp_protease_2    Domain     2    90    90     33.4   5.6e-08   1 CL0129   
+#HMM       pvtinGkpv..rflvDTGasttlispelaeklglkvresklpvlvsgaggevtadl.vrldslklggitlknvpalvldlgeeidglLGmdf
+#MATCH     ++t  G+ v   +++DTGa++t +sp++a++lglk+++s+    ++g +g++ +++ v + +l lg+++++  ++ v++ + + d l+G df
+#PP        5667776333599*************************96..78899999988755144559*********99999999.**********98
+#SEQ       KLTACGQAVvaLAVLDTGANSTWVSPSVADRLGLKTQPSS--WGARGPDGASLGRVsVGFLDLHLGSFVFPCETVRVAE-HLKTDLLIGWDF
+Porpur_KAA8493480.1    711    870    710    870 PF00078.28  RVT_1             Family     2   222   222     90.5   1.1e-25   1 CL0027   
+#HMM       pKkgpgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH      K++ gsyR+     +d++ ln++++k         + +++p   ++             l+   + ++ + lDlk++F++vpl+ ++  lta+ ++                         +g++e+++lpqG+ +SP +f+++ n++l ++r+     +   Y+DD+++ +++ ee+ e l+ + ++++ sgl++++ K+k++l      ev++LG+++
+#PP        699*.*****7....7***********.........***********.............78899********************************.........................9*******************************9....5*********************************************6.....*******976
+#SEQ       WKPD-GSYRMT----TDFRPLNAITIK---------DRYPIPDVGEM-------------LDWLSRRRWKSALDLKDGFFQVPLAPESMHLTAMITR-------------------------EGLFEYTRLPQGCCNSPPTFQRLNNRILGPMRH----AHAQIYIDDLTVGHETFEEHVEGLRQILRRFAASGLTLSARKCKIAL-----AEVQFLGHRI
+#CS        E-TT.S-EEE......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Porpur_KAA8493480.1    982   1082    981   1082 PF17917.2   RT_RNaseH         Domain     2   105   105    109.8   7.7e-32   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     p ++++le+DAs++gigavL+q    +++rp+af+Sr+++gae nys++e+e+l+ + +++kfrhyl gkkf+++tDh++l +ll++k+  gr arw++  +++
+#PP        77899*****************...6678************************************************************88********99987
+#SEQ       PAAEMVLEVDASQVGIGAVLLQ---GDQRRPVAFYSRAFRGAELNYSVTEQECLGAILSMEKFRHYLFGKKFILVTDHSALLWLLRQKEPRGRTARWIMRVQDF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Porpur_KAA8493480.1   1183   1242   1183   1243 PF17921.2   Integrase_H2C2    Domain     1    57    58     47.7   1.2e-12   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrr.ryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++l+  +l+ +H    ++H+G+ +t ar+ + +++Wpg+++dv+k+v+ C++C  rk+
+#PP        799***************************98548**********************997
+#SEQ       VPDALVSAVLNVYHGAplSAHMGTARTAARIADaQWWWPGWTEDVRKFVRCCHECIARKA
+Porpur_KAA8493480.1   1260   1355   1256   1355 PF00665.27  rve               Domain     5   102   102     56.6   2.7e-15   1 CL0219   
+#HMM       gelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH      e++ +D+  i+  ++ g + +lv++d+++r+++a+a++de++ +++  +l+  +  fg+  pe +lsD+gs ++ + +++++a+lgir  +t +++p
+#PP        678889***999899999***********************6666667777777777777..**********************************98
+#SEQ       FEIVGMDILTISPETRTGNIKVLVMMDAWTRWAVAVALPDEKAETVARSFLQTWLTVFGP--PESILSDRGSNFVGEVITSLCARLGIRRLMTTAYHP
+Porpur_KAA8493480.1   1556   1603   1556   1604 PF00385.25  Chromo            Domain     1    53    54     29.7   4.5e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     ++Ve I+ +r   +g+  eY+V+W+g+    +tWE e++l  +   l+ ++++
+#PP        79**************..*********************9865...7888765
+#SEQ       WVVEAIVEDRAAGGGR--EYKVRWRGMGKRGDTWEAEKTLPPM---LVAAYRD
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Porpur_KAA8498458.1     43    143     42    143 PF17917.2   RT_RNaseH         Domain     2   105   105    111.4   2.4e-32   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     p ++++le+DAs++gigavL+q    +++rp+af+Sr+++gae nys++e+e+l+ + +++kfrhyl gkkf+++tDh++l +ll++k+  gr arw++  +++
+#PP        77899*****************...6678************************************************************88********99987
+#SEQ       PAAEMVLEVDASQVGIGAVLLQ---GDQRRPVAFYSRAFRGAELNYSVTEQECLGAILSMEKFRHYLFGKKFILVTDHSALLWLLRQKEPRGRTARWIMRVQDF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Porpur_KAA8498458.1    244    303    244    304 PF17921.2   Integrase_H2C2    Domain     1    57    58     49.2   4.2e-13   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrr.ryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++l+  +l+ +H    ++H+G+ +t ar+ + +++Wpg+++dv+k+v+ C++C  rk+
+#PP        799***************************98548**********************997
+#SEQ       VPDALVSAVLNVYHGAplSAHMGTARTAARIADaQWWWPGWTEDVRKFVRCCHECIARKA
+Porpur_KAA8498458.1    321    416    317    416 PF00665.27  rve               Domain     5   102   102     58.2   8.3e-16   1 CL0219   
+#HMM       gelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH      e++ +D+  i+  ++ g + +lv++d+++r+++a+a++de++ +++  +l+  +  fg+  pe +lsD+gs ++ + +++++a+lgir  +t +++p
+#PP        678889***999899999***********************6666667777777777777..**********************************98
+#SEQ       FEIVGMDILTISPETRTGNIKVLVMMDAWTRWAVAVALPDEKAETVARSFLQTWLTVFGP--PESILSDRGSNFVGEVITSLCARLGIRRLMTTAYHP
+Porpur_KAA8498458.1    617    664    617    665 PF00385.25  Chromo            Domain     1    53    54     31.1   1.6e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     ++Ve I+ +r   +g+  eY+V+W+g+    +tWE e++l  +   l+ ++++
+#PP        79**************..*********************9865...7888765
+#SEQ       WVVEAIVEDRAAGGGR--EYKVRWRGMGKRGDTWEAEKTLPPM---LVAAYRD
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH

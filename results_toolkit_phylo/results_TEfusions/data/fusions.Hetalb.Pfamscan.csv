@@ -1,0 +1,100 @@
+# pfam_scan.pl,  run at Wed Jan 20 14:02:45 2021
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Hetalb.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Hetalb_XP_020428134.1     59    188     20    188 PF00078.28  RVT_1             Family    56   222   222     35.8   5.8e-09   1 CL0027   
+#HMM       edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililsks.keelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH      ++ + +++ +++k+++  D+ k++++v+++ ++rk+taf+++                         kg+y + ++ +G++ +P+ f  f++e + ++ k         Y DD++    + +e++ ++++++  +++e ++ ++ +K kl+     + e+++LG t+
+#PP        4455667889*********************************.........................9*******************************9........5********9996777***************************.....8******9775
+#SEQ       PVVDEVINSLRGCKYFSIGDVVKGYFHVKMDLESRKYTAFRTR-------------------------KGIYWYLRMAMGLNGAPARFAEFIEENFSDIVK--------NYFDDLISGDVTlEENVVRVIRMFWIRCRERQIYLSRKKLKLF-----RLEIEILGRTI
+#CS        ......HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESS.HHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Hetalb_XP_020428134.1    352    433    346    437 PF00665.27  rve               Domain     8    91   102     40.4   2.8e-10   1 CL0219   
+#HMM       wqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelg
+#MATCH     +++D+++++ ++ +g  y+lvv+d fs++++++ +++e++a  +++l+++ v + +g+ p+ ++sD+ + +ts+ + e+ ++l 
+#PP        789***999.77777*******************************************.*****************99999876
+#SEQ       ISMDFMELP-KSVNGYDYVLVVVDRFSKYTTIIPTTKEITALGTAKLIHQQVFSLFGL-PLSIVSDRDTRFTSEVWLELFKKLS
+Hetalb_XP_020428134.1    587    636    587    637 PF00385.25  Chromo            Domain     1    53    54     37.0   2.3e-09   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +e+e+Ii++r+ ++++  +Y +KW g+p + +tW   +n+++  ++li+e+++
+#PP        69********999999..9**********************88.*******86
+#SEQ       FEIEQIIGDRMFRKKK--QYQIKWLGYPLDKATWQYSKNMDHA-KDLIKEYEN
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Hetalb_XP_020434315.1    117    209    111    209 PF00665.27  rve               Domain     8   102   102     47.8   1.4e-12   1 CL0219   
+#HMM       wqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     +++D+++++ ++ +g  y+lvv+d fs++++++ +++e++a  +++l+++ v + +g+ p+ ++sD+ + +ts+ + e+ ++ g + +++ p++p
+#PP        789***999.77777*******************************************.*********************************998
+#SEQ       ISMDFMELP-KSVNGYDYVLVVVDRFSKYTTIIPTTKEITALGTAKLIHQHVFSLFGL-PLSIVSDRDTRFTSEVWLELFKKVGSKLRMSVPRHP
+Hetalb_XP_020434315.1    287    336    287    337 PF00385.25  Chromo            Domain     1    53    54     40.4     2e-10   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +e+e+Ii++r+ ++++  +Y +KW g+p + +tW   +n+++  ++li+e+++
+#PP        69********999999..9**********************88.*******86
+#SEQ       FEIEQIIGDRMFRKKK--QYQIKWLGYPLDKATWQYSKNIDHA-KDLIKEYEN
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Hetalb_XP_020435614.1    534    690    526    691 PF00078.28  RVT_1             Family    33   221   222     32.8   4.9e-08   1 CL0027   
+#HMM       vlekllsenqpgfrpgrstldav.......edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvt
+#MATCH     +l++++++++++  ++ ++ da+        ++ + +++ +++k+++  D+ k++++v+++ ++rk+taf+++                         kg+y + ++ +G++ +P+ f  f++e + ++ k         Y DD++    + ee    +  +  +++e ++ ++ +K kl+     + e+++LG t
+#PP        5566677777777777.66666667777766677778899*********************************.........................9*******************************9........5********999666555555556689***************.....8******977
+#SEQ       FLDQVVESPIFAVYKN-NLNDATveleykiPVVDEVINSLRGCKYFSIGDVVKGYFHVKMDLESRKYTAFRTR-------------------------KGIYWYLRMAMGLNGAPARFAEFIEENFSDIVK--------NYFDDLISGDVTLEENVVRVIRMLIRCRERQIYLSRKKLKLF-----RLEIEILGRT
+#CS        .....-------HHHH....................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEE
+Hetalb_XP_020435614.1    755    852    754    853 PF17919.2   RT_RNaseH_2       Domain     2    99   100     73.8     9e-21   1 CL0219   
+#HMM       teeqekafeklkealtsapvLalpdpdkpfiletDaSdtgiGavLsqedddgkerpiafaSrklskaernysttekellAivfalkkfrhyllgrkft
+#MATCH     ++e++++f+ l+++l ++  L+lpdp+k++ ++tDaSd gi++v++q+d++g ++p+ f  r+l++ e+  s+  +ellAi + lkk +++llg k+ 
+#PP        6899**********************************************888****************************************98875
+#SEQ       NDEAKREFDLLRKELKNTVDLMLPDPTKEYFVYTDASDIGISVVICQKDEKGVLKPVLFSGRRLKPGEQIKSIGARELLAIKYFLKKHSDILLGPKLN
+Hetalb_XP_020435614.1    977   1058    971   1062 PF00665.27  rve               Domain     8    91   102     38.2   1.4e-09   1 CL0219   
+#HMM       wqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelg
+#MATCH     +++D+++++ ++ +g  y+lvv+d fs++++++ +++e++a  +++l+++ v + +g+ p+ ++sD+ + +ts+ + e+ ++l 
+#PP        789***999.77777*******************************************.***************9999998876
+#SEQ       ISMDFMELP-KSVNGYDYVLVVVDRFSKYTTIIPTTKEITALGTAKLIHQHVFSLFGL-PLSIVSDRDTRFTSELWLELFKKLS
+Hetalb_XP_020435614.1   1235   1284   1235   1285 PF00385.25  Chromo            Domain     1    53    54     37.6   1.5e-09   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +e+e+Ii++r+ ++++  +Y +KW g+p + +tW   +n+++  ++li+e+++
+#PP        69**************..***********************88.*******86
+#SEQ       FEIEQIIGDRMYRKKK--QYQIKWLGYPLDKATWQYSKNMDHA-KDLIKEYEN
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Hetalb_XP_020438111.1    345    442    344    443 PF17919.2   RT_RNaseH_2       Domain     2    99   100     74.2   6.7e-21   1 CL0219   
+#HMM       teeqekafeklkealtsapvLalpdpdkpfiletDaSdtgiGavLsqedddgkerpiafaSrklskaernysttekellAivfalkkfrhyllgrkft
+#MATCH     ++e++++f+ l+++l ++  L+lpdp+k++ ++tDaSd gi++v++q+d++g ++p+ f  r+l++ e+  s+  +ellAi + lkk +++llg k+ 
+#PP        6899**********************************************888****************************************98875
+#SEQ       NDEAKREFDLLRKELKNTVDLMLPDPTKEYFVYTDASDIGISVVICQKDEKGVLKPVLFSGRRLKPGEQIKSIGARELLAIKYFLKKHSDILLGPKLN
+Hetalb_XP_020438111.1    567    659    561    659 PF00665.27  rve               Domain     8   102   102     45.0   1.1e-11   1 CL0219   
+#HMM       wqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     +++D+++++ ++ +g  y+lvv+d fs++++++ +++e++a  +++l+++ v + +g+ p+ ++sD+ + +ts+ + e+ ++ g + +++ p++p
+#PP        789***999.77777*******************************************.*********************************998
+#SEQ       ISMDFMELP-KSVNGYDYVLVVVDRFSKYTTIIPTTKEITALGTAKLIHQHVFSLFGL-PLSIVSDRDTRFTSELWLELFKKVGSKLRMSVPRHP
+Hetalb_XP_020438111.1    857    906    857    907 PF00385.25  Chromo            Domain     1    53    54     38.0   1.1e-09   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +e+e+Ii++r+ ++++  +Y +KW g+p + +tW   +n+++  ++li+e+++
+#PP        69**************..***********************88.*******86
+#SEQ       FEIEQIIGDRMYRKKK--QYQIKWLGYPLDKATWQYSKNMDHA-KDLIKEYEN
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Hetalb_XP_020438111.1    925   1016    925   1016 PF18699.2   MRPL52            Family     1    92    92     91.2   3.5e-26   1 No_clan  
+#HMM       gqkwrlkkglprspneyGpLtdlpDysfaDGRpapltsgqlkrkkkqeelakkivklssEvdeaeerykkkqeeeeeeekkiiesklkpKgq
+#MATCH     g+k+r++++ +rs+ne+GpL+dlpD+++aDGRpap+t +q+k+++ + + +++i++l +Ev ++++++++++++ +e+++++i++k+++K+q
+#PP        689***************************************************************************************86
+#SEQ       GEKFRIDNNRMRSGNEDGPLHDLPDFHYADGRPAPVTPKQMKWQTVRANRENIINELKKEVIAEQSMVTMQIDAFKEKIDQKIAEKKQKKVQ

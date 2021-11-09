@@ -1,0 +1,139 @@
+# pfam_scan.pl,  run at Fri Dec 18 14:55:43 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Exapal.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Exapal_XP_020910819.1     90    179     69    181 PF00665.27  rve               Domain     6    95   102     43.3   3.7e-11   1 CL0219   
+#HMM       elwqvDvt.virip.dgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvs
+#MATCH     e+wq D   v +++  ++g  yll+++d+ sr++++  ++++ +a tv+++ e  ++    + p+++++D g+e+ ++++r +l+e gir+ 
+#PP        89******633333034449**********************.******************9.***************************95
+#SEQ       EQWQADLAdVRKLSqANDGNEYLLIALDVLSRYAFVRPIKKK-NAATVARAFEDIFEESDRQ-PDALQTDEGTEFLNSTLRGVLKERGIRHF
+Exapal_XP_020910819.1    339    379    338    380 PF00385.25  Chromo            Domain     2    42    54     37.3   1.9e-09   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlek
+#MATCH      Ve++i +r    ++  e lVKW+g+p+++n+W pe+n+++
+#PP        6********99999999*********************985
+#SEQ       RVEEVIRRRRATRTRPAEVLVKWRGWPDKYNSWIPESNVQE
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTS
+Exapal_XP_020914458.1     90    179     86    181 PF00665.27  rve               Domain     6    95   102     45.0   1.1e-11   1 CL0219   
+#HMM       elwqvDvt.virip.dgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvs
+#MATCH     e+wq D   v +++  ++g  yll+++d+ sr++++  ++++ +a tv+++ e  ++  g + p+++++D g+e+ ++++r +l+e gir+ 
+#PP        89******633333034449**********************.******************9.***************************95
+#SEQ       EQWQADLAdVRKLSqANDGNEYLLIALDVLSRYAFVRPIKKK-NAATVARAFEDIFEESGRQ-PDALQTDEGTEFLNSTLRGVLKERGIRHF
+Exapal_XP_020914458.1    339    379    338    380 PF00385.25  Chromo            Domain     2    42    54     37.3   1.9e-09   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlek
+#MATCH      Ve++i +r    ++  e lVKW+g+p+++n+W pe+n+++
+#PP        6********99999999*********************985
+#SEQ       RVEEVIRRRRATRTRPAEVLVKWRGWPDKYNSWIPESNVQE
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTS
+Exapal_XP_028514755.1     51    113     50    115 PF03221.17  HTH_Tnp_Tc5       Domain     2    64    66     30.0   3.9e-07   1 CL0123   
+#HMM       pelEkaLleWirqlrergipitgelirekAqelaslaadlgepdfkaSkgWldrFkkRh.glkr
+#MATCH     pe E  L+ ++ ++ ++g+  +  +i ++A  +a++ ++ +    ++Sk+W++ F+kRh ++++
+#PP        566889****************************77.89999*****************66655
+#SEQ       PEDEAKLAAYLVDCSNKGYGKSKDIIIYMATSIAKK-RGHSTKGGSLSKKWWQGFLKRHpEISM
+#CS        HHHHHHHHHHHHHHC-CT---SCHHHHHHHHHHHHHSSSCT-TT-S--CHHHHHHHHHT.S--X
+Exapal_XP_028514755.1    191    357    190    357 PF03184.20  DDE_1             Family     2   175   175     77.1   1.2e-21   1 CL0219   
+#HMM       erltvllcanaagsekLkplvigkaksprafkngektkkkldveyksnrkawltssifeeWL.kvfdkrleaekrkilLlldssrshetvel.leselqniklvflPassasllqPldqgvvselKarYrrqllqalleeqnrlskeqkkltlldalkfikkAwn.avsketiksaf
+#MATCH     e++tvl ca a+g + ++p+ i+k ks r      +++ + +  + +++ +w+++++  +W+   f k +   +r ++Ll+d+++sh t+ l +e   + i +++lPa+s++llqPld + + +lK+ + ++        +   s     +  +++ k+  +Aw  ++++e i+s+f
+#PP        7999999987776.68*************9998.7889999*********************999999998.99**************999989999999*************************9765555444....4444443...44559999*****************998
+#SEQ       EKVTVLACASADG-NTMPPMFIYKNKSGRVPAX-VQEEAPPGTLFAAQKSGWIDKDLYLKWFkSLFLKHIP-AERPVMLLVDGHKSHVTEDLiKEAVANGIVIFCLPAHSSHLLQPLDLSLFGPLKRGWVKACAA----FNXVASV---VVCQRNFAKIFNVAWHtSITPEIIQSGF
+Exapal_XP_028514755.1    712    763    710    764 PF00628.30  PHD               Domain     2    51    52     29.6   4.7e-07   1 CL0390   
+#HMM       CsvCkk..ksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C  C++  ++dee ++v Cd C++w+H  C ++p+ ++ +++++++C++C++
+#PP        999***999999**********************999999999*******97
+#SEQ       CGRCNReyDEDEECDWVECDYCDTWYHYLCTDLPVLDTIQEQQDYTCKTCEN
+#CS        BTTTTS..TTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Exapal_XP_028515945.1    125    161    117    163 PF08073.13  CHDNT             Domain    14    50    54     25.8   7.3e-06   1 CL0114   
+#HMM       nyKlFsqhvrPlllkenPkvpvsKlmmLvaakwreFq
+#MATCH     +y  F+++vr+ + k+nP++ ++K+  L++a+w+++ 
+#PP        7888******************************995
+#SEQ       TYLKFTKLVRQKINKANPGAEHTKINALLGAMWQDYK
+Exapal_XP_028515945.1    334    378    334    379 PF00628.30  PHD               Domain     1    51    52     35.2   8.5e-09   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C++C +    +++l++Cd+C  + H  Cl+ppl+  e p+g+w C+ C+ 
+#PP        6888988....************************..99999*******85
+#SEQ       YCEACDE----GGDLLLCDTCTLSWHLGCLDPPLD--EPPDGRWSCPVCEV
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Exapal_XP_028515945.1    392    436    392    437 PF00628.30  PHD               Domain     1    51    52     37.3   1.8e-09   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C+vCk+    +++l++Cd+C  ++H kCl pp++  ++p+gew C++C++
+#PP        7******....**********************98..9999********86
+#SEQ       YCRVCKD----GGQLLCCDQCPMAYHLKCLIPPMK--RVPTGEWKCPRCQT
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Exapal_XP_028515945.1    589    871    577    872 PF00176.24  SNF2_N            Family    52   349   350    182.7   7.7e-54   1 CL0023   
+#HMM       kqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk................mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH      ++  + iLaDemGLGKTvq++a++    + ++       +++ +gp+Li +P s+l +We+e+e +++++ +  ++++++++                   k  k++++   +++v++t+Y+ +s +a      ++l++++w  +v+DE+h+lkn++sk    +s++   ++++ltGTP   +le+l+ Ll f  ++ f++k+ f   +++ ++   e+++++L+++l + mlrr k dv k +P k+e i++++ls+ ++k+Y+            ++l+r+  al+ + +++  +l++++el+++cnhp+l
+#PP        5678899*******************...3333.......35677**************************998888888877***************9666667899******************999......8***********************************************************************99999999...************************************************............7888888888877766777***************98
+#SEQ       WAQGTNTILADEMGLGKTVQTIAFLY---SLYK-------EGHCQGPFLISAPLSTLINWEREFEFWAPDMYVVTYAGDKDSRatirnydfsfdedairAGYKPYKLKKECPVKFHVLLTSYELVSIDA------NTLQSIDWAVLVVDEAHRLKNNQSKFFRCLSDYFFFYKLLLTGTPFFFNLEELWNLLFFFDPSEFNNKNIFFFYFDNVAK---EDQIKKLHDILGPHMLRRLKGDVLKGIPSKNELIVRVELSSLQKKYYK------------FFLTRNFEALNTKGAQQVSLLNIMMELKKCCNHPYL
+#CS        HHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH................HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Exapal_XP_028515945.1    898   1011    897   1011 PF00271.32  Helicase_C        Family     2   111   111     35.3   1.2e-08   1 CL0023   
+#HMM       kleallell.kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     kl+ l +++  l+e+++++  f++ +++l+ + ++le +g+k+ +++g+ + + r   +++fn   ++ + +L+   +++ Gi++    +Vi++d +    + iq+  R++R+g
+#PP        667777775799*****************9778889999***********************977445666*****************************************97
+#SEQ       KLNLLANIFfXLREQNHRVFFFSQMTRMLDILFFFLEGHGYKYERIDGSVNGSARHFFFDRFNapnSQAFCFLLFFCAGGLGINLAFFYTVIIYDSDCFFYNDIQAFSRAHRIG
+#CS        HHHHHHHHH.HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Exapal_XP_028515945.1   1152   1192   1140   1194 PF06465.14  DUF1087           Domain    22    62    65     69.3   2.1e-19   1 No_clan  
+#HMM       edpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsve
+#MATCH      d+dYWekLL++hYEq +e+e+   GKGKR+RKqvNYv+++
+#PP        599***********************************986
+#SEQ       FDQDYWEKLLRHHYEQYREDEAFFFGKGKRIRKQVNYVDGM
+Exapal_XP_028515945.1   1229   1361   1225   1366 PF06461.12  DUF1086           Domain     5   133   138    133.1   5.9e-39   1 No_clan  
+#HMM       arrksrkkarsdkdepl.PllegegkslevLGFnerqRkaflnalmRyGv...gdf.dskelvrelkqktedeikaYgslFlrHlaeegadnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipgkp
+#MATCH     ++   +++ rs +d+ l P+l+++ ++lev G + rqRkaf na+mRyG+   +df +++++vr+l+ k e+ i+aY+++FlrH++e+  d+ + f DGvP+eG++rq+vl+ri+++sL+++kv+e+  i+g  
+#PP        455567778888888899*********************************99666268*****************************9.9************************************9999865
+#SEQ       KTEGRQRRGRSGRDDVLpPMLAKVQGTLEVYGLSLRQRKAFFNAVMRYGLppqKDFtKTQWFVRDLRGKGEKAIQAYSAMFLRHVCEPD-DGRDVFGDGVPREGMQRQQVLTRIGIMSLIRRKVEEFAPINGWD
+Exapal_XP_028515945.1   1553   1673   1552   1673 PF08074.12  CHDCT2            Domain     2   126   126    185.1   4.8e-55   1 No_clan  
+#HMM       yeiWhrrhDyWllagvvlhGyarwqDilndprfsiinepfkeesekgnfleiknkflarrfklleqalvieeqlrraaklnl.qeeeenvgalaqrfaelellaeahqhlskeslagnknanavlh
+#MATCH     ++iW+r+hDyWllagv++hGyarwqDi+n+ +f++inepfk+ s     le+kn+f+arrfklleqal+ieeqlrra+ +nl qe++++++al++rfaele+lae+hqhlskesl+gnk+anavlh
+#PP        79****************************************99.....89******************************98999**************************************98
+#SEQ       DDIWWRKHDYWLLAGVAYHGYARWQDIANHRMFTVINEPFKNVS-----LEYKNRFIARRFKLLEQALIIEEQLRRADGMNLkQEAQHPAMALNARFAELECLAESHQHLSKESLSGNKPANAVLH
+Exapal_XP_028516987.1     98    187     94    189 PF00665.27  rve               Domain     6    95   102     46.9   2.7e-12   1 CL0219   
+#HMM       elwqvDvt...viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvs
+#MATCH     ++wq D     ++r  d++g  yll+v+d+ sr++++  ++++ +a+ v+a+ +  ++  g   p+++++D g+e+ +++++++l++ gir+ 
+#PP        78999999654444.56667***********************.******************8.***************************95
+#SEQ       QQWQADLAdvkKLR-EDNDGVEYLLIVVDVLSRYAWVRPIRKK-NAQEVTAAFRDIFEEEGRE-PDVLQTDEGTEFLNRTLKSLLEQRGIRHF
+Exapal_XP_028516987.1    344    382    343    383 PF00385.25  Chromo            Domain     2    41    54     40.7   1.7e-10   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenle
+#MATCH      +e I+++rt+k+++ +e lVKW+g+p+++n+W p+ +++
+#PP        68*************.*******************99986
+#SEQ       RIESILKRRTRKGRE-PEVLVKWRGWPDKYNSWIPARDVQ
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCT
+Exapal_XP_028517966.1    708    815    696    818 PF08284.12  RVP_2             Domain    28   133   136     43.6   2.4e-11   1 CL0129   
+#HMM       vnsipatvLfdsGatHsFiskafvsklklkveeLsep...llietPvggsvtlkeisksvpieiqgielladlilLdlkdlDviLgmdWLsknkavidcaekkvtlkke
+#MATCH     v s   ++L d+Ga  s + +af ++l  +  +L ++     ++t  g+ +++     ++pi iqg+++ ++l +L+ +++D++Lg d+L++nkavid+a++++ l  e
+#PP        56777899*******************9999998554222689998666666555.5689********************************************99876
+#SEQ       VGSRAVQLLVDTGAKISVMDHAFLMQLPYEYRKLLNEenaRAVKTVSGQRLSIVG-VVKLPIVIQGHSYDVNLNVLEKVEFDIVLGRDFLAANKAVIDMANHTIQLAPE
+Exapal_XP_028517966.1   1124   1182   1124   1183 PF17921.2   Integrase_H2C2    Domain     1    57    58     65.1   4.5e-18   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     +p +l++e+l   Hd+  +gHlG+ kt++++r+ryyW +m++d+ ++v sC++C++ k+
+#PP        7999****************************************************997
+#SEQ       IPAALKHEVLLFGHDDvsSGHLGVFKTYEKIRERYYWRKMYADIDHWVTSCVACAMKKN
+Exapal_XP_028517966.1   1554   1600   1552   1601 PF00385.25  Chromo            Domain     3    53    54     53.8   1.4e-14   1 CL0049   
+#HMM       VerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH      e+I+++r++k+    +Yl+KWk++p sentWEpeen+ +    li eF++
+#PP        69************..***********************99..99****97
+#SEQ       AEKIVGKRKRKGVT--QYLIKWKDYPTSENTWEPEENIFDY--ALIAEFED
+#CS        EEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH

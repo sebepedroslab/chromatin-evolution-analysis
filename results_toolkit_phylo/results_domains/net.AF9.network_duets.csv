@@ -1,0 +1,10 @@
+i	j	weight
+AHD	AHD	6
+AHD	AP3B1_C	1
+AHD	Adaptin_N	1
+AHD	YEATS	37
+AP3B1_C	Adaptin_N	1
+AP3B1_C	YEATS	1
+Adaptin_N	YEATS	1
+BET	BET	1
+BET	Bromodomain	2

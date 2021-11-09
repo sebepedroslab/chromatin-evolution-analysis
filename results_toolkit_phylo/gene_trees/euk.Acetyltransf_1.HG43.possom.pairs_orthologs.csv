@@ -1,0 +1,11 @@
+in_gene	out_gene	branch_support	ev_type	sos
+Klenit_GAQ89543.1	Umbram_217771	1.0	S	0.0
+Klenit_GAQ89543.1	Lmaj_CAJ06190	1.0	S	0.0
+Klenit_GAQ89543.1	Coerev_PIA15727.1	1.0	S	0.0
+Klenit_GAQ89543.1	Lepsey_KPI90399	1.0	S	0.0
+Umbram_217771	Lmaj_CAJ06190	1.0	S	0.0
+Umbram_217771	Coerev_PIA15727.1	1.0	S	0.0
+Umbram_217771	Lepsey_KPI90399	1.0	S	0.0
+Coerev_PIA15727.1	Lmaj_CAJ06190	94.0	S	0.0
+Coerev_PIA15727.1	Lepsey_KPI90399	94.0	S	0.0
+Lepsey_KPI90399	Lmaj_CAJ06190	100.0	S	0.0

@@ -1,0 +1,16 @@
+i	j	weight
+ADIP	ASF1_hist_chap	1
+ASF1_hist_chap	ASF1_hist_chap	232
+ASF1_hist_chap	BACK	1
+ASF1_hist_chap	BTB	1
+ASF1_hist_chap	Drf_FH3	1
+ASF1_hist_chap	Drf_GBD	1
+ASF1_hist_chap	F-box	1
+ASF1_hist_chap	PDZ_2	1
+ASF1_hist_chap	Pkinase	1
+ASF1_hist_chap	Trypsin_2	1
+BACK	BTB	1
+BACK	Pkinase	1
+BTB	Pkinase	1
+Drf_FH3	Drf_GBD	1
+PDZ_2	Trypsin_2	1

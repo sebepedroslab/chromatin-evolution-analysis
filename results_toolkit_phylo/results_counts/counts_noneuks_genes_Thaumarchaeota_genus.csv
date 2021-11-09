@@ -1,0 +1,13 @@
+Histone	LinkerHistone	Acetyltransf_1	GNAT_acetyltr_2	Hat1_N	KAT11	MOZ_SAS	Hist_deacetyl	SIR2	DOT1	SET	SWIRM	CupinJmjC	ADD_ATRX	ADD_DNMT3	BAH	BIR	Bromodomain	Chromo	ING	MBT	MRG	PHD	PWWP	SAWADEE	TTD	TUDOR	zf-CW	YEATS	SNF2_N	ASF1_hist_chap	CAF1A	CHZ	Daxx	Hira	HJURP_mid	NAP	Rtt106	SPT16	SSrecog	zf-CCHH	UBN_AB	Nucleoplasmin	ATF7IP	PA1	Dpy-30	Menin	NCOA6	PTIP	TRRAP	AF9	PCRing	YAF2_RYBP	SAM	SLED	Suz12	CAF1C	Kelch	zf-C2H2	zf-CXXC	WD40	total
+Sum	52	0	59	0	0	0	0	9	38	34	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	52	0	1	79
+Candidatus Caldiarchaeum	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1
+Candidatus Nitrosocaldus	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4
+Candidatus Nitrosocosmicus	5	0	5	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	0	0	6
+Candidatus Nitrosomarinus	2	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2
+Candidatus Nitrosopelagicus	2	0	2	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2
+Candidatus Nitrosotalea	6	0	6	0	0	0	0	0	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	8
+Candidatus Nitrosotenuis	4	0	5	0	0	0	0	0	5	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	5
+Cenarchaeum	2	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2
+Nitrosarchaeum	6	0	6	0	0	0	0	0	6	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	7
+Nitrosopumilus	16	0	20	0	0	0	0	0	15	13	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	18	0	1	30
+Nitrososphaera	7	0	9	0	0	0	0	7	1	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	8	0	0	12

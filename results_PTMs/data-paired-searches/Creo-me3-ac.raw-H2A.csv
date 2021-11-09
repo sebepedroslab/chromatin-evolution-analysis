@@ -1,0 +1,2 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Cfra_3673T1|Histone_H2A	Cfra_3673T1|Histone_H2A	H2A	FALSE	MSGKG KGGKG GK	Me3	K	12				99.92	MSGKGKGGKGGK	res

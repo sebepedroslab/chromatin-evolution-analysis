@@ -1,0 +1,12 @@
+ArchaeCry|Marpol_PTQ37304
+ArchaeCry|Ppat_Pp3c14_22150V3.1
+ArchaeCry|Sacu_v1.1_s0001.g000167
+ArchaeCry|Smoe_EFJ20520
+ArchaeCry|Smoe_EFJ28345
+ArchaeCry|Sphfal_Sphfalx17G043800.1.p
+ArchaeCry|Sphfal_Sphfalx17G043800.4.p
+Obazoa|Apla_XP_022086718.1
+Obazoa|Drer_ENSDARP00000105895.5
+Obazoa|Hsap_ENSP00000362441.4
+Obazoa|Linana_g6551.t1
+Obazoa|Nvec_NVE15832

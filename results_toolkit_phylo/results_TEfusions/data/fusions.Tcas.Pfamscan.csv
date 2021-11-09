@@ -1,0 +1,345 @@
+# pfam_scan.pl,  run at Fri Dec 18 14:53:45 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Tcas.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Tcas_XP_001812556.1    147    200    147    200 PF08073.13  CHDNT             Domain     1    54    54    103.6   3.7e-30   1 CL0114   
+#HMM       eieYdeedyqnltnyKlFsqhvrPlllkenPkvpvsKlmmLvaakwreFqehnp
+#MATCH     e+eY+e+d+qnlt+yKlF+qhvrPll+kenPkvp+sKlmmLvaakwreF++ np
+#PP        68*************************************************998
+#SEQ       ELEYTESDFQNLTTYKLFQQHVRPLLTKENPKVPMSKLMMLVAAKWREFSNINP
+Tcas_XP_001812556.1    375    419    375    420 PF00628.30  PHD               Domain     1    51    52     41.7   7.7e-11   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C+vC++    ++e+++Cd+C r++H  Cl+p+le  + peg+w C++C++
+#PP        7******....************************..889999******97
+#SEQ       YCEVCQQ----GGEIILCDTCPRAYHLVCLDPELE--DTPEGKWSCPHCEN
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_001812556.1    433    477    433    478 PF00628.30  PHD               Domain     1    51    52     36.8   2.8e-09   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C++Ck+    ++el++Cd+C +++H+ Cl+ppl   e+p+g+w C++C++
+#PP        7******....***********************9..************97
+#SEQ       FCRICKD----GGELLCCDSCPSAYHTHCLNPPLV--EIPDGDWKCPRCSC
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_001812556.1    604    654    603    655 PF00385.25  Chromo            Domain     2    53    54     49.6   2.7e-13   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpee.nlekcfqelideFkk
+#MATCH     +V+rIi+hr  +dg+ + YlVKW++l+y+++tWE+e+ ++ +  +++i+ + +
+#PP        7********888888.8******************88799999.556999975
+#SEQ       VVHRIINHRQMRDGR-TLYLVKWRELSYDQATWEEESdEIVGL-KQAIEYYMD
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGG.GCTSCSHHHHHHHHH
+Tcas_XP_001812556.1    741   1018    694   1019 PF00176.24  SNF2_N            Family    56   349   350    204.1   2.4e-60   1 CL0023   
+#HMM       rGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk..............mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalksssksk.ekilelllelrqacnhpql
+#MATCH        iLaDemGLGKT+q+++++    + +++       ++ +gp+L+ vP s++ +We+e+e+++++  +  +v++++++              +k+ +    ++   +++v++t+Y+ +s +a      + l ++ew  +v+DE+h+lk+++sk    +++++ +++++ltGTP+qn+le+l+ Ll+fL+ ++f++  tf++ + + ++   e+++++L++ll + mlrr k+dv kn+P k+e i++++ls++++k+Y+             +l+r+  al+ +   +   +l++++ l+++cnhp+l
+#PP        5679******************...43333.......45669********************************99999************88555555667778889************999......9**************************************************************************99888...9***********************************************............55555555555555555455***************98
+#SEQ       IDTILADEMGLGKTIQTITFLY---SLYKE-------GHCKGPFLVSVPLSTIINWEREFETWAPDFYVITYVGDKDSRavirenefsfeenvSKSGRISRVKASSIKFNVLLTSYELISIDA------TCLGSIEWAVLVVDEAHRLKSNQSKFFRLLNSYNIQYKLLLTGTPLQNNLEELFHLLNFLNSQKFNDLATFQNEFADISK---EEQVKKLHELLGPHMLRRLKADVLKNMPSKSEFIVRVELSPMQKKYYK------------YILTRNFEALNPKGGGQsVSLLNIMMDLKKCCNHPYL
+#CS        --EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH..............HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HH.HSHCCHHHHHHHHHH-CCC
+Tcas_XP_001812556.1   1049   1158   1044   1158 PF00271.32  Helicase_C        Family     6   111   111     76.9   1.4e-21   1 CL0023   
+#HMM       llell.kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     l ++l  l+e+g+++lif++ +++l+ ++ +le +g+k+ +++g ++ ++r+e++++fn   ++++ +L++t++++ Gi++  +++Vi++d ++n+++ iq+  R++R+g
+#PP        445556679****************9988888999************************87777888*****************************************97
+#SEQ       LAKMLrILREQGHRVLIFSQMTKMLDILEDFLEGEGYKYERIDGAITGSSRQEAIDRFNapgAQQFVFLLSTRAGGLGINLATADTVIIYDSDWNPHNDIQAFSRAHRIG
+#CS        HHHHH.HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Tcas_XP_001812556.1   1275   1333   1274   1335 PF06465.14  DUF1087           Domain     2    63    65     93.7   5.1e-27   1 No_clan  
+#HMM       aeeeeaekevikekieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsvee
+#MATCH     ++eee+++e+ik+  e +e++dp+YW kLL++hYEqqqe+ +r+LGKGKRvRKqvNY+++++
+#PP        579**********..6.99****************************************987
+#SEQ       DNEEEVDTEIIKQ--E-AENTDPAYWIKLLRHHYEQQQEDIARTLGKGKRVRKQVNYNDGGM
+Tcas_XP_001812556.1   1377   1513   1372   1514 PF06461.12  DUF1086           Domain     6   137   138    202.7     2e-60   1 No_clan  
+#HMM       rrksrkkar.sdkdepl.PllegegkslevLGFnerqRkaflnalmRyGv...gdfdskelvrelkqktedeikaYgslFlrHlaeegadnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipgkpvlpd
+#MATCH     rr  r+ +r  ++d+pl Pll+++g+++evLGFn+rqRkaflna+mRyG+   ++f+s++lvr+l+ k+e+++kaY+slF+rHl+e+gadn++tfaDGvP+eGlsrq+vl+ri+v+sL++kkv+e+e+i+g++++p+
+#PP        444444444146899**9*********************************************************************************************************************97
+#SEQ       RRSRRRMERkDERDRPLpPLLARVGGNIEVLGFNARQRKAFLNAIMRYGMppqDAFNSQWLVRDLRGKSEKNFKAYVSLFMRHLCEPGADNADTFADGVPREGLSRQHVLTRIGVMSLIRKKVQEFEHINGEYSMPE
+Tcas_XP_001812556.1   1739   1865   1739   1865 PF08074.12  CHDCT2            Domain     1   126   126    211.4   3.7e-63   1 No_clan  
+#HMM       lyeiWhrrhDyWllagvvlhGyarwqDilndprfsiinepfkeesekgnfleiknkflarrfklleqalvieeqlrraaklnl.qeeeenvgalaqrfaelellaeahqhlskeslagnknanavlh
+#MATCH     +yeiWhrrhDyWll g+v+hGy+rwqDi++d+rf++inepfk  + kgnfleiknkflarrfklleqalvieeqlrraa+lnl q+ ++++++l++rfae+e+lae+hqhlskeslagnk+anavlh
+#PP        59********************************************************************************99999**************************************98
+#SEQ       EYEIWHRRHDYWLLSGIVTHGYGRWQDIQADARFAVINEPFKMDVGKGNFLEIKNKFLARRFKLLEQALVIEEQLRRAAYLNLtQDPNHPAMSLNARFAEVECLAESHQHLSKESLAGNKPANAVLH
+Tcas_XP_008195833.1    643    711    640    715 PF01429.20  MBD               Domain     5    72    77     41.9   5.9e-11   1 CL0081   
+#HMM       redcsvLpkGWrreerqrksGssa.nkvdvfYysP.tGkkfsskkevaayLenakqstsaklknFsfekr
+#MATCH     r  + +L+kGW+re+++r   +s   k dv Y++P    kf+++++v++yLe +k st  + +nF f+ r
+#PP        67899*************77666558****************************9.7*********9866
+#SEQ       RALRVPLEKGWKRETVIRGLTKSGgLKGDVTYVAPdSANKFKQMSDVTQYLEYQK-STEFTKENFTFSCR
+#CS        HHHHCHCHCT-EEEEEEEESSTTT.CEEEEEEE-T.TS-EE-SHHHHHHHHHHCT-.SSS-CCCS---TT
+Tcas_XP_008195833.1    810    860    810    862 PF04218.14  CENP-B_N          Domain     1    51    53     39.0   4.5e-10   1 CL0123   
+#HMM       rkkRrsLTlreKievIqrleegeSkaelarrfnvpestlsdilknKkkllk
+#MATCH     ++kR   Tl++Ki++I ++e g+ k ++ r++++  st+++i kn +++l+
+#PP        5899********************************************996
+#SEQ       GRKRLAFTLEQKIQIISEIEGGKTKSDVSRELGLASSTVATIWKNRDNILN
+#CS        SSSSSS--HHHHHHHHHHHHCTT-HHHHHHHHT--CCHHHHHHHCHHHHCC
+Tcas_XP_008195833.1   1025   1085   1024   1087 PF02791.18  DDT               Family     2    57    60     40.2   3.1e-10   1 No_clan  
+#HMM       dfgdlLmVweFLhvFgelLhL...spftlddledALlsqdpmgp..seLlaevhiaLLkal
+#MATCH     +f+d+LmV+eFLh+Fge+L++   s  tld l++AL+ +++  +  +eL++ +   L +a+
+#PP        79********************99999**********999977799888877666666665
+#SEQ       AFADILMVFEFLHNFGETLGFdmeSLPTLDSLQQALMPNEHSSEaeEELFSVMTHLLVCAI
+Tcas_XP_008195833.1   1183   1218   1175   1218 PF15612.7   WHIM1             Family    11    46    46     23.9   2.1e-05   1 No_clan  
+#HMM       LakggYveLspeeklkiLkaLcdlllessavReeie
+#MATCH     L+++++ +Lsp +k +iL +Lc++ll  +av+ +ie
+#PP        89**************************99997776
+#SEQ       LKDKPFMALSPTCKAEILAFLCNELLQNKAVIRQIE
+#CS        CCCSTCCCS-HHHHHHHHHHHHHHHCCC-CCHHHHH
+Tcas_XP_008195833.1   1335   1473   1334   1493 PF15613.7   WSD               Family     2    75    93     31.6   1.6e-07   1 No_clan  
+#HMM       rskpLGrDRfyrrYWlfdkstgrlfVeepsdsdteellakae..................................................eesek....ee.egvlgenewsvysske..............qldqllesL
+#MATCH     r ++ G+DR+ rrYW++  + g++fVe  ++ + e+ll++++                                                  +   k    ++ e ++ +n+  v+++ e               +d++++ L
+#PP        77899************.**********************99999999999999999999999999999999999998888887776655541...03444334666777777777777744444444444444555555555
+#SEQ       RASCFGQDRYWRRYWCL-SKAGGVFVEAMESAEPEVLLEQTQfdqstetinslndinklmnnvenindsnvdkevsnivgnnesteevekspV---KttddNDnEHRKTPNRLGVFENGEildksernlaelrkSVDDIVQNL
+Tcas_XP_008195833.1   1929   1975   1928   1976 PF00628.30  PHD               Domain     2    51    52     44.4   1.1e-11   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C++C++  d+e++l++CdgC++ +H++C kp++e  ++peg+w+C +C++
+#PP        ******.9************************99..9***********97
+#SEQ       CQFCHS-GDNEDKLLLCDGCDKGYHTYCFKPKME--NIPEGDWYCHECMN
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_008195833.1   1983   2031   1982   2032 PF00628.30  PHD               Domain     2    51    52     37.6   1.5e-09   1 CL0390   
+#HMM       CsvCkk.ksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C vC+k +s+ + +l++C+ C r++H++C++p +   ++p g+w+C+kC +
+#PP        ******888889*********************88..99999*******86
+#SEQ       CIVCGKkSSTSGTRLILCELCPRAYHTDCIHPIMH--KVPRGKWYCSKCIS
+#CS        BTTTTS.TTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_008195833.1   2113   2192   2113   2195 PF00439.26  Bromodomain       Domain     1    80    84     76.7   1.1e-21   1 No_clan  
+#HMM       lekilsellehklaepFlepvdpeefpdyyavikkPldLstIkkklesnkYksladfeadlkllfsNarkyngegsviye
+#MATCH     +++il++l  h++a pFl pv++++fp y+++ik P+dLstIkkkl +  Yks ++f  d++++f+N+  +n+++s++ +
+#PP        89**************************************************************************9976
+#SEQ       CKTILEDLECHDDAWPFLLPVNTKQFPTYKKIIKTPMDLSTIKKKLYDVSYKSKEEFVLDVRQIFNNCEVFNEDDSPVGK
+#CS        HHHHHHHBHTTTCGGGGCSTT-GCCSTTHHHH.SS---HHHHHHHHHTT--SSHHHHHHHHHHHHHHHHHHSHTTSHHHH
+Tcas_XP_008197696.1    150    203    150    203 PF08073.13  CHDNT             Domain     1    54    54    103.6   3.7e-30   1 CL0114   
+#HMM       eieYdeedyqnltnyKlFsqhvrPlllkenPkvpvsKlmmLvaakwreFqehnp
+#MATCH     e+eY+e+d+qnlt+yKlF+qhvrPll+kenPkvp+sKlmmLvaakwreF++ np
+#PP        68*************************************************998
+#SEQ       ELEYTESDFQNLTTYKLFQQHVRPLLTKENPKVPMSKLMMLVAAKWREFSNINP
+Tcas_XP_008197696.1    378    422    378    423 PF00628.30  PHD               Domain     1    51    52     41.7   7.7e-11   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C+vC++    ++e+++Cd+C r++H  Cl+p+le  + peg+w C++C++
+#PP        7******....************************..889999******97
+#SEQ       YCEVCQQ----GGEIILCDTCPRAYHLVCLDPELE--DTPEGKWSCPHCEN
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_008197696.1    436    480    436    481 PF00628.30  PHD               Domain     1    51    52     36.8   2.8e-09   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C++Ck+    ++el++Cd+C +++H+ Cl+ppl   e+p+g+w C++C++
+#PP        7******....***********************9..************97
+#SEQ       FCRICKD----GGELLCCDSCPSAYHTHCLNPPLV--EIPDGDWKCPRCSC
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_008197696.1    607    657    606    658 PF00385.25  Chromo            Domain     2    53    54     49.6   2.7e-13   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpee.nlekcfqelideFkk
+#MATCH     +V+rIi+hr  +dg+ + YlVKW++l+y+++tWE+e+ ++ +  +++i+ + +
+#PP        7********888888.8******************88799999.556999975
+#SEQ       VVHRIINHRQMRDGR-TLYLVKWRELSYDQATWEEESdEIVGL-KQAIEYYMD
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGG.GCTSCSHHHHHHHHH
+Tcas_XP_008197696.1    744   1021    697   1022 PF00176.24  SNF2_N            Family    56   349   350    204.1   2.4e-60   1 CL0023   
+#HMM       rGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk..............mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalksssksk.ekilelllelrqacnhpql
+#MATCH        iLaDemGLGKT+q+++++    + +++       ++ +gp+L+ vP s++ +We+e+e+++++  +  +v++++++              +k+ +    ++   +++v++t+Y+ +s +a      + l ++ew  +v+DE+h+lk+++sk    +++++ +++++ltGTP+qn+le+l+ Ll+fL+ ++f++  tf++ + + ++   e+++++L++ll + mlrr k+dv kn+P k+e i++++ls++++k+Y+             +l+r+  al+ +   +   +l++++ l+++cnhp+l
+#PP        5679******************...43333.......45669********************************99999************88555555667778889************999......9**************************************************************************99888...9***********************************************............55555555555555555455***************98
+#SEQ       IDTILADEMGLGKTIQTITFLY---SLYKE-------GHCKGPFLVSVPLSTIINWEREFETWAPDFYVITYVGDKDSRavirenefsfeenvSKSGRISRVKASSIKFNVLLTSYELISIDA------TCLGSIEWAVLVVDEAHRLKSNQSKFFRLLNSYNIQYKLLLTGTPLQNNLEELFHLLNFLNSQKFNDLATFQNEFADISK---EEQVKKLHELLGPHMLRRLKADVLKNMPSKSEFIVRVELSPMQKKYYK------------YILTRNFEALNPKGGGQsVSLLNIMMDLKKCCNHPYL
+#CS        --EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH..............HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HH.HSHCCHHHHHHHHHH-CCC
+Tcas_XP_008197696.1   1052   1161   1047   1161 PF00271.32  Helicase_C        Family     6   111   111     76.9   1.4e-21   1 CL0023   
+#HMM       llell.kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     l ++l  l+e+g+++lif++ +++l+ ++ +le +g+k+ +++g ++ ++r+e++++fn   ++++ +L++t++++ Gi++  +++Vi++d ++n+++ iq+  R++R+g
+#PP        445556679****************9988888999************************87777888*****************************************97
+#SEQ       LAKMLrILREQGHRVLIFSQMTKMLDILEDFLEGEGYKYERIDGAITGSSRQEAIDRFNapgAQQFVFLLSTRAGGLGINLATADTVIIYDSDWNPHNDIQAFSRAHRIG
+#CS        HHHHH.HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Tcas_XP_008197696.1   1278   1336   1277   1338 PF06465.14  DUF1087           Domain     2    63    65     93.7   5.1e-27   1 No_clan  
+#HMM       aeeeeaekevikekieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsvee
+#MATCH     ++eee+++e+ik+  e +e++dp+YW kLL++hYEqqqe+ +r+LGKGKRvRKqvNY+++++
+#PP        579**********..6.99****************************************987
+#SEQ       DNEEEVDTEIIKQ--E-AENTDPAYWIKLLRHHYEQQQEDIARTLGKGKRVRKQVNYNDGGM
+Tcas_XP_008197696.1   1380   1516   1375   1517 PF06461.12  DUF1086           Domain     6   137   138    202.7     2e-60   1 No_clan  
+#HMM       rrksrkkar.sdkdepl.PllegegkslevLGFnerqRkaflnalmRyGv...gdfdskelvrelkqktedeikaYgslFlrHlaeegadnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipgkpvlpd
+#MATCH     rr  r+ +r  ++d+pl Pll+++g+++evLGFn+rqRkaflna+mRyG+   ++f+s++lvr+l+ k+e+++kaY+slF+rHl+e+gadn++tfaDGvP+eGlsrq+vl+ri+v+sL++kkv+e+e+i+g++++p+
+#PP        444444444146899**9*********************************************************************************************************************97
+#SEQ       RRSRRRMERkDERDRPLpPLLARVGGNIEVLGFNARQRKAFLNAIMRYGMppqDAFNSQWLVRDLRGKSEKNFKAYVSLFMRHLCEPGADNADTFADGVPREGLSRQHVLTRIGVMSLIRKKVQEFEHINGEYSMPE
+Tcas_XP_008197696.1   1742   1868   1742   1868 PF08074.12  CHDCT2            Domain     1   126   126    211.4   3.7e-63   1 No_clan  
+#HMM       lyeiWhrrhDyWllagvvlhGyarwqDilndprfsiinepfkeesekgnfleiknkflarrfklleqalvieeqlrraaklnl.qeeeenvgalaqrfaelellaeahqhlskeslagnknanavlh
+#MATCH     +yeiWhrrhDyWll g+v+hGy+rwqDi++d+rf++inepfk  + kgnfleiknkflarrfklleqalvieeqlrraa+lnl q+ ++++++l++rfae+e+lae+hqhlskeslagnk+anavlh
+#PP        59********************************************************************************99999**************************************98
+#SEQ       EYEIWHRRHDYWLLSGIVTHGYGRWQDIQADARFAVINEPFKMDVGKGNFLEIKNKFLARRFKLLEQALVIEEQLRRAAYLNLtQDPNHPAMSLNARFAEVECLAESHQHLSKESLAGNKPANAVLH
+Tcas_XP_008200466.1      5     84      5     84 PF05485.13  THAP              Domain     1    86    86     49.6   5.6e-13   1 No_clan  
+#HMM       CvvpgCknrkkskskkkvsfhrfPkdeelrkkWlkaikrkdkkskkksksrvCskHFeeekkkkedekkrskkrkkLkpdavPtif
+#MATCH     C v +C + +++++++ v+fh++P+  + r+kW++ ++ ++ k+++k   ++Cs+HF      + d+++ ++k+  L++++ P++f
+#PP        9999****988888888**********************988887776.7*******.....77899*****************98
+#SEQ       CGVLDCLSDSNRREDTGVTFHKVPSHADTRQKWITLCRIPEDKKTTKV-IYICSRHF-----LRMDFCNFKGKKYILRQGVLPSVF
+Tcas_XP_008200466.1    173    224    173    232 PF02820.19  MBT               Domain     2    53    69     21.2   0.00028   1 CL0049   
+#HMM       kLEavdpknpslicvAtVvkvl..grrllvrfdgwdesydfwcdadspdifPvG
+#MATCH     ++Ea+d++n    ++A++v+    g+ +l++f++ +++yd w+ +dsp++ P++
+#PP        6899997777..9******99889***************************975
+#SEQ       RIEALDNNNI--WYPARIVEEDyeGNEVLIHFEKFSSKYDEWICMDSPRLRPLQ
+Tcas_XP_008200466.1    382    445    377    452 PF01429.20  MBD               Domain     6    70    77     44.0   1.3e-11   1 CL0081   
+#HMM       edcsvLpkGWrreerqrksGssankvdvfYysPtGkkfsskkevaayLenakqstsaklknFsfe
+#MATCH     + +++Lp GW ++  qr  G sa+k+d + +sP  ++f+sk+e+  yLe +k  ++   ++F+f+
+#PP        66899**********************************************9.699999999997
+#SEQ       VPDPRLPEGWTKHLAQRMHGASAGKWDTIIVSPENRRFRSKSEIKSYLEDTK-LMKYNWSMFDFT
+#CS        HHHCHCHCT-EEEEEEEESSTTTCEEEEEEE-TTS-EE-SHHHHHHHHHHCT-.SSS-CCCS---
+Tcas_XP_015837090.1    636    704    633    708 PF01429.20  MBD               Domain     5    72    77     41.9   5.9e-11   1 CL0081   
+#HMM       redcsvLpkGWrreerqrksGssa.nkvdvfYysP.tGkkfsskkevaayLenakqstsaklknFsfekr
+#MATCH     r  + +L+kGW+re+++r   +s   k dv Y++P    kf+++++v++yLe +k st  + +nF f+ r
+#PP        67899*************77666558****************************9.7*********9866
+#SEQ       RALRVPLEKGWKRETVIRGLTKSGgLKGDVTYVAPdSANKFKQMSDVTQYLEYQK-STEFTKENFTFSCR
+#CS        HHHHCHCHCT-EEEEEEEESSTTT.CEEEEEEE-T.TS-EE-SHHHHHHHHHHCT-.SSS-CCCS---TT
+Tcas_XP_015837090.1    803    853    803    855 PF04218.14  CENP-B_N          Domain     1    51    53     39.0   4.5e-10   1 CL0123   
+#HMM       rkkRrsLTlreKievIqrleegeSkaelarrfnvpestlsdilknKkkllk
+#MATCH     ++kR   Tl++Ki++I ++e g+ k ++ r++++  st+++i kn +++l+
+#PP        5899********************************************996
+#SEQ       GRKRLAFTLEQKIQIISEIEGGKTKSDVSRELGLASSTVATIWKNRDNILN
+#CS        SSSSSS--HHHHHHHHHHHHCTT-HHHHHHHHT--CCHHHHHHHCHHHHCC
+Tcas_XP_015837090.1   1018   1078   1017   1080 PF02791.18  DDT               Family     2    57    60     40.2   3.1e-10   1 No_clan  
+#HMM       dfgdlLmVweFLhvFgelLhL...spftlddledALlsqdpmgp..seLlaevhiaLLkal
+#MATCH     +f+d+LmV+eFLh+Fge+L++   s  tld l++AL+ +++  +  +eL++ +   L +a+
+#PP        79********************99999**********999977799888877666666665
+#SEQ       AFADILMVFEFLHNFGETLGFdmeSLPTLDSLQQALMPNEHSSEaeEELFSVMTHLLVCAI
+Tcas_XP_015837090.1   1176   1211   1168   1211 PF15612.7   WHIM1             Family    11    46    46     23.9   2.1e-05   1 No_clan  
+#HMM       LakggYveLspeeklkiLkaLcdlllessavReeie
+#MATCH     L+++++ +Lsp +k +iL +Lc++ll  +av+ +ie
+#PP        89**************************99997776
+#SEQ       LKDKPFMALSPTCKAEILAFLCNELLQNKAVIRQIE
+#CS        CCCSTCCCS-HHHHHHHHHHHHHHHCCC-CCHHHHH
+Tcas_XP_015837090.1   1328   1466   1327   1486 PF15613.7   WSD               Family     2    75    93     31.6   1.6e-07   1 No_clan  
+#HMM       rskpLGrDRfyrrYWlfdkstgrlfVeepsdsdteellakae..................................................eesek....ee.egvlgenewsvysske..............qldqllesL
+#MATCH     r ++ G+DR+ rrYW++  + g++fVe  ++ + e+ll++++                                                  +   k    ++ e ++ +n+  v+++ e               +d++++ L
+#PP        77899************.**********************99999999999999999999999999999999999998888887776655541...03444334666777777777777744444444444444555555555
+#SEQ       RASCFGQDRYWRRYWCL-SKAGGVFVEAMESAEPEVLLEQTQfdqstetinslndinklmnnvenindsnvdkevsnivgnnesteevekspV---KttddNDnEHRKTPNRLGVFENGEildksernlaelrkSVDDIVQNL
+Tcas_XP_015837090.1   1922   1968   1921   1969 PF00628.30  PHD               Domain     2    51    52     44.4   1.1e-11   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C++C++  d+e++l++CdgC++ +H++C kp++e  ++peg+w+C +C++
+#PP        ******.9************************99..9***********97
+#SEQ       CQFCHS-GDNEDKLLLCDGCDKGYHTYCFKPKME--NIPEGDWYCHECMN
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_015837090.1   1976   2024   1975   2025 PF00628.30  PHD               Domain     2    51    52     37.6   1.5e-09   1 CL0390   
+#HMM       CsvCkk.ksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C vC+k +s+ + +l++C+ C r++H++C++p +   ++p g+w+C+kC +
+#PP        ******888889*********************88..99999*******86
+#SEQ       CIVCGKkSSTSGTRLILCELCPRAYHTDCIHPIMH--KVPRGKWYCSKCIS
+#CS        BTTTTS.TTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_015837090.1   2106   2185   2106   2188 PF00439.26  Bromodomain       Domain     1    80    84     76.7   1.1e-21   1 No_clan  
+#HMM       lekilsellehklaepFlepvdpeefpdyyavikkPldLstIkkklesnkYksladfeadlkllfsNarkyngegsviye
+#MATCH     +++il++l  h++a pFl pv++++fp y+++ik P+dLstIkkkl +  Yks ++f  d++++f+N+  +n+++s++ +
+#PP        89**************************************************************************9976
+#SEQ       CKTILEDLECHDDAWPFLLPVNTKQFPTYKKIIKTPMDLSTIKKKLYDVSYKSKEEFVLDVRQIFNNCEVFNEDDSPVGK
+#CS        HHHHHHHBHTTTCGGGGCSTT-GCCSTTHHHH.SS---HHHHHHHHHTT--SSHHHHHHHHHHHHHHHHHHSHTTSHHHH
+Tcas_XP_015837091.1    643    711    640    715 PF01429.20  MBD               Domain     5    72    77     41.9   5.9e-11   1 CL0081   
+#HMM       redcsvLpkGWrreerqrksGssa.nkvdvfYysP.tGkkfsskkevaayLenakqstsaklknFsfekr
+#MATCH     r  + +L+kGW+re+++r   +s   k dv Y++P    kf+++++v++yLe +k st  + +nF f+ r
+#PP        67899*************77666558****************************9.7*********9866
+#SEQ       RALRVPLEKGWKRETVIRGLTKSGgLKGDVTYVAPdSANKFKQMSDVTQYLEYQK-STEFTKENFTFSCR
+#CS        HHHHCHCHCT-EEEEEEEESSTTT.CEEEEEEE-T.TS-EE-SHHHHHHHHHHCT-.SSS-CCCS---TT
+Tcas_XP_015837091.1    810    860    810    862 PF04218.14  CENP-B_N          Domain     1    51    53     39.0   4.4e-10   1 CL0123   
+#HMM       rkkRrsLTlreKievIqrleegeSkaelarrfnvpestlsdilknKkkllk
+#MATCH     ++kR   Tl++Ki++I ++e g+ k ++ r++++  st+++i kn +++l+
+#PP        5899********************************************996
+#SEQ       GRKRLAFTLEQKIQIISEIEGGKTKSDVSRELGLASSTVATIWKNRDNILN
+#CS        SSSSSS--HHHHHHHHHHHHCTT-HHHHHHHHT--CCHHHHHHHCHHHHCC
+Tcas_XP_015837091.1   1007   1067   1006   1069 PF02791.18  DDT               Family     2    57    60     40.3   3.1e-10   1 No_clan  
+#HMM       dfgdlLmVweFLhvFgelLhL...spftlddledALlsqdpmgp..seLlaevhiaLLkal
+#MATCH     +f+d+LmV+eFLh+Fge+L++   s  tld l++AL+ +++  +  +eL++ +   L +a+
+#PP        79********************99999**********999977799888877666666665
+#SEQ       AFADILMVFEFLHNFGETLGFdmeSLPTLDSLQQALMPNEHSSEaeEELFSVMTHLLVCAI
+Tcas_XP_015837091.1   1165   1200   1157   1200 PF15612.7   WHIM1             Family    11    46    46     23.9   2.1e-05   1 No_clan  
+#HMM       LakggYveLspeeklkiLkaLcdlllessavReeie
+#MATCH     L+++++ +Lsp +k +iL +Lc++ll  +av+ +ie
+#PP        89**************************99997776
+#SEQ       LKDKPFMALSPTCKAEILAFLCNELLQNKAVIRQIE
+#CS        CCCSTCCCS-HHHHHHHHHHHHHHHCCC-CCHHHHH
+Tcas_XP_015837091.1   1317   1455   1316   1475 PF15613.7   WSD               Family     2    75    93     31.6   1.6e-07   1 No_clan  
+#HMM       rskpLGrDRfyrrYWlfdkstgrlfVeepsdsdteellakae..................................................eesek....ee.egvlgenewsvysske..............qldqllesL
+#MATCH     r ++ G+DR+ rrYW++  + g++fVe  ++ + e+ll++++                                                  +   k    ++ e ++ +n+  v+++ e               +d++++ L
+#PP        77899************.**********************99999999999999999999999999999999999998888887776655541...03444334666777777777777744444444444444555555555
+#SEQ       RASCFGQDRYWRRYWCL-SKAGGVFVEAMESAEPEVLLEQTQfdqstetinslndinklmnnvenindsnvdkevsnivgnnesteevekspV---KttddNDnEHRKTPNRLGVFENGEildksernlaelrkSVDDIVQNL
+Tcas_XP_015837091.1   1911   1957   1910   1958 PF00628.30  PHD               Domain     2    51    52     44.5   1.1e-11   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C++C++  d+e++l++CdgC++ +H++C kp++e  ++peg+w+C +C++
+#PP        ******.9************************99..9***********97
+#SEQ       CQFCHS-GDNEDKLLLCDGCDKGYHTYCFKPKME--NIPEGDWYCHECMN
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_015837091.1   1965   2013   1964   2014 PF00628.30  PHD               Domain     2    51    52     37.6   1.5e-09   1 CL0390   
+#HMM       CsvCkk.ksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C vC+k +s+ + +l++C+ C r++H++C++p +   ++p g+w+C+kC +
+#PP        ******888889*********************88..99999*******86
+#SEQ       CIVCGKkSSTSGTRLILCELCPRAYHTDCIHPIMH--KVPRGKWYCSKCIS
+#CS        BTTTTS.TTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_015837091.1   2095   2174   2095   2177 PF00439.26  Bromodomain       Domain     1    80    84     76.7   1.1e-21   1 No_clan  
+#HMM       lekilsellehklaepFlepvdpeefpdyyavikkPldLstIkkklesnkYksladfeadlkllfsNarkyngegsviye
+#MATCH     +++il++l  h++a pFl pv++++fp y+++ik P+dLstIkkkl +  Yks ++f  d++++f+N+  +n+++s++ +
+#PP        89**************************************************************************9976
+#SEQ       CKTILEDLECHDDAWPFLLPVNTKQFPTYKKIIKTPMDLSTIKKKLYDVSYKSKEEFVLDVRQIFNNCEVFNEDDSPVGK
+#CS        HHHHHHHBHTTTCGGGGCSTT-GCCSTTHHHH.SS---HHHHHHHHHTT--SSHHHHHHHHHHHHHHHHHHSHTTSHHHH
+Tcas_XP_015837092.1    643    711    640    715 PF01429.20  MBD               Domain     5    72    77     41.9   5.9e-11   1 CL0081   
+#HMM       redcsvLpkGWrreerqrksGssa.nkvdvfYysP.tGkkfsskkevaayLenakqstsaklknFsfekr
+#MATCH     r  + +L+kGW+re+++r   +s   k dv Y++P    kf+++++v++yLe +k st  + +nF f+ r
+#PP        67899*************77666558****************************9.7*********9866
+#SEQ       RALRVPLEKGWKRETVIRGLTKSGgLKGDVTYVAPdSANKFKQMSDVTQYLEYQK-STEFTKENFTFSCR
+#CS        HHHHCHCHCT-EEEEEEEESSTTT.CEEEEEEE-T.TS-EE-SHHHHHHHHHHCT-.SSS-CCCS---TT
+Tcas_XP_015837092.1    810    860    810    862 PF04218.14  CENP-B_N          Domain     1    51    53     39.0   4.4e-10   1 CL0123   
+#HMM       rkkRrsLTlreKievIqrleegeSkaelarrfnvpestlsdilknKkkllk
+#MATCH     ++kR   Tl++Ki++I ++e g+ k ++ r++++  st+++i kn +++l+
+#PP        5899********************************************996
+#SEQ       GRKRLAFTLEQKIQIISEIEGGKTKSDVSRELGLASSTVATIWKNRDNILN
+#CS        SSSSSS--HHHHHHHHHHHHCTT-HHHHHHHHT--CCHHHHHHHCHHHHCC
+Tcas_XP_015837092.1   1025   1085   1024   1087 PF02791.18  DDT               Family     2    57    60     40.3   3.1e-10   1 No_clan  
+#HMM       dfgdlLmVweFLhvFgelLhL...spftlddledALlsqdpmgp..seLlaevhiaLLkal
+#MATCH     +f+d+LmV+eFLh+Fge+L++   s  tld l++AL+ +++  +  +eL++ +   L +a+
+#PP        79********************99999**********999977799888877666666665
+#SEQ       AFADILMVFEFLHNFGETLGFdmeSLPTLDSLQQALMPNEHSSEaeEELFSVMTHLLVCAI
+Tcas_XP_015837092.1   1183   1218   1175   1218 PF15612.7   WHIM1             Family    11    46    46     23.9   2.1e-05   1 No_clan  
+#HMM       LakggYveLspeeklkiLkaLcdlllessavReeie
+#MATCH     L+++++ +Lsp +k +iL +Lc++ll  +av+ +ie
+#PP        89**************************99997776
+#SEQ       LKDKPFMALSPTCKAEILAFLCNELLQNKAVIRQIE
+#CS        CCCSTCCCS-HHHHHHHHHHHHHHHCCC-CCHHHHH
+Tcas_XP_015837092.1   1335   1473   1334   1493 PF15613.7   WSD               Family     2    75    93     31.6   1.6e-07   1 No_clan  
+#HMM       rskpLGrDRfyrrYWlfdkstgrlfVeepsdsdteellakae..................................................eesek....ee.egvlgenewsvysske..............qldqllesL
+#MATCH     r ++ G+DR+ rrYW++  + g++fVe  ++ + e+ll++++                                                  +   k    ++ e ++ +n+  v+++ e               +d++++ L
+#PP        77899************.**********************99999999999999999999999999999999999998888887776655541...03444334666777777777777744444444444444555555555
+#SEQ       RASCFGQDRYWRRYWCL-SKAGGVFVEAMESAEPEVLLEQTQfdqstetinslndinklmnnvenindsnvdkevsnivgnnesteevekspV---KttddNDnEHRKTPNRLGVFENGEildksernlaelrkSVDDIVQNL
+Tcas_XP_015837092.1   1909   1955   1908   1956 PF00628.30  PHD               Domain     2    51    52     44.5   1.1e-11   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C++C++  d+e++l++CdgC++ +H++C kp++e  ++peg+w+C +C++
+#PP        ******.9************************99..9***********97
+#SEQ       CQFCHS-GDNEDKLLLCDGCDKGYHTYCFKPKME--NIPEGDWYCHECMN
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_015837092.1   1963   2011   1962   2012 PF00628.30  PHD               Domain     2    51    52     37.6   1.5e-09   1 CL0390   
+#HMM       CsvCkk.ksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C vC+k +s+ + +l++C+ C r++H++C++p +   ++p g+w+C+kC +
+#PP        ******888889*********************88..99999*******86
+#SEQ       CIVCGKkSSTSGTRLILCELCPRAYHTDCIHPIMH--KVPRGKWYCSKCIS
+#CS        BTTTTS.TTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tcas_XP_015837092.1   2093   2172   2093   2175 PF00439.26  Bromodomain       Domain     1    80    84     76.7   1.1e-21   1 No_clan  
+#HMM       lekilsellehklaepFlepvdpeefpdyyavikkPldLstIkkklesnkYksladfeadlkllfsNarkyngegsviye
+#MATCH     +++il++l  h++a pFl pv++++fp y+++ik P+dLstIkkkl +  Yks ++f  d++++f+N+  +n+++s++ +
+#PP        89**************************************************************************9976
+#SEQ       CKTILEDLECHDDAWPFLLPVNTKQFPTYKKIIKTPMDLSTIKKKLYDVSYKSKEEFVLDVRQIFNNCEVFNEDDSPVGK
+#CS        HHHHHHHBHTTTCGGGGCSTT-GCCSTTHHHH.SS---HHHHHHHHHTT--SSHHHHHHHHHHHHHHHHHHSHTTSHHHH
+Tcas_XP_972506.1         5     84      5     84 PF05485.13  THAP              Domain     1    86    86     49.5   5.8e-13   1 No_clan  
+#HMM       CvvpgCknrkkskskkkvsfhrfPkdeelrkkWlkaikrkdkkskkksksrvCskHFeeekkkkedekkrskkrkkLkpdavPtif
+#MATCH     C v +C + +++++++ v+fh++P+  + r+kW++ ++ ++ k+++k   ++Cs+HF      + d+++ ++k+  L++++ P++f
+#PP        9999****988888888**********************988887776.7*******.....77899*****************98
+#SEQ       CGVLDCLSDSNRREDTGVTFHKVPSHADTRQKWITLCRIPEDKKTTKV-IYICSRHF-----LRMDFCNFKGKKYILRQGVLPSVF
+Tcas_XP_972506.1       173    224    173    232 PF02820.19  MBT               Domain     2    53    69     21.2   0.00029   1 CL0049   
+#HMM       kLEavdpknpslicvAtVvkvl..grrllvrfdgwdesydfwcdadspdifPvG
+#MATCH     ++Ea+d++n    ++A++v+    g+ +l++f++ +++yd w+ +dsp++ P++
+#PP        6899997777..9******99889***************************975
+#SEQ       RIEALDNNNI--WYPARIVEEDyeGNEVLIHFEKFSSKYDEWICMDSPRLRPLQ
+Tcas_XP_972506.1       382    445    377    452 PF01429.20  MBD               Domain     6    70    77     44.0   1.4e-11   1 CL0081   
+#HMM       edcsvLpkGWrreerqrksGssankvdvfYysPtGkkfsskkevaayLenakqstsaklknFsfe
+#MATCH     + +++Lp GW ++  qr  G sa+k+d + +sP  ++f+sk+e+  yLe +k  ++   ++F+f+
+#PP        66899**********************************************9.699999999997
+#SEQ       VPDPRLPEGWTKHLAQRMHGASAGKWDTIIVSPENRRFRSKSEIKSYLEDTK-LMKYNWSMFDFT
+#CS        HHHCHCHCT-EEEEEEEESSTTTCEEEEEEE-TTS-EE-SHHHHHHHHHHCT-.SSS-CCCS---

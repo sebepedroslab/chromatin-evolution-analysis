@@ -1,0 +1,8 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Ngru_XP_002669958|Histone_H2B	Ngru_XP_002669958|Histone_H2B	H2B	FALSE	PAKTK KSTES KDK	Me3	K	3				49.99	PAKTKKSTESKDK	res
+Ngru_XP_002669958|Histone_H2B	Ngru_XP_002669958|Histone_H2B	H2B	FALSE	PAKTK KSTES K	Me3	K	3				49.91	PAKTKKSTESK	res
+Ngru_XP_002669958|Histone_H2B	Ngru_XP_002669958|Histone_H2B	H2B	FALSE	PAKTK KSTES K	Me3	K	3				33.33	PAKTKKSTESK	res
+Ngru_XP_002669958|Histone_H2B	Ngru_XP_002669958|Histone_H2B	H2B	FALSE	PAKTK KSTES KDK	Me3	K	5				49.85	PAKTKKSTESKDK	res
+Ngru_XP_002669958|Histone_H2B	Ngru_XP_002669958|Histone_H2B	H2B	FALSE	PAKTK KSTES K	Me3	K	5				48	PAKTKKSTESK	res
+Ngru_XP_002669958|Histone_H2B	Ngru_XP_002669958|Histone_H2B	H2B	FALSE	PAKTK KSTES K	Me3	K	5				33.33	PAKTKKSTESK	res
+Ngru_XP_002669958|Histone_H2B	Ngru_XP_002669958|Histone_H2B	H2B	FALSE	PAKTK KSTES K	Me3	K	6				33.33	PAKTKKSTESK	res

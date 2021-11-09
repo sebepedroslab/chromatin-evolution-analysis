@@ -1,0 +1,4 @@
+in_gene	out_gene	branch_support	ev_type	sos
+Obazoa|Nvec_NVE15832	ArchaeCry|Smoe_EFJ28345	1.0	S	0.0
+Obazoa|Nvec_NVE15832	ArchaeCry|Sphfal_Sphfalx17G043800.1.p	1.0	S	0.0
+ArchaeCry|Sphfal_Sphfalx17G043800.1.p	ArchaeCry|Smoe_EFJ28345	100.0	D	1.0

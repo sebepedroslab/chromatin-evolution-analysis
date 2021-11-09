@@ -1,0 +1,11 @@
+in_gene	out_gene	branch_support	ev_type	sos
+Coka_g571.t1	Phakir_PHAKIR_17162.mRNA.1	1.0	S	0.0
+Coka_g571.t1	Spimul_21852_TR10722_c0_g1	1.0	S	0.0
+Coka_g571.t1	Cavfas_EGG16285	1.0	S	0.0
+Nutlon_comp18756_c0_seq1.p1	Phakir_PHAKIR_17162.mRNA.1	1.0	S	0.0
+Nutlon_comp18756_c0_seq1.p1	Spimul_21852_TR10722_c0_g1	1.0	S	0.0
+Nutlon_comp18756_c0_seq1.p1	Cavfas_EGG16285	1.0	S	0.0
+Coka_g571.t1	Nutlon_comp18756_c0_seq1.p1	89.0	S	0.0
+Cavfas_EGG16285	Phakir_PHAKIR_17162.mRNA.1	89.0	S	0.0
+Cavfas_EGG16285	Spimul_21852_TR10722_c0_g1	89.0	S	0.0
+Phakir_PHAKIR_17162.mRNA.1	Spimul_21852_TR10722_c0_g1	97.0	S	0.0

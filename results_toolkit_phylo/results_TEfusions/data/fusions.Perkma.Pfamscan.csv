@@ -1,0 +1,74 @@
+# pfam_scan.pl,  run at Wed Jan 20 14:03:39 2021
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Perkma.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Perkma_EER04439    951   1005    951   1006 PF17921.2   Integrase_H2C2    Domain     1    55    58     35.0   1.1e-08   1 CL0361   
+#HMM       vpkslrkeilkelHdsagHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrr
+#MATCH     +p+sl  e    +H ++gH+G+++tl+ + +  + p+ r++ k+ vk C +C+ +
+#PP        7999************************************************976
+#SEQ       IPESLALEYATAVHVEGGHCGVRATLSAMYQSAWGPKFRRHAKRAVKGCLACATT
+Perkma_EER04439   1336   1384   1336   1386 PF00628.30  PHD               Domain     1    50    52     45.4   5.4e-12   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     +C +C++   ++  +v CdgC++wfH +Cl+++++s+ +  +ew+C+ C 
+#PP        5******.999**************************************7
+#SEQ       VCPLCQD-LRDDMVMVACDGCNQWFHISCLGLSEDSDAILADEWFCQDCL
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Perkma_EER09039    162    373    160    374 PF13621.7   Cupin_8           Domain     3   226   254     81.3   9.4e-23   1 CL0029   
+#HMM       effreyvakskPviitgalkdwpalqkwtddeylleylkekagdvkvsveetpdgeadsldendelkfvepeeeemtfeeflde..learrdtrsetylylqnanlaeefpelkad.sdlpfateaf.gke.peavnlWlGnsasvsslHkDhyeNlycvvrGrKeftLfpPsdapnlyeaslsptedgtvvswvdve..epdderfprlrdakkalevtlnaGevLylPa
+#MATCH     +f +ey   +kPv i+g ++ wp +q w+d    +    +k+gd+ v +e++   +            ++ +++ m+++++++e  l+ ++d+ +++ +yl++ +++ +++el+++ +  p+++ ++ g e      l++G++++ s++H+D+ +N+ c+v G K ++Lf+Ps+ ++ly+ +     ++ ++ + d++   +d er+p++++a  + e+ lnaG++L+lP 
+#PP        67799************************9...45667788999999998886..333..........446899********9876778888888899****************9843..44444441444466778******************************************997433.333333344433525666*********.9***************5
+#SEQ       RFLTEYYVPQKPVKIRGLVSRWPGVQSWKD---PDHWTHSKYGDRLVPIEVGG--YMS----------STYSQQLMKLRDYVEEhlLKPGKDNADKSIAYLAEYEIFNQIRELENEvQ--PVPDICLsGDEgIVRRLLFFGPAGTASQTHRDADNNMKCMVVGSKYVRLFSPSQEKCLYPLQRGI-LTNNSTLPTDILtePIDTERYPLYKEA-IYSEAILNAGDALFLPN
+Perkma_EER09039    836   1092    836   1108 PF03372.24  Exo_endo_phos     Domain     1   209   236     31.3   1.5e-07   1 CL0530   predicted_active_site[1013] 
+#HMM       ltwNvngqk...spalgssrrsdrladlltaydaDvlgLQEvdddelsriplllal.......ggvlgaslhsrpg....tgggggggnggavlsrfpl...............fslfrrtfiefndlvaatrreplaakleqlni........................shrdhdlvrdlqllalllqvealnadfgapvivaGDfNarpsdddsrvtrtrglalapapp....................gr.....glyllgggptptyvtraggsrlDyilasp
+#MATCH     l+wN+ng +   +++++ s  ++ ++++l      ++ L E++  ++    +  +l       +                   g++g+ g+avl ++ +               + ++ r f++  d+ + t                                      + r+  ++ ++  +      +  +++  +p+i+aGD+Na  sd d  +tr  + +     +                     r      +  + +  ++     ++g r+Dyil+s+
+#PP        79******5577888898888888888884....79*****99999999988887776555430...........233344567777777777777777544332222221111333333333333333333.............155555556666679999****99999999999999999999999999****************9999999997755555544..345888888777776666654116667799999999999999999***********7
+#SEQ       LSWNINGLRgflKSEANVSCLNRLVRNELP----AIMVLTETKLTQEKKDRAFTKLldslpvrY-----------DvfsaESAGRKGYAGVAVLLKRAVdvgyddglclihepiTGIPSRFFDGEQDEEEDT-------------TsgrvltielrqctlvavyvpnsggDLRFLEYRSKWDVAFRRYMKWLRSRAGEKPLIIAGDLNACGSDLDIGDTRREAPHSPS--IqpceveaferlqrevslcdtFRivhpeVAGVYSFYCNAYEKKLNFGRRIDYILVSS
+#CS        EEEEESTGC...HHHHTHHHHHHHHHHHHHHSTTSEEEEEEEBSCTCHHHHHHHHH.......TTCECTCEEEEEE....ECSSSTTSSEEEEEECSTE...............EEEEEEEEEETSSSSGCEEEEEEEEEEEEEEE........................CCHHGHHHHHHHHHHHHHHHHHHHHHTTSEEEEEEE-SSSTSGGGBSCGHHHHHHCTTTHH....................HH.....SSCESCETTTTTTTTTTTEB-BEEEEEEC
+Perkma_EER09039   1389   1549   1389   1549 PF00078.28  RVT_1             Family     1   222   222     66.3   2.8e-18   1 CL0027   
+#HMM       ipKkgpgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     i Kkg g++R++     d++ ln+l+             +++p   +              l++  ++k+++ +D k++F++vpl+  +r+ltaf+++                          g+++++++p+G++ SP ++++ mn++  ++  r     +++Y DD +++s  +  + e+le +++  +++ +++ + K +l+     ++++ky G+++
+#PP        78999.*****9....8*******9999.........78888888888.............8899*********************************.........................9*******************************97....8********************************************.....9*******976
+#SEQ       IAKKG-GGWRVV----QDFRRLNQLTEI---------PRYPLPLVAQV-------------LDELSSSKIYSAFDAKSGFWQVPLASKSRYLTAFGTH-------------------------VGQFQWRRMPMGLAGSPPTYQRGMNRAYAPILYR----CCILYLDDAVLYSLLRAGHFEALELFFDLTRDAHITLTARKMQLF-----RTTLKYVGMRI
+#CS        EE-TT.S-EEE......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Perkma_EER09039   1638   1742   1638   1742 PF17917.2   RT_RNaseH         Domain     1   105   105    106.6   7.6e-31   1 CL0219   
+#HMM       dpskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     ++sk+f+l+tDAs++g g+vL qr+ + +er+ia+ Sr++ + er ++  eke++A v  +++fr+ylq ++f+++tD +nl++ll+++++++rl+rwa  Ls+y
+#PP        589************************************************************************************99999***********99
+#SEQ       NFSKEFELHTDASDVGYGGVLIQRDAEHRERVIAYGSRAVGDLERSWTSQEKECYAAVIFVEEFRPYLQDRPFKLVTDAANLRWLLTTEHTTPRLMRWAIRLSAY
+#CS        -TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Perkma_EER09039   1792   1992   1787   1995 PF02562.17  PhoH              Domain     8   202   205    169.0   9.3e-50   1 CL0023   
+#HMM       eQkeyvealk..kndivfaiGpaGtGKtylavalavkalkkkkvkriiltrpaveageelGflpgdleekvdpylrplydaLkdllgaekvekllekgkievaplaymRGrTlndafvilDEAQnttkeqmkmfltRlGenskvvvtGdvtqidlpkkkksGlaealevlknve.....gieivelkkkdvvRhplvkkivk
+#MATCH     + +ey+eal+  + ++v + GpaGtGK++la  +a+k l k++vkrii+trp+v +g ++G+ +g ++ek+  ++rpl + L+ +l++ +v++l  +g i+v+p++++RG +l+d+ +ilDEAQn++ +++  +ltR G +s++vv Gd++q+d  ++ +sG +e+l+++ +       +i+ v l+k+d+ R+p+vk +++
+#PP        56789*****99999*********************************************************************************************************************************************98.9*****999998854445678999**************98776
+#SEQ       KTSEYLEALEdpRAEVVLVSGPAGTGKSMLACEAAAKSLDKGRVKRIIITRPVVPVGRDIGYVKGSVAEKMALWVRPLLSYLSRFLSEGRVKELQAEGSIQVIPISMIRGYSLDDTWLILDEAQNCSASELWAVLTRAGIGSRMVVIGDMEQCDVSRD-SSGFQELLNKVAKLGpepplSIRSVVLTKADCKRSPVVKLLLE
+#CS        HHHHHHHHHH..H-SEEEEE--TTSSTTHHHHHHHHHHHHTTS-SEEEEEE-S--TT----SS---------TTTHHHHHHHTTTS-TTCHHHHHHTTSEEEEEGGGGTT--B-SEEEEE-SGGG--HHHHHHHHTTB-TT-EEEEEE--------------THHHHHHTTT-T.....TEEEEE--GGG----HHHHHHHH
+Perkma_EER09039   2340   2395   2340   2398 PF17921.2   Integrase_H2C2    Domain     1    54    58     60.3   1.4e-16   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqr
+#MATCH     vp++lr  +l  +H+   +gH+G+  ++++lrr++yW+gm +d+ +yv++C tC  
+#PP        89****************************************************86
+#SEQ       VPQALRASLLDLYHNGleSGHPGRYGMYNMLRRQFYWKGMWRDCSDYVRHCITCRS

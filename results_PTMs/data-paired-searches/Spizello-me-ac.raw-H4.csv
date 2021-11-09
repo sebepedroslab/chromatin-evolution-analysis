@@ -1,0 +1,3 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Spun_SPPG_03268|Histone_H4	Spun_SPPG_03268|Histone_H4	H4	FALSE	GKGIK R	Me1	K	5				100	GKGIKR	res
+Spun_SPPG_04875|Histone_H4	Spun_SPPG_04875|Histone_H4	H4	FALSE	SGRGK GGKGL GKGGA KR	Me1	K	5				99.91	SGRGKGGKGLGKGGAKR	res

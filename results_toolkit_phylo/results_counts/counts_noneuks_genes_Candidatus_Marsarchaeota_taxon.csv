@@ -1,0 +1,17 @@
+Histone	LinkerHistone	Acetyltransf_1	GNAT_acetyltr_2	Hat1_N	KAT11	MOZ_SAS	Hist_deacetyl	SIR2	DOT1	SET	SWIRM	CupinJmjC	ADD_ATRX	ADD_DNMT3	BAH	BIR	Bromodomain	Chromo	ING	MBT	MRG	PHD	PWWP	SAWADEE	TTD	TUDOR	zf-CW	YEATS	SNF2_N	ASF1_hist_chap	CAF1A	CHZ	Daxx	Hira	HJURP_mid	NAP	Rtt106	SPT16	SSrecog	zf-CCHH	UBN_AB	Nucleoplasmin	ATF7IP	PA1	Dpy-30	Menin	NCOA6	PTIP	TRRAP	AF9	PCRing	YAF2_RYBP	SAM	SLED	Suz12	CAF1C	Kelch	zf-C2H2	zf-CXXC	WD40	total
+Sum	0	0	15	12	0	0	0	12	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	15
+Candidatus Marsarchaeota G1 archaeon BE_D	0	0	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Candidatus Marsarchaeota G1 archaeon OSP_B	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Candidatus Marsarchaeota G1 archaeon OSP_C	0	0	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Candidatus Marsarchaeota G1 archaeon OSP_D	0	0	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Candidatus Marsarchaeota G2 archaeon BE_D	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Candidatus Marsarchaeota G2 archaeon ECH_B_1	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Candidatus Marsarchaeota G2 archaeon ECH_B_2	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Candidatus Marsarchaeota G2 archaeon ECH_B_3	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Candidatus Marsarchaeota G2 archaeon ECH_B_SAG-C16	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Candidatus Marsarchaeota G2 archaeon ECH_B_SAG-E12	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Candidatus Marsarchaeota G2 archaeon ECH_B_SAG-F08	0	0	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Candidatus Marsarchaeota G2 archaeon ECH_B_SAG-G06	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Candidatus Marsarchaeota G2 archaeon ECH_B_SAG-G16	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+Candidatus Marsarchaeota G2 archaeon ECH_B_SAG-M15	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Candidatus Marsarchaeota G2 archaeon OSP_D	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1

@@ -1,0 +1,3 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Ehux_461181|Histone_H3	Ehux_461181|Histone_H3	H3	FALSE	KSTGG KAPR	Me3	K	1				100	KSTGGKAPR	res
+Ehux_461181|Histone_H3	Ehux_461181|Histone_H3	H3	FALSE	KSAPA TGGVK KPHR	Me3	K	1				100	KSAPATGGVKKPHR	res

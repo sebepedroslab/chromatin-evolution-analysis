@@ -1,0 +1,7 @@
+in_gene	out_gene	branch_support	ev_type	sos
+Cavfas_EGG18413	Amobb2_AMBB2_03820.mRNA.1	1.0	S	0.0
+Cavfas_EGG18413	Tielac_KYQ89064	1.0	S	0.0
+Cavfas_EGG18413	Amobb2_AMBB2_07359.mRNA.1	1.0	S	0.0
+Tielac_KYQ89064	Amobb2_AMBB2_03820.mRNA.1	1.0	S	0.0
+Tielac_KYQ89064	Amobb2_AMBB2_07359.mRNA.1	1.0	S	0.0
+Amobb2_AMBB2_03820.mRNA.1	Amobb2_AMBB2_07359.mRNA.1	100.0	D	1.0

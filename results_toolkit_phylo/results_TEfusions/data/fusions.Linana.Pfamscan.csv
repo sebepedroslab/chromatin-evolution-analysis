@@ -1,0 +1,167 @@
+# pfam_scan.pl,  run at Fri Jan 22 09:15:03 2021
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Linana.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Linana_g13617.t1    173    261    171    263 PF03732.18  Retrotrans_gag    Family     3    94    96     30.0   4.7e-07   1 CL0523   
+#HMM       astslegaAkswlkslvarsidasesWkdlkkaflktflpse..rkdqleeelsslrQgtesvreYvtrfktladqldevlteeakiekflaGL
+#MATCH     +++ l++aA+ w+++l +++ +   + +++ + f+++f+p++  ++++  + +++++++++ v++Y++  ++ a++++  l++e+ i+++l+GL
+#PP        7899******************...788888888888888541166777788889999********************..*************9
+#SEQ       FPLLLRNAALDWFDTLSDDEKN---TMDNIADSFKTRFQPTAssKWATVSSLFQRCQKPSQAVQDYIADVRREAQKVK--LPDEQTIQAILHGL
+Linana_g13617.t1    563    607    563    609 PF00385.25  Chromo            Domain     1    52    54     28.7   9.4e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkg.lpysentWEpeenlekcfqelideFk
+#MATCH     +eVe++++ +  k+ +  +YlVKWkg +p+   +WEp +n++   q li+eF+
+#PP        69**************..********7776...6*******9...55*****8
+#SEQ       FEVEKLLKCKPIKGVK--HYLVKWKGnYPP---SWEPHSNVS---QALIREFH
+#CS        EEEEEEEEEEEETTEECEEEEEEETT.STGGGTEEEEGGGCTSCSHHHHHHHH
+Linana_g14443.t1     42    328      3    329 PF00176.24  SNF2_N            Family    51   349   350    197.4   2.7e-58   1 CL0023   
+#HMM       akqsvrGG...iLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk................mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH     ++ s++ G   iLaDemGLGKT+q++ ++    + +++ +        +gp+L+ +P s++ +We+e+e ++++  +  +v++++++                   k +k+ ++   +++v++t+Y+ +s ++       +l +v+w  +v+DE+h+lkn++sk  +++s ++  ++++ltGTP+qn+le+l+ Ll+f+ ++ f + q+f + + +  +   e+++++L+++l + +lrr k+dv k +P k+e i++++ls++++k+Y+             +l+r+  al++   ++  +l++++ l+++cnhp+l
+#PP        455666663337******************...4444444.......449*******************************999999***************94445568999*****************999......9***********************************************************************99987666...9***********************************************............6666666666666644466***************98
+#SEQ       LRYSWCHGihtILADEMGLGKTIQTIVFLY---SLYKEGH-------SKGPFLVSAPLSTIINWEREFEFWAPDFYVVTYVGDKDSRavirehefsfeegairGGTKASKMRKECPVKFHVLLTSYELISIDQ------ATLGSVDWGVLVVDEAHRLKNNQSKFFKVLSAYKIGYKLLLTGTPLQNNLEELFHLLNFMSPDDFRNLQVFLDEFADIGK---EEQVKKLHDMLGPHLLRRLKADVLKGIPSKSEFIVRVELSPMQKKYYK------------YILTRNFEALNARGGNNVSLLNIMMDLKKCCNHPYL
+#CS        HHHTT--E...EE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH................HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Linana_g14443.t1    356    468    354    468 PF00271.32  Helicase_C        Family     3   111   111     74.2   9.8e-21   1 CL0023   
+#HMM       leallell.kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     le l ++l  l+eeg+++lif++ +++l+ ++ +le +g+k+ +++g  +   r++++++fn   + +  +L++t++++ Gi++  +++Vi++d ++n+++ iq+  R++R+g
+#PP        566666666679****************99899999**************************954445669****************************************97
+#SEQ       LELLSKMLnILKEEGHRVLIFSQMTKMLDILEDFLECEGYKYERIDGGVTGTLRQDAIDRFNmngSPSMVFLLSTRAGGLGINLATADTVIIYDSDWNPHNDIQAFSRAHRIG
+#CS        HHHHHHHH.HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Linana_g14443.t1    590    648    590    651 PF06465.14  DUF1087           Domain     1    62    65     91.0   3.6e-26   1 No_clan  
+#HMM       eaeeeeaekevikekieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsve
+#MATCH     e+eeee+eke++k+  e  e+ dp+YWekLL++hYEqqqe+ +r+LGKGKRvRKqvNY++++
+#PP        57999*********..6.99***************************************975
+#SEQ       EEEEEEEEKEILKQ--E-VEHADPAYWEKLLRHHYEQQQEDLARTLGKGKRVRKQVNYNDAM
+Linana_g14443.t1    671    808    668    809 PF06461.12  DUF1086           Domain     5   137   138    190.7   9.7e-57   1 No_clan  
+#HMM       arrksrkkar.sdkdepl.PllegegkslevLGFnerqRkaflnalmRyGv...gdfdskelvrelkqktedeikaYgslFlrHlaeegadnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipgkpvlpd
+#MATCH     + r  r++    +kd+pl Pll+++++++evLGFn+rqRkaflna+mR+G+   ++f+s++lvr+l+ k+e+ +kaY+slF+rHl+e+gadn++tfaDGvP+eGlsrq+vl+ri+++sLv+kkv+e+e+i+g+ ++p 
+#PP        55665555541589*************************************************************************************************************************985
+#SEQ       GSRGGRRRGGvPEKDRPLpPLLARVNGQIEVLGFNARQRKAFLNAVMRWGMppqDAFNSHWLVRDLRGKSEKVFKAYVSLFMRHLCEPGADNADTFADGVPREGLSRQHVLTRIGIMSLVRKKVQEFEAINGTESMPY
+Linana_g22212.t1     26     75     26     77 PF08073.13  CHDNT             Domain     1    50    54     81.2   3.7e-23   1 CL0114   
+#HMM       eieYdeedyqnltnyKlFsqhvrPlllkenPkvpvsKlmmLvaakwreFq
+#MATCH     e+eY++ed+ nlt+yK++s+h+rPll+kenPk p++K+  LvaakwreF 
+#PP        68***********************************************7
+#SEQ       ELEYSDEDFVNLTTYKAYSAHIRPLLAKENPKCPMTKMTSLVAAKWREFL
+Linana_g22212.t1    224    544    215    545 PF00176.24  SNF2_N            Family    21   349   350    196.1   6.6e-58   1 CL0023   
+#HMM       aalrkllktldgekiyvnpatgevveesae....akqsvrGG...iLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk................mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH     +++ +l+++ld ++ y+  + g++   ++e    ++ s++ G   iLaDemGLGKT+q++ ++    + +++ +        +gp+L+ +P s++ +We+e+e ++++  +  +v++++++                   k +k+ ++   +++v++t+Y+ +s ++       +l +v+w  +v+DE+h+lkn++sk  +++s ++  ++++ltGTP+qn+le+l+ Ll+f+ ++ f + q+f + + +  +   e+++++L+++l + +lrr k+dv k +P k+e i++++ls++++k+Y+             +l+r+  al++   ++  +l++++ l+++cnhp+l
+#PP        5555666666666666666655554444332222455666663337******************...4444444.......449*******************************999999***************94445568999*****************999......9***********************************************************************99987666...9***********************************************............6666666666666644466***************98
+#SEQ       VPVVDLKRKLDQQPDYIDITGGTLHPYQLEglnwLRYSWCHGihtILADEMGLGKTIQTIVFLY---SLYKEGH-------SKGPFLVSAPLSTIINWEREFEFWAPDFYVVTYVGDKDSRavirehefsfeegairGGTKASKMRKECPVKFHVLLTSYELISIDQ------ATLGSVDWGVLVVDEAHRLKNNQSKFFKVLSAYKIGYKLLLTGTPLQNNLEELFHLLNFMSPDDFRNLQVFLDEFADIGK---EEQVKKLHDMLGPHLLRRLKADVLKGIPSKSEFIVRVELSPMQKKYYK------------YILTRNFEALNARGGNNVSLLNIMMDLKKCCNHPYL
+#CS        ............................HH....HHHTT--E...EE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH................HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Linana_g22212.t1    572    684    570    684 PF00271.32  Helicase_C        Family     3   111   111     73.0   2.3e-20   1 CL0023   
+#HMM       leallell.kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     le l ++l  l+eeg+++lif++ +++l+ ++ +le +g+k+ +++g  +   r++++++fn   + +  +L++t++++ Gi++  +++Vi++d ++n+++ iq+  R++R+g
+#PP        566666666679****************99899999**************************954445669****************************************97
+#SEQ       LELLSKMLnILKEEGHRVLIFSQMTKMLDILEDFLECEGYKYERIDGGVTGTLRQDAIDRFNmngSPSMVFLLSTRAGGLGINLATADTVIIYDSDWNPHNDIQAFSRAHRIG
+#CS        HHHHHHHH.HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Linana_g22212.t1    806    864    806    867 PF06465.14  DUF1087           Domain     1    62    65     90.0   7.7e-26   1 No_clan  
+#HMM       eaeeeeaekevikekieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsve
+#MATCH     e+eeee+eke++k+  e  e+ dp+YWekLL++hYEqqqe+ +r+LGKGKRvRKqvNY++++
+#PP        57999*********..6.99***************************************975
+#SEQ       EEEEEEEEKEILKQ--E-VEHADPAYWEKLLRHHYEQQQEDLARTLGKGKRVRKQVNYNDAM
+Linana_g22212.t1    887   1024    884   1025 PF06461.12  DUF1086           Domain     5   137   138    189.5   2.3e-56   1 No_clan  
+#HMM       arrksrkkar.sdkdepl.PllegegkslevLGFnerqRkaflnalmRyGv...gdfdskelvrelkqktedeikaYgslFlrHlaeegadnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipgkpvlpd
+#MATCH     + r  r++    +kd+pl Pll+++++++evLGFn+rqRkaflna+mR+G+   ++f+s++lvr+l+ k+e+ +kaY+slF+rHl+e+gadn++tfaDGvP+eGlsrq+vl+ri+++sLv+kkv+e+e+i+g+ ++p 
+#PP        55665555541589*************************************************************************************************************************985
+#SEQ       GSRGGRRRGGvPEKDRPLpPLLARVNGQIEVLGFNARQRKAFLNAVMRWGMppqDAFNSHWLVRDLRGKSEKVFKAYVSLFMRHLCEPGADNADTFADGVPREGLSRQHVLTRIGIMSLVRKKVQEFEAINGTESMPY
+Linana_g22212.t1   1436   1561   1435   1561 PF08074.12  CHDCT2            Domain     2   126   126    214.5   4.1e-64   1 No_clan  
+#HMM       yeiWhrrhDyWllagvvlhGyarwqDilndprfsiinepfkeesekgnfleiknkflarrfklleqalvieeqlrraaklnl.qeeeenvgalaqrfaelellaeahqhlskeslagnknanavlh
+#MATCH     +e+WhrrhDyWllag+v+hGy+rwqDi+nd rf+iinepfk e+ kgnfleiknkflarrfklleqalvieeqlrraa+lnl q+ +++++al++rfaele+lae+hqhlskeslagnk+anavlh
+#PP        79*******************************************************************************99999**************************************98
+#SEQ       HEVWHRRHDYWLLAGIVTHGYGRWQDIQNDVRFAIINEPFKGEVGKGNFLEIKNKFLARRFKLLEQALVIEEQLRRAAYLNLtQDPNHPAMALNARFAELECLAESHQHLSKESLAGNKPANAVLH
+Linana_g22500.t1    173    261    171    263 PF03732.18  Retrotrans_gag    Family     3    94    96     31.4   1.8e-07   1 CL0523   
+#HMM       astslegaAkswlkslvarsidasesWkdlkkaflktflpse..rkdqleeelsslrQgtesvreYvtrfktladqldevlteeakiekflaGL
+#MATCH     +++ l++aA+ w+++l +++ +   + +++ + f+++f+p++  ++++  + +++++++++ v++Y+++ ++ a++++  l++e+ i+++l+GL
+#PP        7899******************...888888888888888541166677788889999********************..*************9
+#SEQ       FPLLLRNAALDWFDTLSDDEKN---TMDNIAESFKTRFQPTAssKWATVSSLFQRCQKPSQAVQDYIAEVRREAQKVK--LPDEQTIQAILHGL
+Linana_g22500.t1    561    605    561    607 PF00385.25  Chromo            Domain     1    52    54     26.4   4.8e-06   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkg.lpysentWEpeenlekcfqelideFk
+#MATCH     +eVe++++ +  ++ +  +YlVKWkg +p+   +WEp +n++   q li+eF+
+#PP        69********999999..********8998...6*******9...55*****8
+#SEQ       FEVEKLLKCKPIRGVK--HYLVKWKGdYPP---SWEPHSNVS---QALIREFH
+#CS        EEEEEEEEEEEETTEECEEEEEEETT.STGGGTEEEEGGGCTSCSHHHHHHHH
+Linana_g25710.t1     36     88     35     88 PF08073.13  CHDNT             Domain     2    54    54     70.4   8.5e-20   1 CL0114   
+#HMM       ieYdeedyqnltnyKlFsqhvrPlllkenPkvpvsKlmmLvaakwreFqehnp
+#MATCH     +eY+e+dyqnl++y  F qh+rPl+ ++n k+  sK+ +L+aakw+eFq++np
+#PP        79*************************************************98
+#SEQ       VEYTEADYQNLSTYSIFVQHIRPLIYQANTKISSSKTSNLIAAKWKEFQASNP
+Linana_g25710.t1    395    437    395    438 PF00628.30  PHD               Domain     1    51    52     36.7     3e-09   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C++C++    ++++++Cd+C r++H kCl+++     +p g+w+C++C+e
+#PP        7******....********************99....668999******97
+#SEQ       YCEICQE----GGDIILCDNCPRSYHLKCLELD----AVPRGRWICQQCTE
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Linana_g25710.t1    445    489    445    490 PF00628.30  PHD               Domain     1    51    52     36.5   3.3e-09   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C+vCk+    ++++++C++C + +H +Cl+ppl+  e+pegew C++C++
+#PP        7******....***********************9..************97
+#SEQ       FCRVCKD----GGDVICCETCPSVYHLECLNPPLK--EVPEGEWKCPRCSC
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Linana_g25710.t1    616    667    615    669 PF00385.25  Chromo            Domain     2    52    54     46.4   2.7e-12   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekc..fqelideFk
+#MATCH     +++rIi+h t+k+g+  +YlVKWk+l y+ +tWE+e++ ++   f+++++e++
+#PP        689************.********************999988999******98
+#SEQ       QIHRIINHNTKKNGQ-VQYLVKWKELCYDACTWEDEDTAKEVvdFEKFVEEYN
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSC..SHHHHHHHH
+Linana_g25710.t1    670    711    667    713 PF00385.25  Chromo            Domain    12    52    54     33.5   2.9e-08   1 CL0049   
+#HMM       dkdgleleYlVKWkglpysentWEpeenlekc..fqelideFk
+#MATCH     +k+g+  +YlVKWk+l y+ +tWE+e++ ++   f+++++e++
+#PP        34555.7*******************999988999******98
+#SEQ       RKNGQ-VQYLVKWKELCYDACTWEDEDTAKEVvdFEKFVEEYN
+#CS        ETTEECEEEEEEETTSTGGGTEEEEGGGCTSC..SHHHHHHHH
+Linana_g25710.t1    761   1041    747   1042 PF00176.24  SNF2_N            Family    54   349   350    199.7   5.3e-59   1 CL0023   
+#HMM       svrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk................mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH     +  + iLaDemGLGKT+q++a++         +k    +++ +gp+Li +P s++ +We+e+e +++++ +  +v++++++                ++ + +k+ +  + ++dv++t+Y+ +s ++      ++l +v+w+ +v+DE+h+lkn+ts    ++s+++  ++++ltGTP+qnsle+l+ Ll+f+ +++f++ + f + +++ ++   ++++ +L+++l + +lrr k+dv kn+P k+e i++++ls+ ++k+Y+             +l+r+  al+s+  ++  + + ++ lr++cnhp+l
+#PP        56789*******************......3444....357789***************************99999998889*************9977777789999****************999......9**************************************************************************99888...99**********************************************............555555555555554445578899**********98
+#SEQ       QRTNTILADEMGLGKTIQSIAFLY------SLWK----EGHSSGPFLISAPLSTIVNWEREFEFWAPEMYVVTYVGEKKSRqrirdyefsyqedaikRSVRPSKMREGAQVKFDVLLTNYELISLDK------TTLGSVDWDVLVVDEAHRLKNNTSLFFRVLSEYNIAYKLLLTGTPLQNSLEELFNLLNFMSPGKFDDMEQFLEEFSDISK---DEQVLKLHEMLGPHLLRRLKADVLKNIPSKSEFIVRVELSPLQKKFYK------------YILTRNFEALNSKGMNRVSLQNVMMDLRKCCNHPYL
+#CS        TT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH................HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Linana_g25710.t1   1069   1174   1067   1175 PF00271.32  Helicase_C        Family     3   104   111     56.9   2.4e-15   1 CL0023   
+#HMM       leallell.kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqri
+#MATCH     le l ++l  l++ ++++lif++ ++ l+ ++ +l  +++ + +++g+++ + r+e++++fn   ++++ +L++t++++ Gi++  +++Vi++d ++n+++ iq +
+#PP        56666666667999************9988777778889***********************87778888**********************************75
+#SEQ       LELLSKMLkVLKRTNHRVLIFSQMTRVLDILEDFLIYEKLGFERIDGSISGQARQEAIDRFNapgAEQFVFLLSTRAGGLGINLATADTVIIYDQDWNPHNDIQIR
+#CS        HHHHHHHH.HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHH
+Linana_g25710.t1   1198   1245   1187   1245 PF00271.32  Helicase_C        Family    64   111   111     34.4   2.2e-08   1 CL0023   
+#HMM       kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     ++++ +L++t++++ Gi++  +++Vi++d ++n+++ iq+  R++R+g
+#PP        566779****************************************97
+#SEQ       AEQFVFLLSTRAGGLGINLATADTVIIYDQDWNPHNDIQAFSRAHRIG
+#CS        TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Linana_g25710.t1   1366   1424   1358   1427 PF06465.14  DUF1087           Domain    10    62    65     43.0   3.5e-11   1 No_clan  
+#HMM       evikekieenesedpdYWekLLkdhYEqqqeeel.......raLGKGKRvRKqvNYvsve
+#MATCH     e  +e++e + ++dp YWekLL+  Y+  + ee+        +LG+GKR RKqvNY + +
+#PP        22222223.7899**************9987764222222257*************9865
+#SEQ       EEEEEEKE-KDKNDPTYWEKLLRPSYDHIKTEEMleearkiASLGRGKRQRKQVNYRDDG
+Linana_g25710.t1   1498   1622   1491   1628 PF06461.12  DUF1086           Domain    10   131   138    137.4   2.9e-40   1 No_clan  
+#HMM       rkkarsdkdepl.PllegegkslevLGFnerqRkaflnalmRyGv...gdfdskelvrelkqktedeikaYgslFlrHlaeegadnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipg
+#MATCH     + k++  +++   Pll +++++++vLGF +r+Rkafl+ +mR+G+   ++++s+++ +el+   e+++kaY++lF+rHl+e+  ++++t+ DGvP eGlsrq+vl+ri+++sL+++k++e+e+ + 
+#PP        22233.3344455************************************************************************************************************98765
+#SEQ       EDKKK-AATKTFpPLLSKVNGQVQVLGFTARKRKAFLEQVMRFGMpieDAYNSQWMNKELQDIPEHHFKAYVALFMRHLCENVPEKADTYHDGVPCEGLSRQHVLTRIGIMSLIRRKINEYESSEV
+Linana_g25710.t1   2034   2130   2031   2145 PF08074.12  CHDCT2            Domain     4   101   126     78.7   4.3e-22   1 No_clan  
+#HMM       iWhrrhDyWllagvvlhGyarwqDilndprfsiinepfkeesekgnflei.knkflarrfklleqalvieeqlrr.aaklnlqeeeenvgalaqrfaele
+#MATCH      Whr  DyWllagv++hGyarw+Di++dprf++i ep ++ +   ++l i  n flarr ++le al+ie +l   +++l+++e++e++ ++a ++++ +
+#PP        6*************************************9987...466662589******************9863678888888888888877776655
+#SEQ       YWHRLQDYWLLAGVITHGYARWSDIATDPRFAVIMEPLNNLK---RYLSIsANDFLARRCQMLEWALAIEQRLAClVTQLTREERDEKIRDVAIKLSQAK

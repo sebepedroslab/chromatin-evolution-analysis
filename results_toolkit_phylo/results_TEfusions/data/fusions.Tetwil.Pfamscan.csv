@@ -1,0 +1,232 @@
+# pfam_scan.pl,  run at Fri Dec 18 14:51:42 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Tetwil.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Tetwil_Twilhelma_g17013.t1     63    126     40    128 PF03101.16  FAR1              Domain    24    88    90     28.7   1.7e-06   1 CL0274   
+#HMM       kdgeiirrkfvCskeGfkkekkktkeakrerastrtgCkAmlvvkkekegk.wvvtklvkeHNHel
+#MATCH      + +  + k++C + G   +++ +   +r+ ++ r +C A +++k + +g+  +v+++++eHNHe+
+#PP        556778899****99998887777..999999***************9875389**********98
+#SEQ       PELKYFELKYCCIHGGQAYKSRGK--GTRSTSTFRQDCSAHIYLKINGDGTaLQVRSVSQEHNHEV
+Tetwil_Twilhelma_g17013.t1    240    332    239    334 PF10551.10  MULE              Domain     2    96    98     56.3   3.5e-15   1 CL0219   
+#HMM       lvlDgTYktnkyklpLftvvgvdsngqvvpiafalveneteesfewllqelkelleeasg.espkviitDrdkalknaleevfPeakhrlCifHin
+#MATCH     l+lD+TYk  +++lp + +++ d+ng + +ia+ l+ +e+++s++w+++   ++++++    + +++++D+d ++++ +++++P+a  ++C+fH+ 
+#PP        89***********************************************...********99********************************86
+#SEQ       LCLDATYKLLELRLPVYIMLCEDANGMSEIIAVCLLVQEDADSITWMVD---SFKKHNPDwPKIRIVMADKDIGERDVIKRCVPNASVLICLFHTL
+Tetwil_Twilhelma_g17013.t1    879    923    878    925 PF00628.30  PHD               Domain     2    50    52     29.3   5.8e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     CsvC + +  +++ ++C++C  w+H kC++++++  +k  + w+C+ C+
+#PP        ******.889**********************88..333.37******7
+#SEQ       CSVCYR-DLSDDQSIVCESCLLWYHFKCCGVTKQ--PKA-KTWFCRACH
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Tetwil_Twilhelma_g1711.t1      64     95     61    100 PF05225.17  HTH_psq           Domain     5    36    45     33.1   3.5e-08   1 CL0123   
+#HMM       laaAleavv.nGkmSirkAArkYgiPrsTLwrr
+#MATCH     +  A++av   G mSi+kAA ++giPrsTL+ +
+#PP        566******777.*****************965
+#SEQ       MRGAVDAVSmQG-MSISKAAVIHGIPRSTLSDH
+Tetwil_Twilhelma_g1711.t1     254    377    251    417 PF03184.20  DDE_1             Family     4   130   175     70.9     1e-19   1 CL0219   
+#HMM       ltvllcanaagsekLkplvigkaksprafkngektkkkldveyksnrkawltssifeeWL.kvfdkrleaekrkilLlldssrshe.tvelleselqniklvflPassasllqPldqgvvselKarYrr
+#MATCH     +tv+ c ++a ++ ++pl+i k k++    +     +  + +y  ++ +w+ s++f  W+ k+f +  +  +r  lLlld++ sh   ++l+  ++++i ++ lP+++++l qPld+gv+ ++Ka+++ 
+#PP        677666.8888899***********999988...88999*********************777765.5569***************55555889999****************************9875
+#SEQ       VTVVAC-VSASGQTIPPLIIWKRKTMSPDMA---IGEIPGTQYGFSDSGWMQSKLFDSWFrKHFMR-YAPASRPLLLLLDGHSSHYcPDTLKLAAENDIIIFALPPNTTHLTQPLDKGVFGPFKAHWKG
+Tetwil_Twilhelma_g1711.t1    1614   1663   1614   1664 PF00628.30  PHD               Domain     1    50    52     29.8     4e-07   1 CL0390   
+#HMM       rCsvCkk.ksde.eeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     +C +C+  + ++  +++v+Cd C++wfH +Clk++  ++   + +w+C++C 
+#PP        68.999963333599********************8844.4344*******7
+#SEQ       YC-ICRYpDCTAfFGNMVCCDMCDQWFHESCLKIQNIKA-LRKLKWYCNSCA
+#CS        SBTTTTS.TTST.TSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Tetwil_Twilhelma_g17229.t2    248    337    248    339 PF10551.10  MULE              Domain     1    96    98     50.8   1.7e-13   1 CL0219   
+#HMM       vlvlDgTYktnkyklpLftvvgvdsngqvvpiafalveneteesfewllqelkelleeasgespkviitDrdkalknaleevfPeakhrlCifHin
+#MATCH     ++++D+T+ tn+y+++L+++++ d++g+v  ++    ++e++e ++++l    ++++++   ++++i+tD d++  +a+++vf + kh+lC++H+ 
+#PP        69*************************9987777...*************...99999999*********************************97
+#SEQ       IICIDSTHGTNQYRFKLISALVPDEHGKVGWCIA---DCESSEVISAFLG---AMKSRSPTTPVSTIMTDDDNTGWSAAKDVFGDLKHLLCHWHVD
+Tetwil_Twilhelma_g17229.t2    545    573    541    573 PF02008.21  zf-CXXC           Domain    20    48    48     33.5   3.3e-08   1 No_clan  
+#HMM       dCgkCsaCrdkkkfggpgkkkqkCrkRrC
+#MATCH      Cg C++C+d++kfggpg+kk++C+ R+C
+#PP        5****************************
+#SEQ       YCGSCKFCLDMPKFGGPGRKKKRCIERTC
+#CS        .BS-SCCCCTSCCCTS-S-S---BGGG--
+Tetwil_Twilhelma_g17229.t2    680    766    679    797 PF02338.20  OTU               Family     2    89   127     44.3   2.2e-11   1 CL0125   predicted_active_site[684] 
+#HMM       gDGnCLlravsqqlwgvsdelrkakvseLreklaeylr..ehseelelfleeeeeg..ylkeiektaawggeleifalahiLrrpIiVlkse
+#MATCH     gDGnCL+r+ s ql      ++++++ +Lr+  +ey +  + +e+l++ +++  ++  yl++++ t  wg  +ei a+++++++ I+V++ +
+#PP        8*************9.....77777888*****9998755666777777776655588******************************5442
+#SEQ       GDGNCLFRSLSLQLT-----GTQDHHLKLRKIIVEYEQrsKVFEQLAIGINKTPSFsnYLQNMKRTCTWGTSVEILATSSLFQVDIYVVSDS
+#CS        -SS-HHHHHHHHCCCSS.SHCCHHHHHHHHHCHHHHHH..TSSHHCCHHHHCCHHH..HHHHTTSTTHHHHHHHHHHHHHHCTS-EEEETTS
+Tetwil_Twilhelma_g21272.t1    136    248    127    250 PF15299.7   ALS2CR8           Family   104   216   218     79.3   3.8e-22   1 No_clan  
+#HMM       vvsekLrkalannpssvkaevryyikfPtleeHkgHpivgeaaelreevderivekirelvekglkkvsemrkhlkafvedelf.kgedlppttrrrykPtvrdikNrmasvkd
+#MATCH      +  +Lr+al+++ s+v+ +++y++ +Pt+++H gHp+ g+aa ++++++++i +ki e+v  g+++v e+++ l+ +v++++  + +++p++  r+ +P++ di+N+++  k+
+#PP        57789********************************9.*****************************************9999889**********************98776
+#SEQ       EMLSNLRDALKTDVSKVEVIRKYFVLLPTEDAHSGHPT-GKAAGFSQKIHPSISKKIGEYVLAGITNVTEIKRLLRLYVKENVSkEVDEIPNPGDRSLFPQDVDIRNHIHLTKR
+Tetwil_Twilhelma_g21272.t1    345    398    344    407 PF10551.10  MULE              Domain     2    56    98     32.2   1.1e-07   1 CL0219   
+#HMM       lvlDgTYktnkyklpLftvvgvdsngqvvpiafalveneteesfewllqelkell
+#MATCH     ++lD+TYkt++y lpLf v++ ++ g++v++ f +ve+e++e +  +++ lk+++
+#PP        789*****************************9.9***********999888776
+#SEQ       CLLDATYKTTQYSLPLFFVCVRTNVGYMVVAEF-IVETEDSEAIAEAIKVLKSWN
+Tetwil_Twilhelma_g21272.t1    749    784    747    784 PF02008.21  zf-CXXC           Domain     4    40    48     30.2   3.3e-07   1 No_clan  
+#HMM       kkrkrCgeCeaCqrtedCgkCsaCrdkkkfggpgkkk
+#MATCH      krkrC +C++C  ++ Cg C++C+dk+k+gg+g kk
+#PP        69************99.****************9886
+#SEQ       TKRKRCFQCDGCLHKD-CGVCKFCKDKPKYGGKGIKK
+#CS        XX-B--SSSTTTTS--.BS-SCCCCTSCCCTS-S-S-
+Tetwil_Twilhelma_g21272.t2    136    248    127    250 PF15299.7   ALS2CR8           Family   104   216   218     79.2   3.9e-22   1 No_clan  
+#HMM       vvsekLrkalannpssvkaevryyikfPtleeHkgHpivgeaaelreevderivekirelvekglkkvsemrkhlkafvedelf.kgedlppttrrrykPtvrdikNrmasvkd
+#MATCH      +  +Lr+al+++ s+v+ +++y++ +Pt+++H gHp+ g+aa ++++++++i +ki e+v  g+++v e+++ l+ +v++++  + +++p++  r+ +P++ di+N+++  k+
+#PP        57789********************************9.*****************************************9999889**********************98776
+#SEQ       EMLSNLRDALKTDVSKVEVIRKYFVLLPTEDAHSGHPT-GKAAGFSQKIHPSISKKIGEYVLAGITNVTEIKRLLRLYVKENVSkEVDEIPNPGDRSLFPQDVDIRNHIHLTKR
+Tetwil_Twilhelma_g21272.t2    345    398    344    407 PF10551.10  MULE              Domain     2    56    98     32.2   1.1e-07   1 CL0219   
+#HMM       lvlDgTYktnkyklpLftvvgvdsngqvvpiafalveneteesfewllqelkell
+#MATCH     ++lD+TYkt++y lpLf v++ ++ g++v++ f +ve+e++e +  +++ lk+++
+#PP        789*****************************9.9***********999888776
+#SEQ       CLLDATYKTTQYSLPLFFVCVRTNVGYMVVAEF-IVETEDSEAIAEAIKVLKSWN
+Tetwil_Twilhelma_g21272.t2    761    796    759    796 PF02008.21  zf-CXXC           Domain     4    40    48     30.2   3.4e-07   1 No_clan  
+#HMM       kkrkrCgeCeaCqrtedCgkCsaCrdkkkfggpgkkk
+#MATCH      krkrC +C++C  ++ Cg C++C+dk+k+gg+g kk
+#PP        69************99.****************9886
+#SEQ       TKRKRCFQCDGCLHKD-CGVCKFCKDKPKYGGKGIKK
+#CS        XX-B--SSSTTTTS--.BS-SCCCCTSCCCTS-S-S-
+Tetwil_Twilhelma_g26107.t1     18    182     15    182 PF03184.20  DDE_1             Family     4   175   175     77.3   1.1e-21   1 CL0219   
+#HMM       ltvllcanaagsekLkplvigkaksprafkngektkkkldveyksnrkawltssifeeWL.kvfdkrleaekrkilLlldssrshetvel.leselqniklvflPassasllqPldqgvvselKarYrrqllqalleeqnrlskeqkkltlldalkfikkAwn.avsketiksaf
+#MATCH     +t+l+ a a+g +  +++ i+ +k    +     +    + +y  ++k+w+t+++f  W+ ++f+k++  ++r +lLl+d++ +h  ve+ + + ++ i l +lP++s+++lqPld+g +s lK+++ + ++++ +++  +      ++t   +  + k Aw+  v+++ti ++f
+#PP        66666655555.5778888888887777666..67778899***************************9.9***************999978899999*******************************999998866544......56689999999*****9*******9987
+#SEQ       ITTLVAASASG-NVVPSMHIYPGKRAPRSNL--LEGCVDGAHYGRSEKGWMTTELFYGWIaNHFIKQIP-PERPVLLLVDGHSTHIDVEVsKLCSQNRILLYCLPPHSSHVLQPLDVGFFSSLKKNWQKTVSEYQIQNIGA------AVTKDTFASVFKGAWTsTVKMQTIINSF
+Tetwil_Twilhelma_g26107.t1    480    531    479    531 PF00628.30  PHD               Domain     2    49    52     34.8   1.2e-08   1 CL0390   
+#HMM       CsvCkk...ksdeeeelvqCdgCkrwfHqkClkppleseekpeg.ewlCekC
+#MATCH     C+ C++   ++ ++e ++ Cd C++w+H+ C ++p e+ ++  + +w+Ce+C
+#PP        999*9988666679**********************999999889*******
+#SEQ       CRKCGGsedNDSAGEPWIACDICDTWYHVLCTSIPPEDHDRLADiHWVCENC
+#CS        BTTTTS...TTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSS.TBSSTTT
+Tetwil_Twilhelma_g26416.t1     62    125     61    128 PF03221.17  HTH_Tnp_Tc5       Domain     2    63    66     24.6   1.9e-05   1 CL0123   
+#HMM       pelEkaLleWirqlrergipitgelirekAqela.slaadlgepdfkaSkgWldrFkkRh.glk
+#MATCH     + +E+ L+e++++++  g+  t+e++  + ++++ ++++ ++ ++ k++ +W++ FkkRh +++
+#PP        5689*******************************999**********************7776
+#SEQ       ATEEQKLVEYCQHMASIGYGRTREQVCLTVKAILdKDGRSNPFENNKPGRKWWELFKKRHpEIA
+#CS        HHHHHHHHHHHHHHC-CT---SCHHHHHHHHHHH.HHSSSCT-TT-S--CHHHHHHHHHT.S--
+Tetwil_Twilhelma_g26416.t1    203    367    202    367 PF03184.20  DDE_1             Family     2   175   175     68.0     8e-19   1 CL0219   
+#HMM       erltvllcanaagsekLkplvigkaksprafkngektkkkldveyksnrkawltssifeeWL.kvfdkrleaekrkilLlldssrshetvel.leselqniklvflPassasllqPldqgvvselKarYrrqllqalleeqnrlskeqkkltlldalkfikkAwn.avsketiksaf
+#MATCH     e++t+l+ anaag+  L+p+ i+ ++  ++           d  +  + ++w+++++f  W+ ++f k +   +r ++Ll+d++ +h  +e+ + +++ +i+l +lP++++++lqPld+g +  +Ka++ +++ ++         ++   lt   +  + k+Aw   v+k+ti ++f
+#PP        67898888888886.7**********9998887...8889999999*************************..***************9999889***********************************999877553......33334677778888888887678888887766
+#SEQ       EQITTLCAANAAGD-TLPPMHIFPGERFKSNPM---SGCVEDAYFGRSPNGWISTELFYGWIgNHFSKLVT--QRPVVLLVDGHSTHIDLEVsKLCRDLQIHLYCLPPHTSHVLQPLDVGFFGSFKASWGKAFEEYKFS------NPGVPLTKYTFAPVFKAAWIdCVKKSTICNSF
+Tetwil_Twilhelma_g26416.t1    624    673    624    674 PF00628.30  PHD               Domain     1    49    52     30.3     3e-07   1 CL0390   
+#HMM       rCsvCkk..ksdeeeelvqCdgCkrwfHqkClkppleseekpeg.ewlCekC
+#MATCH     +C vC+   ++d+ + ++qCd+C++w+H+ C +++l   ++ e+ +w C  C
+#PP        7*****998888899********************99..444444*******
+#SEQ       YCPVCGLpeEKDDIHPWIQCDTCDKWYHVMCTNVNLV--DNLEElDWNCHDC
+#CS        SBTTTTS..TTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSS.TBSSTTT
+Tetwil_Twilhelma_g26440.t2    184    207    178    214 PF04434.18  SWIM              Domain     1    31    40     22.4     7e-05   1 No_clan  
+#HMM       yrVtlddervrlnkatCsCpefqkngipCkH
+#MATCH     y+V+         + +CsCp++  + +pCkH
+#PP        555555.......89****************
+#SEQ       YVVSFK-------DPSCSCPDWIQTNYPCKH
+Tetwil_Twilhelma_g26440.t2    432    475    430    475 PF02008.21  zf-CXXC           Domain     4    48    48     40.1   2.7e-10   1 No_clan  
+#HMM       kkrkrCgeCeaCqrtedCgkCsaCrdkkkfggpgkkkqkCrkRrC
+#MATCH     k+r rCg+C +C +++ C  C++C+dk+k+ggpgkkkq C+kR+C
+#PP        899**********998.****************************
+#SEQ       KRRARCGTCPGCIAED-CRICQMCLDKPKYGGPGKKKQCCIKRKC
+#CS        XX-B--SSSTTTTS--.BS-SCCCCTSCCCTS-S-S---BGGG--
+Tetwil_Twilhelma_g26440.t2    554    637    545    637 PF14291.7   DUF4371           Family   156   236   236     55.0   8.4e-15   1 No_clan  
+#HMM       ileDetkDasdkeqmaivvRyvd...ddgkpierlvgvkrvkevdsaslvselssllkslkislkkllsqcyDGasvmsGeisG
+#MATCH      l+Det+D s+ eq++ v+R+v    ++  + e ++g  +   +    l + +++++  +++ + +l++qcyDGas+m+G  sG
+#PP        489******************96222447789************************************************9998
+#SEQ       TLQDETTDISHIEQVSFVIRFVViecNKVMVEEHFLGFWNTSSTTGEALLELVKQVFSAVGLCFSNLRAQCYDGASNMRGRYSG
+Tetwil_Twilhelma_g26440.t2    958   1015    950   1015 PF05699.15  Dimer_Tnp_hAT     Domain    31    86    86     49.7   2.4e-13   1 No_clan  
+#HMM       skyPnlsklardvLsipvssaasErsFstl..gkvllesrnsleplnveallcieqwl
+#MATCH     + +P ++ l+++ L+ipvssa+sErsFs+l  +k++l+s++ +++l++++++ +eq++
+#PP        569**************************************************99975
+#SEQ       AMFPGVWDLVKIALCIPVSSASSERSFSALrrLKTYLRSTMGQQRLSNLSIVHVEQEI
+#CS        TTSCCHHHHHHHHCTS-SSTHHHHHHHHHH..HHHSHSTTTT--HHHHHHHHHHHHHH
+Tetwil_Twilhelma_g27061.t1    327    452    297    461 PF00872.19  Transposase_mut   Family   231   348   381     23.9   1.7e-05   1 CL0219   
+#HMM       vvsDahkGLvkaisavfpeaavQrCrvHllrnllak.....vpkkkadkvaealksiykaedaeearealeefleklgkkypkv.aelldeaaedvlaflafpeqirrki..kstNllErLNkeir
+#MATCH     +v+D+ kG+v+a+++ ++ +   rC  Hl+r++ +      +p ++ ++ +++l+ ++++++ ee ++ l e+  k+++ + +   ++++  +  +  ++  ++ i++    ++ N  E+LN+ i+
+#PP        699****************************997651111257788888999**************************987654146666666666666655566655331146677777777666
+#SEQ       LVTDEEKGIVNAVNEILQSVLRLRCWNHLIRDATRWlrahgAPSQDVTEYVSDLRNLFHQHSFEEYEQLLSEMSRKWSAPFHEYyLNHVHPDISSIGRWVLQEYGIYNPYsgVTSNQSEALNHVIK
+Tetwil_Twilhelma_g27061.t1    942    986    942    987 PF00628.30  PHD               Domain     1    51    52     33.9   2.2e-08   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C  C+k  d  ++++qC++C++wfH+kC ++       p+ ew+C++Ck+
+#PP        68.9999.999*********************955....6678******97
+#SEQ       FC-KCRK-PDSWNNMIQCEKCEQWFHMKCAGLRRA----PQFEWFCTECKK
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tetwil_Twilhelma_g27062.t1    365    458    365    460 PF10551.10  MULE              Domain     1    96    98     51.4   1.1e-13   1 CL0219   
+#HMM       vlvlDgTYktnkyklpLftvvgvdsngqvvpiafalveneteesfewllqelkelleeasgespkviitDrdkalknaleevf.PeakhrlCifHin
+#MATCH     vl++D+T+ktn+y+++L+t ++ d+ gq  pia  + + e++e  e +l    +l++++ +  ++v +tD d++  na+ +v+  e +h+lC++H+ 
+#PP        79************************************************...9***9999***********99999886666599*********97
+#SEQ       VLCIDSTHKTNAYNFKLITCIVADEFGQGQPIAWCISDRENTEVMEQFLL---SLRDRSPSTVVSVLMTDDDNTGWNAAISVYgNELRHLLCHWHVD
+Tetwil_Twilhelma_g27062.t1    796    840    794    840 PF02008.21  zf-CXXC           Domain     3    48    48     46.7   2.4e-12   1 No_clan  
+#HMM       lkkrkrCgeCeaCqrtedCgkCsaCrdkkkfggpgkkkqkCrkRrC
+#MATCH     +k++ rCg+C++C  ++ Cg C++C+d+kkfggpg++k++C++R+C
+#PP        678889*********99.****************************
+#SEQ       RKRKGRCGNCSGCLSKD-CGICNFCKDMKKFGGPGRQKKACIQRKC
+#CS        XXX-B--SSSTTTTS--.BS-SCCCCTSCCCTS-S-S---BGGG--
+Tetwil_Twilhelma_g27062.t1    890    978    889   1023 PF02338.20  OTU               Family     2    91   127     38.2   1.8e-09   1 CL0125   predicted_active_site[894] 
+#HMM       gDGnCLlravsqqlwgvsdelrkakvseLreklaeylrehseelelfleeeeeg....ylkeiektaawggeleifalahiLrrpIiVlksesg
+#MATCH     +DGnCL+r++s+ql      +++ ++s +r   ++    + +++++fl e +e      +k+i  + +wg ++e+ a+a + r  ++V +++ +
+#PP        8*************8.....66666777776666666677788888887765556788999999999*********************444322
+#SEQ       PDGNCLFRSISHQLS-----GTQENHSFVRLLIQRFENLNQSKFAPFLMEVNEAtiedHVKKIGIPRVWGTHIEVLATATLYRISVYVARQSPA
+#CS        -SS-HHHHHHHHCCCSS.SHCCHHHHHHHHHCHHHHHHTSSHHCCHHHHCCHHH....HHHHTTSTTHHHHHHHHHHHHHHCTS-EEEETTSSS
+Tetwil_Twilhelma_g3641.t2     120    214    120    215 PF10551.10  MULE              Domain     1    97    98     55.9   4.4e-15   1 CL0219   
+#HMM       vlvlDgTYktnkyklpLftvvgvdsngqvvpiafalveneteesfewllqelkelleeasg.espkviitDrdkalknaleevfPeakhrlCifHink
+#MATCH     vl++D+TYk n++++p f  ++vd ng++ ++a+++v  e+  +   l++    ++e++ +  + ++i+tD+d  +++   + fP+a+ +lC+fH+ k
+#PP        6899**********************************************...9*******99********************************987
+#SEQ       VLLVDATYKLNDLRMPVFLQLVVDGNGESEVVAVFVVVAEDGVTMGSLID---IFKENNPAwDRTRTILTDKDFLERSVYGKAFPDAQLQLCLFHVLK
+Tetwil_Twilhelma_g3641.t2     734    777    733    779 PF00628.30  PHD               Domain     2    50    52     30.1   3.4e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     C+vC++  d e++ + CdgC +wfH  C ++++   ++ +  w+C+ C 
+#PP        ******..89**********************99..4433.7******7
+#SEQ       CKVCRQ--DLEGDQIGCDGCCQWFHFHCAGLKVA--PRAK-TWFCSGCY
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Tetwil_Twilhelma_g44.t1         5    130      1    130 PF03184.20  DDE_1             Family    45   175   175     71.3   7.5e-20   1 CL0219   
+#HMM       eyksnrkawltssifeeWLkvfdkrleaekrkilLlldssrshetvel.leselqniklvflPassasllqPldqgvvselKarYrrqllqalleeqnrlskeqkkltlldalkfikkAwn.avsketiksaf
+#MATCH      + ++ k+w+ ++if +WL  f++ +   +r ilL+ d+++sh  +e+ ++ ++++i+l++lP++ +++lqP+d++v+s lK+++ ++  + + ++  r           d    i+kAw  a++++++ s+f
+#PP        688999********************9.99**************99998999***********************************998888776655554......6777888999999999999998887
+#SEQ       LFAASPKGWINQDIFIRWLDFFIENIP-SSRPILLIYDGHASHLSIEViEKARQNDIHLLCLPSHCTHILQPMDVSVMSSLKSHFGKACKKFMADNPGRVIT------EADLASLIEKAWPlALTPSNLISGF
+Tetwil_Twilhelma_g44.t1       314    360    310    361 PF00628.30  PHD               Domain     2    50    52     29.9   3.9e-07   1 CL0390   
+#HMM       CsvCkk.ksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     C +C     ++++ ++ C +C++w+H++C++++++  ++p+  ++C  C+
+#PP        9****977788999*******************88..7765.8******7
+#SEQ       CGICDVkYGTDSKLWIECSNCNNWYHTSCVDVQDN--DVPD-VFVCFDCN
+#CS        BTTTTS.TTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Tetwil_Twilhelma_g5649.t1     211    303    210    305 PF10551.10  MULE              Domain     2    96    98     62.6   3.5e-17   1 CL0219   
+#HMM       lvlDgTYktnkyklpLftvvgvdsngqvvpiafalveneteesfewllqelkelleeasg.espkviitDrdkalknaleevfPeakhrlCifHin
+#MATCH     ++ D+TYk n++++pL+ +++ d ng++ ++a++++ +e++es++ + +    +++++ +  +  +i++D+d  +++al+++fPea  ++C+fH+ 
+#PP        678**********************************************...9999999999999*****************************97
+#SEQ       VFADATYKLNDLRMPLYLFLVEDGNGESEVVALWMILTEDAESIRQIAE---IFKKHNPRwPNTITIMADKDFVERDALKAEFPEASILICLFHVL
+Tetwil_Twilhelma_g5649.t1     800    844    799    845 PF00628.30  PHD               Domain     2    50    52     29.0   7.1e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     C+vC+k + e+++ + Cd+C +wfH  C++++    +k  ++w+C+ C 
+#PP        ******.999**********************98..333.37******5
+#SEQ       CRVCNK-EFEGDTAIACDSCLDWFHLGCVGLKCA--PKR-KKWFCRFCC
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Tetwil_Twilhelma_g5649.t2     221    313    220    315 PF10551.10  MULE              Domain     2    96    98     62.6   3.6e-17   1 CL0219   
+#HMM       lvlDgTYktnkyklpLftvvgvdsngqvvpiafalveneteesfewllqelkelleeasg.espkviitDrdkalknaleevfPeakhrlCifHin
+#MATCH     ++ D+TYk n++++pL+ +++ d ng++ ++a++++ +e++es++ + +    +++++ +  +  +i++D+d  +++al+++fPea  ++C+fH+ 
+#PP        678**********************************************...9999999999999*****************************97
+#SEQ       VFADATYKLNDLRMPLYLFLVEDGNGESEVVALWMILTEDAESIRQIAE---IFKKHNPRwPNTITIMADKDFVERDALKAEFPEASILICLFHVL
+Tetwil_Twilhelma_g5649.t2     810    854    809    855 PF00628.30  PHD               Domain     2    50    52     29.0   7.2e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     C+vC+k + e+++ + Cd+C +wfH  C++++    +k  ++w+C+ C 
+#PP        ******.999**********************98..333.37******5
+#SEQ       CRVCNK-EFEGDTAIACDSCLDWFHLGCVGLKCA--PKR-KKWFCRFCC
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH

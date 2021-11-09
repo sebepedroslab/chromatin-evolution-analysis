@@ -1,0 +1,60 @@
+>>> OG1 <<< 1422 seqs
+     38 ML_SETD35 ***
+     43 ML_SMYD3
+     35 ML_SMYD4 *
+>>> OG2 <<< 823 seqs
+     57 ML_SETD4
+     58 ML_SETD6
+      1 ML_SMYD4 *
+>>> OG3 <<< 703 seqs
+      2 ML_ATX1 *
+      2 ML_ATXR5 *
+      1 ML_SETD1A *
+     13 ML_SETD35 ***
+      1 ML_SETD8 *
+      2 ML_SUV39 *
+      3 ML_SUV420 *
+>>> OG4 <<< 655 seqs
+      1 ML_ATXR5 *
+      1 ML_PRD2 *
+      8 ML_SETD1B
+      1 ML_SETD8 *
+     26 ML_SUV39 *
+     22 ML_SUVR1
+>>> OG5 <<< 527 seqs
+     16 ML_ATX1 *
+     26 ML_ATX3
+      2 ML_ATXR5 *
+      7 ML_EZH *
+     14 ML_MLL1
+     13 ML_MLL2
+     72 ML_SETD1A *
+      1 ML_SETD8 *
+>>> OG6 <<< 303 seqs
+     21 ML_ATXR5 ***
+     97 ML_EZH *
+      5 ML_PRD2 *
+>>> OG7 <<< 264 seqs
+      2 ML_EZH *
+     33 ML_SETD8 *
+>>> OG8 <<< 200 seqs
+     29 ML_PRD2 *
+     12 ML_SETD7
+>>> OG9 <<< 119 seqs
+     37 ML_SUV420 *
+>>> OG10 <<< 87 seqs
+>>> OG11 <<< 60 seqs
+>>> OG12 <<< 31 seqs
+     21 ML_ATXR5 ***
+>>> OG13 <<< 5 seqs
+>>> OG14 <<< 3 seqs
+>>> OG15 <<< 2 seqs
+>>> OG16 <<< 2 seqs
+>>> OG17 <<< 1 seqs
+>>> OG18 <<< 1 seqs
+>>> OG19 <<< 1 seqs
+>>> OG20 <<< 1 seqs
+>>> OG21 <<< 1 seqs
+>>> OG22 <<< 1 seqs
+>>> OG23 <<< 1 seqs
+>>> OG24 <<< 1 seqs

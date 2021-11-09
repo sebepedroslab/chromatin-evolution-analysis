@@ -1,0 +1,74 @@
+# pfam_scan.pl,  run at Fri Jan 22 09:16:26 2021
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Tadh.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Tadh_P27056            2     46      2     47 PF00628.30  PHD               Domain     1    51    52     37.2   1.9e-09   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C+vCk+    +++l++Cd+C  ++H  Cl+pple  ++peg+w C++C +
+#PP        7******....************************..************75
+#SEQ       FCHVCKD----GGQLLCCDSCPLSYHLRCLNPPLE--DIPEGDWRCPRCLC
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Tadh_P27056          157    210    156    210 PF00385.25  Chromo            Domain     2    54    54     43.8   1.8e-11   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekc..fqelideFkkr
+#MATCH     +V+rIid+r+  +++ + Yl+KWk+lpy+ ++WE++ n+      ++ i+++++r
+#PP        7********766666.6*********************99778878889999997
+#SEQ       QVQRIIDDRIISEEE-TDYLIKWKDLPYDVCSWESARNVTYIltMEDSIKQYHER
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSC..SHHHHHHHHHH
+Tadh_P27056          279    557    272    557 PF00176.24  SNF2_N            Family    57   350   350    203.7   3.3e-60   1 CL0023   
+#HMM       GGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk................mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpqlv
+#MATCH       iLaDemGLGKT+q+++++  +            +++ +gp+Li vP s++ +We+e+e ++++  +  +v++++ +                + +k +k ++k + +++v++t+Y+ +  +a        l++++wk +++DE+h+lkn++sk   ++s+++  ++++ltGTP+qn+le+l+ Ll+fL ++ f+++q f+  +++ ++   e+++++L++ll + +lrr+k+dv+k +P+k+e i++++l+++++ +Y+             +l+r+  al+s  +++  + ++++el+++cnhp+l+
+#PP        579******************3322..........234569**************************999999998889************9875556677788999**************999......89*************************************************************************99888...9***********************************************............55666666666555444557789***********985
+#SEQ       DTILADEMGLGKTIQAISFLNSLFM----------ENHCKGPFLISVPLSTVVNWEREFEMWAPNLYVVSYVGDKDCRkvirehefyrdeqsdsKGNKAVKPKKKSFLKFHVLLTSYELITIDA------PILQSIDWKVLIVDEAHRLKNNQSKFFRVLSSYKLGYKLLLTGTPLQNNLEELWNLLNFLSPDRFNSWQDFSMKFEDISK---EDQIKKLNELLGPHLLRRMKADVMKGIPEKSEVIVRIDLTSMQKTYYK------------YILTRNFEALNSRGNKHVSLSNIVMELKKCCNHPYLI
+#CS        -EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH................HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCCC
+Tadh_P27056          586    696    582    696 PF00271.32  Helicase_C        Family     5   111   111     76.4   2.1e-21   1 CL0023   
+#HMM       allell.kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH      l ++l kl+e g+++lif++ +++l+ ++ +l   ++++ +++g+++ ner++ +++fn   + ++ +L++t++++ Gi++  +++Vi++d ++n+++ iq+  R++R+g
+#PP        566677899*****************87666655559***********************87556667*****************************************97
+#SEQ       VLEKMLkKLKETGNRVLIFSQMTKMLDILEDFLDGLNYEYERIDGSTSGNERQALIDKFNapnATQFCFLLSTRAGGLGINLATADTVIIYDSDWNPHNDIQAFSRAHRIG
+#CS        HHHHHH.HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Tadh_P27056          836    871    816    871 PF06465.14  DUF1087           Domain    22    57    65     47.6   1.3e-12   1 No_clan  
+#HMM       edpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvN
+#MATCH     + pdYW+kLL+ +YE + e+++++LGKGKR+RK vN
+#PP        679********************************8
+#SEQ       SSPDYWNKLLRRRYELFVEDQSKSLGKGKRIRKRVN
+Tadh_wf_g12272_t1      4     45      4     45 PF18930.1   DUF5679           Domain     1    40    40     27.3   2.9e-06   1 No_clan  
+#HMM       YCvkCKkktetq..dpqqvlnknGRpilrGkCpvCgatkyrf
+#MATCH     YC++++k t+    +   v +kn+R i+++kC +Cga k+rf
+#PP        9********97522556788*********************8
+#SEQ       YCIRERKYTDSIpdSTLHVETKNSRLIIKSKCMSCGAIKTRF
+Tadh_wf_g12272_t1     88    175     83    179 PF00665.27  rve               Domain     7    94   102     35.6     9e-09   1 CL0219   
+#HMM       lwqvDvt...viripdggg.kayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirv
+#MATCH     +w+ D +   +++  ++++   yll vid+fs++++ + v+d+ + ++++++ ++ +++ +   p ++  D+gse+ ++ + ++l++++i+ 
+#PP        6778888644444..222249**********************.****************998.*************************975
+#SEQ       IWSADLVdmqEFA--KYNSgYKYLLNVIDVFSKYAWSIPVKDK-TGKSIAEAFDKIIKSSHRK-PIKLWVDQGSEFYNRVVDKLLSDYNIER
+Tadh_wf_g12272_t1    332    368    331    369 PF00385.25  Chromo            Domain     2    42    54     27.4   2.3e-06   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlek
+#MATCH      +er+i + ++k       lVKWkg++ + n+W p+e+l +
+#PP        578887665555555....*******************986
+#SEQ       RIERVIRKDKKKRLA----LVKWKGYSNNFNSWIPIEDLNN
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTS

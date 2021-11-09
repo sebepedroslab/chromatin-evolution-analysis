@@ -1,0 +1,101 @@
+# pfam_scan.pl,  run at Fri Dec 18 14:59:11 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Bremin.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Bremin_symbB.v1.2.004342.t1    420    721    420    733 PF00145.18  DNA_methylase     Domain     1   307   335     33.2   3.5e-08   1 CL0063   predicted_active_site[498] 
+#HMM       lkfidLfaGiGGfrlgleaagfecvaaseidkkaaktYeanfk....kvsigDitkidkk.klpe.d..iDlLvgGfPCqpfSvaGkqkgfedtrg.tLffe.iiriikekkPkvfllENVkgLlkhdkgktlkvilekleel.GYevsykllnasdyGvpQnReRvfivgirkdlelnvlvkvkefrfpkkkdleasktlrdlleekseldeektalsdklvekeekikkttkaseegypkelsrnridkveelkglsatrrksgrgek.lekelaeagklqknkerfkpviekkriRrLtprEaarlqGfPddfefg
+#MATCH     ++ ++ + G+G +  g e agf++va+++   + ++ ++   +     v++gDi k+d   kl + +     L +Gf CqpfS  G  k  +d+r+ tL f  ++ ++   +   +++E  ++   +   + +kv l+ +e++ G++ s  ll+ +d+  p +R+R+ ++ ++         k+  + +pk +   +s+++ d+l+   +l+ee+++  + ++ + + +++  k++ + +   +++  +d   +++g +     +g g+k  ++ l+e g++++ ++      ++++ R L+ +E+a l GfP ++  +
+#PP        688999********************************9765555679**********99*77776458******************988888888577554245555..45689****99987766...67*********9846************9.8************99864.....45555555554...699*******99999999999999999999999988888887777.55555.455555455444444444444304566888899999888544.599*******************997654
+#SEQ       FRLVETCTGLGSLGCGAEFAGFKVVAQNDLLHSFCDHLQGAPGrnpsTVIEGDICKLDTMvKLHAaSegAKALAFGFSCQPFSALGDMKEGDDDRSsTLSFGlYCGYL--LQMGLIVMECTPKAPAS---RFVKVCLQYFEQVtGFTKSEALLELADI-WPSRRRRWWCILTHPAFG-----KIHINPMPKLS---KSPVISDVLPMFLQLSEEEYKALQLTLYERQCFQQFAKSPHGCMV-DFHSP-LDTALHSWGNQCGECHCGCGRKfSQTRLKEHGIFGALVHDPS-KPDDENLRHLSAQEMAILCGFPLQYGWQ
+#CS        -EEEEES-TT-HHHHHHHHTT-EEEEEEE--TTTHHHHHHH-.....-SEEEES-TTTS-.GS--....-SEEEE---GGGTECTSEE--TTSGGG.HHHHH.HHHHHHHH--SEEEEEEEGGGGGGCCSHHHHHHHHHHHHH.TEEEEEEEEEGGGTT-SB--EEEEEEEEEGGG----------SS---GGG.....TSGGGTTS-EEBTTTB--GGGSSSTT-EE--.......S---HHHTS--B--TTS...-B----S-STT--.B-TTS---EEEETTEEE--T.TTGGG--B-BHHHHHHHHT--TT----
+Bremin_symbB.v1.2.004342.t1   2360   2563   2352   2587 PF00078.28  RVT_1             Family     7   207   222     46.2   3.8e-12   1 CL0027   
+#HMM       gsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvl
+#MATCH     +++Rpi +++  +++  +l a +   ++ ++ ++++ g  pg+     +   + + ++       ++    Dl kaF+ +p + +++   +++v +++++ +++ +   + ++ ++g    g+++ +g p G+++S + + l+   +   ++ r+++ t++ Y+D + i++k+  e+ ++l+++ + ++   ++i ++Kt +  
+#PP        789***************************************76655558774444444555666999*******************99999998888887777666666678888886699****************999998888899999999********************************************8884
+#SEQ       QQFRPITVMPLMFRCWGSLRARQVLSHITSIAPPELLGNIPGKTATSLWwklQAHIEHSLYADVPCVGYVADLIKAFNLIPRDPVFNIAIQVGVAPRIVRGWSAAVILNQRHFFIRGCPGPGLTSCTGFPEGCAMSVTAMCLLNLLIHAIIAARHPQTTFCSYVDNLEIVAKQAVEAAACLQTLTRVCRCLDMQIDDAKTYAWA
+#CS        S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.
+Bremin_symbB.v1.2.004342.t1   2921   3070   2917   3073 PF00075.25  RNase_H           Domain     5   139   143     36.0   7.3e-09   1 CL0219   
+#HMM       vvYtDGsclgn..pgeg..gagavlykeg.....arnisaple.eaqtnnraELsAvieaLk.alksdekvniytDSkYvvkgitqwvhrwkknawkttseqkpvkn.kdlaellkelak.kkkvqlkwvkgHaGv..........pkgNemaDrlAk
+#MATCH      ++tDG++     p ++   +g+v+ + +     +   s  ++   qt  raE +A+i+aLk   + +++v i +D +Y+v+ + +++         ++   +p++  +dl+ ++k+l     +v++ +v  H++             +N +aD lA 
+#PP        58*****9977444444779***87655556875559999999999****************887888999***********6665333........3444456665589*****999994667*********9988999999998558999999996
+#SEQ       DLFTDGAAIDPktPATRlvSWGVVVAGPEpgvaaSPIASGGVPgLLQTVGRAEVCAIIAALKfGSRCKCEVRIWSDNQYAVNNARRILR--------KQLDPHPLMPdHDLWLIVKQLLTaISQVTFVHVGSHQSRdqidefqqwaFDNNDQADALAG
+#CS        EEEEEEEEECT..TTCE..EEEEEECTT.......EEEEEEEC.CCCHHHHHHHHHHHHHHH.TT.SCSEEEEEES-HHHHHHHHCCCHHHHHTTSSSETTSSBHTT.HHHHHHHHHCHC.SSEEEEEE-SCCSSS..........THHHHHHHHHHH
+Bremin_symbB.v1.2.004342.t1   3091   3183   3058   3188 PF13621.7   Cupin_8           Domain   151   247   254     74.9   8.6e-21   1 CL0029   
+#HMM       yeNlycvvrGrKeftLfpPsdapnlyeaslsptedgtvvswvdveepdderfprlrdakkalevtlnaGevLylPalWfHeVkslaeeplsiavnyW
+#MATCH     ++N++++ +G+K++ LfpP++a++ly++s+++  +gt  + v+v epd++r p++r++ k   v+l+ G+vL++Pa+W+H V ++  ++ si++n +
+#PP        89**************************9766..99**********************99***********************99..7789999976
+#SEQ       VDNFLVQCHGTKRVCLFPPDCAKHLYVNSKYD--SGTLCCDVNVFEPDYKRHPLFRHVGKWEMVELQRGDVLFIPAFWWHSVLTT--SGTSISLNSF
+Bremin_symbB.v1.2.019811.t1   1651   1741   1649   1743 PF00665.27  rve               Domain     5    99   102     33.0   5.9e-08   1 CL0219   
+#HMM       gelwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrp
+#MATCH     +e++++D+++++  ++g k  +++++d+fs + +a+a +d  +a t+v+ll+    + +g  p ++ +D+g+ey+   ++++ + +g+ +++ +p
+#PP        78999****999.56666***********************.9999999999888888888.*************.7*************99877
+#SEQ       NERLVSDTFYVW-DTNGHKFAVTHAMDAFSMYMVAVAAKDA-AALTTVELLRDKWFSVFGP-PSILMTDQGPEYR-GVVEQLMRTFGVFHDMVPP
+Bremin_symbB.v1.2.019811.t1   2592   2778   2582   2823 PF07727.15  RVT_2             Family    27   198   243     45.7     6e-12   1 CL0027   
+#HMM       ddl.kevkykarlvaqGfsqvagedydevfsPvirlesvrlllalaaeeewvvhhldvksaflngeveee...vyvkqP...pGfei........dneeekvyklnkslyGlkqapiaWntkiskvlkelrfersdaesGlyvrgdgenk..livglyvddllisgkdikiiedfkkelakkfklkdlg
+#MATCH     ddl  ++k kar ++ G++     +y e+ sP + l    ll  la++  w++   dv++afl+g+v  e   v+v+ P   p f          ++ +  +++l k+ +Gl  +p+ W++k ++ +   + ++  +  G++   d  ++   +++++vdd+ +  +   + e +k +l+  f + +  
+#PP        4444899***********96666667.689************************************9766678**999833333332111122224556789****************************************9998777755799******9665544333.45666666666665554
+#SEQ       DDLlPDAKLKARWIIAGHRDQRAGEY-ETESPTASLLGHNLLCMLATQWAWPMMFADVSAAFLQGDVLPEdrrVFVQCPrnyPQFVRqflqtkvpNGYQTDIFRLRKAGFGLAESPRLWYKKFKRDIESIGGQEWRLMPGMFSFFDETQEvyAMLAVHVDDVRLIVRPEDE-EKLKAKLNGLFSFGEWN
+Bremin_symbB.v1.2.019811.t1   3109   3279   3089   3279 PF00176.24  SNF2_N            Family   213   350   350     38.5   5.7e-10   1 CL0023   
+#HMM       GTPiqnsledlygLlkfLreepfgekqtfdkllqrpie.....................................aqaekgrsrLlqllqrlmlrrakkdv..eknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpqlv
+#MATCH      TP+qn + +ly+L+ fLr++p+  +   +++ + + +                                     a +++ ++   ++lqr+mlrr+k++   + +lPp ++ i+  klsk+e  +Y  +  +++ k+  ++++     + +++   ++i+ ll++lr+a+ hp+l+
+#PP        5**********************99888888888888889999999***************************966666655555679***********9977789**********************988888888888888774...33333...569*************9985
+#SEQ       RTPLQNRVGELYSLIRFLRVRPYAFYYCKKQGCKCECAcfmrdrycpncghvrfmhyssfkrdvsnpiikygymgAGKTAFQKLRQDILQRCMLRRTKEERkaDLQLPPIKVCIRKDKLSKQETDFYSSIYMQSCVKFDTFVHSGT---VLHNY---AHIFDLLTSLRRAVDHPYLI
+#CS        SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHC.....................................HCCCCCHHHHHHHTTTTEE---CCCC..TSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCCC
+Bremin_symbB.v1.2.019811.t1   3305   3354   3303   3355 PF13639.7   zf-RING_2         Domain     3    43    44     29.4   7.6e-07   1 CL0229   predicted_active_site[3305] 
+#HMM       CpICleel.ssadsvlll.pCgHvfhkeClerwlrssst.......CPlC
+#MATCH     C++C++++ + ++++ ++ +CgHvfh eC++++++  +t       CP+C
+#PP        ****9998677777776668**********999988888889999*****
+#SEQ       CGLCQDDViEGGEEIKRQaKCGHVFHDECIRAYMADAPTlksggvgCPVC
+Bremin_symbB.v1.2.019811.t1   3452   3565   3450   3565 PF00271.32  Helicase_C        Family     3   111   111     56.6   2.8e-15   1 CL0023   
+#HMM       leallell...kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn.kgesd.vLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     +eall+++       +g k ++f+++ ++le v++  ++ gi+++v+ g ++ + r+++l++fn + + + +Li+ +++++G++++ +n+V+ +d+++n++  +q+i R++R+g
+#PP        56666666555677899999**********8777777788************************7678888*****************************************97
+#SEQ       IEALLDEInqmIAGDSGAKGIVFSQFGSMLELVEFRMKRAGISCVVFRGGMSMQARDDALAAFNeDPTLKvILISLKAGGEGLNLQVANHVFLLDPWWNPACEMQAIQRAHRIG
+#CS        HHHHHHHH...HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH.TTSSS.EEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Bremin_symbB.v1.2.030677.t3   2023   2054   2022   2054 PF00627.32  UBA               Domain     6    37    37     24.4     2e-05   1 CL0214   
+#HMM       iqrLveMGFdreevreALratgnNvErAveyL
+#MATCH     +q+L+++GF+  ++r+ Lr +g++++ A  +L
+#PP        9****************************998
+#SEQ       VQQLMALGFSAVAARHGLRICGGDIHEASAWL
+#CS        HHHHHHTTS-HHHHHHHHHHTTTSHHHHHHHH
+Bremin_symbB.v1.2.030677.t3   2294   2332   2226   2333 PF00856.29  SET               Family   122   168   169     24.7   2.6e-05   1 No_clan  
+#HMM       agplarflNHsCdpNcnltvqnvlrgprvavfAtrdIkkGeEltidY
+#MATCH     +     ++ HsC+pNc  ++++  +g+ + ++A+r+I++G  +t +Y
+#PP        3....7899*******..6666..69********************9
+#SEQ       M----ALCEHSCEPNC--SLVH--DGTDLWFVALRNIPEGSPITTSY
+#CS        GGTTGGGCEE-SSSSEEEEEEECTTSSEEEEEESS-B-TTEEEEE-S
+Bremin_symbB.v1.2.030677.t3   4169   4395   4156   4403 PF07727.15  RVT_2             Family    10   226   243     75.6   4.4e-21   1 CL0027   
+#HMM       PkdrkpigtkWvytkkkddlkevkykarlvaqGfsqvagedydevfsPvirlesvrlllalaaeeewvvhhldvksaflng.eveeevyvkqPpG....feidneeekvyklnkslyGlkqapiaWntkiskvlkelrfersdaesGlyvrgdgenkl..ivglyvddllisgkdikiiedfkkelakkfklkdl.....gdiseflGievaqeaggiklsqadylskv
+#MATCH      ++ + i+ +Wv t k+    +   karlv +Gf+     + ++ +   +rl  + + l+la +  w v   dvk+afl g e   ++ vk P        + + ++  ++l ks yGl  ap  W++  ++ l  l+++++++ +  ++ +  +nkl  i+ l+vdd+li+g+  +    +  +l+++f++ +      g++ ++ G  + ++ +++++s  +yl+k+
+#PP        234589***********9999999**********88777777777777789998876.58999****************86378999****996411224678889999*****************************************99.6666544889***************************987651113345667999999999999999999999998
+#SEQ       KNKDRVITARWVLTWKTSPEGNPVAKARLVLRGFQDPDLFNLEKASPTAARLGKLAM-LSLASTMRWSVFCGDVKAAFLSGaEFVRKILVKLPKDcgplLGVTGGNDTHMRLLKSAYGLADAPLLWFKEATRRLVALNLKPQQLDKCTFCYY-EKNKLagILILHVDDMLIAGDMATTFAMVVDKLKENFEFGKWeqlteGHAVTYCGSVLEKKKDMMTMSFEAYLKKI
+Bremin_symbB.v1.2.030677.t3   5071   5239   5068   5239 PF01145.26  Band_7            Family     5   178   178     80.5   1.5e-22   1 CL0433   
+#HMM       egevgvvvrfGklsrvlepGlhf.ilPfgrsvtvvsvr.vqtldvsvsltvptkDglpvtidvtviyrv.pddapklvaaveresenldnlirrvlesalrevisemtleellsnreelaeelknelneqlrkyGvevldvritdidpppevaqalaakqaaeaeaqaeiaraeaea
+#MATCH     +g  gv++r G++++ +epG ++  +P +++v  vs+  +q++  ++   + tkD ++v++ + v+y++ +d ++++v+++    e++ ++i+  ++s lr+++ +m+l+e ++++++  ee+   ++e++++yG  ++ v itdi+p++ + +a+++ +a+++++ a+ ++ eae+
+#PP        6788*******************8999.99********555555555...*******************999999999999....**************************************************************************************999985
+#SEQ       TGSLGVIQRCGEYQGLQEPGCSCvCFP-FTTVQPVSLAlQQHVCKTD---CKTKDSVMVKVMTAVQYKIeRDMVKAAVFDI----EQPLRQIEAEVDSILRSTVPSMSLDESYEAKDKMVEEILSSVKEAMKRYGYDIIKVLITDIKPEASILAAMNKINAQRRRRAAALEKGEAEK

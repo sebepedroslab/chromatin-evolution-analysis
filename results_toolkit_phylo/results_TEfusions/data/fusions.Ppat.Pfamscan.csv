@@ -1,0 +1,144 @@
+# pfam_scan.pl,  run at Wed Jan 20 14:06:48 2021
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Ppat.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Ppat_Pp3c13_19680V3.1    244    338    244    341 PF00855.18  PWWP              Domain     1    93    96     47.7   1.6e-12   1 CL0049   
+#HMM       fqpgdlvwakvkgypwWPavvvdpeevpekvlkkkekskelylVkFfgdkey....awvkekdlkpfteedeeeylekkkkkkskkkfkkAleeaee
+#MATCH     f p++lvwak++  pwWPa+vv+ ee+pe+vl+kk     + +V+ +g  ++    aw+++++l+++++ +++   +k  ++ +  +f+ Al+ + +
+#PP        7899****************************97765..579*****644444478*************9999888888877777788888887665
+#SEQ       FPPQTLVWAKLEERPWWPARVVNLEELPESVLEKKLV--GWTCVELYGLPTDeqrfAWLQRENLASYKKFRKDFNEQKFPERFEDGNFQLALKDISD
+#CS        SSTTEEEEEEESSSEEEEEEEEECCCCCCCCHCT---SSSEEEEEETTTTEE....EEE-GGGEEE-SHHHHHHHHHTTSS-HHHHHHHHHHHHHHH
+Ppat_Pp3c13_19680V3.1    539    582    538    583 PF00628.30  PHD               Domain     2    51    52     36.0   4.7e-09   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C+vC+     ++el++Cd C r +H +Cl+ppl+  + p g+w+C++C+ 
+#PP        9*****....9***********************..777789******85
+#SEQ       CEVCGI----GGELLCCDLCPRVYHLECLTPPLK--RTPPGKWVCPTCRD
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Ppat_Pp3c13_19680V3.1   1088   1121   1086   1138 PF00385.25  Chromo            Domain     3    37    54     31.1   1.6e-07   1 CL0049   
+#HMM       VerIidhrtdkdgleleYlVKWkglpysentWEpe
+#MATCH     ++rI++ r+ k+g   e lVKW + py+ +tWE++
+#PP        68************.******************96
+#SEQ       PQRILATRVGKNGS-AEVLVKWHSQPYDACTWEDK
+#CS        EEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEG
+Ppat_Pp3c13_19680V3.1   1198   1476   1179   1477 PF00176.24  SNF2_N            Family    59   349   350    191.2     2e-56   1 CL0023   
+#HMM       iLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk..............mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH     iLaDemGLGKT+ + a+++   + +        + ++  p L++vP s++ +W  e+  +++  ++  ++++ + +              ++ ++ k  + +  ++dv++t+Y+++ +++      ++l ++ w+ +++DEg++lkns+sk+ + +++++  +r++ltGTP+qn+l+++y Ll+fL++e f ++  f++ +   ++    +++ +L +l+++ mlrr kkdv++n+Ppk e+++ ++l++v++++Y  ll++  +  +++   +     ++     + +l+++++lr++cnhp+l
+#PP        9******************...3333.......345679***********************99775555555555*************98888899999*****************999......8***************************************************************************9999...999*********************************************54444444443333332..22333.....459**************98
+#SEQ       ILADEMGLGKTISACAFLA---SLYR-------EFRVNAPCLVLVPLSTMSNWLAEFSVWAPFLNVIEYHGSVKARavireyewystttgKSGNEGKRPDSQIIKFDVMLTSYEMVISDS------NQLRSIPWEVLIVDEGQRLKNSESKLFTLLNTYKFGHRVLLTGTPLQNNLSEMYNLLNFLQPETFPSQGAFEEKFGSLST---AEQVDELKKLVAPHMLRRLKKDVMQNIPPKAERVVPVELTPVQAEYYRALLTKNYQLLRQVGGCK--PGGQN-----QSLLNIMMQLRKVCNHPYL
+#CS        EE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH..............HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Ppat_Pp3c13_19680V3.1   1501   1614   1499   1614 PF00271.32  Helicase_C        Family     3   111   111     65.2   6.1e-18   1 CL0023   
+#HMM       leallell.kleeeggkilifvntidrlek.vklllekk.gikvavlhgelpqnereeileqfn..kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     l  l  +l +l++ g+++lif++ ++ l+   +++  ++ + ++ +++g+ p  er++++++fn  + ++ +L++t+  + Gi++  +++Vi++d ++n++  iq++ R++R+g
+#PP        5566666788899*************9977767775566789**********************544445599***************************************97
+#SEQ       LTLLHSMLrHLKRGGHRVLIFSQMTKLLDIlEEYMVFEFgAHSYERVDGSVPVAERQKSISRFNqdQSRFVFLLSTRSCGLGINLATADTVIIYDSDFNPHADIQAMNRAHRIG
+#CS        HHHHHHHH.HHHTTTSEEEEEESSHHHHHH.HHHHHHHT.TSCEEEESTTSTHHHHHHHHHHHH..TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Ppat_Pp3c13_19680V3.1   1788   1844   1784   1847 PF06465.14  DUF1087           Domain     5    61    65     36.8     3e-09   1 No_clan  
+#HMM       eeaekevikekieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsv
+#MATCH     e++ + +   + + n s +++ We+LL+ ++E+ q ee  aLG+GKR RK v Y++ 
+#PP        4443444444448899999*********************************99875
+#SEQ       EDSPRDIEIAENPLNPSVEQNKWEELLRLRWEKLQKEEEAALGRGKRTRKNVLYNES
+Ppat_Pp3c18_19040V3.1     76    119     76    121 PF00628.30  PHD               Domain     1    50    52     35.9     5e-09   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     +Cs+C+     +++l++Cd+C   fH  Cl+pp++   +p g+w C+kC 
+#PP        7******....9*********************98..99999*******6
+#SEQ       FCSICHL----GGDLLCCDTCTAVFHLGCLDPPMK--VVPRGKWSCPKCA
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Ppat_Pp3c18_19040V3.1    152    185    125    199 PF00385.25  Chromo            Domain    17    43    54     31.6   1.1e-07   1 CL0049   
+#HMM       e.......leYlVKWkglpysentWEpeenlekc
+#MATCH     e       ++YlVKWk+ +y +++W ++e+le+ 
+#PP        345567779**********************976
+#SEQ       EdqpqklvKQYLVKWKSRSYLHCSWVTAEDLERG
+#CS        C.......EEEEEEETTSTGGGTEEEEGGGCTSC
+Ppat_Pp3c18_19040V3.1    225    273    224    274 PF00385.25  Chromo            Domain     2    53    54     51.8   5.6e-14   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +V+r++d+r + d    eYlVKWk+l y+e+tWE ee++    q  id+Fk+
+#PP        6**************..***********************66.999****96
+#SEQ       TVDRVLDMRHNGDIT--EYLVKWKELGYDEATWEVEEDVLAF-QAEIDKFKE
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Ppat_Pp3c18_19040V3.1    330    616    319    617 PF00176.24  SNF2_N            Family    52   349   350    219.1   6.8e-65   1 CL0023   
+#HMM       kqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk......................mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH      ++++  iLaDemGLGKT+q+++l+    +  e        +++  p+L+v+P s+l++We+e++++++++++ ++v+++q +                      +kk+    +++   ++dv++t+Y++++ ++        lk+++w+++++DEgh+lkn++sk+ +++ ++st++r++ltGTP+qn+l +l++L++fL  ++f++ + f++ +q+  +   e+++ rL+++l++ +lrr+kkdv k++Ppk+e i++++ls+ ++++Y+           a l+k+ ++  k++   +  + + ++elr+ c hp+l
+#PP        6677778*******************...2222........345679********************************9999**************9999877544443.3345556789***********888......9**************************************************************************98777...9***********************************************...........222233233333322.22337788999****999987
+#SEQ       WEQNKHVILADEMGLGKTIQSISLLG---SLVE--------ENVGLPHLVVAPLSTLRNWEREFATWCPQMNVVMYVGSSQARailrqyefffpqksskkskdkgKKKMA-GESKQDRVKFDVLLTSYEMINLDT------AILKALKWECLIVDEGHRLKNKDSKLFQTLTTFSTRHRVLLTGTPLQNNLDELFMLMHFLDAGKFNSLEEFQQEFQDINQ---EEQVGRLHKMLAPHLLRRVKKDVLKEMPPKKELILRVELSSLQKEFYK-----------AILTKNYQILAKQGG-PQVSLTNVVMELRKLCGHPYL
+#CS        HHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH......................HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Ppat_Pp3c18_19040V3.1    640    753    639    753 PF00271.32  Helicase_C        Family     2   111   111     59.7     3e-16   1 CL0023   
+#HMM       kleallell.kleeeggkilifvntidrlek.vklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     kl+ l +++ kl+++g+++li+++++++l+   ++l + k+  + +++g+++ +er+  ++++n   + ++ +L++t++++ Gi++  +++Vi++d ++n++   q++ R++R g
+#PP        5566667767999****************8855555.6667**********************976456666*****************************************86
+#SEQ       KLLLLDKMMtKLHAQGHRVLIYSQFTRMLDIlEDWL-HLKKWGYERIDGKISGSERQIRIDRYNapnSTKFCFLLSTRAGGLGINLATADTVIIYDSDWNPHADLQAMARAHRLG
+#CS        HHHHHHHHH.HHHTTTSEEEEEESSHHHHHH.HHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Ppat_Pp3c18_19040V3.1    877    931    875    939 PF06465.14  DUF1087           Domain     3    56    65     48.5   6.7e-13   1 No_clan  
+#HMM       eeeeaekevikek.ieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqv
+#MATCH     + eeae+e+  +  +e + + ++++W+ LLkd+  +qq+ee+++LGKGKR+R+qv
+#PP        556666665554426778899*********************************9
+#SEQ       AAEEAEREARAKLeAEMEGQGRAQFWDSLLKDRVVEQQVEEFEELGKGKRSRRQV
+Ppat_Pp3c18_19040V3.1    982   1113    977   1114 PF06461.12  DUF1086           Domain     6   137   138    167.3   1.6e-49   1 No_clan  
+#HMM       rrksrkkarsdkd.eplPllegegkslevLGFnerqRkaflnalmRyGvgdfdskelvrelkqktedeikaYgslFlrHlaeegadnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipgkpvlpd
+#MATCH      ++srk+ ++  + ep Pl+egeg++l++LGFn+rqR++f+n+lmR+G+gdf+++e++ +lk kt +eik+Yg+lFl+H+ae++ ++s+ f+DG+PkeGl++qdvlvr+a+l+L+++kvk l e p+ p++++
+#PP        46677776654442677*******************************************************************.99****************************************999985
+#SEQ       LQPSRKRVKERMTgEPPPLMEGEGRELRILGFNHRQRSVFVNVLMRFGLGDFSWSEFIPRLKPKTPEEIKDYGTLFLSHIAEDI-NDSPFFSDGIPKEGLRIQDVLVRLAILHLIRDKVKALTEDPAMPLFSQ
+Ppat_Pp3c21_10800V3.1     76    119     76    121 PF00628.30  PHD               Domain     1    50    52     36.0     5e-09   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     +Cs+C+     +++l++Cd+C   fH  Cl+pp++   +p g+w C+kC 
+#PP        7******....9*********************98..99999*******6
+#SEQ       FCSICHL----GGDLLCCDTCTAVFHLGCLDPPMK--VVPRGKWSCPKCA
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Ppat_Pp3c21_10800V3.1    151    185    126    200 PF00385.25  Chromo            Domain    12    43    54     31.3   1.4e-07   1 CL0049   
+#HMM       dkdgle.......leYlVKWkglpysentWEpeenlekc
+#MATCH     +    e       ++YlVKWk+ +y +++W ++e+le+ 
+#PP        3....233347778**********************975
+#SEQ       S----EdqppklvKQYLVKWKSRSYLHCSWVTAEDLERG
+#CS        ETTEEC.......EEEEEEETTSTGGGTEEEEGGGCTSC
+Ppat_Pp3c21_10800V3.1    225    273    224    274 PF00385.25  Chromo            Domain     2    53    54     50.3   1.6e-13   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +V+r++d+r + d    eYlVKWk+l y+e+tWE ee++    q  +d+Fk+
+#PP        6**************..***********************66.999****96
+#SEQ       TVDRVLDMRHNGDIT--EYLVKWKELGYDEATWEVEEDVLAF-QAEVDKFKE
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Ppat_Pp3c21_10800V3.1    330    616    318    617 PF00176.24  SNF2_N            Family    52   349   350    219.8   4.1e-65   1 CL0023   
+#HMM       kqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk......................mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH      ++++  iLaDemGLGKT+q+++l+     +ee         ++  p+L+v+P s+l++We+e++++++++++ ++v+++q +                      +kk+    +++   ++dv++t+Y++++ ++      + lk+++w+++++DEgh+lkn++sk+ +++ ++st++r++ltGTP+qn+l +l++L++fL  ++f++ + f++ +q+  +   e+++ rL+++l++ +lrr+kkdv k++Ppk+e i++++ls+ ++++Y+           a l+k+ ++  k++   +  + + ++elr+ c hp+l
+#PP        6677778*******************2..2222.........34579********************************9999**************9999877544443.3345556789***********888......9**************************************************************************98777...9***********************************************...........222233233333322.22337788999****999987
+#SEQ       WEQNKHVILADEMGLGKTIQSISLLGS--LIEE---------NVGLPHLVVAPLSTLRNWEREFATWCPQMNVVMYVGSSQARailrqyefffpqksskkskdkgKKKMA-GESKQDRVKFDVLLTSYEMINLDT------TILKALKWECLIVDEGHRLKNKDSKLFQTLTTFSTRHRVLLTGTPLQNNLDELFMLMHFLDAGKFNSLEEFQQEFQDINQ---EEQVGRLHKMLAPHLLRRVKKDVLKEMPPKKELILRVELSSLQKEFYK-----------AILTKNYQILAKQGG-PQVSLTNVVMELRKLCGHPYL
+#CS        HHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH......................HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Ppat_Pp3c21_10800V3.1    640    753    639    753 PF00271.32  Helicase_C        Family     2   111   111     59.8   2.9e-16   1 CL0023   
+#HMM       kleallell.kleeeggkilifvntidrlek.vklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     kl+ l +++ kl+++g+++li+++++++l+   ++l + k+  + +++g+++ +er+  ++++n   + ++ +L++t++++ Gi++  +++Vi++d ++n++   q++ R++R g
+#PP        5566667767999****************8855555.6667**********************987556666*****************************************86
+#SEQ       KLLLLDKMMtKLHSQGHRVLIYSQFTRMLDIlEDWL-HLKKWGYERIDGKISGSERQIRIDRYNspnSTKFCFLLSTRAGGLGINLATADTVIIYDSDWNPHADLQAMARAHRLG
+#CS        HHHHHHHHH.HHHTTTSEEEEEESSHHHHHH.HHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Ppat_Pp3c21_10800V3.1    877    931    875    939 PF06465.14  DUF1087           Domain     3    56    65     49.3   3.8e-13   1 No_clan  
+#HMM       eeeeaekevikek.ieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqv
+#MATCH     + eeaeke+  +  +e + + ++++W++LLkd+  +qq+ee+++LGKGKR+R+qv
+#PP        556666666555426778899*********************************9
+#SEQ       AAEEAEKEARAKLeAEMEGQGRAQFWDNLLKDRVVEQQVEEFEELGKGKRSRRQV
+Ppat_Pp3c21_10800V3.1    986   1112    978   1113 PF06461.12  DUF1086           Domain    10   136   138    165.8   4.9e-49   1 No_clan  
+#HMM       rkkars.dkdeplPllegegkslevLGFnerqRkaflnalmRyGvgdfdskelvrelkqktedeikaYgslFlrHlaeegadnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipgkpvlp
+#MATCH     rk+ ++  + ep Pl+egeg++l++LGFn+rqR++f+n+lmR+G+gdf+++e++ +lk kt +eik+Yg+lFl+H+ae++ ++s+ f+DGvPkeGl++qdvlvr+a+l+L+++kvk l+e p+ p+++
+#PP        3333320445788*******************************************************************.99***************************************999986
+#SEQ       RKRVKErMTGEPPPLIEGEGRELRILGFNHRQRSIFVNVLMRFGLGDFSWSEFIPRLKPKTPEEIKDYGTLFLSHIAEDI-NDSPFFSDGVPKEGLRIQDVLVRLAILHLIRDKVKALSEDPSIPLFS

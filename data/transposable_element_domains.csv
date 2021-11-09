@@ -1,0 +1,162 @@
+domain	function	te_class	te_superfamily	te_family	is_dnabinding	is_prokaryotic
+DBD_Tnp_Hermes	DNA binding	DNA	DDE	Hermes	1	
+DBD_Tnp_Mut	DNA binding	DNA	DDE	Mutator	1	
+DDE_1	Transposase	DNA	DDE		1	
+DDE_2	Transposase	DNA	DDE		1	
+DDE_3	Transposase	DNA	DDE			
+DDE_5	Transposase	DNA	DDE			
+DDE_Tnp_1_2	Transposase	DNA	DDE			
+DDE_Tnp_1_3	Transposase	DNA	DDE			
+DDE_Tnp_1_4	Transposase	DNA	DDE	PIF/Harbinger		
+DDE_Tnp_1_5	Transposase	DNA	DDE			
+DDE_Tnp_1_6	Transposase	DNA	DDE			
+DDE_Tnp_1_7	Transposase	DNA	DDE	piggybac		
+DDE_Tnp_1_assoc	Transposase	DNA	DDE			
+DDE_Tnp_1	Transposase	DNA	DDE			
+DDE_Tnp_2	Transposase	DNA	DDE			
+DDE_Tnp_4	Transposase	DNA	DDE			
+DDE_Tnp_IS1595	Transposase	DNA	DDE			
+DDE_Tnp_IS1	Transposase	DNA	DDE			
+DDE_Tnp_IS240	Transposase	DNA	DDE			
+DDE_Tnp_IS66	Transposase	DNA	DDE			
+DDE_Tnp_IS66_C	Transposase	DNA	DDE			
+DDE_Tnp_ISAZ013	Transposase	DNA	DDE			
+DDE_Tnp_ISL3	Transposase	DNA	DDE			
+DDE_Tnp_Tn3	Transposase	DNA	DDE			
+DEDD_Tnp_IS110	Transposase	DNA	DDE			1
+Dimer_Tnp_hAT	Dimerisation	DNA	hAT			
+Dimer_Tnp_Tn5	Dimerisation	DNA				1
+DUF1087	Transposase-associated	DNA				
+DUF1979	Transposase-associated	DNA	DDE	Mutator		
+DUF4096	Transposase-associated	DNA		IS4/IS5		1
+DUF4158	Transposase-associated	DNA		IS3		1
+DUF4216	Transposase-associated	DNA		Tdc1		
+DUF4413	Transposase-associated	DNA	hAT	Pong, Tam3		
+DUF659	Transposase-associated	DNA	hAT			
+DUF772	Transposase-associated	DNA	DDE			
+gag_pre-integrs	Integrase-associated	RT				
+gag-asp_proteas	Protease	RT				
+zf-RVT	DNA binding	RT				
+RVP	Protease	RT				
+RVP_2	Protease	RT				
+Helitron_like_N	Helicase	DNA	Rolling circle	Helitron		
+Herpes_Helicase	Helicase	DNA	Rolling circle	Helitron		
+HTH_28	DNA binding	DNA			1	
+HTH_OrfB_IS605	DNA binding	DNA			1	1
+HTH_Tnp_1_2	DNA binding	DNA			1	
+HTH_Tnp_1	DNA binding	DNA			1	
+HTH_Tnp_4	DNA binding	DNA	DDE	IS4/IS5	1	
+HTH_Tnp_IS1	DNA binding	DNA		IS1	1	
+HTH_Tnp_IS630	DNA binding	DNA			1	
+HTH_Tnp_ISL3	DNA binding	DNA			1	
+HTH_Tnp_Mu_1	DNA binding	DNA			1	
+HTH_Tnp_Mu_2	DNA binding	DNA			1	
+HTH_Tnp_Tc3_1	DNA binding	DNA	DDE	Tc1/mariner	1	
+HTH_Tnp_Tc3_2	DNA binding	DNA	DDE	Tc1/mariner	1	
+HTH_Tnp_Tc5	DNA binding	DNA			1	
+IstB_IS21_ATP	Transposase	DNA			1	1
+IstB_IS21	Transposase	DNA			1	1
+LZ_Tnp_IS481	DNA binding	DNA				1
+LZ_Tnp_IS66	DNA binding	DNA				1
+MULE	Transposase	DNA	DDE	Mutator		
+Mu-transpos_C	Transposase	DNA				1
+Nterm_IS4	Transposase-associated	DNA				
+OrfB_IS605	Transposase	DNA				1
+OrfB_Zn_ribbon	DNA binding	DNA				1
+PDDEXK_2	Transposase	DNA	DDE			
+Phage_integrase	Integrase	DNA	Tyr			
+Peptidase_A2B	Peptidase	RT				
+Plant_tran	Transposase-associated	DNA	DDE	PIF/Ping-pong/Harbinger		
+PMD	Transposase-associated	DNA				
+Retrotrans_gag	gag capsid	RT	LTR	Copia	0	
+Retrotran_gag_2	gag capsid	RT	LTR	Copia	0	
+Retrotran_gag_3	gag capsid	RT	LTR	Copia	0	
+RNase_H	Ribonuclease	RT			1	
+rve	Integrase	RT, DNA			0	
+rve_2	Integrase	RT, DNA			0	
+rve_3	Integrase	RT, DNA			0	
+Integrase_H2C2	Integrase	RT, DNA			0	
+RVT_1	Reverse transcriptase	RT				
+RVT_2	Reverse transcriptase	RT				
+RVT_3	Reverse transcriptase	RT				
+Tn7_Tnp_TnsA_C	Transposase	DNA				1
+Tn7_Tnp_TnsA_N	Transposase	DNA				1
+Tn7_TnsC_Int	Transposase	DNA				1
+Tnp_DNA_bind	DNA binding	DNA			1	1
+Tnp_P_element_C	Transposase	DNA	P-element			
+Tnp_P_element	Transposase	DNA	P-element			
+Transposase_1	Transposase	DNA		mariner		
+Transposase_20	Transposase	DNA	DDE	IS116/IS110/IS902	1	1
+Transposase_21	Transposase	DNA		Tdc1		
+Transposase_22	Transposase	RT	LINE	LINE1		
+Transposase_23	Transposase	DNA		TNP1/En/Spm		
+Transposase_24	Transposase	DNA		Ptta/En/Spm		
+Transposase_28	Transposase	RT		gypsy		
+Transposase_31	Transposase	DNA				1
+Transposase_mut	Transposase	DNA	DDE	Mutator		
+Transpos_assoc	Transposase-associated	DNA				
+Transp_Tc5_C	Transposase	DNA			1	
+Y1_Tnp	Transposase	DNA				
+Y2_Tnp	Transposase	DNA	Rolling circle			
+zf-IS66	DNA binding	DNA		IS66		
+zf-ISL3	DNA binding	DNA		IS204/IS1001/IS1096/IS1165		
+Zn_Tnp_IS1	DNA binding	DNA		IS1	1	
+Zn_Tnp_IS1595	DNA binding	DNA				
+Zn_Tnp_IS91	DNA binding	DNA				
+Tnp_zf-ribbon_2	DNA binding	DNA	DDE	piggybac		
+THAP	DNA binding	DNA				
+DBD_HTH	DNA binding	DNA				1
+zf-BED	DNA binding	DNA	hAT			
+FLYWCH	DNA binding	DNA	DDE	Mutator		
+PAX	DNA binding	DNA	DDE			
+B-block_TFIIIC	DNA binding, generic	DNA				
+CENP-B_N	DNA binding, generic	DNA				
+Crp	DNA binding, generic	DNA				
+DUF4364	DNA binding, generic	DNA				
+DUF742	DNA binding, generic	DNA				
+Fe_dep_repress	DNA binding, generic	DNA				
+FUR	DNA binding, generic	DNA				
+GerE	DNA binding, generic	DNA				
+GntR	DNA binding, generic	DNA				
+HrcA_DNA-bdg	DNA binding, generic	DNA				
+HTH_1	DNA binding, generic	DNA				
+HTH_10	DNA binding, generic	DNA				
+HTH_11	DNA binding, generic	DNA				
+HTH_20	DNA binding, generic	DNA				
+HTH_22	DNA binding, generic	DNA				
+HTH_23	DNA binding, generic	DNA				
+HTH_24	DNA binding, generic	DNA				
+HTH_27	DNA binding, generic	DNA				
+HTH_29	DNA binding, generic	DNA				
+HTH_32	DNA binding, generic	DNA				
+HTH_34	DNA binding, generic	DNA				
+HTH_36	DNA binding, generic	DNA				
+HTH_38	DNA binding, generic	DNA				
+HTH_41	DNA binding, generic	DNA				
+HTH_45	DNA binding, generic	DNA				
+HTH_5	DNA binding, generic	DNA				
+HTH_7	DNA binding, generic	DNA				
+HTH_AsnC-type	DNA binding, generic	DNA				
+HTH_Crp_2	DNA binding, generic	DNA				
+HTH_DeoR	DNA binding, generic	DNA				
+HTH_IclR	DNA binding, generic	DNA				
+HTH_Mga	DNA binding, generic	DNA				
+HxlR	DNA binding, generic	DNA				
+LexA_DNA_bind	DNA binding, generic	DNA				
+MarR	DNA binding, generic	DNA				
+MarR_2	DNA binding, generic	DNA				
+Mga	DNA binding, generic	DNA				
+PadR	DNA binding, generic	DNA				
+PuR_N	DNA binding, generic	DNA				
+RepA_N	DNA binding, generic	DNA				
+RepL	DNA binding, generic	DNA				
+RP-C	DNA binding, generic	DNA				
+Rrf2	DNA binding, generic	DNA				
+RTP	DNA binding, generic	DNA				
+Terminase_5	DNA binding, generic	DNA				
+TFIIE_alpha	DNA binding, generic	DNA				
+Trans_reg_C	DNA binding, generic	DNA				
+TrmB	DNA binding, generic	DNA				
+Trp_repressor	DNA binding, generic	DNA				
+UPF0122	DNA binding, generic	DNA				
+Maelstrom	 					

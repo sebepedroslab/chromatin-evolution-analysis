@@ -1,0 +1,8 @@
+in_gene	out_gene	branch_support	ev_type	sos
+ArchaeCry|Gthe_EKX34457	SARHap|Aano_EGB07543	48.0	S	0.0
+Obazoa|Cgig_EKC34399	SARHap|Alblai_CCA22441	48.0	S	0.0
+Obazoa|Cgig_EKC34399	SARHap|Pinf_PITG_05508T0	48.0	S	0.0
+Obazoa|Apla_XP_022080334.1	SARHap|Alblai_CCA22441	48.0	S	0.0
+Obazoa|Apla_XP_022080334.1	SARHap|Pinf_PITG_05508T0	48.0	S	0.0
+Obazoa|Apla_XP_022080334.1	Obazoa|Cgig_EKC34399	100.0	D	1.0
+SARHap|Pinf_PITG_05508T0	SARHap|Alblai_CCA22441	94.0	D	1.0

@@ -1,0 +1,126 @@
+IQ-TREE 2.1.0 COVID-edition built Jul 18 2020
+
+Input file name: alignments/euk.Histone.to_histdb/CC9_.l.fasta
+Type of analysis: tree reconstruction
+Random seed number: 631506
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 32 sequences with 89 amino-acid sites
+Number of constant sites: 21 (= 23.5955% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 21 (= 23.5955% of all sites)
+Number of parsimony informative sites: 54
+Number of distinct site patterns: 84
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.9062
+
+ Category  Relative_rate  Proportion
+  1         0.1179         0.2500
+  2         0.4466         0.2500
+  3         0.9825         0.2500
+  4         2.4530         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -1709.2481 (s.e. 129.0731)
+Unconstrained log-likelihood (without tree): -392.0339
+Number of free parameters (#branches + #model parameters): 52
+Akaike information criterion (AIC) score: 3522.4962
+Corrected Akaike information criterion (AICc) score: 3675.6073
+Bayesian information criterion (BIC) score: 3651.9053
+
+Total tree length (sum of branch lengths): 5.7410
+Sum of internal branch lengths: 1.5596 (27.1658% of tree length)
+
+WARNING: 4 near-zero internal branches (<0.0112) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Hemkuk_13743_TR4674_c0_g1_105-186' is drawn at root
+
++-------------------------------------------Hemkuk_13743_TR4674_c0_g1_105-186
+|
+|        +-----Dmel_FBpp0079514_103-169
+|     +--|
+|     |  +--Tcas_XP_966985.1_107-188
+|  +**|
+|  |  |  +--Lpol_XP_013776584.1_140-221
+|  |  +--|
+|  |     +------Cscu_XP_023216745.1_102-180
++--|
+|  |     +---Dpul_EFX83631_15-95
+|  |  +--|
+|  |  |  +-------Lgig_LotgiP133658_14-81
+|  +--|
+|     |                              +--Adig_XP_015753031.1_91-174
+|     |                           +**|
+|     |                           |  +--Spis_XP_022781736_1_96-175
+|     |                        +--|
+|     |                        |  +----Nvec_NVE17460_118-201
+|     |                 +------|
+|     |                 |      +--Exapal_XP_020904303.1_118-201
+|     |              +--|
+|     |              |  +-------Clyhem_TCONS_00070555-protein_102-169
+|     |           +**|
+|     |           |  |            +----------------Helrob_HelroP108569_41-122
+|     |           |  |   +--------|
+|     |           |  |   |        +---------Ctel_CapteP182628_105-186
+|     |           |  +---|
+|     |           |      +-------------Phoaus_g11200.t1_105-186
+|     |        +--|
+|     |        |  +-------------Cgig_EKC19746_108-190
+|     |     +--|
+|     |     |  |        +-----Notgen_g14829.t1_156-237
+|     |     |  +--------|
+|     |     |           |         +------------------------------Scil_scpid101977_81-165
+|     |     |           +---------|
+|     |     |                     +---------------------------Aque_Aqu2.1.38753_001_68-150
+|     |  +--|
+|     |  |  |     +---Drer_ENSDARP00000055151.3_115-195
+|     |  |  |  +--|
+|     |  |  |  |  +--Hsap_ENSP00000354633.4_120-200
+|     |  |  +--|
+|     |  |     |                       +**Hsap_ENSP00000491873.1_108-173
+|     |  |     |                    +**|
+|     |  |     |                    |  +**Hsap_ENSP00000491174.1_108-173
+|     |  |     |                +---|
+|     |  |     |                |   +--Hsap_ENSP00000492787.1_108-188
+|     |  |     +----------------|
+|     |  |                      +--Hsap_ENSP00000491332.1_108-173
+|     +--|
+|        +-----------Skow_XP_002731323.1_123-205
+|
++----------Bralan_BL09553_evm0_111-192
+
+Tree in newick format:
+
+(Hemkuk_13743_TR4674_c0_g1_105-186:0.7318109746,(((Dmel_FBpp0079514_103-169:0.0998614047,Tcas_XP_966985.1_107-188:0.0300646527):0.0575270725,(Lpol_XP_013776584.1_140-221:0.0298609896,Cscu_XP_023216745.1_102-180:0.1174603650):0.0589756562):0.0000028247,((Dpul_EFX83631_15-95:0.0741270561,Lgig_LotgiP133658_14-81:0.1471801448):0.0198881316,(((((((((Adig_XP_015753031.1_91-174:0.0450058508,Spis_XP_022781736_1_96-175:0.0369119809):0.0000023448,Nvec_NVE17460_118-201:0.0851602609):0.0580746231,Exapal_XP_020904303.1_118-201:0.0581043969):0.1272133666,Clyhem_TCONS_00070555-protein_102-169:0.1434414859):0.0473759828,((Helrob_HelroP108569_41-122:0.2850229432,Ctel_CapteP182628_105-186:0.1662302791):0.1559403174,Phoaus_g11200.t1_105-186:0.2424522707):0.0694407634):0.0019944598,Cgig_EKC19746_108-190:0.2408957479):0.0315808190,(Notgen_g14829.t1_156-237:0.1082432670,(Scil_scpid101977_81-165:0.5147169666,Aque_Aqu2.1.38753_001_68-150:0.4692337810):0.1663230823):0.1536383189):0.0194956809,((Drer_ENSDARP00000055151.3_115-195:0.0700177108,Hsap_ENSP00000354633.4_120-200:0.0474859826):0.0513885178,(((Hsap_ENSP00000491873.1_108-173:0.0000010000,Hsap_ENSP00000491174.1_108-173:0.0000010000):0.0000025172,Hsap_ENSP00000492787.1_108-188:0.0196386577):0.0683857177,Hsap_ENSP00000491332.1_108-173:0.0138925974):0.2897510216):0.0549798432):0.0145034214,Skow_XP_002731323.1_123-205:0.2112336100):0.0427898915):0.0381095421):0.0322137338,Bralan_BL09553_evm0_111-192:0.1933703343);
+
+TIME STAMP
+----------
+
+Date and time: Mon Nov 16 18:22:48 2020
+Total CPU time used: 0.580078 seconds (0h:0m:0s)
+Total wall-clock time used: 0.421632 seconds (0h:0m:0s)
+

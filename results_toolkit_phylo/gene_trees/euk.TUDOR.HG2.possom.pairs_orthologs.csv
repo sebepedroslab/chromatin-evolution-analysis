@@ -1,0 +1,11 @@
+in_gene	out_gene	branch_support	ev_type	sos
+Adig_XP_015779272.1	Phoaus_g1834.t1	1.0	S	0.0
+Adig_XP_015779272.1	Spis_XP_022792011_1	1.0	S	0.0
+Adig_XP_015779272.1	Emue_0013g237a	1.0	S	0.0
+Adig_XP_015779272.1	Emue_0013g214a	1.0	S	0.0
+Spis_XP_022792011_1	Phoaus_g1834.t1	1.0	S	0.0
+Spis_XP_022792011_1	Emue_0013g237a	1.0	S	0.0
+Spis_XP_022792011_1	Emue_0013g214a	1.0	S	0.0
+Phoaus_g1834.t1	Emue_0013g237a	90.0	S	0.0
+Phoaus_g1834.t1	Emue_0013g214a	90.0	S	0.0
+Emue_0013g214a	Emue_0013g237a	100.0	D	1.0

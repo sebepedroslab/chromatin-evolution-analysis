@@ -1,0 +1,90 @@
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: histplus | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: histplus | # genes found = 4986
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: histplus | # unique domains = 5047
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_HistRib_Abr21//euk.histplus.seqs.fasta...    done.
+Indexed 4986 sequences (4986 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_HistRib_Abr21//euk.histplus.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Ribosomal_S6e | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Ribosomal_S6e | # genes found = 293
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Ribosomal_S6e | # unique domains = 295
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_HistRib_Abr21//euk.Ribosomal_S6e.seqs.fasta...    done.
+Indexed 293 sequences (293 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_HistRib_Abr21//euk.Ribosomal_S6e.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: YEATS | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: YEATS | # genes found = 371
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: YEATS | # unique domains = 373
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//euk.YEATS.seqs.fasta...    done.
+Indexed 371 sequences (371 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//euk.YEATS.seqs.fasta.ssi
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: YEATS | pairwise alignments + MCL...
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: YEATS | homology groups = 1 (371 / 371)
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: YEATS | Submit pfamscan job | pf.YEATS
+removed environment variable LD_LIBRARY_PATH from submit environment - it is considered a security issue
+removed environment variable LD_GOLD from submit environment - it is considered a security issue
+Your job 75205574 ("pf.YEATS") has been submitted
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: YEATS | HG1 | create fasta n = 371
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: YEATS | HG1 | submit alignment job YEATS.HG1
+removed environment variable LD_LIBRARY_PATH from submit environment - it is considered a security issue
+removed environment variable LD_GOLD from submit environment - it is considered a security issue
+Your job 75205575 ("YEATS.HG1") has been submitted
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | # genes found = 60
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | # unique domains = 60
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//euk.Nucleoplasmin.seqs.fasta...    done.
+Indexed 60 sequences (60 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//euk.Nucleoplasmin.seqs.fasta.ssi
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | pairwise alignments + MCL...
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | homology groups = 1 (60 / 60)
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | Submit pfamscan job | pf.Nucleoplasmin
+removed environment variable LD_LIBRARY_PATH from submit environment - it is considered a security issue
+removed environment variable LD_GOLD from submit environment - it is considered a security issue
+Your job 75256848 ("pf.Nucleoplasmin") has been submitted
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | HG1 | create fasta n = 60
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | HG1 | submit alignment job Nucleoplasmin.HG1
+removed environment variable LD_LIBRARY_PATH from submit environment - it is considered a security issue
+removed environment variable LD_GOLD from submit environment - it is considered a security issue
+Your job 75256849 ("Nucleoplasmin.HG1") has been submitted
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | # genes found = 330
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | # unique domains = 330
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//euk.Nucleoplasmin.seqs.fasta...    done.
+Indexed 330 sequences (330 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//euk.Nucleoplasmin.seqs.fasta.ssi
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | pairwise alignments + MCL...
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | homology groups = 1 (330 / 330)
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | Submit pfamscan job | pf.Nucleoplasmin
+removed environment variable LD_LIBRARY_PATH from submit environment - it is considered a security issue
+removed environment variable LD_GOLD from submit environment - it is considered a security issue
+Your job 75257360 ("pf.Nucleoplasmin") has been submitted
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | HG1 | create fasta n = 330
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | HG1 | submit alignment job Nucleoplasmin.HG1
+removed environment variable LD_LIBRARY_PATH from submit environment - it is considered a security issue
+removed environment variable LD_GOLD from submit environment - it is considered a security issue
+Your job 75257361 ("Nucleoplasmin.HG1") has been submitted
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | # genes found = 330
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | # unique domains = 330
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//euk.Nucleoplasmin.seqs.fasta...    done.
+Indexed 330 sequences (330 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//euk.Nucleoplasmin.seqs.fasta.ssi
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | pairwise alignments + MCL...
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | homology groups = 1 (330 / 330)
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | Submit pfamscan job | pf.Nucleoplasmin
+removed environment variable LD_LIBRARY_PATH from submit environment - it is considered a security issue
+removed environment variable LD_GOLD from submit environment - it is considered a security issue
+Your job 75257472 ("pf.Nucleoplasmin") has been submitted
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | HG1 | create fasta n = 330
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta: Nucleoplasmin | HG1 | submit alignment job Nucleoplasmin.HG1
+removed environment variable LD_LIBRARY_PATH from submit environment - it is considered a security issue
+removed environment variable LD_GOLD from submit environment - it is considered a security issue
+Your job 75257473 ("Nucleoplasmin.HG1") has been submitted
+# END

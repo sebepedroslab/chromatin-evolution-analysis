@@ -1,0 +1,95 @@
+# pfam_scan.pl,  run at Mon Jan 25 10:43:15 2021
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Ctel.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Ctel_CapteP166178    155    199    155    200 PF00628.30  PHD               Domain     1    51    52     41.6   8.3e-11   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C+vC++    ++e+++Cd+C r++H  Cl+p+le  + peg+w C++C +
+#PP        7******....************************..999999******75
+#SEQ       YCEVCQQ----GGEIILCDTCPRAYHLVCLEPELE--QAPEGKWSCPHCVR
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Ctel_CapteP166178    222    266    222    267 PF00628.30  PHD               Domain     1    51    52     32.5     6e-08   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C+vCk+    ++el++Cd+C +++H+ Cl p++   ++p+g w C++C++
+#PP        7******....**********************99..99999*******98
+#SEQ       FCRVCKD----GGELLCCDTCTSAYHVFCLAPNVA--NVPDGIWHCPRCSC
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Ctel_CapteP166178    390    441    389    442 PF00385.25  Chromo            Domain     2    53    54     43.0   3.2e-11   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEp.eenlekcfqelideFkk
+#MATCH     +V+rI++h+++ + ++  YlVKW++lpy+ +tWE   +++ +  q  +d++++
+#PP        7********9998888******************9566***99.777****98
+#SEQ       QVHRILNHSKNAKDGTVWYLVKWRELPYDCATWEGsDAEIPDL-QSEVDRYHD
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEE.GGGCTSCSHHHHHHHHH
+Ctel_CapteP166178    516    800    449    801 PF00176.24  SNF2_N            Family    51   349   350    198.3   1.4e-58   1 CL0023   
+#HMM       akqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk................mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalksssksk.ekilelllelrqacnhpql
+#MATCH       +++   iLaDemGLGKT+q++a++    + +       r+++ agp+L+ +P s++ +We+e+e ++++  +  +v++++++                  +k  k+ ++   +++v++t+Y+ +  ++       +l +v+w  +v+DE+h+lkn++sk   ++++++  ++++ltGTP+qn+le+l+ Ll+fL  + fg+ +tf + + + ++   e+++++L+++l + +lrr k+dv kn+P k+e i++++l++++rk+Y+             +l+r+  al+s + s+   +l++++ l+++cnhp+l
+#PP        56788899*******************...333.......345677****************************9999999999**************9844444567888999*************999......9**************************************************************************99888...9***********************************************............67777777777777667566***************98
+#SEQ       SWNQHTDTILADEMGLGKTIQTIAFLR---SLY-------REGHTAGPFLVSAPLSTIINWEREFEFWAPDLYVVTYVGDKDSRavirehefsfeegairGGNKAFKMRKDSGVKFQVLLTSYELICIDQ------ATLGSVDWSVLVVDEAHRLKNNQSKFFRILQSYNIGYKLLLTGTPLQNNLEELFHLLNFLDSKQFGHMTTFLEEFADISK---EDQIKKLHEVLGPHLLRRLKADVLKNMPSKSEFIVRVELNPMQRKYYK------------YILTRNFEALNSRTGSNqVSLLNIMMDLKKCCNHPYL
+#CS        HHHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH................HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HH.HSHCCHHHHHHHHHH-CCC
+Ctel_CapteP166178    827    940    826    940 PF00271.32  Helicase_C        Family     2   111   111     73.9   1.2e-20   1 CL0023   
+#HMM       kleallell.kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     kle + ++l kl+++g+++lif++ +++l+ ++ +le++g+k+ +++g  + + r++++++fn   +  + +L++t++++ Gi++  +++V+++d ++n+++ iq+  R++R+g
+#PP        667777788999*****************9999999***************************86667799*****************************************97
+#SEQ       KLELMAAMLrKLSNDGHRVLIFSQMTKMLDILEDFLENEGYKYERIDGGVTGSLRQDAIDRFNapgSPAFAFLLSTRAGGLGINLATADTVVIYDSDWNPHNDIQAFSRAHRIG
+#CS        HHHHHHHHH.HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Ctel_CapteP166178   1085   1144   1085   1146 PF06465.14  DUF1087           Domain     1    63    65     93.4   6.6e-27   1 No_clan  
+#HMM       eaeeeeaekevikekieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsvee
+#MATCH     e+eeeeae+ev+k+  e +e+ dp+YWekLL++hYEqqqe+++r+LGKGKRvRKqvNY+++ +
+#PP        589***********..6.99****************************************987
+#SEQ       EEEEEEAEMEVLKQ--E-AEHADPAYWEKLLRHHYEQQQEDMARSLGKGKRVRKQVNYNDAAM
+Ctel_CapteP166178   1179   1315   1175   1316 PF06461.12  DUF1086           Domain     6   137   138    194.6   6.3e-58   1 No_clan  
+#HMM       rrk.srkkarsdkdepl.PllegegkslevLGFnerqRkaflnalmRyGv...gdfdskelvrelkqktedeikaYgslFlrHlaeegadnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipgkpvlpd
+#MATCH     +r+ +r ++  d+++pl Pll+++++++evLGFn+rqRk flna+mRyG+   ++f+s++lvr+l+ k+e+e++aY+slF+rHl+e+gadn+etfaDGvP+eGlsrq+vl+ri+++sLv+kkv+e+e+i+gk+++p 
+#PP        3331444555699****9********************************************************************************************************************985
+#SEQ       KREgKRTRRGGDRERPLpPLLARVNGQIEVLGFNTRQRKSFLNAVMRYGMpphDAFNSHWLVRDLRGKSEKEFRAYVSLFMRHLCEPGADNAETFADGVPREGLSRQHVLTRIGIMSLVRKKVQEFEAINGKQSMPY
+Ctel_CapteP166178   1513   1638   1512   1638 PF08074.12  CHDCT2            Domain     2   126   126    204.5   4.9e-61   1 No_clan  
+#HMM       yeiWhrrhDyWllagvvlhGyarwqDilndprfsiinepfkeesekgnfleiknkflarrfklleqalvieeqlrraaklnl.qeeeenvgalaqrfaelellaeahqhlskeslagnknanavlh
+#MATCH      e+WhrrhDyWllag+v +Gy+rwqDi++d+++++inepfk+ ++kgnfleiknkflarrfklleqalvieeqlrraa+lnl q+  ++ +al++rfaele+lae+hqhlskeslagnk+anavlh
+#PP        69*******************************************************************************989999*************************************98
+#SEQ       AEVWHRRHDYWLLAGIVRYGYGRWQDIQSDANYTVINEPFKADQTKGNFLEIKNKFLARRFKLLEQALVIEEQLRRAAYLNLtQDPSHPSMALNARFAELECLAESHQHLSKESLAGNKPANAVLH
+Ctel_CapteP225467     24    108     24    108 PF05485.13  THAP              Domain     1    86    86     49.6   5.7e-13   1 No_clan  
+#HMM       CvvpgCknr.kkskskkkvsfhrfPkdeelrkkWlkaikrkdkkskkksk...srvCskHFeeekkkkedekkrskkrkkLkpdavPtif
+#MATCH     C+vpgC+ + ++ k  +kvs+hrfP+d +l+++W+++i  k++ +         +vCs HF ++++     ++    r  L+ +++P+if
+#PP        *******9954444.455*****************999887666655..13358*******988444..22333445666********98
+#SEQ       CCVPGCQMNlYEYK-GRKVSYHRFPRDVALCNQWIEKIWGKSQAPPA--IfnrGLVCSLHFPPDERV--LVHTCYPARYYLQIGVIPSIF
+Ctel_CapteP225467    164    202    163    202 PF13923.7   zf-C3HC4_2        Domain     2    40    40     34.7   1.2e-08   1 CL0229   
+#HMM       CpiCldmlkdpltvtpCgHvfCqkCilrsLeesneCPlC
+#MATCH     C +C   ++++ t+t+C H+fC++C+ +  + s +CP+C
+#PP        ***************************************
+#SEQ       CTLCNGYFYNATTITECLHTFCKSCLVKHVDRSLHCPKC
+Ctel_CapteP227268     10     91     10     91 PF05485.13  THAP              Domain     1    86    86     64.6   1.1e-17   1 No_clan  
+#HMM       CvvpgCknrkkskskkkvsfhrfPkdeelrkkWlkaikrkdkkskkksk....srvCskHFeeekkkkedekkrskkrkkLkpdavPtif
+#MATCH     C+++gC+nr+++k+  k+s++rfPkd++++ +W+ +++r+d + ++++     +r+C +HF      ++++  +  ++++L  da+Pt+f
+#PP        ********888775..48**********************9999887668899********......4566777788888********98
+#SEQ       CSAFGCSNRHSKKT--KLSLFRFPKDKDRCDQWVVNCGRSDLSANSSEYlntnHRLCTDHF------EDKCFMNAATHNRLVHDAIPTLF
+Ctel_CapteP227268    125    171    125    181 PF07647.18  SAM_2             Domain     1    48    66     35.5   8.1e-09   1 CL0003   
+#HMM       veswsledvaeWLrsigleqytdnFrdagitgaelllrlteedLkrlG
+#MATCH     ++sw +++v++WL++igl+   + F++++i+g e+ll+lt+ + ++l 
+#PP        579*****************************.*******98887765
+#SEQ       PSSWGTDRVHQWLQEIGLGSLQPEFEEQKIDG-EALLHLTAMMIAHLA
+#CS        GGGHHHHHHHHHHHHTTTGGGHHHHHHTTCSHHHHHTTSCHHHHHHTT

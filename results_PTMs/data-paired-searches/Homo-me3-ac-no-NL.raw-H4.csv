@@ -1,0 +1,5 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Hsap_P62805|Histone_H4	Hsap_P62805|Histone_H4	H4	FALSE	MSGRG KGGKG LGKGG AKR	Me3	K	6				100	MSGRGKGGKGLGKGGAKR	res
+Hsap_P62805|Histone_H4	Hsap_P62805|Histone_H4	H4	FALSE	MSGRG KGGKG LGKGG AKR	Me3	K	9				100	MSGRGKGGKGLGKGGAKR	res
+Hsap_P62805|Histone_H4	Hsap_P62805|Histone_H4	H4	FALSE	GKGGK GLGKG GAKR	Me3	K	9				49.59	GKGGKGLGKGGAKR	res
+Hsap_P62805|Histone_H4	Hsap_P62805|Histone_H4	H4	FALSE	GKGGK GLGKG GAKR	Me3	K	13				50	GKGGKGLGKGGAKR	res

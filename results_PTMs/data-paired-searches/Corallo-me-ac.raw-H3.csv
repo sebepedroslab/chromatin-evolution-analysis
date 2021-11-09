@@ -1,0 +1,15 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Clim_g1346|Histone_H3	Clim_g1346|Histone_H3	H3	FALSE	SAPAT GGVKK PHR	Me1	K	9				94.5	SAPATGGVKKPHR	res
+Clim_g1346|Histone_H3	Clim_g1346|Histone_H3	H3	FALSE	SAPAT GGVKK PHR	Me1	K	9				50	SAPATGGVKKPHR	res
+Clim_g1346|Histone_H3	Clim_g1346|Histone_H3	H3	FALSE	KSAPA TGGVK KPHR	Me1	K	10				50	KSAPATGGVKKPHR	res
+Clim_g1346|Histone_H3	Clim_g1346|Histone_H3	H3	FALSE	SAPAT GGVKK PHR	Me1	K	10				50	SAPATGGVKKPHR	res
+Clim_g1346|Histone_H3	Clim_g1346|Histone_H3	H3	FALSE	KSAPA TGGVK KPHR	Me1	K	11				99.79	KSAPATGGVKKPHR	res
+Clim_g1346|Histone_H3	Clim_g1346|Histone_H3	H3	FALSE	KSAPA TGGVK KPHR	Me1	K	11				50	KSAPATGGVKKPHR	res
+Clim_g4067|Histone_H3	Clim_g4067|Histone_H3	H3	FALSE	TKQTA R	Me1	K	2				100	TKQTAR	res
+Clim_g4067|Histone_H3	Clim_g4067|Histone_H3	H3	FALSE	KQLAT KAAR	Me1	K	6				100	KQLATKAAR	res
+Clim_g4067|Histone_H3	Clim_g4067|Histone_H3	H3	FALSE	EIAQD FKTDL R	Me1	K	7				100	EIAQDFKTDLR	res
+Clim_g4067|Histone_H3	Clim_g4067|Histone_H3	H3	FALSE	SAPST GGVKK PHR	Me1	K	9				93.98	SAPSTGGVKKPHR	res
+Clim_g4067|Histone_H3	Clim_g4067|Histone_H3	H3	FALSE	KSAPS TGGVK KPHR	Me1	K	10				99.99	KSAPSTGGVKKPHR	res
+Clim_g4067|Histone_H3	Clim_g4067|Histone_H3	H3	FALSE	KSAPS TGGVK KPHR	Me1	K	10				50	KSAPSTGGVKKPHR	res
+Clim_g4067|Histone_H3	Clim_g4067|Histone_H3	H3	FALSE	KSAPS TGGVK KPHR	Me1	K	11				95.76	KSAPSTGGVKKPHR	res
+Clim_g4067|Histone_H3	Clim_g4067|Histone_H3	H3	FALSE	KSAPS TGGVK KPHR	Me1	K	11				50	KSAPSTGGVKKPHR	res

@@ -1,0 +1,1444 @@
+gene	orthogroup	orthologous_to	family	architecture
+Plafun_PRP83144	CupinJmjC.HG6.4:AL451062.4/KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F	AL451062.4/KDM4A/KDM4B/KDM4C/KDM4D/KDM4E/KDM4F	CupinJmjC	JmjN JmjC Hist_deacetyl
+Masbal_CACRSC010000015.1.p35	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Mvib_comp469608_c0_seq1_fr4	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ngad_EWM27455	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g14172.t3	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	zf-CXXC zf-CXXC Hist_deacetyl
+Coka_g14172.t1	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	zf-CXXC zf-CXXC Hist_deacetyl
+Mvib_comp13184_c1_seq1_fr6	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Esil_CBN74848	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Aano_EGB09707	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Tpse_EED93658	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Phatri_Phatr3_J50482.p1	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Esil_CBJ27575	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	zf-CXXC Hist_deacetyl
+Coka_g14172.t2	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	zf-CXXC zf-CXXC Hist_deacetyl
+Clim_evm4s40	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl PHD_2
+Coka_g11710.t1	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	zf-CXXC Hist_deacetyl
+Nutlon_comp10406_c0_seq1.p2	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Diprot_Gene.19975	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Diprot_Gene.27204	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Gonavo_comp62232_c2_seq22_6_ORF9_257	Hist_deacetyl.HG1.0:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Plafun_PRP83144	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	JmjN JmjC Hist_deacetyl
+Acas_ELR11515	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Bnat_JGI_V11_51674	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Hetalb_XP_020430423.1	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Tielac_KYR02367	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ddis_EAL67782	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Masbal_CACRSC010000018.1.p439	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Hetalb_XP_020436005.1	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ddis_EAL67324	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Tielac_KYR00611	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Tielac_KYQ89715	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cavfas_EGG23015	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Plafun_PRP81480	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Plafun_PRP77994	Hist_deacetyl.HG1.1:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Bnat_JGI_V11_143215	Hist_deacetyl.HG1.2:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Chrtob_KOO25321.1	Hist_deacetyl.HG1.2:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Coka_g3891.t1	Hist_deacetyl.HG1.2:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ribonuc_red_sm ATP-cone Ribonuc_red_lgN Ribonuc_red_lgC DNA_methylase RE_Eco29kI DUF808 Bac_globin Hist_deacetyl
+Pavlsp_960614	Hist_deacetyl.HG1.2:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Pfal_CZU00419	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Phatri_Phatr3_J4423.p1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Ank Hist_deacetyl
+Schagg_25364	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Vitbra_CEM23308.1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Nutlon_comp28025_c0_seq1.p1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Chrtob_KOO34341.1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank Ank_2 Hist_deacetyl
+Alblai_CCA19742	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Aplker_28733	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Vitbra_CEM18344.1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Vcar_XP_002954936.1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Ank Hist_deacetyl
+Mpus_XP_003056785.1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Ank_5 Hist_deacetyl
+Sappar_KDO30199	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_5 Hist_deacetyl
+Gonavo_comp508174_c0_seq1_6_ORF3_83	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Sappar_KDO27191	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD18226	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Cocsub_XP_005650534.1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Gonavo_comp49174_c0_seq1_6_ORF23_471	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Perkma_EER15963	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Esil_CBN74846	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Aurlim_59690	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Perkma_EER12772	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g9826.t1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank Ank_5 Hist_deacetyl
+Plamic_ANCSI_08675.mRNA.1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Aplker_70504	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_4 Hist_deacetyl
+Crei_PNW76823	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Ank_4 Ank Hist_deacetyl
+Tgon_TGME49_202230-t26_1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank Hist_deacetyl Hist_deacetyl
+Ngad_EWM27025	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Ank Ank Hist_deacetyl
+Otau_XP_022839545.1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank Ank_2 Hist_deacetyl
+Caulen_g1213.t1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Oxytri_EJY77167	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_3 Hist_deacetyl
+Mvib_comp436517_c0_seq1_fr6	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ngad_EWM23360	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ulvmut_UM040_00311	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_3 Hist_deacetyl
+Gthe_EKX44482	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Vitbra_CEM05598.1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Honfer_GBG34619	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Pinf_PITG_08237T0	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Gthe_EKX40857	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Symmic_Smic13281	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Mvib_comp5947_c0_seq1_fr6	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cvel_1406.t1-p1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Pinf_PITG_05176T0	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Mvib_comp5947_c1_seq1_fr5	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	
+Bremin_symbB.v1.2.000176.t1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Perkma_EER09468	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g14173.t1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Fabtro_Gene.32924	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Tpse_EED93251	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Ank_5 Hist_deacetyl
+Esil_CBN77725	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank Ank_2 Ank Hist_deacetyl
+Gthe_EKX49342	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Plamic_ANCSI_07211.mRNA.1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	ARID Hist_deacetyl
+Cvar_XP_005846023.1	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_4 Ank_2 Hist_deacetyl Hist_deacetyl
+Nutlon_comp29213_c0_seq1.p2	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Eimten_CDJ37879	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_5 Hist_deacetyl
+Spun_KNC96405	Hist_deacetyl.HG1.3:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ttra_KNC49125	Hist_deacetyl.HG1.4:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Vitbra_CEM18343.1	Hist_deacetyl.HG1.4:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Schagg_106514	Hist_deacetyl.HG1.4:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Mpus_XP_003059549.1	Hist_deacetyl.HG1.4:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Mpus_XP_003059550.1	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Aurlim_80565	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Aplker_101873	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Honfer_GBG31356	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g13711.t3	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Myb_DNA-binding Ank_2 Hist_deacetyl
+Chrtob_KOO34658.1	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Esil_CBN78960	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Gthe_EKX33460	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl Hist_deacetyl
+Aplker_28275	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Schagg_41968	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Sappar_KDO21546	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Coka_g13711.t1	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Myb_DNA-binding Ank_2 Hist_deacetyl
+Gonavo_comp60396_c2_seq1_6_ORF1_792	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Aplker_88205	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g13711.t2	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Myb_DNA-binding Ank_2 Hist_deacetyl
+Bnat_JGI_V11_81791	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_5 Hist_deacetyl Hist_deacetyl
+Ehux_EOD18056	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Schagg_24090	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Aurlim_10264	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Honfer_GBG24202	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Esil_CBN78959	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Myb_DNA-binding Ank_2 Hist_deacetyl
+Phatri_Phatr3_J45431.p1	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Myb_DNA-binding Ank_2 Hist_deacetyl
+Tpse_EED91141	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Aurlim_79806	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Gonavo_comp60396_c4_seq8_6_ORF4_251	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Honfer_GBG27432	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl PAH
+Schagg_87097	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Otau_XP_022839626.1	Hist_deacetyl.HG1.5:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ank_2 Hist_deacetyl
+Coka_g14572.t1	Hist_deacetyl.HG1.6:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	MarR_2 Response_reg Trans_reg_C Hist_deacetyl polyprenyl_synt DXP_synthase_N Transket_pyr Transketolase_C GST_N_3 GST_C
+Ehux_EOD07336	Hist_deacetyl.HG1.6:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD07055	Hist_deacetyl.HG1.6:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD26918	Hist_deacetyl.HG1.6:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Chrtob_KOO53507.1	Hist_deacetyl.HG1.6:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Pavlsp_1012121	Hist_deacetyl.HG1.6:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g1138.t1	Hist_deacetyl.HG1.6:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.31375	Hist_deacetyl.HG1.6:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Falb_KCV69718	Hist_deacetyl.HG1.7:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Tmel_CAZ83144	Hist_deacetyl.HG1.7:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Umay_KIS66947	Hist_deacetyl.HG1.7:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cneo_AAW41165	Hist_deacetyl.HG1.7:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ccin_EAU86292	Hist_deacetyl.HG1.7:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ncra_EAA32603	Hist_deacetyl.HG1.7:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Scer_YPL116W	Hist_deacetyl.HG1.7:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Aano_EGB12151	Hist_deacetyl.HG1.8:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Esil_CBN79039	Hist_deacetyl.HG1.8:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Aplker_77959	Hist_deacetyl.HG1.8:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g15345.t1	Hist_deacetyl.HG1.8:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ngad_EWM26976	Hist_deacetyl.HG1.8:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Alblai_CCA17150	Hist_deacetyl.HG1.9:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.13089	Hist_deacetyl.HG1.9:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Fabtro_Gene.17522	Hist_deacetyl.HG1.9:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g19237.t1	Hist_deacetyl.HG1.9:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Amidohydro_1 RNase_T
+Pinf_PITG_15415T0	Hist_deacetyl.HG1.9:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Sappar_KDO30444	Hist_deacetyl.HG1.9:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cmer_CMG132CT	Hist_deacetyl.HG1.10:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Esil_CBJ26649	Hist_deacetyl.HG1.10:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Phatri_Phatr3_J8891.p1	Hist_deacetyl.HG1.10:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g10791.t1	Hist_deacetyl.HG1.10:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD09055	Hist_deacetyl.HG1.10:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ngad_EWM27517	Hist_deacetyl.HG1.10:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Aano_EGB06274	Hist_deacetyl.HG1.10:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Gracho_PXF50172.1	Hist_deacetyl.HG1.10:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Porpur_KAA8496514.1	Hist_deacetyl.HG1.10:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Chocri_XP_005717232.1	Hist_deacetyl.HG1.10:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Crei_PNW82704	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Marpol_PTQ42614	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ppat_Pp3c21_17500V3.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ07961	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Mpus_XP_003057180.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cvar_XP_005844106.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Caulen_g1951.t1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Bdis_KQJ91981	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ08022	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Chabra_GBG81830	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ07952	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Sbic_EES01710	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cvar_XP_005851005.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cvar_XP_005845035.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012853716.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Atha_AT4G33470.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cocsub_XP_005646444.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cocsub_XP_005643004.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Otau_XP_003081007.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ulvmut_UM071_00311	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Azfi_s0157.g053756	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Acoe_PIA41725.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Atri_ERN18144	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx05G047100.1.p	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Klenit_GAQ84301.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ16002	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Vcar_XP_002958328.1	Hist_deacetyl.HG1.11:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Symmic_Smic5503	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Marpol_PTQ27176	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Plafun_PRP77953	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ppat_Pp3c13_17860V3.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.28662	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Nutlon_comp15111_c0_seq1.p1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Clim_evm13s153	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.3565	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ08230	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Acoe_PIA54341.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Klenit_GAQ90673.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Fabtro_Gene.38513	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	
+Morelo_OAQ25507	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Fabtro_Gene.24603	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Plabra_CEO96302	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Rhidel_EIE82866	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Morelo_OAQ34158	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.35502	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Acoe_PIA54342.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Atri_ERN16099	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g989.t1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	DUF1688 UPRTase PfkB gag-asp_proteas PGM_PMM_I PGM_PMM_II PGM_PMM_III PGM_PMM_IV Aldose_epim Hist_deacetyl Phosphonate-bd
+Atha_AT1G08460.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Chrtob_KOO25193.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Acas_ELR12800	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Spun_KNC96500	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Sbic_EES19606	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Umbram_259050	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Phatri_Phatr3_J43919.p1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Sacu_v1.1_s0011.g004984	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cpar_Cpar_evm1s3397	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Sros_EGD72726	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cowc_KJE96597	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Falb_KCV69970	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Pavlsp_940288	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Fabtro_Gene.38981	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Plafun_PRP86142	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Pkinase Hist_deacetyl
+Mcir_OAC98001	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Coka_g2623.t1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Ribosomal_L5 Ribosomal_L5_C Ribosomal_L6 Ribosomal_L18p Ribosomal_S5 Ribosomal_S5_C Ribosomal_L27A SecY ADK RNA_pol_L RNA_pol_A_bac RNA_pol_A_CTD Ribosomal_L17 DUF305 adh_short Hist_deacetyl NMO
+Gonavo_comp193872_c0_seq1_6_ORF8_266	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Rirr_GBC36923	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Amobb2_AMBB2_05085.mRNA.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Bdis_KQK06033	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Bnat_JGI_V11_79469	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Jaklib_JAKLI_17850.mRNA.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g20813.t1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Mpus_XP_003055206.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Acoe_PIA54343.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Azfi_s0391.g067741	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	peroxidase Hist_deacetyl
+Diprot_Gene.4380	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.54914	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.56092	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012838508.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Fabtro_Gene.13526	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Gonavo_comp56526_c0_seq1_6_ORF11_288	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g4691.t1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl SpoU_methylase Transglut_core
+Smoe_EFJ29828	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Pbla_XP_018284552.1	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Gpro_KXS21434	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Styinc_Gene41099_m41099	Hist_deacetyl.HG1.12:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cvel_18993.t1-p1	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Ngad_EWM27914	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Schagg_98294	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Coka_g15150.t1	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Nitroreductase EI24
+Sappar_KDO27844	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Crei_PNW87295	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Fabtro_Gene.52610	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Pinf_PITG_12962T0	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Aurlim_136181	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Gthe_EKX35096	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Nk52_evm31s236	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Fabtro_Gene.46631	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Sarc_Sarc4_g26212T	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Sarc_Sarc4_g26191T	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Honfer_GBG27190	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cfra_CFRG6649T1	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Phakir_PHAKIR_01947.mRNA.1	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Aplker_41371	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Vcar_XP_002956564.1	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	SET LEA_5 LEA_5 Hist_deacetyl
+Falb_KCV69266	Hist_deacetyl.HG1.13:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Cavfas_EGG21850	Hist_deacetyl.HG1.14:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Hduj_OQV19898.1	Hist_deacetyl.HG1.14:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Cation_efflux Hist_deacetyl Cation_efflux
+Manpla_Gene.54838	Hist_deacetyl.HG1.14:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	
+Mbre_EDQ84034	Hist_deacetyl.HG1.15:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Perkma_EER12826	Hist_deacetyl.HG1.15:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	PHD Hist_deacetyl
+Perkma_EER17477	Hist_deacetyl.HG1.15:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD18575	Hist_deacetyl.HG1.15:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Bremin_symbB.v1.2.038066.t1	Hist_deacetyl.HG1.15:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Vitbra_CEM15047.1	Hist_deacetyl.HG1.15:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD30213	Hist_deacetyl.HG1.15:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Perkma_EER20140	Hist_deacetyl.HG1.15:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Perkma_EER01649	Hist_deacetyl.HG1.15:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Bremin_symbB.v1.2.021342.t1	Hist_deacetyl.HG1.15:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl RRM_1
+Ihof_evm5s35	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Vitbra_CEM25321.1	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl IPK
+Retfil_ETO24751	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Pfal_CZT98329	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl Hist_deacetyl IPK
+Pavlsp_337712	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Vitbra_CEM33521.1	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Symmic_Smic23448	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Lmaj_CAJ02288	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Retfil_ETO14563	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Strcul_EPY27587	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Perkma_EER08694	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl IPK
+Tgon_TGME49_281420-t26_1	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl Hist_deacetyl IPK
+Bremin_symbB.v1.2.028973.t1	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	PAS_9 Hist_deacetyl Pkinase
+Cvel_8232.t1-p1	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Bodsal_CUG86774.1	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Lepsey_KPI86462	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Retfil_ETO29289	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Tcru_EAN98128	Hist_deacetyl.HG1.16:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Symmic_Smic34564	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Oxytri_EJY86252	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Hydvul_Sc4wPfr_1288.g8193.t1	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Oxytri_EJY83099	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ptet_CAK82939	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl IPK
+Phatri_Phatr3_EG01943.p1	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Oxytri_EJY88672	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Phatri_Phatr3_J35869.p1	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ptet_CAK85693	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl IPK
+Tthe_EAR83153	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Tthe_EAR97741	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl IPK
+Oxytri_EJY76626	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Oxytri_EJY66545	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Ngad_EWM29907	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Symmic_Smic17973	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Methyltransf_32 Hist_deacetyl
+Bremin_symbB.v1.2.011407.t1	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Bremin_symbB.v1.2.028483.t1	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl EF-hand_7 Peptidase_C2 Peptidase_C2
+Bremin_symbB.v1.2.021912.t1	Hist_deacetyl.HG1.17:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Emul_CDS42015.1	Hist_deacetyl.HG1.18:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Gthe_EKX52295	Hist_deacetyl.HG1.18:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	Hist_deacetyl
+Andgod_ANDGO_00905.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC4/HDAC5/HDAC6/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Bodsal_CUG89746.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Bnat_JGI_V11_87163	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_022251821.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Ppat_Pp3c3_19120V3.7	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Tpse_EED96395	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Marpol_PTQ50359	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Jaklib_JAKLI_04254.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	
+Lpol_XP_013793439.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	
+Hsap_ENSP00000225983.5	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC5	Hist_deacetyl	HDAC4_Gln Hist_deacetyl
+Acoe_PIA39577.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Hsap_ENSP00000216271.5	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl
+Scil_scpid60808	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Cfra_CFRG5072T1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Pbla_XP_018291482.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Ramvar_GAU94559.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Nk52_evm89s745	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Adig_XP_015749254.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC10	Hist_deacetyl	Hist_deacetyl
+Hetalb_XP_020431841.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Linana_g19124.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	HDAC4_Gln Hist_deacetyl
+Apla_XP_022087315.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Drer_ENSDARP00000124246.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl zf-UBP
+Gonavo_comp93036_c0_seq1_6_ORF14_286	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Cgig_EKC34968	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Rall_EPZ33286	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Morvir_scaffold26.g8.t2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023225858.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Crei_PNW84827	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Plabra_CEP02835	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Lcom_lcpid45229	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Phatri_Phatr3_J45906.p1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Gonavo_comp39860_c0_seq1_6_ORF17_439	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Hsap_ENSP00000334061.5	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl zf-UBP
+Tcru_EAN92767	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Tetwil_Twilhelma_g11971.t2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl zf-UBP
+Mgut_XP_012853763.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Emul_CDS42014.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl zf-UBP
+Rhidel_EIE78040	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Spur_XP_011660538.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Ehux_EOD37671	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012857078.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Acoe_PIA63094.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_022251828.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Ihof_evm2s108	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Bodsal_CUG89747.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	
+Ramvar_GAU99331.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Hduj_OQV25500.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Scer_YNL021W	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Arb2
+Retfil_ETO12615	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl Methyltransf_12
+Bralan_BL04167_evm4	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Falb_KCV70442	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Auraur_scaffold79.g24.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Tmel_CAZ84932	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Tcas_XP_967425.2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Ttra_KNC54467	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Sman_Smp_138770.1_pep	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl zf-UBP
+Azfi_s0242.g059804	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023214059.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	
+Gonavo_comp127916_c0_seq1_6_ORF20_431	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	zf-UBP Hist_deacetyl
+Ehux_EOD33008	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012836575.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Ctel_CapteP43373	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Dmel_FBpp0305523	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Drer_ENSDARP00000156402.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC5	Hist_deacetyl	Hist_deacetyl
+Aque_Aqu2.1.43835_001	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl zf-UBP
+Schagg_27408	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Notgen_g40262.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Tetwil_Twilhelma_g11971.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl zf-UBP
+Sarc_Sarc4_g24236T	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Phoaus_g18031.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl Hist_deacetyl zf-UBP
+Lcom_lcpid65885	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Tetwil_Twilhelma_g8088.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012853765.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Rhidel_EIE86938	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Clyhem_TCONS_00061628-protein	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Spur_XP_030846802.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Recame_RECAM_15809.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Clyhem_TCONS_00021656-protein	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl
+Caulen_g6828.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Hduj_OQV20372.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Ehux_EOD41239	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Meteor_CRO19MET_NODE_3888.p2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Ngru_EFC36189	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	BRCT PTCB-BRCT Hist_deacetyl Beta_helix Beta_helix
+Plamic_ANCSI_04348.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Ttra_KNC46732	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Apla_XP_022087235.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Lgig_LotgiP222496	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl
+Klenit_GAQ82892.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Sman_Smp_177250.1_pep	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	
+Mlei_ML0789_g40_t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl zf-UBP
+Crei_PNW76665	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023236430.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Bremin_symbB.v1.2.027638.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Pkinase
+Symmic_Smic37872	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Pkinase
+Maljak_MALJA_24528.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Strcul_EPY28878	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Dpul_EFX85913	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Sarc_Sarc4_g32190T	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Cgig_EKC35823	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Nutlon_comp1160_c0_seq1.p1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Retfil_ETO26572	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Bden_EGF77114	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Linana_g15034.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl Hist_deacetyl
+Bnat_JGI_V11_46431	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Atha_AT3G18520.2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Aque_Aqu2.1.43718_001	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Mcir_OAD06951	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Acoe_PIA63095.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Ancsig_Gene.67186	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Crei_PNW84877	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Phakir_PHAKIR_11138.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Atha_AT5G61060.2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Sacu_v1.1_s0024.g009048	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Sbic_EER97493	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Emue_0017g591a	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	DDE_Tnp_4 Hist_deacetyl zf-UBP
+Recame_RECAM_16918.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Apla_XP_022087273.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Drer_ENSDARP00000131327.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4	Hist_deacetyl	HDAC4_Gln Hist_deacetyl
+Rhidel_EIE77724	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Morelo_OAQ35479	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Morelo_OAQ22981	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Arb2
+Sman_Smp_069380.1_pep	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Linana_g29750.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Hduj_OQV25501.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Vcar_XP_002954155.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	DUF4201 Hist_deacetyl
+Drer_ENSDARP00000100072.3	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC5	Hist_deacetyl	HDAC4_Gln Hist_deacetyl
+Gonavo_comp61989_c0_seq1_6_ORF29_672	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Nvec_NVE11860	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC10	Hist_deacetyl	Hist_deacetyl
+Spis_XP_022788688_1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Auraur_scaffold4848.g1.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl
+Phoaus_g19345.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl
+Lcom_lcpid41200	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl zf-UBP
+Sbic_OQU88485	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Ehux_EOD17519	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Lcom_lcpid39842	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Ehux_EOD16727	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Mpus_XP_003062528.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Cint_ENSCINP00000033795.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Acas_ELR21459	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC4/HDAC5/HDAC6/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Chrtob_KOO20836.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Chabra_GBG75386	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Cvar_XP_005846820.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Ctel_CapteP173494	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC6	Hist_deacetyl	Hist_deacetyl
+Nk52_evm6s2192	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Gonavo_comp24054_c0_seq1_6_ORF23_528	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl zf-UBP
+Gthe_EKX36470	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Pbla_XP_018292455.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Maljak_MALJA_21490.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Exapal_XP_020907656.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC10	Hist_deacetyl	Hist_deacetyl
+Hsap_ENSP00000369984.4	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC7	Hist_deacetyl	Hist_deacetyl
+Scil_scpid48891	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl zf-UBP
+Concor_KXN67141	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Scil_scpid70606	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Ihof_evm3s42	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Clim_evm107s88	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Crei_PNW76576	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Adig_XP_015758822.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Ncra_EAA27738	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Arb2
+Ramvar_GAU94558.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Cocsub_XP_005648754.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Aplker_93387	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Schagg_37006	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023225860.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Drer_ENSDARP00000128596.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx07G064100.1.p	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Cowc_KJE94767	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Gpro_KXS13295	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Bdis_KQK20778	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_013777776.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Dmel_FBpp0303431	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl zf-UBP
+Atri_ERN15947	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Auraur_scaffold79.g23.t2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC10	Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx09G075800.1.p	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Notgen_g18421.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	HDAC4_Gln Hist_deacetyl
+Mcir_OAD07965	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Plafun_PRP73163	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx04G008700.1.p	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Cfra_CFRG1953T1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Dpul_EFX71583	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl
+Morelo_OAQ27834	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Arb2
+Hsap_ENSP00000264606.3	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4	Hist_deacetyl	HDAC4_Gln Hist_deacetyl
+Gefoke_MALSP_05684.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Mvib_comp2475_c0_seq1_fr5	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Caulen_g5981.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Ptyfla_pfl_40v0_9_20150316_1g8173.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Spun_KND01267	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Arb2
+Ttra_KNC53549	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Aurlim_56028	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_013783742.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Adig_XP_015758852.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Spur_XP_030856349.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl zf-UBP
+Hydvul_Sc4wPfr_469.1.g10205.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl
+Ocar_g5639.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl zf-UBP
+Clim_evm4s183	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Hsap_ENSP00000408617.2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC9	Hist_deacetyl	HDAC4_Gln Hist_deacetyl
+Ptyfla_pfl_40v0_9_20150316_1g17577.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl Hist_deacetyl zf-UBP
+Drer_ENSDARP00000132042.2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC7	Hist_deacetyl	Hist_deacetyl
+Ctel_CapteP126869	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Atri_ERM99985	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Bralan_BL17729_cuf0	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC6	Hist_deacetyl	Hist_deacetyl
+Coerev_PIA14486.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ31239	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Atha_AT5G61070.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Crei_PNW76745	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl Ank_2
+Tadh_P56890	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC10	Hist_deacetyl	Hist_deacetyl
+Emue_0004g1658a	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Skow_XP_006822026.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	HDAC4_Gln Hist_deacetyl
+Honfer_GBG24545	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Sarc_Sarc4_g2069T	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Skow_XP_006821757.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl HYR HYR GAIN GPS 7tm_2
+Pavlsp_1013819	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Mvib_comp15908_c0_seq3_fr6	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Drer_ENSDARP00000109870.2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl
+Secula_SECUL_06947.mRNA.2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_013788861.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Retfil_ETO23663	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Ppat_Pp3c14_21020V3.3	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_022257064.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Retfil_ETO33248	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Bnat_JGI_V11_71118	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Vcar_XP_002954072.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Nvec_NVE7131	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Mvib_comp15908_c0_seq4_fr6	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Auraur_scaffold79.g23.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC10	Hist_deacetyl	Hist_deacetyl
+Lgig_LotgiP137337	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Helrob_HelroP105206	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Ehux_EOD29091	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Secula_SECUL_06947.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Cneo_AAW42071	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Arb2
+Lpol_XP_013785388.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Notgen_g8269.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl zf-UBP
+Lcom_lcpid41142	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_022251829.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Lmaj_CAJ05140	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Ocar_g3215.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl EPTP EPTP EPTP EPTP EPTP EPTP
+Tetwil_Twilhelma_g8088.t2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Exapal_XP_020907655.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC10	Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx04G009500.1.p	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Bdis_KQK15369	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Ngru_EFC37777	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Acoe_PIA39582.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Aurlim_45768	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Tadh_P23354	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Dpul_EFX71695	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl
+Exapal_XP_020917295.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Ehux_EOD39604	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Phakir_PHAKIR_17460.mRNA.2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	BRCT_2 PTCB-BRCT Hist_deacetyl
+Lpol_XP_013793309.2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	
+Morvir_scaffold12.g71.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ19764	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Cocsub_XP_005646795.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Amobb2_AMBB2_02716.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	PTCB-BRCT Hist_deacetyl
+Jaklib_JAKLI_16024.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl Shikimate_dh_N SDH_C
+Lpol_XP_022236180.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl
+Umbram_249410	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Tudor-knot Hist_deacetyl
+Lpol_XP_022238613.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl Hist_deacetyl
+Auraur_scaffold22.g39.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Sros_EGD81047	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Vcar_XP_002947645.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Marpol_PTQ38728	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Helrob_HelroP95510	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl zf-UBP
+Gthe_EKX43986	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Lgig_LotgiP139112	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ08599	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Tcas_XP_015839104.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Ehux_EOD36265	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Scil_scpid73915	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Pbla_XP_018295784.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023213772.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Spur_XP_011670202.2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl zf-UBP
+Aano_EGB04637	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Hydvul_Sc4wPfr_650.g22963.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Bralan_BL01902_evm0	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl
+Phoaus_g1936.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Emul_CDS40722.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Mcir_OAC98457	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Ehux_EOD14302	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Amobb2_AMBB2_02716.mRNA.2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	PTCB-BRCT Hist_deacetyl
+Tcru_EAN85555	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Morvir_scaffold12.g72.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC10	Hist_deacetyl	Hist_deacetyl
+Sappar_KDO25434	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Morvir_scaffold26.g8.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Tetwil_Twilhelma_g15931.t2	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	
+Lepsey_KPI82658	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl Hist_deacetyl
+Rigram_Gene.20451	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	zf-ZPR1 Hist_deacetyl
+Spom_SPBC800.03.1_pep	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Arb2
+Bnat_JGI_V11_34664	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Dpul_EFX72406	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx01G147000.1.p	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Rirr_GBC48608	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Arb2
+Otau_XP_022839375.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Cgig_EKC35286	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl Hist_deacetyl
+Sman_Smp_191310.1_pep	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Hduj_OQV19897.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl
+Dpul_EFX83972	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl zf-UBP
+Cgig_EKC22071	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl
+Nk52_evm15s490	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Ppat_Pp3c10_16170V3.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Ancsig_Gene.86801	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Gonavo_g11752.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Azfi_s0250.g060221	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Emul_CDS42013.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Vcar_XP_002954079.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Gonavo_g4502.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Sman_Smp_138780.1_pep	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10	Hist_deacetyl	Hist_deacetyl
+Retfil_ETO27601	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Fabtro_Gene.21007	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Ccin_EFI28108	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Arb2
+Mgut_XP_012854010.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Mlei_ML0244_g2_t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Notgen_g19782.t1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Klenit_GAQ90206.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6/HDAC10	Hist_deacetyl	Hist_deacetyl
+Recame_RECAM_00056.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Apla_XP_022102473.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl zf-UBP
+Bnat_JGI_V11_44315	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012846490.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_022256382.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Umay_KIS69566	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Arb2
+Spur_XP_011660543.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Emul_CDS37979.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Chrtob_KOO27942.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012853932.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl
+Cfra_CFRG3468T1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC4/HDAC5/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Hduj_OQV19896.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl
+Dpul_EFX71580	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl
+Ramvar_GAU96527.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	islike:HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Honfer_GBG30616	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC6	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Andgod_ANDGO_07949.mRNA.1	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC4/HDAC5/HDAC6/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Styinc_Gene29139_m29139	Hist_deacetyl.HG1.19:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10	HDAC10/HDAC4/HDAC5/HDAC6/HDAC7/HDAC9	Hist_deacetyl	Hist_deacetyl
+Sappar_KDO29072	Hist_deacetyl.HG1.20:like:HDAC4/HDAC5/HDAC6/HDAC7/HDAC9/HDAC10:likeclu:19		Hist_deacetyl	PHD Hist_deacetyl
+Pygbif_GCRY01008577.1.p1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Cfra_CFRG6284T1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Cang_ORZ35232	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Clim_evm60s147	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Nvec_NVE23903	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Cowc_KJE93626	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Tetwil_Twilhelma_g26313.t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Tadh_P25928	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_013773955.2	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Plamic_ANCSI_01440.mRNA.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Adig_XP_015778716.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Drer_ENSDARP00000017858.4	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Nvec_NVE13661	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Cvar_XP_005843300.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Hydvul_Sc4wPfr_39.1.g26768.t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023226182.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Lcom_lcpid34729	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Apla_XP_022100459.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Nk52_evm14s212	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Spis_XP_022784841_1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Amac_KNE67107	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Mvib_comp800_c0_seq1_fr4	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Gthe_EKX49349	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Scil_scpid65704	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Cgig_EKC18363	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Pavlsp_982542	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Gracho_PXF49014.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Spur_XP_791175.3	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Gefoke_MALSP_13729.mRNA.2	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Notgen_g31351.t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Lgig_LotgiP209871	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Morvir_scaffold32.g75.t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Emul_CDI97270.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Mlei_ML0044_g20_t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	PHD zf-HC5HC2H_2 PHD Hist_deacetyl
+Tetwil_Twilhelma_g26312.t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Ptyfla_pfl_40v0_9_20150316_1g12316.t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Maljak_MALJA_01056.mRNA.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Gonavo_comp52845_c0_seq1_6_ORF7_418	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Sman_Smp_091990.1_pep	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Phoaus_g10452.t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Bnat_JGI_V11_68869	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Maljak_MALJA_02323.mRNA.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Amac_KNE60460	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Tetwil_Twilhelma_g26313.t2	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Tcas_XP_008192051.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Spun_KNC96647	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Cneo_AAW46548	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Clyhem_TCONS_00063523-protein	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Emue_0023g427a	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Morelo_OAQ25261	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Hsap_ENSP00000362669.3	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Aque_Aqu2.1.38372_001	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Bden_EGF82920	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Pisp_OUM70697.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Linana_g29849.t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Meteor_CRO19MET_NODE_217.p3	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Exapal_XP_020912218.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Gefoke_MALSP_13729.mRNA.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Umay_KIS67736	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Ccin_EAU81472	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Notgen_g33477.t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Ctel_CapteP148478	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Cint_ENSCINP00000010872.3	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Amac_KNE60461	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Skow_XP_002733814.2	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Gpro_KXS20752	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Coerev_PIA14909.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Linana_g5944.t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Masbal_CACRSC010000631.1.p11	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Hsap_ENSP00000497072.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl CITED
+Scer_YPR068C	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Bralan_BL11384_evm3	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Fabtro_Gene.57169	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Honfer_GBG33440	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Carmem_1931.p1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Rall_EPZ31254	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl Ebp2
+Retfil_ETO00506	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Phakir_PHAKIR_17158.mRNA.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Carmem_b3568.p2	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Tcru_EAN94136	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Bodsal_CUF50542.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Amobb2_AMBB2_13489.mRNA.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Strcul_EPY27342	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Aplker_54945	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Aurlim_119527	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Strcul_EPY26669	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Ngru_EFC38663	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Phakir_PHAKIR_08908.mRNA.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Fabtro_Gene.26773	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Tcru_EAN88367	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Coka_g17252.t1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Carmem_b9220.p1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Styinc_Gene24440_m24440	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Pygbif_GCRY01006508.1.p1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.47845	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Sappar_KDO21520	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Retfil_ETO09529	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Tpse_EED94767	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Esil_CBJ28139	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Rigram_Gene.35199	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Acas_ELR25013	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Carmem_b3568.p1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Schagg_59310	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Bodsal_CUG78091.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Secula_SECUL_05277.mRNA.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Recame_RECAM_04926.mRNA.1	Hist_deacetyl.HG2.0:AL133500.1/HDAC8	AL133500.1/HDAC8	Hist_deacetyl	Hist_deacetyl
+Crei_PNW76629	Hist_deacetyl.HG2.1:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Vcar_XP_002951644.1	Hist_deacetyl.HG2.1:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tcru_EAN93398	Hist_deacetyl.HG2.2:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Lmaj_CAJ04180	Hist_deacetyl.HG2.2:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Lepsey_KPI89575	Hist_deacetyl.HG2.2:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Strcul_EPY28539	Hist_deacetyl.HG2.2:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tcru_EAN94910	Hist_deacetyl.HG2.2:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Perkma_EEQ98819	Hist_deacetyl.HG2.3:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Lepsey_KPI83520	Hist_deacetyl.HG2.3:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Lmaj_CAJ04998	Hist_deacetyl.HG2.3:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Strcul_EPY25079	Hist_deacetyl.HG2.3:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Perkma_EER17726	Hist_deacetyl.HG2.3:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD14626	Hist_deacetyl.HG2.4:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Aplker_102057	Hist_deacetyl.HG2.4:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Schagg_98205	Hist_deacetyl.HG2.4:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Falb_KCV68256	Hist_deacetyl.HG2.4:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Honfer_GBG32760	Hist_deacetyl.HG2.4:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Aurlim_47810	Hist_deacetyl.HG2.4:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Chrtob_KOO35863.1	Hist_deacetyl.HG2.4:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD18744	Hist_deacetyl.HG2.4:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Bdis_KQJ99706	Hist_deacetyl.HG2.5:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Sbic_OQU87074	Hist_deacetyl.HG2.5:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Pygbif_GCRY01005076.1.p1	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Eimten_CDJ43918	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Ptet_CAK82073	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ptet_CAK67360	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cvel_3290.t1-p1	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Vitbra_CEM25931.1	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Eimten_CDJ44887	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	
+Ptet_CAK84987	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Oxytri_EJY86603	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ptet_CAK56370	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tgon_TGME49_249620-t26_1	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Perkma_EER19195	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tthe_EAS07200	Hist_deacetyl.HG2.6:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tvag_XP_001310377.1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tthe_EAS02070	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Vitbra_CEL99810.1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ptet_CAK92713	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Carmem_2034.p1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ptet_CAK61391	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Glam_EDO77212	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tthe_EDK31538	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tthe_EAR99905	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cvel_27082.t1-p1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Perkma_EER04146	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Pfal_CAD51938	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Oxytri_EJY73335	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Eimten_CDJ38196	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tgon_TGME49_227290-t26_1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Carmem_2646.p1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	
+Ptet_CAK75964	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Vitbra_CEM38392.1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	zf-CW Hist_deacetyl
+Carmem_1482.p1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ptet_CAK89922	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Perkma_EER11845	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ptet_CAK75479	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Carmem_2568.p1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Carmem_1982.p1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ulvmut_UM015_02271	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cvel_21670.t1-p1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cvel_13407.t1-p1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cvel_15672.t1-p1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tvag_XP_001584265.1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tvag_XP_001584047.1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tvag_XP_001582283.1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tvag_XP_001309799.1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Sarc_Sarc4_g11981T	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tvag_XP_001580818.1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Concor_KXN68755	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tvag_XP_001325510.1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tvag_XP_001316942.1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cfra_CFRG8140T1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tvag_XP_001326705.1	Hist_deacetyl.HG2.7:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Gthe_EKX43933	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Aque_Aqu2.1.34316_001	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Spis_XP_022779736_1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Spur_XP_030844545.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Masbal_CACRSC010000055.1.p335	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Lcom_lcpid127396	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Scil_scpid60943	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Aque_Aqu2.1.13361_001	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	
+Scer_YGL194C	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Acoe_PIA39231.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Lgig_LotgiP216681	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Tmel_CAZ83494	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Atha_AT3G44680.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Umbram_205732	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.49283	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Sman_Smp_093280.1_pep	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Rhidel_EIE87309	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Sbic_EES10729	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Spom_SPAC3G9.07c.1_pep	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Caulen_g115.t1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Phoaus_g6710.t1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Masbal_CACRSC010000055.1.p76	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Marpol_PTQ30210	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_013784620.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Nvec_NVE1080	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Pavlsp_1100085	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Coerev_PIA13550.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Sarc_Sarc4_g22585T	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Cavfas_EGG19787	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Apla_XP_022101756.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Rigram_Gene.8838	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Crei_PNW72318	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Dpul_EFX81904	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Fabtro_Gene.17623	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Cneo_AAW45078	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Sacu_v1.1_s0131.g022091	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Clim_evm47s7	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Pbla_XP_018297284.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Emul_CDS43388.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Ctel_CapteP184599	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Gpro_KXS20399	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Drer_ENSDARP00000054625.5	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Cocsub_XP_005652289.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Tetwil_Twilhelma_g4325.t1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Hetalb_XP_020437509.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Exapal_XP_020903055.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Ppat_Pp3c6_5800V3.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Mbre_EDQ91012	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Cgig_EKC42750	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Ehux_EOD30033	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Gpro_KXS11377	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Tcas_XP_969419.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Ttra_KNC54922	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Bden_EGF81855	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Skow_XP_002742058.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Mlei_ML0032_g14_t1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Cang_ORZ37714	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Dmel_FBpp0078414	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Chrtob_KOO23165.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Bdis_KQJ82485	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Otau_XP_022840720.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Linana_g2355.t1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Klenit_GAQ84921.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023212594.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Auraur_scaffold673.g4.t1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Meteor_CRO19MET_NODE_5903.p1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Mcir_OAD07493	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Ccin_EFI28465	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Plafun_PRP87981	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Ihof_evm1s641	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx12G077200.1.p	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Drer_ENSDARP00000135487.2	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Ddis_EAL72519	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Ehux_EOD19100	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Ncra_EAA35215	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Hsap_ENSP00000302967.3	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Tielac_KYR02249	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Umay_KIS72248	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Rirr_GBC16466	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Helrob_HelroP65955	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Azfi_s0034.g025319	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Cvar_XP_005848164.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Nutlon_comp20506_c0_seq1.p1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Ancsig_Gene.50831	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Atri_ERN13133	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Cint_ENSCINP00000004801.3	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Chrtob_KOO27315.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012838549.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Bralan_BL14536_evm4	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Chabra_GBG80875	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Adig_XP_015775327.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Amac_KNE57170	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Cowc_KJE97488	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023213907.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Falb_KCV68495	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Notgen_g1928.t1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Aque_Aqu2.1.13362_001	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Morvir_scaffold49.g53.t1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ27209	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Ramvar_GAU99938.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Gpro_KXS10678	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Diprot_Gene.16331	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Vcar_XP_002952849.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Rall_EPZ33497	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Ptyfla_pfl_40v0_9_20150316_1g1014.t1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Ramvar_GAU89996.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Hydvul_Sc4wPfr_107.1.g20644.t1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Pisp_OUM60425.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Nk52_evm63s210	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Ulvmut_UM098_00161	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Adig_XP_015779409.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Ancsig_Gene.79508	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Plamic_ANCSI_06867.mRNA.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Notgen_g26124.t1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Mcir_OAD07494	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Emue_0011g119a	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Spun_KND01146	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Notgen_g5621.t1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Rirr_GBC43818	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Lcom_lcpid86184	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Sros_EGD78339	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.17744	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Cfra_CFRG6046T1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Mpus_XP_003060152.1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Auraur_scaffold673.g2.t1	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Amac_KNE70925	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Clyhem_TCONS_00023841-protein	Hist_deacetyl.HG2.8:HDAC3	islike:HDAC3	Hist_deacetyl	Hist_deacetyl
+Morelo_OAQ27605	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Concor_KXN67343	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Tadh_P57882	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023218451.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Ocar_g5993.t1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Hduj_OQV21621.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Masbal_CACRSC010000055.1.p397	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Porumb_OSX79579.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Phatri_Phatr3_J49800.p1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Schagg_82258	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Honfer_GBG30061	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Pinf_PITG_01911T0	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Aplker_92698	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Esil_CBN75810	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Aplker_31383	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Alblai_CCA14006	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Sappar_KDO22541	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Pinf_PITG_21309T0	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Aurlim_47245	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Chocri_XP_005717961.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Cmer_CMS068CT	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Aurlim_46040	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Coka_g9974.t2	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl Dynein_light
+Sappar_KDO17456	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Bnat_JGI_V11_58512	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Gracho_PXF42281.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Pinf_PITG_01897T0	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Gracho_PXF41435.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Gonavo_g27058.t1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Aano_EGB12697	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Ngad_EWM29801	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Plabra_CEO98953	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Porpur_KAA8499079.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Honfer_GBG32347	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Sappar_KDO22540	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Tpse_EED95037	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Schagg_82257	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Retfil_ETO06932	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Chocri_XP_005715783.1	Hist_deacetyl.HG2.8:HDAC3	HDAC3	Hist_deacetyl	Hist_deacetyl
+Pisp_OUM59645.1	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cneo_AAW44291	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Umbram_219233	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Umay_KIS69526	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Mcir_OAC97831	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Pbla_XP_018290914.1	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Amac_KNE65291	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Scer_YNL330C	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Coerev_PIA17600.1	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Morelo_OAQ33029	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Tmel_CAZ85499	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ncra_EAA35131	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Rhidel_EIE85135	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cang_ORZ41039	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Amac_KNE66388	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ccin_EAU93448	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Rirr_GBC26329	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Concor_KXN70957	Hist_deacetyl.HG2.9:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Vcar_XP_002945830.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012839478.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sbic_EES13744	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Atri_ERM94967	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Atri_ERN20455	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Bdis_KQK17870	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Mpus_XP_003055989.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Ppat_Pp3c13_20230V3.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Klenit_GAQ90432.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sbic_EES04741	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx09G039500.1.p	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Azfi_s0185.g056594	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Bdis_KQJ96306	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012832818.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Azfi_s0037.g025970	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Acoe_PIA57071.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Acoe_PIA44059.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Atha_AT5G63110.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Bdis_KQJ94026	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012845666.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Chabra_GBG62038	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Atha_AT5G35600.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sacu_v1.1_s0137.g022447	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Atri_ERN02510	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx09G093800.1.p	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sacu_v1.1_s0013.g005747	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012839475.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012852572.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Acoe_PIA51738.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx06G044200.1.p	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ17426	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sacu_v1.1_s0073.g017140	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Ppat_Pp3c3_26550V3.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ38890	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012829291.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Atha_AT4G38130.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Marpol_PTQ31767	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012840423.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Azfi_s0010.g012149	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Otau_XP_022840764.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sbic_KXG20269	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Cocsub_XP_005647493.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Cvar_XP_005847495.1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Crei_PNW82179	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Caulen_g5467.t1	Hist_deacetyl.HG2.10:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Pisp_OUM56225.1	Hist_deacetyl.HG2.11:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Gpro_KXS16811	Hist_deacetyl.HG2.11:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cang_ORZ38356	Hist_deacetyl.HG2.11:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Gpro_KXS10898	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Umay_KIS71457	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Spom_SPBC36.05c.1_pep	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Umbram_246872	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Pbla_XP_018286798.1	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Amac_KNE65448	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ccin_EAU82749	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Morelo_OAQ31402	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Rhidel_EIE78722	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Coerev_PIA14885.1	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Spun_KND02578	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Rirr_GBC42368	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Amac_KNE66563	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cneo_AAW42664	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Ulvmut_UM015_02261	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cneo_AAW45210	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Coerev_PIA12995.1	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Rall_EPZ30850	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Spun_KND04954	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl FHA zf-C3HC4_2 zf-CRD zf-CCHH
+Bden_EGF80610	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Mcir_OAD01483	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Pisp_OUM65701.1	Hist_deacetyl.HG2.12:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Cpar_Cpar_evm1s719	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sappar_KDO28468	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Aurlim_47481	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Schagg_85485	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Tpse_EED91552	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Esil_CBJ29452	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Caulen_g5796.t1	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sappar_KDO15909	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sappar_KDO28463	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Aplker_44265	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Alblai_CCA17685	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Aano_EGB12698	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Honfer_GBG32289	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Cocsub_XP_005647795.1	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Crei_PNW78705	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD14941	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Ulvmut_UM001_02561	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Sappar_KDO16344	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Phatri_Phatr3_J51026.p1	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Pinf_PITG_04499T0	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Chrtob_KOO21188.1	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Coka_g14462.t1	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Aplker_104412	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Vcar_XP_002955640.1	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Cvar_XP_005847525.1	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Ngad_EWM21734	Hist_deacetyl.HG2.13:like:HDAC1/HDAC2:likeclu:14		Hist_deacetyl	Hist_deacetyl
+Andgod_ANDGO_02022.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Hydvul_Sc4wPfr_287.2.g28216.t1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Clim_evm218s157	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Sarc_Sarc4_g24202T	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Emul_CDS43279.2	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Scil_scpid36973	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Hduj_OQV21135.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Adig_XP_015754883.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Helrob_HelroP194553	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Linana_g13379.t1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Lcom_lcpid135988	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Auraur_scaffold509.g9.t2	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Spis_XP_022785784_1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Drer_ENSDARP00000155165.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1	Hist_deacetyl	Hist_deacetyl
+Clyhem_TCONS_00018246-protein	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Aque_Aqu2.1.36284_001	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Pavlsp_1090147	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Exapal_XP_020901079.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Cfra_CFRG2342T1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Sros_EGD78929	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Ehux_EOD08428	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Hydvul_Sc4wPfr_287.2.g28216.t2	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Apla_XP_022102294.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Masbal_CACRSC010000103.1.p65	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Auraur_scaffold509.g11.t1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023234076.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Emue_0023g279a	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Skow_XP_006825578.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Ctel_CapteP175897	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Ptyfla_pfl_40v0_9_20150316_1g16834.t1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Cint_ENSCINP00000005410.3	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Lcom_lcpid72789	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Lgig_LotgiP178649	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Morvir_scaffold248.g4.t1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Tadh_P26667	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Hsap_ENSP00000362649.3	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1	Hist_deacetyl	Hist_deacetyl
+Ramvar_GAU98367.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Cowc_KJE94400	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Lcom_lcpid141138	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Tadh_P64072	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Hduj_OQV11922.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Mlei_ML0052_g7_t1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Spur_NP_999711.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Clyhem_TCONS_00052651-protein	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Tcas_XP_966633.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Nk52_evm23s1671	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Mbre_EDQ93150	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Sman_Smp_005210.1_pep	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Nvec_NVE222	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Hsap_ENSP00000430432.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC2	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_013778811.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Lcom_lcpid223207	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Ehux_EOD03651	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Tetwil_Twilhelma_g14980.t1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Phoaus_g6012.t1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Notgen_g6065.t1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Auraur_scaffold509.g9.t1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	islike:HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Dmel_FBpp0073173	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Dpul_EFX74892	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Acas_ELR25562	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Gracho_PXF41132.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Styinc_Gene3144_m3144	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Nutlon_comp14769_c0_seq1.p1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Spimul_20851_TR10152_c0_g2	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Malcal_MALCA_01839.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Cavfas_EGG20751	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Plafun_PRP77333	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Phakir_PHAKIR_04924.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Rigram_Gene.17039	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Porpur_KAA8493734.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Recame_RECAM_07893.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Gonavo_g4305.t1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Jakbah_JAKBA_06388.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Gefoke_MALSP_18402.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Jakbah_JAKBA_05617.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Pygbif_GCRY01004096.1.p1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Maljak_MALJA_19666.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Gthe_EKX48905	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Porumb_OSX78028.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.11939	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Diprot_Gene.15534	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Hetalb_XP_020432974.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl uDENN DENN WD40 WD40 WD40 WD40 WD40 WD40
+Fabtro_Gene.21370	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Andgod_ANDGO_00607.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Plabra_CEP03410	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Meteor_CRO19MET_NODE_6207.p1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Rigram_Gene.12545	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Hemkuk_8967_TR3109_c0_g1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Jaklib_JAKLI_05225.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Amobb2_AMBB2_10658.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Falb_KCV72900	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Pygbif_GCRY01001964.1.p1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Meteor_CRO19MET_NODE_5335.p1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Ddis_EAL73465	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Ngru_EFC48025	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Retfil_ETO31822	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Tielac_KYR01442	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Secula_SECUL_06711.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Ancsig_Gene.24044	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Ttra_KNC48494	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Bnat_JGI_V11_57963	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Chocri_XP_005718227.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl MIP
+Acas_ELR25561	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Maljak_MALJA_18907.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Plamic_ANCSI_01987.mRNA.1	Hist_deacetyl.HG2.14:HDAC1/HDAC2	HDAC1/HDAC2	Hist_deacetyl	Hist_deacetyl
+Plafun_PRP77915	Hist_deacetyl.HG2.15:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Sbic_OQU83122	Hist_deacetyl.HG2.16:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Bdis_PNT72273	Hist_deacetyl.HG2.17:like:HDAC1/HDAC2/HDAC3:likeclu:8/14		Hist_deacetyl	Hist_deacetyl
+Eimten_CDJ39847	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl tRNA-synt_2d tRNA-synt_2d
+Ulvmut_UM004_00541	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Nvec_NVE23999	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Gthe_EKX49227	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Bremin_symbB.v1.2.019745.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Pavlsp_51970	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Clim_evm14s248	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Marpol_PTQ48892	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Pavlsp_603009	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Cgig_EKC36062	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Spur_XP_030836836.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Linana_g4901.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Klenit_GAQ87064.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Aano_EGB06721	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Cvel_20638.t1-p1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Nvec_NVE23073	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Andgod_ANDGO_03128.mRNA.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Gracho_PXF43378.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Coka_g16343.t2	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Andgod_ANDGO_03128.mRNA.2	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Cocsub_XP_005650742.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD18448	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Coka_g375.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl Nitroreductase
+Coka_g16343.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Drer_ENSDARP00000139972.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Phatri_Phatr3_J4821.p1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Exapal_XP_020899412.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Coka_g13043.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.46235	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Vitbra_CEM01890.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Falb_KCV71789	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	
+Secula_SECUL_06979.mRNA.2	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Cvar_XP_005845512.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Plafun_PRP89134	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl Ceramidase_alk Ceramidse_alk_C
+Phakir_PHAKIR_00093.mRNA.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx14G027900.1.p	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Otau_XP_003083576.2	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Spis_XP_022781814_1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Cocsub_XP_005648462.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Exapal_XP_020899414.2	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Sacu_v1.1_s0153.g023504	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Recame_RECAM_05298.mRNA.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	HSP70 Hist_deacetyl
+Amobb2_AMBB2_07757.mRNA.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Notgen_g10907.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Tpse_EED87691	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Tgon_TGME49_257790-t26_1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Esil_CBJ26255	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Coka_g1166.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Gonavo_g9609.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD05615	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Coka_g4233.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	GSHPx Hist_deacetyl PFK
+Ngad_EWM22653	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Chrtob_KOO22493.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Apla_XP_022092755.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Crei_PNW73444	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Pavlsp_556282	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Ulvmut_UM011_00301	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Adig_XP_015759847.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Symmic_Smic548	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	MepB Hist_deacetyl
+Ctel_CapteP228874	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Esil_CBJ26508	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD37570	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Morvir_scaffold492.g5.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Otau_XP_003083651.2	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Azfi_s0103.g044679	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	
+Vitbra_CEL95396.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Crei_PNW79545	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Cocsub_XP_005646998.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Linana_g31516.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Apla_XP_022092756.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Spur_XP_030836837.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Ppat_Pp3c14_22810V3.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Coka_g5275.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	CoA_transf_3 Hist_deacetyl Adenine_glyco Plug TonB_dep_Rec
+Phatri_Phatr3_J9278.p1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Skow_XP_006818737.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Cmer_CMQ158CT	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Bremin_symbB.v1.2.019744.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl DnaJ
+Sacu_v1.1_s0009.g004465	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	
+Vcar_XP_002951393.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Cpar_Cpar_evm1s8073	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Auraur_scaffold10.g75.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Oxidored_FMN Pyr_redox_2 Toprim Topoisom_bac Hist_deacetyl
+Ehux_EOD27016	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Tpse_EED90992	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Mpus_XP_003064725.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Secula_SECUL_06979.mRNA.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Chabra_GBG63349	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Clim_evm145s149	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Ehux_EOD33137	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Ptyfla_pfl_40v0_9_20150316_1g11802.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Azfi_s0043.g026973	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Bremin_symbB.v1.2.024181.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	TUTase Hist_deacetyl
+Ngru_EFC39778	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Vcar_XP_002952452.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Phoaus_g15640.t1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Porpur_KAA8493319.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Jakbah_JAKBA_05165.mRNA.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Gthe_EKX45735	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Apla_XP_022092758.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Mpus_XP_003059622.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Amobb2_AMBB2_10344.mRNA.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Porpur_KAA8497311.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Diprot_Gene.24651	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Manpla_Gene.36072	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Bnat_JGI_V11_33088	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Klenit_GAQ82875.1	Hist_deacetyl.HG3.0:like:HDAC11:likeclu:1		Hist_deacetyl	Hist_deacetyl
+Rigram_Gene.11750	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Auraur_scaffold938.g12.t2	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Ramvar_GAV09044.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Caulen_g983.t1	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Chabra_GBG65247	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Gefoke_MALSP_14825.mRNA.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Skow_XP_006817070.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Linana_g14506.t1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Acoe_PIA64352.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Klenit_GAQ78544.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012857944.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Cgig_EKC25242	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Sphfal_Sphfalx11G002100.1.p	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Clim_evm1s217	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Lcom_lcpid198582	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Hduj_OQV18385.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Tthe_EAR91698	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Maljak_MALJA_09931.mRNA.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Atri_ERN16364	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Crei_PNW84775	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Jakbah_JAKBA_00645.mRNA.1	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Tcas_XP_015834910.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Tetwil_Twilhelma_g11300.t1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Helrob_HelroP74564	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Mgut_XP_012857945.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Nutlon_comp15065_c0_seq1.p1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Oxytri_EJY65466	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Jaklib_JAKLI_01808.mRNA.1	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl Hist_deacetyl
+Scil_scpid82555	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Bralan_BL05327_cuf5	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Clyhem_TCONS_00007821-protein	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ15307	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Aque_Aqu2.1.21046_001	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Lpol_XP_013790279.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Tcas_XP_970656.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Jaklib_JAKLI_01549.mRNA.1	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Styinc_Gene36380_m36380	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Gefoke_MALSP_14825.mRNA.3	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Cowc_KJE95645	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Secula_SECUL_02649.mRNA.1	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Notgen_g8256.t1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Hsap_ENSP00000295757.3	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Sacu_v1.1_s0030.g010490	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Tetwil_Twilhelma_g11301.t1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Ramvar_GAV09043.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Nvec_NVE15838	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Ppat_Pp3c16_3940V3.3	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Ptyfla_pfl_40v0_9_20150316_1g16702.t1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Aque_Aqu2.1.21065_001	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Tadh_P25844	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Skow_XP_002735241.2	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Spur_XP_030855790.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Lgig_LotgiP237312	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Apla_XP_022104034.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Smoe_EFJ04287	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl F-box-like
+Adig_XP_015770937.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Acoe_PIA64351.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Gefoke_MALSP_14825.mRNA.4	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Sbic_EER89968	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Apla_XP_022104033.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Phoaus_g17665.t1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Sacu_v1.1_s0749.g027673	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Caulen_g1103.t1	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Tetwil_Twilhelma_g11301.t2	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Sbic_KXG29820	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Ppat_Pp3c6_24640V3.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Rirr_GBC41036	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Atha_AT5G26040.2	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Azfi_s0019.g015184	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Exapal_XP_020903503.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Malcal_MALCA_02771.mRNA.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Klenit_GAQ89479.1	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Marpol_PTQ47806	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Lcom_lcpid198445	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Dmel_FBpp0084109	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Cocsub_XP_005647007.1	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Bdis_KQK17905	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Vcar_XP_002950145.1	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Ptet_CAK73214	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Retfil_ETO30548	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Spur_XP_030853161.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Spur_XP_030853168.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Gefoke_MALSP_14825.mRNA.2	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Auraur_scaffold938.g12.t1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Cint_ENSCINP00000027979.2	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Spis_XP_022792158_1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Acoe_PIA64353.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Klenit_GAQ78543.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Ulvmut_UM020_00341	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Ocar_g4009.t1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023244507.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Drer_ENSDARP00000109681.3	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Ptet_CAK67185	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Morvir_scaffold4.g17.t1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Recame_RECAM_07232.mRNA.1	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Maljak_MALJA_03063.mRNA.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Styinc_Gene38971_m38971	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Nutlon_comp15068_c0_seq1.p2	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Hydvul_Sc4wPfr_200.g3516.t1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Apla_XP_022104035.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Ctel_CapteP197333	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Cvar_XP_005847004.1	Hist_deacetyl.HG3.1:HDAC11	islike:HDAC11	Hist_deacetyl	Hist_deacetyl
+Linana_g19049.t1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Cscu_XP_023244505.1	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Diprot_Gene.18149	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Acas_ELR13486	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Aldo_ket_red
+Diprot_Gene.7276	Hist_deacetyl.HG3.1:HDAC11	HDAC11	Hist_deacetyl	Hist_deacetyl
+Clim_evm4s40	PHD.HG2.4:MLLT6/MLLT10	MLLT10/MLLT6	PHD	Hist_deacetyl PHD_2
+Mlei_ML0044_g20_t1	PHD.HG2.5:PHF14	PHF14	PHD	PHD zf-HC5HC2H_2 PHD Hist_deacetyl
+Perkma_EER12826	PHD.HG4.5:BAZ1A/BAZ1B/BAZ2A/BAZ2B	islike:BAZ1A/BAZ1B/BAZ2A/BAZ2B	PHD	PHD Hist_deacetyl
+Sappar_KDO29072	PHD.HG8.2:KDM4A/KDM4B/KDM4C/KDM5A/KDM5B/KDM5C/KDM5D	KDM4A/KDM4B/KDM4C	PHD	PHD Hist_deacetyl
+Amobb2_AMBB2_02716.mRNA.2	PTIP.HG1.20:like:BRCA1/ECT2/MCPH1/PAXIP1/XRCC1:likeclu:9/25/28/31/33		PTIP	PTCB-BRCT Hist_deacetyl
+Amobb2_AMBB2_02716.mRNA.1	PTIP.HG1.20:like:BRCA1/ECT2/MCPH1/PAXIP1/XRCC1:likeclu:9/25/28/31/33		PTIP	PTCB-BRCT Hist_deacetyl
+Ngru_EFC36189	PTIP.HG1.20:like:BRCA1/ECT2/MCPH1/PAXIP1/XRCC1:likeclu:9/25/28/31/33		PTIP	BRCT PTCB-BRCT Hist_deacetyl Beta_helix Beta_helix
+Phakir_PHAKIR_17460.mRNA.2	PTIP.HG1.31:PAXIP1	islike:PAXIP1	PTIP	BRCT_2 PTCB-BRCT Hist_deacetyl
+Vcar_XP_002956564.1	SET.HG1.16:like:SMYD5:likeclu:71		SET	SET LEA_5 LEA_5 Hist_deacetyl
+Spun_KND04954	zf-CCHH.HG1.7:CHFR	CHFR	zf-CCHH	Hist_deacetyl FHA zf-C3HC4_2 zf-CRD zf-CCHH
+Vitbra_CEM38392.1	zf-CW.HG1.1:like:AC098650.1/KDM1B/MORC1/MORC2/MORC3/MORC4/ZCWPW1/ZCWPW2:likeclu:14/16/17/18		zf-CW	zf-CW Hist_deacetyl
+Coka_g14172.t1	zf-CXXC.HG1.3:like:AP001267.5/CXXC1/CXXC4/CXXC5/DNMT1/FBXL19/KDM2A/KDM2B/KMT2A/KMT2B/MBD1/TET1/TET3:likeclu:0/5		zf-CXXC	zf-CXXC zf-CXXC Hist_deacetyl
+Coka_g14172.t3	zf-CXXC.HG1.3:like:AP001267.5/CXXC1/CXXC4/CXXC5/DNMT1/FBXL19/KDM2A/KDM2B/KMT2A/KMT2B/MBD1/TET1/TET3:likeclu:0/5		zf-CXXC	zf-CXXC zf-CXXC Hist_deacetyl
+Coka_g14172.t2	zf-CXXC.HG1.3:like:AP001267.5/CXXC1/CXXC4/CXXC5/DNMT1/FBXL19/KDM2A/KDM2B/KMT2A/KMT2B/MBD1/TET1/TET3:likeclu:0/5		zf-CXXC	zf-CXXC zf-CXXC Hist_deacetyl
+Coka_g11710.t1	zf-CXXC.HG1.9:like:AP001267.5/CXXC1/CXXC4/CXXC5/DNMT1/FBXL19/KDM2A/KDM2B/KMT2A/KMT2B/MBD1/TET1/TET3:likeclu:0/5		zf-CXXC	zf-CXXC Hist_deacetyl
+Esil_CBJ27575	zf-CXXC.HG1.9:like:AP001267.5/CXXC1/CXXC4/CXXC5/DNMT1/FBXL19/KDM2A/KDM2B/KMT2A/KMT2B/MBD1/TET1/TET3:likeclu:0/5		zf-CXXC	zf-CXXC Hist_deacetyl

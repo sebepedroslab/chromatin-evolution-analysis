@@ -1,0 +1,3 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Scil_89147|Histone_H2A	Scil_89147|Histone_H2A	H2A	FALSE	PGGKA GKDSK AKAKA ISQSA R	Me2	K	4				99.22	PGGKAGKDSKAKAKAISQSAR	res
+Scil_89147|Histone_H2A	Scil_89147|Histone_H2A	H2A	FALSE	PGGKA GKDSK AKAKA ISQSA R	Me2	K	7				99.22	PGGKAGKDSKAKAKAISQSAR	res

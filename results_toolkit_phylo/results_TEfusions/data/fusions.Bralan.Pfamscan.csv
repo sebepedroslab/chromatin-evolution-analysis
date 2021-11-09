@@ -1,0 +1,118 @@
+# pfam_scan.pl,  run at Fri Dec 18 14:45:48 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Bralan.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Bralan_BL01168_cuf0     93    179     90    184 PF00665.27  rve               Domain     6    93   102     38.2   1.4e-09   1 CL0219   
+#HMM       elwqvDvtviripdggg..kayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgir
+#MATCH     ++wq D   ++   +      y+l+ id+ s++++a+ ++d+ +  t+v++ +  ++   +  p r+++D+g+e+ ++ f++fl++ +++
+#PP        6899999944444333335***********************.**********99999999..**********************98876
+#SEQ       HQWQADLADLSSLAKHNdgYRYILTCIDVLSKFAWAVTIKDK-KGVTLVQAFQTIFDDGRK--PWRLQTDQGTEFLNRHFQTFLKNEDVE
+Bralan_BL01168_cuf0    343    381    343    383 PF00385.25  Chromo            Domain     1    41    54     41.9   6.7e-11   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenle
+#MATCH     y+Ve I+d r ++ +   eYlVKWkg+p++ n+W  ee++ 
+#PP        89**************..********************985
+#SEQ       YQVETILDTRRRRRKT--EYLVKWKGYPDKFNSWVREEDVV
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCT
+Bralan_BL03346_cuf0      2     77      1     77 PF00665.27  rve               Domain    25   102   102     38.2   1.4e-09   1 CL0219   
+#HMM       yllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     ++lv+ d  ++++ a+a++d+ +a+tvv++l      ++gv p  ++sD+g+ + s+ ++++++elgi+ ++t +++p
+#PP        678999***************.6666666666666666666.**********************************98
+#SEQ       HILVISDYMTKWVEAVALPDQ-KATTVVRALIDTWITRFGV-PYHLHSDQGRDFDSQIVHTLCQELGIKKTRTTAYHP
+Bralan_BL03346_cuf0    298    340    297    342 PF07496.16  zf-CW             Domain     2    45    48     48.4   6.6e-13   1 No_clan  
+#HMM       wVqCdkClKWRrlpkevekselipe.kWvCsmnpsdpkynsCdap
+#MATCH     wVqCd+C  WRr++ + e  e  p+ +W+Csmn  d+++n Cdap
+#PP        ****************.666665888********.*********9
+#SEQ       WVQCDSCDSWRRITAH-EAAEIDPDgEWYCSMNE-DQSQNVCDAP
+Bralan_BL19600_cuf1     14    107     11    107 PF00665.27  rve               Domain     7   102   102     44.3   1.8e-11   1 CL0219   
+#HMM       lwqvDvt.viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     ++ +D++  ++  +++g  ++lv+ d  ++++ a+a++d+ +a+tvv++l      ++gv p  ++sD+g+ + s+ ++++++elgi+ ++t +++p
+#PP        67899999777.567778**********************.6666666666666666666.**********************************98
+#SEQ       RVAMDFMgPFP-ETPKGNKHILVISDYMTKWVEAVALPDQ-KATTVVRALIDTWITRFGV-PYQLHSDQGRDFDSQIVHTLCQELGIKKTRTTAYHP
+Bralan_BL19600_cuf1    328    370    327    372 PF07496.16  zf-CW             Domain     2    45    48     48.3   7.4e-13   1 No_clan  
+#HMM       wVqCdkClKWRrlpkevekselipe.kWvCsmnpsdpkynsCdap
+#MATCH     wVqCd+C  WRr++ + e  e  p+ +W+Csmn  d+++n Cdap
+#PP        ****************.666665888********.*********9
+#SEQ       WVQCDSCDSWRRITAH-EAAEIDPDgEWYCSMNE-DQSQNVCDAP
+Bralan_BL23301_evm0      4     93      1     93 PF09668.11  Asp_protease      Family    34   124   124     22.3   8.9e-05   1 CL0129   predicted_active_site[11] 
+#HMM       vkvkafvdsGaqksilskkcaercglmrlldtrfkgiakGvGtkkilGrvhsaevklgdlflpvalsvledkevdlllGldllkrhqviid
+#MATCH     ++++a+vdsGa  s +++++ e+ g + l +   + +a G G+ k+lG v  +++++ ++ +  +++v+++ +   +lG+d ++  ++++d
+#PP        5789**************************999999**************6.79******************************9999887
+#SEQ       QNLNALVDSGAGPSCVDSSVWEKGGKVPLKNCWQSFVAAGGGVLKVLGSVE-VRIRVHGAEIKRKVYVVHGLQERCILGMDFMRSVRAVVD
+Bralan_BL23301_evm0    353    512    353    513 PF00078.28  RVT_1             Family     1   221   222     90.3   1.3e-25   1 CL0027   
+#HMM       ipKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvt
+#MATCH     ++K++ gs R  +     dy++ln  + k         + +++p++++              l++ ++ak +++lDl +++++v++ee ++++taf++p                          g+ e ++lp+G+ +SP++f ++m+ +l  l        +l+Y DDi+++ ++ ee+   leav ++l+++glk++ +K++l+     +e+v +LG+ 
+#PP        689*9.*****55.....***********.........***********.............8999*********************************.........................79******************************9....6*********************************************.....9*******86
+#SEQ       VKKPD-GSTRFcV-----DYRKLNDCTLK---------DAYPLPRIDDA-------------LDALGGAKFFSTLDLVSGYHQVEVEESSKEKTAFTTP-------------------------LGLWEFNTLPMGLCNSPATFERLMDLVLAGLCW----SSCLVYLDDIIVFGRTFEEHWDRLEAVLQRLQDAGLKVKTTKCQLL-----REKVSFLGHV
+#CS        EE-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEE
+Bralan_BL23301_evm0    602    705    602    705 PF17917.2   RT_RNaseH         Domain     1   105   105    123.7   3.6e-36   1 CL0219   
+#HMM       dpskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     d+ k+f+l tDAs+ g+gavLsq e +g e+pia+ Sr+ls+aer+y t++kellA+v ++ +frhyl g +ftv tDh++lk+l++ k+ ++++arw+++L+++
+#PP        899********************.999***************************************************************99**********986
+#SEQ       DFHKKFILDTDASDRGLGAVLSQ-EVNGCEHPIAYHSRTLSKAERKYCTTRKELLALVNSVWHFRHYLLGCEFTVRTDHHALKWLMTFKEPENQVARWLETLASF
+#CS        -TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Bralan_BL23301_evm0    832    890    832    891 PF17921.2   Integrase_H2C2    Domain     1    57    58     69.7   1.6e-19   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vpk+lr+++l+e+H    +gHlG++ktl r+r+r++W gm +dv+ +vk C +C++rk+
+#PP        8********************************************************96
+#SEQ       VPKTLREQVLRECHGGilSGHLGVDKTLLRMRERFFWYGMATDVELHVKGCSECAKRKT
+Bralan_BL23301_evm0    910   1003    907   1003 PF00665.27  rve               Domain     7   102   102     41.8     1e-10   1 CL0219   
+#HMM       lwqvDvt.viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     ++ +D++  ++  +++g  ++lv+ d  ++++ a+a++d+ +a+tvv++l      ++gv p  ++sD+g+ + s+ ++++++elgi+ ++t +++p
+#PP        67899999777.567778**********************.6666666666666666666.**********************************98
+#SEQ       RVAMDFMgPFP-ETPKGNKHILVISDYMTKWVEAVALPDQ-KATTVVRALIDTWITRFGV-PYQLHSDQGRDFDSQIVHTLCQELGIKKTRTTAYHP
+Bralan_BL23301_evm0   1224   1266   1223   1268 PF07496.16  zf-CW             Domain     2    45    48     46.2   3.3e-12   1 No_clan  
+#HMM       wVqCdkClKWRrlpkevekselipe.kWvCsmnpsdpkynsCdap
+#MATCH     wVqCd+C  WRr++ + e  e  p+ +W+Csmn  d+++n Cdap
+#PP        ****************.666665888********.*********9
+#SEQ       WVQCDSCDSWRRITAH-EAAEIDPDgEWYCSMNE-DQSQNVCDAP
+Bralan_BL28866_evm0      1     79      1     80 PF10551.10  MULE              Domain    15    97    98     38.0   1.7e-09   1 CL0219   
+#HMM       lpLftvvgvdsngqvvpiafalveneteesfewllqelkelleeasgespkviitDrdkalknaleevfPeakhrlCifHink
+#MATCH     +pLf +++ ++  +vv+  f +v++et+ + + +l+    ++e +  ++p+ ++ D+++ ++nal+++fP+ak  lC fH +k
+#PP        78999888888887776666.***************...66666667*********************************987
+#SEQ       MPLFFLCVRTNVCYVVVGSF-IVQKETTVDVQEALN---IFKEWNPDWTPSHFMVDKSDVEINALNREFPQAKVVLCDFHREK
+Bralan_BL28866_evm0    505    554    505    555 PF00628.30  PHD               Domain     1    50    52     38.8   6.5e-10   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpeg..ewlCekCk
+#MATCH     +C +C++   +e  ++qCd+C++w H  C++++ ++  +     +++C+ Ck
+#PP        69.****.999***********************9888776677*******8
+#SEQ       FC-ICHE-YRQEAPMIQCDHCSNWLHYRCVNISARDVAVLVAeeKYICPACK
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSS..TBSSTTTH
+Bralan_BL73523_cuf0     52    110     52    111 PF17921.2   Integrase_H2C2    Domain     1    57    58     71.4   4.9e-20   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vpk+lr+++l+e+H    +gHlG++ktl r+r+r++W gm +dv+ +vk C +C++rk+
+#PP        8********************************************************96
+#SEQ       VPKTLREQVLRECHGGilSGHLGVDKTLLRMRERFFWYGMATDVELHVKGCSECAKRKT
+Bralan_BL73523_cuf0    130    223    127    223 PF00665.27  rve               Domain     7   102   102     43.7   2.8e-11   1 CL0219   
+#HMM       lwqvDvt.viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     ++ +D++  ++  +++g  ++lv+ d  ++++ a+a++d+ +a+tvv++l      ++gv p  ++sD+g+ + s+ ++++++elgi+ ++t +++p
+#PP        67899999777.567778**********************.6666666666666666666.**********************************98
+#SEQ       RVAMDFMgPFP-ETPKGNKHILVISDYMTKWVEAVALPDQ-KATTVVRALIDTWITRFGV-PYQLHSDQGRDFDSQIVHTLCQELGIKKTRTTAYHP
+Bralan_BL73523_cuf0    444    486    443    488 PF07496.16  zf-CW             Domain     2    45    48     47.8   1.1e-12   1 No_clan  
+#HMM       wVqCdkClKWRrlpkevekselipe.kWvCsmnpsdpkynsCdap
+#MATCH     wVqCd+C  WRr++ + e  e  p+ +W+Csmn  d+++n Cdap
+#PP        ****************.666665888********.*********9
+#SEQ       WVQCDSCDSWRRITAH-EAAEIDPDgEWYCSMNE-DQSQNVCDAP

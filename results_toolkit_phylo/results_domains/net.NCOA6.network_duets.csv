@@ -1,0 +1,9 @@
+i	j	weight
+Ank_2	DED	1
+Ank_2	Nucleic_acid_bd	1
+DED	NHL	1
+DED	Nucleic_acid_bd	4
+DUF5128	NHL	1
+DUF5128	Nucleic_acid_bd	1
+NHL	Nucleic_acid_bd	3
+Nucleic_acid_bd	Nucleic_acid_bd	25

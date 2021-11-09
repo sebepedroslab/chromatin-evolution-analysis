@@ -1,0 +1,7 @@
+i	j	weight
+Acetyltransf_1	Acetyltransf_1	1
+Acetyltransf_1	Hat1_N	56
+COR	Hat1_N	1
+Hat1_N	Hat1_N	99
+Hat1_N	MOZ_SAS	1
+Hat1_N	OTU	2

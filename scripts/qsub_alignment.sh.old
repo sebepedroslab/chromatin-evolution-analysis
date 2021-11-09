@@ -1,0 +1,18 @@
+#!/bin/bash
+#$ -V
+#$ -cwd
+#$ -M xavier.graubove@crg.eu
+#$ -m a
+#$ -q long-sl7
+#$ -l virtual_free=10G,h_rt=2592000
+#$ -o tmp/
+#$ -e tmp/
+
+# input
+i=$1
+c=$2
+# align & trim
+mafft --localpair --thread $c --reorder --maxiterate 10000 $i > ${i%%.fasta}.l.fasta
+trimal -in ${i%%.fasta}.l.fasta -out ${i%%.fasta}.lt.fasta -gappyout
+# iqtree
+iqtree -s ${i%%.fasta}.lt.fasta -m TEST -mset LG -nt AUTO -ntmax $c -bb 1000 -pre ${i%%.fasta}.iqtree -nm 10000 -wbt -nstop 200

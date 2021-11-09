@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="500px" height="900px" viewBox="0 0 500 900" enable-background="new 0 0 500 900" xml:space="preserve">
+<g id="titleContainer" transform="translate(60, 5)">
+	<text transform="matrix(1 0 0 1 87.6121 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">k</text>
+	<text transform="matrix(1 0 0 1 106.1287 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">T</text>
+	<text transform="matrix(1 0 0 1 124.6448 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">V</text>
+	<text transform="matrix(1 0 0 1 143.1609 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">k</text>
+	<text transform="matrix(1 0 0 1 161.6765 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">A</text>
+	<text transform="matrix(1 0 0 1 180.1931 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">E</text>
+	<text transform="matrix(1 0 0 1 198.7087 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">D</text>
+	<text transform="matrix(1 0 0 1 217.2253 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">I</text>
+	<text transform="matrix(1 0 0 1 235.741 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">k</text>
+	<text transform="matrix(1 0 0 1 254.2576 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">L</text>
+	<text transform="matrix(1 0 0 1 272.7732 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">A</text>
+	<text transform="matrix(1 0 0 1 291.2898 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">I</text>
+	<text transform="matrix(1 0 0 1 309.8064 104.3545)" font-family="'CourierNewPSMT'" font-size="19.3548">k</text>
+	<path fill="none" stroke="#BE202D" stroke-width="2" d="M195.259,104.355v7.419l4.516,4.839"/>
+	<path fill="none" stroke="#0D75BC" stroke-width="2" d="M195.259,104.355v-7.419l-4.517-4.839"/>
+	<path fill="none" stroke="#BE202D" stroke-width="2" d="M232.291,104.355v7.419l4.516,4.839"/>
+	<path fill="none" stroke="#0D75BC" stroke-width="2" d="M232.291,104.355v-7.419l-4.517-4.839"/>
+	<path fill="none" stroke="#BE202D" stroke-width="2" d="M250.806,104.355v7.419l4.517,4.839"/>
+	<path fill="none" stroke="#0D75BC" stroke-width="2" d="M250.806,104.355v-7.419l-4.516-4.839"/>
+	<path fill="none" stroke="#BE202D" stroke-width="2" d="M269.323,104.355v7.419l4.516,4.839"/>
+	<path fill="none" stroke="#0D75BC" stroke-width="2" d="M269.323,104.355v-7.419l-4.517-4.839"/>
+	<path fill="none" stroke="#BE202D" stroke-width="2" d="M287.839,104.355v7.419l4.517,4.839"/>
+	<path fill="none" stroke="#0D75BC" stroke-width="2" d="M287.839,104.355v-7.419l-4.516-4.839"/>
+	<path fill="none" stroke="#0D75BC" stroke-width="2" d="M306.355,104.355v-7.419l-4.517-4.839"/>
+</g>
+<g id="peptideContainer" transform="translate(410, 75)">
+	<text transform="matrix(1 0 0 1 -371.2903 63.3867)" font-family="'ArialMT'" font-size="11.6129">Precursor m/z:</text>
+	<text transform="matrix(1 0 0 1 -177.7415 63.3867)" font-family="'ArialMT'" font-size="11.6129">Charge:</text>
+	<text transform="matrix(1 0 0 1 -94.2903 63.3867)" font-family="'ArialMT'" font-size="11.6129">Fragmented Bonds:</text>
+	<text transform="matrix(1 0 0 1 -280.967 63.3867)" font-family="'ArialMT'" font-size="10.9677">841.0109</text>
+	<text transform="matrix(1 0 0 1 -129.3547 63.3867)" font-family="'ArialMT'" font-size="10.9677">+2</text>
+	<text transform="matrix(1 0 0 1 25.0652 63.3867)" font-family="'ArialMT'" font-size="10.9677">6/12</text>
+</g>
+<g transform="translate(60, 90)">
+	<rect id="yZoom" x="-60" y="58.064" pointer-events="all" fill="none" width="38.71" height="245.161"/>
+	<rect id="xZoom" x="-21.29" y="303.226" pointer-events="all" fill="none" width="451.613" height="40"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-21.29" y="58.064" width="451.613" height="245.161"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g id="annotationContainer" clip-path="url(#SVGID_2_)">
+			<rect x="-10.764" y="290.872" fill="#A6A6A6" width="0.452" height="12.354"/>
+			<rect x="-3.783" y="241.413" fill="#BE202D" width="1.355" height="61.813"/>
+			<rect x="15.668" y="287.505" fill="#A6A6A6" width="0.452" height="15.721"/>
+			<rect x="21.669" y="268.106" fill="#BE202D" width="1.355" height="35.12"/>
+			<rect x="38.88" y="290.683" fill="#A6A6A6" width="0.451" height="12.543"/>
+			<rect x="62.186" y="281.75" fill="#BE202D" width="1.354" height="21.476"/>
+			<rect x="94.791" y="268.03" fill="#0D75BC" width="1.354" height="35.195"/>
+			<rect x="108.512" y="275.752" fill="#A6A6A6" width="0.451" height="27.473"/>
+			<rect x="115.05" y="208.273" fill="#0D75BC" width="1.355" height="94.953"/>
+			<rect x="120.525" y="290.643" fill="#A6A6A6" width="0.451" height="12.583"/>
+			<rect x="123.749" y="284.094" fill="#A6A6A6" width="0.452" height="19.132"/>
+			<rect x="127.775" y="116.857" fill="#0D75BC" width="1.354" height="186.369"/>
+			<rect x="128.156" y="251.018" fill="#BE202D" width="1.354" height="52.208"/>
+			<rect x="135.757" y="289.819" fill="#A6A6A6" width="0.452" height="13.406"/>
+			<rect x="138.985" y="270.383" fill="#A6A6A6" width="0.451" height="32.842"/>
+			<rect x="148.485" y="101.25" fill="#A6A6A6" width="0.452" height="201.976"/>
+			<rect x="150.994" y="266.848" fill="#A6A6A6" width="0.451" height="36.378"/>
+			<rect x="152.071" y="290.462" fill="#A6A6A6" width="0.452" height="12.764"/>
+			<rect x="154.222" y="200.18" fill="#A6A6A6" width="0.452" height="103.046"/>
+			<rect x="154.583" y="280.747" fill="#A6A6A6" width="0.452" height="22.479"/>
+			<rect x="158.603" y="258.604" fill="#0D75BC" width="1.354" height="44.621"/>
+			<rect x="162.286" y="287.652" fill="#A6A6A6" width="0.451" height="15.573"/>
+			<rect x="166.232" y="146.41" fill="#A6A6A6" width="0.451" height="156.816"/>
+			<rect x="166.592" y="271.771" fill="#A6A6A6" width="0.451" height="31.455"/>
+			<rect x="169.458" y="81.413" fill="#A6A6A6" width="0.452" height="221.813"/>
+			<rect x="169.819" y="228.091" fill="#A6A6A6" width="0.452" height="75.135"/>
+			<rect x="172.325" y="257.051" fill="#A6A6A6" width="0.451" height="46.174"/>
+			<rect x="174.477" y="286.322" fill="#A6A6A6" width="0.451" height="16.904"/>
+			<rect x="178.242" y="213.68" fill="#A6A6A6" width="0.451" height="89.546"/>
+			<rect x="179.845" y="285.784" fill="#A6A6A6" width="0.452" height="17.441"/>
+			<rect x="180.331" y="259.823" fill="#A6A6A6" width="0.451" height="43.403"/>
+			<rect x="180.453" y="256.923" fill="#A6A6A6" width="0.451" height="46.303"/>
+			<rect x="181.016" y="78.261" fill="#666666" width="1.354" height="224.965"/>
+			<rect x="182.97" y="284.199" fill="#A6A6A6" width="0.452" height="19.026"/>
+			<rect x="184.568" y="287.902" fill="#A6A6A6" width="0.452" height="15.324"/>
+			<rect x="184.646" y="277.783" fill="#A6A6A6" width="0.452" height="25.442"/>
+			<rect x="184.245" y="133.333" fill="#666666" width="1.354" height="169.893"/>
+			<rect x="184.753" y="290.28" fill="#A6A6A6" width="0.452" height="12.946"/>
+			<rect x="188.292" y="286.666" fill="#A6A6A6" width="0.451" height="16.56"/>
+			<rect x="201.729" y="285.602" fill="#A6A6A6" width="0.452" height="17.624"/>
+			<rect x="209.884" y="281.221" fill="#BE202D" width="1.355" height="22.005"/>
+			<rect x="223.06" y="290.889" fill="#A6A6A6" width="0.452" height="12.337"/>
+			<rect x="240.334" y="239.722" fill="#0D75BC" width="1.355" height="63.504"/>
+			<rect x="278.84" y="288.458" fill="#A6A6A6" width="0.451" height="14.768"/>
+			<rect x="299.853" y="282.52" fill="#0D75BC" width="1.355" height="20.706"/>
+			<rect x="306.305" y="253.024" fill="#0D75BC" width="1.354" height="50.202"/>
+			<rect x="340.368" y="282.478" fill="#0D75BC" width="1.354" height="20.748"/>
+			<rect x="346.82" y="200.683" fill="#0D75BC" width="1.355" height="102.543"/>
+			<rect x="365.817" y="273.89" fill="#0D75BC" width="1.355" height="29.336"/>
+			<rect x="372.273" y="164.328" fill="#0D75BC" width="1.354" height="138.898"/>
+			<rect x="406.335" y="283.839" fill="#0D75BC" width="1.355" height="19.386"/>
+			<rect x="412.79" y="69.739" fill="#0D75BC" width="1.354" height="233.487"/>
+			<rect x="419.344" y="284.624" fill="#A6A6A6" width="0.451" height="18.602"/>
+			<text transform="matrix(1 0 0 1 -8.9182 236.9116)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">y</tspan><tspan x="5.161" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₂</tspan></text>
+			<text transform="matrix(1 0 0 1 17.8845 262.5229)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">y</tspan><tspan x="5.161" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₃</tspan></text>
+			<text transform="matrix(1 0 0 1 58.4011 275.7524)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">y</tspan><tspan x="5.161" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₄</tspan></text>
+			<text transform="matrix(1 0 0 1 129.5105 247.6943)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">y</tspan><tspan x="5.161" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₅</tspan></text>
+			<text transform="matrix(1 0 0 1 154.2224 255.749)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">b</tspan><tspan x="5.741" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₆</tspan></text>
+			<text transform="matrix(1 0 0 1 145.3152 77.0928)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">[M+2H-H</tspan><tspan x="41.583" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₂</tspan><tspan x="44.793" y="0" font-family="'ArialMT'" font-size="10.3226">O]</tspan><tspan x="55.69" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">+</tspan><tspan x="61.843" y="0" font-family="'ArialMT'" font-size="10.3226">²</tspan></text>
+			<text transform="matrix(1 0 0 1 161.8757 132.165)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">[M+2H]</tspan><tspan x="33.559" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">+</tspan><tspan x="39.711" y="0" font-family="'ArialMT'" font-size="10.3226">²</tspan></text>
+			<text transform="matrix(1 0 0 1 206.0583 278.125)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">y</tspan><tspan x="5.161" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₇</tspan></text>
+			<text transform="matrix(1 0 0 1 238.2595 235.6572)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">b</tspan><tspan x="5.741" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₈</tspan></text>
+			<text transform="matrix(1 0 0 1 265.2458 278.125)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">[b</tspan><tspan x="8.608" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₉</tspan><tspan x="11.984" y="0" font-family="'ArialMT'" font-size="10.3226">-H</tspan><tspan x="22.876" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₂</tspan><tspan x="26.087" y="0" font-family="'ArialMT'" font-size="10.3226">O]</tspan></text>
+			<text transform="matrix(1 0 0 1 299.5642 245.8564)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">b</tspan><tspan x="5.741" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₉</tspan></text>
+			<text transform="matrix(1 0 0 1 341.7224 196.5156)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">b</tspan><tspan x="5.741" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₁₀</tspan></text>
+			<text transform="matrix(1 0 0 1 365.8171 161.4937)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">b</tspan><tspan x="5.741" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₁₁</tspan></text>
+			<text transform="matrix(1 0 0 1 406.3347 66.9048)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="10.3226">b</tspan><tspan x="5.741" y="0" font-family="'MyriadPro-Regular'" font-size="10.3226">₁₂</tspan></text>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<path d="M-21.29,303.226"/>
+			<text transform="matrix(1 0 0 1 120.5251 111.4937)" font-family="'ArialMT'" font-size="10.3226">b</text>
+			<text transform="matrix(1 0 0 1 126.2664 111.4937)" font-family="'MyriadPro-Regular'" font-size="10.3226">₁₁</text>
+			<text transform="matrix(1 0 0 0.99 131.3035 107.4937)" font-family="'MyriadPro-Regular'" font-size="8">+2</text>
+			<text transform="matrix(1 0 0 1 106.1287 205.4937)" font-family="'ArialMT'" font-size="10.3226">b</text>
+			<text transform="matrix(1 0 0 1 111.8699 205.4937)" font-family="'MyriadPro-Regular'" font-size="10.3226">₁₀</text>
+			<text transform="matrix(1 0 0 0.99 117.8562 201.4937)" font-family="'MyriadPro-Regular'" font-size="8">+2</text>
+			<text transform="matrix(1 0 0 1 89.5642 262.5229)" font-family="'ArialMT'" font-size="10.3226">b</text>
+			<text transform="matrix(1 0 0 1 95.3054 262.5229)" font-family="'MyriadPro-Regular'" font-size="10.3226">₉</text>
+			<text transform="matrix(1 0 0 0.99 98.6804 258.5229)" font-family="'MyriadPro-Regular'" font-size="8">+2</text>
+		</g>
+	</g>
+	<g transform="translate(0, 380)">
+		<text transform="matrix(1 0 0 1 183.0095 -52.9033)" font-family="'Arial-BoldItalicMT'" font-size="10.3226">m/z</text>
+		<g transform="translate(19.176494250817495,0)">
+			<line fill="none" stroke="#000000" x1="-28.095" y1="-76.774" x2="-28.095" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -34.5532 -65.4712)" font-family="'ArialMT'" font-size="7.7419">300</text>
+		</g>
+		<g transform="translate(74.71203266946466,0)">
+			<line fill="none" stroke="#000000" x1="-47.801" y1="-76.774" x2="-47.801" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -54.2592 -65.4712)" font-family="'ArialMT'" font-size="7.7419">400</text>
+		</g>
+		<g transform="translate(130.24757108811184,0)">
+			<line fill="none" stroke="#000000" x1="-67.508" y1="-76.774" x2="-67.508" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -73.9656 -65.4712)" font-family="'ArialMT'" font-size="7.7419">500</text>
+		</g>
+		<g transform="translate(185.783109506759,0)">
+			<line fill="none" stroke="#000000" x1="-87.213" y1="-76.774" x2="-87.213" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -93.6715 -65.4712)" font-family="'ArialMT'" font-size="7.7419">600</text>
+		</g>
+		<g transform="translate(241.31864792540614,0)">
+			<line fill="none" stroke="#000000" x1="-106.919" y1="-76.774" x2="-106.919" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -113.3774 -65.4712)" font-family="'ArialMT'" font-size="7.7419">700</text>
+		</g>
+		<g transform="translate(296.85418634405335,0)">
+			<line fill="none" stroke="#000000" x1="-126.626" y1="-76.774" x2="-126.626" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -133.0839 -65.4712)" font-family="'ArialMT'" font-size="7.7419">800</text>
+		</g>
+		<g transform="translate(352.38972476270055,0)">
+			<line fill="none" stroke="#000000" x1="-146.331" y1="-76.774" x2="-146.331" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -152.7903 -65.4712)" font-family="'ArialMT'" font-size="7.7419">900</text>
+		</g>
+		<g transform="translate(407.92526318134765,0)">
+			<line fill="none" stroke="#000000" x1="-166.038" y1="-76.774" x2="-166.038" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -175.7242 -65.4712)" font-family="'ArialMT'" font-size="7.7419">1,000</text>
+		</g>
+		<g transform="translate(463.46080159999485,0)">
+			<line fill="none" stroke="#000000" x1="-185.744" y1="-76.774" x2="-185.744" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -195.4307 -65.4712)" font-family="'ArialMT'" font-size="7.7419">1,100</text>
+		</g>
+		<g transform="translate(518.9963400186421,0)">
+			<line fill="none" stroke="#000000" x1="-205.45" y1="-76.774" x2="-205.45" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -215.1371 -65.4712)" font-family="'ArialMT'" font-size="7.7419">1,200</text>
+		</g>
+		<g transform="translate(574.5318784372892,0)">
+			<line fill="none" stroke="#000000" x1="-225.156" y1="-76.774" x2="-225.156" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -234.8425 -65.4712)" font-family="'ArialMT'" font-size="7.7419">1,300</text>
+		</g>
+		<g transform="translate(630.0674168559364,0)">
+			<line fill="none" stroke="#000000" x1="-244.863" y1="-76.774" x2="-244.863" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -254.5491 -65.4712)" font-family="'ArialMT'" font-size="7.7419">1,400</text>
+		</g>
+		<g transform="translate(685.6029552745836,0)">
+			<line fill="none" stroke="#000000" x1="-264.568" y1="-76.774" x2="-264.568" y2="-72.903"/>
+			<text transform="matrix(1 0 0 1 -274.2555 -65.4712)" font-family="'ArialMT'" font-size="7.7419">1,500</text>
+		</g>
+		<path fill="none" stroke="#000000" d="M-21.29-72.903v-3.871h451.613v3.871"/>
+	</g>
+	<g>
+		<text transform="matrix(6.123234e-017 -1 1 6.123234e-017 -49.6774 247.6943)" font-family="'Arial-Black'" font-size="10.3226">Relative Abundance (%)</text>
+		<g transform="translate(0,380)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="-76.774" x2="-25.161" y2="-76.774"/>
+			<text transform="matrix(1 0 0 1 -37.8586 -74.2969)" font-family="'ArialMT'" font-size="7.7419">0.0</text>
+		</g>
+		<g transform="translate(0,343.8095238095238)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="-63.933" x2="-25.161" y2="-63.933"/>
+			<text transform="matrix(1 0 0 1 -35.7082 -61.4551)" font-family="'ArialMT'" font-size="7.7419">10</text>
+		</g>
+		<g transform="translate(0,307.61904761904765)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="-51.091" x2="-25.161" y2="-51.091"/>
+			<text transform="matrix(1 0 0 1 -35.7082 -48.6132)" font-family="'ArialMT'" font-size="7.7419">20</text>
+		</g>
+		<g transform="translate(0,271.42857142857144)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="-38.249" x2="-25.161" y2="-38.249"/>
+			<text transform="matrix(1 0 0 1 -35.7082 -35.7714)" font-family="'ArialMT'" font-size="7.7419">30</text>
+		</g>
+		<g transform="translate(0,235.23809523809524)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="-25.407" x2="-25.161" y2="-25.407"/>
+			<text transform="matrix(1 0 0 1 -35.7082 -22.9294)" font-family="'ArialMT'" font-size="7.7419">40</text>
+		</g>
+		<g transform="translate(0,199.04761904761907)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="-12.565" x2="-25.161" y2="-12.565"/>
+			<text transform="matrix(1 0 0 1 -35.7082 -10.0876)" font-family="'ArialMT'" font-size="7.7419">50</text>
+		</g>
+		<g transform="translate(0,162.85714285714286)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="0.277" x2="-25.161" y2="0.277"/>
+			<text transform="matrix(1 0 0 1 -35.7082 2.7542)" font-family="'ArialMT'" font-size="7.7419">60</text>
+		</g>
+		<g transform="translate(0,126.66666666666669)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="13.119" x2="-25.161" y2="13.119"/>
+			<text transform="matrix(1 0 0 1 -35.7082 15.5961)" font-family="'ArialMT'" font-size="7.7419">70</text>
+		</g>
+		<g transform="translate(0,90.4761904761905)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="25.96" x2="-25.161" y2="25.96"/>
+			<text transform="matrix(1 0 0 1 -35.7082 28.4369)" font-family="'ArialMT'" font-size="7.7419">80</text>
+		</g>
+		<g transform="translate(0,54.285714285714306)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="38.802" x2="-25.161" y2="38.802"/>
+			<text transform="matrix(1 0 0 1 -35.7082 41.2787)" font-family="'ArialMT'" font-size="7.7419">90</text>
+		</g>
+		<g transform="translate(0,18.095238095238116)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="51.644" x2="-25.161" y2="51.644"/>
+			<text transform="matrix(1 0 0 1 -40.0134 54.1206)" font-family="'ArialMT'" font-size="7.7419">100</text>
+		</g>
+		<path fill="none" stroke="#000000" d="M-25.161,58.064h3.871v245.161h-3.871"/>
+	</g>
+</g>
+<g id="fragmentContainer" transform="translate(60,532)">
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="-21.29" y="-98.774" width="451.613" height="64.517"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<g id="massErrorContainer" clip-path="url(#SVGID_4_)">
+			<circle fill="none" cx="-10.537" cy="-66.516" r="2.581"/>
+			<path fill="#A9A9A9" stroke="#A9A9A9" stroke-dasharray="10,5" d="M-21.29-66.516h451.613"/>
+			<circle fill="#BE202D" cx="-3.106" cy="-66.255" r="2.581"/>
+			<circle fill="none" cx="15.893" cy="-66.516" r="2.581"/>
+			<circle fill="#BE202D" cx="22.346" cy="-64.652" r="2.581"/>
+			<circle fill="none" cx="39.105" cy="-66.516" r="2.581"/>
+			<circle fill="#BE202D" cx="62.863" cy="-62.301" r="2.581"/>
+			<circle fill="none" cx="95.468" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="108.738" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="115.726" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="120.751" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="123.975" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="128.452" cy="-66.516" r="2.581"/>
+			<circle fill="#BE202D" cx="128.833" cy="-64.767" r="2.581"/>
+			<circle fill="none" cx="135.983" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="139.211" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="148.711" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="151.22" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="152.297" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="154.448" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="154.808" cy="-66.516" r="2.581"/>
+			<circle fill="#0D75BC" cx="159.28" cy="-59.324" r="2.581"/>
+			<circle fill="none" cx="162.512" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="166.458" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="166.817" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="169.683" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="170.045" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="172.551" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="174.703" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="178.468" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="180.072" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="180.556" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="180.679" cy="-66.516" r="2.581"/>
+			<circle fill="#666666" cx="181.693" cy="-40.364" r="2.581"/>
+			<circle fill="none" cx="183.196" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="184.794" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="184.873" cy="-66.516" r="2.581"/>
+			<circle fill="#666666" cx="184.922" cy="-60.319" r="2.581"/>
+			<circle fill="none" cx="184.978" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="188.517" cy="-66.516" r="2.581"/>
+			<circle fill="none" cx="201.955" cy="-66.516" r="2.581"/>
+			<circle fill="#BE202D" cx="210.561" cy="-40.956" r="2.581"/>
+			<circle fill="none" cx="223.287" cy="-66.516" r="2.581"/>
+			<circle fill="#0D75BC" cx="241.012" cy="-62.653" r="2.581"/>
+			<circle fill="none" cx="279.065" cy="-66.516" r="2.581"/>
+			<circle fill="#0D75BC" cx="300.531" cy="-84.841" r="2.581"/>
+			<circle fill="#0D75BC" cx="306.982" cy="-73.794" r="2.581"/>
+			<circle fill="#0D75BC" cx="341.045" cy="-62.298" r="2.581"/>
+			<circle fill="#0D75BC" cx="347.498" cy="-61.098" r="2.581"/>
+			<circle fill="#0D75BC" cx="366.495" cy="-48.697" r="2.58"/>
+			<circle fill="#0D75BC" cx="372.95" cy="-61.895" r="2.581"/>
+			<circle fill="#0D75BC" cx="407.013" cy="-51.396" r="2.581"/>
+			<circle fill="#0D75BC" cx="413.468" cy="-61.856" r="2.581"/>
+			<circle fill="none" cx="419.57" cy="-66.516" r="2.581"/>
+		</g>
+	</g>
+	<g>
+		<g transform="translate(19.176494250817495,0)">
+			<line fill="none" stroke="#000000" x1="-28.095" y1="-98.774" x2="-28.095" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -34.5532 -104.5806)" font-family="'ArialMT'" font-size="7.7419">300</text>
+		</g>
+		<g transform="translate(74.71203266946466,0)">
+			<line fill="none" stroke="#000000" x1="-47.801" y1="-98.774" x2="-47.801" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -54.259 -104.5806)" font-family="'ArialMT'" font-size="7.7419">400</text>
+		</g>
+		<g transform="translate(130.24757108811184,0)">
+			<line fill="none" stroke="#000000" x1="-67.507" y1="-98.774" x2="-67.507" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -73.9655 -104.5806)" font-family="'ArialMT'" font-size="7.7419">500</text>
+		</g>
+		<g transform="translate(185.783109506759,0)">
+			<line fill="none" stroke="#000000" x1="-87.213" y1="-98.774" x2="-87.213" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -93.6714 -104.5806)" font-family="'ArialMT'" font-size="7.7419">600</text>
+		</g>
+		<g transform="translate(241.31864792540614,0)">
+			<line fill="none" stroke="#000000" x1="-106.919" y1="-98.774" x2="-106.919" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -113.3773 -104.5806)" font-family="'ArialMT'" font-size="7.7419">700</text>
+		</g>
+		<g transform="translate(296.85418634405335,0)">
+			<line fill="none" stroke="#000000" x1="-126.626" y1="-98.774" x2="-126.626" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -133.0837 -104.5806)" font-family="'ArialMT'" font-size="7.7419">800</text>
+		</g>
+		<g transform="translate(352.38972476270055,0)">
+			<line fill="none" stroke="#000000" x1="-146.331" y1="-98.774" x2="-146.331" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -152.7902 -104.5806)" font-family="'ArialMT'" font-size="7.7419">900</text>
+		</g>
+		<g transform="translate(407.92526318134765,0)">
+			<line fill="none" stroke="#000000" x1="-166.038" y1="-98.774" x2="-166.038" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -175.7241 -104.5806)" font-family="'ArialMT'" font-size="7.7419">1,000</text>
+		</g>
+		<g transform="translate(463.46080159999485,0)">
+			<line fill="none" stroke="#000000" x1="-185.744" y1="-98.774" x2="-185.744" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -195.4305 -104.5806)" font-family="'ArialMT'" font-size="7.7419">1,100</text>
+		</g>
+		<g transform="translate(518.9963400186421,0)">
+			<line fill="none" stroke="#000000" x1="-205.449" y1="-98.774" x2="-205.449" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -215.137 -104.5806)" font-family="'ArialMT'" font-size="7.7419">1,200</text>
+		</g>
+		<g transform="translate(574.5318784372892,0)">
+			<line fill="none" stroke="#000000" x1="-225.156" y1="-98.774" x2="-225.156" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -234.8424 -104.5806)" font-family="'ArialMT'" font-size="7.7419">1,300</text>
+		</g>
+		<g transform="translate(630.0674168559364,0)">
+			<line fill="none" stroke="#000000" x1="-244.862" y1="-98.774" x2="-244.862" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -254.5488 -104.5806)" font-family="'ArialMT'" font-size="7.7419">1,400</text>
+		</g>
+		<g transform="translate(685.6029552745836,0)">
+			<line fill="none" stroke="#000000" x1="-264.568" y1="-98.774" x2="-264.568" y2="-102.645"/>
+			<text transform="matrix(1 0 0 1 -274.2552 -104.5806)" font-family="'ArialMT'" font-size="7.7419">1,500</text>
+		</g>
+		<path fill="none" stroke="#000000" d="M-21.29-102.645v3.871h451.613v-3.871"/>
+	</g>
+	<g>
+		<text transform="matrix(6.123234e-017 -1 1 6.123234e-017 -49.6772 -34.3896)" font-family="'Arial-Black'" font-size="10.3226">Error (ppm)</text>
+		<g transform="translate(0,95.45454545454545)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="-132.645" x2="-25.161" y2="-132.645"/>
+			<text transform="matrix(1 0 0 1 -38.2861 -130.1685)" font-family="'ArialMT'" font-size="7.7419">-10</text>
+		</g>
+		<g transform="translate(0,72.72727272727273)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="-124.581" x2="-25.161" y2="-124.581"/>
+			<text transform="matrix(1 0 0 1 -33.9799 -122.1033)" font-family="'ArialMT'" font-size="7.7419">-5</text>
+		</g>
+		<g transform="translate(0,50)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="-116.516" x2="-25.161" y2="-116.516"/>
+			<text transform="matrix(1 0 0 1 -31.4018 -114.0391)" font-family="'ArialMT'" font-size="7.7419">0</text>
+		</g>
+		<g transform="translate(0,27.27272727272727)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="-108.451" x2="-25.161" y2="-108.451"/>
+			<text transform="matrix(1 0 0 1 -31.4018 -105.9749)" font-family="'ArialMT'" font-size="7.7419">5</text>
+		</g>
+		<g transform="translate(0,4.545454545454541)">
+			<line fill="none" stroke="#000000" x1="-21.29" y1="-100.387" x2="-25.161" y2="-100.387"/>
+			<text transform="matrix(1 0 0 1 -35.7079 -97.9097)" font-family="'ArialMT'" font-size="7.7419">10</text>
+		</g>
+		<path fill="none" stroke="#000000" d="M-25.161-98.774h3.871v64.517h-3.871"/>
+	</g>
+	<g transform="translate(0, 100)">
+		<path fill="none" stroke="#000000" d="M-21.29-138.129v3.871h451.613v-3.871"/>
+	</g>
+	<g transform="translate(700,0)">
+		<path fill="none" stroke="#000000" d="M-273.548-98.774h3.871v64.517h-3.871"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 101.9565 85.834)" font-family="'CourierNewPSMT'" font-size="19.35">prop+me</text>
+<line stroke="#000000" stroke-miterlimit="10" x1="154.327" y1="89.608" x2="154.327" y2="97.608"/>
+<text transform="matrix(1 0 0 1 200.3672 85.8335)" font-family="'CourierNewPSMT'" font-size="19.35">ac</text>
+<line stroke="#000000" stroke-miterlimit="10" x1="208.622" y1="89.608" x2="208.622" y2="97.608"/>
+<text transform="matrix(1 0 0 1 278.2148 85.8335)" font-family="'CourierNewPSMT'" font-size="19.35">prop</text>
+<line stroke="#000000" stroke-miterlimit="10" x1="301.438" y1="89.608" x2="301.438" y2="97.608"/>
+<text transform="matrix(1 0 0 1 352.5488 85.8335)" font-family="'CourierNewPSMT'" font-size="19.35">prop</text>
+<line stroke="#000000" stroke-miterlimit="10" x1="375.772" y1="89.608" x2="375.772" y2="97.608"/>
+<text transform="matrix(1 0 0 1 315.71 151.4297)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="11.61">Ions Score:37</tspan><tspan x="0" y="13.932" font-family="'ArialMT'" font-size="11.61">ptmRS:</tspan><tspan x="0" y="27.864" font-family="'ArialMT'" font-size="11.61">K1(propionyl+methyl): 99.82</tspan><tspan x="0" y="41.796" font-family="'ArialMT'" font-size="11.61">K4(acetyl): 99.82</tspan></text>
+</svg>

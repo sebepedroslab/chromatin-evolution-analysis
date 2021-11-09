@@ -1,0 +1,11 @@
+Amoebozoa|Plafun_PRP77672
+ArchaeCry|Cmer_CMT501CT
+ArchaeCry|Gonavo_comp62291_c1_seq1_6_ORF9_217
+ArchaeCry|Porpur_KAA8495732.1
+CRuMs|Rigram_Gene.26105
+Discoba|Phakir_PHAKIR_12860.mRNA.1
+Hemimastigophora|Spimul_18950_TR10098_c0_g1
+Malawimonadidae|Gefoke_MALSP_01011.mRNA.1
+Obazoa|Drer_ENSDARP00000106822.1
+Obazoa|Notgen_g2935.t1
+SARHap|Ngad_EWM25918

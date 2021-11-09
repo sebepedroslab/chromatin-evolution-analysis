@@ -1,0 +1,135 @@
+IQ-TREE multicore version 2.1.0 for Linux 64-bit built Jul 18 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    lapis (AVX2, FMA3, 15 GB RAM)
+Command: iqtree2 -s alignments/all.Histone.to_histdb/CC43_H2A.l.fasta -m TEST -mset LG -nt AUTO -ntmax 8 -fast -pre alignments/all.Histone.to_histdb/CC43_H2A.iqt
+Seed:    809596 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Mar  1 19:55:36 2021
+Kernel:  AVX+FMA - auto-detect threads (8 CPU cores detected)
+
+Reading alignment file alignments/all.Histone.to_histdb/CC43_H2A.l.fasta ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 28 sequences with 176 columns, 165 distinct patterns
+83 parsimony-informative, 39 singleton sites, 54 constant sites
+                                  Gap/Ambiguity  Composition  p-value
+   1  Spur_XP_782335.4_52-174            30.11%    passed     99.85%
+   2  Dpul_EFX72413_52-187               22.73%    passed     99.90%
+   3  Notgen_g6728.t1_59-186             27.27%    passed     99.95%
+   4  Lpol_XP_022239325.1_58-184         27.84%    passed     99.99%
+   5  Cscu_XP_023235178.1_56-185         26.14%    passed     99.98%
+   6  Linana_g9088.t1_93-215             30.11%    passed     99.90%
+   7  Skow_XP_002735179.1_49-174         28.41%    passed     99.99%
+   8  Ctel_CapteP226962_1-142            19.32%    passed     98.36%
+   9  Apla_XP_022105288.1_49-171         30.11%    passed     98.19%
+  10  Apla_XP_022105286.1_49-171         30.11%    passed     98.19%
+  11  Bralan_BL18597_evm5_65-184         31.82%    passed     99.34%
+  12  Auraur_scaffold121.g36.t1_1-54     69.32%    passed     82.21%
+  13  Phoaus_g16599.t1_44-186            18.75%    passed     98.92%
+  14  Drer_ENSDARP00000079754.5_48-174   27.84%    passed     98.50%
+  15  Hsap_ENSP00000216373.5_52-178      27.84%    passed     99.98%
+  16  Hsap_ENSP00000384675.2_50-178      26.70%    passed     99.56%
+  17  Drer_ENSDARP00000142293.1_47-176   26.14%    passed     96.65%
+  18  Adig_XP_015751216.1_51-173         30.11%    passed     99.65%
+  19  Spis_XP_022804229_1_51-172         30.68%    passed     99.56%
+  20  Nvec_NVE23212_50-172               30.11%    passed     90.31%
+  21  Cgig_EKC39507_53-175               30.11%    passed     83.33%
+  22  Tcas_XP_015836311.1_35-182         15.91%    passed     94.89%
+  23  Tcas_XP_008194701.1_35-182         15.91%    passed     97.62%
+  24  Dmel_FBpp0080118_83-227            17.61%    passed     99.25%
+  25  Lgig_LotgiP210797_96-203           38.64%    passed     98.85%
+  26  Helrob_HelroP84957_87-187          42.61%    passed     48.35%
+  27  Ocar_g2391.t1_1-124                29.55%    passed     63.35%
+  28  Cowc_KJE91536_79-179               42.61%    passed     50.66%
+WARNING: 1 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                              29.44%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Apla_XP_022105286.1_49-171 is identical to Apla_XP_022105288.1_49-171 but kept for subsequent analysis
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+Measuring multi-threading efficiency up to 8 CPU cores
+Increase to 10 rounds for branch lengths
+156 trees examined
+Threads: 1 / Time: 8.030 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -3586
+Threads: 2 / Time: 5.018 sec / Speedup: 1.600 / Efficiency: 80% / LogL: -3586
+Threads: 3 / Time: 4.303 sec / Speedup: 1.866 / Efficiency: 62% / LogL: -3586
+Threads: 4 / Time: 5.442 sec / Speedup: 1.476 / Efficiency: 37% / LogL: -3586
+BEST NUMBER OF THREADS: 3
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -3093.878
+Optimal log-likelihood: -3093.606
+Proportion of invariable sites: 0.070
+Gamma shape alpha: 1.091
+Parameters optimization took 1 rounds (0.011 sec)
+Time for fast ML tree search: 0.233 seconds
+
+NOTE: ModelFinder requires 3 MB RAM!
+ModelFinder will test up to 8 protein models (sample size: 176) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            3201.470     53  6508.940     6555.858     6676.975
+  2  LG+I          3173.202     54  6454.403     6503.494     6625.609
+  3  LG+G4         3092.911     54  6293.823     6342.913     6465.029
+  4  LG+I+G4       3093.248     55  6296.496     6347.829     6470.873
+  7  LG+F+G4       3116.668     73  6379.335     6485.257     6610.781
+  8  LG+F+I+G4     3117.107     74  6382.213     6492.114     6616.829
+Akaike Information Criterion:           LG+G4
+Corrected Akaike Information Criterion: LG+G4
+Bayesian Information Criterion:         LG+G4
+Best-fit model: LG+G4 chosen according to BIC
+
+All model information printed to alignments/all.Histone.to_histdb/CC43_H2A.iqt.model.gz
+CPU time for ModelFinder: 51.966 seconds (0h:0m:51s)
+Wall-clock time for ModelFinder: 23.207 seconds (0h:0m:23s)
+
+NOTE: 3 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -3092.911
+Optimal log-likelihood: -3092.903
+Gamma shape alpha: 0.869
+Parameters optimization took 1 rounds (0.012 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.020267 sec (of wall-clock time) 0.058152 sec(of CPU time)
+Computing RapidNJ tree took 0.000289 sec (of wall-clock time) 0.000824 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3107.967
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+BETTER TREE FOUND at iteration 1: -3092.902
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 2: -3080.530
+Finish initializing candidate tree set (4)
+Current best tree score: -3080.530 / CPU time: 0.170
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -3080.530
+Optimal log-likelihood: -3080.524
+Gamma shape alpha: 0.938
+Parameters optimization took 1 rounds (0.010 sec)
+BEST SCORE FOUND : -3080.524
+Total tree length: 7.340
+
+Total number of iterations: 2
+CPU time used for tree search: 0.580 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.171 sec (0h:0m:0s)
+Total CPU time used: 0.805 sec (0h:0m:0s)
+Total wall-clock time used: 0.243 sec (0h:0m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                alignments/all.Histone.to_histdb/CC43_H2A.iqt.iqtree
+  Maximum-likelihood tree:       alignments/all.Histone.to_histdb/CC43_H2A.iqt.treefile
+  Likelihood distances:          alignments/all.Histone.to_histdb/CC43_H2A.iqt.mldist
+  Screen log file:               alignments/all.Histone.to_histdb/CC43_H2A.iqt.log
+
+Date and Time: Mon Mar  1 19:56:00 2021

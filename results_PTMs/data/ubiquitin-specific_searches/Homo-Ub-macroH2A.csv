@@ -1,0 +1,9 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Q9P0M6|Histone_macroH2A	Q9P0M6|Histone_macroH2A	macroH2A	FALSE	KATSG KKGGK KSKAA KPR	Ubi	K	7				49.92	[R].KATSGKKGGKKSKAAKPR.[T]	[138-155]
+Q9P0M6|Histone_macroH2A	Q9P0M6|Histone_macroH2A	macroH2A	FALSE	KATSG KKGGK KSKAA KPR	Ubi	K	10				49.92	[R].KATSGKKGGKKSKAAKPR.[T]	[138-155]
+O75367|Histone_macroH2A	O75367|Histone_macroH2A	macroH2A	FALSE	GGKKK STKTS R	Ace	K	3				99.99	[R].GGKKKSTKTSR.[S]	[5-15]
+O75367|Histone_macroH2A	O75367|Histone_macroH2A	macroH2A	FALSE	GGKKK STKTS R	Ace	K	3				100	[R].GGKKKSTKTSR.[S]	[5-15]
+O75367|Histone_macroH2A	O75367|Histone_macroH2A	macroH2A	FALSE	KAGGK KGAR	Ace	K	1				100	[K].KAGGKKGAR.[K]	[148-156]
+O75367|Histone_macroH2A	O75367|Histone_macroH2A	macroH2A	FALSE	KAGGK KGAR	Ace	K	6				93.42	[K].KAGGKKGAR.[K]	[148-156]
+NA	NA	macroH2A	FALSE	NA	NA	NA	NA				NA	NA	NA
+NA	NA	macroH2A	FALSE	NA	NA	NA	NA				NA	NA	NA

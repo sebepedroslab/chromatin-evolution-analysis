@@ -1,0 +1,738 @@
+gene	orthogroup	orthologous_to	family	architecture
+Hydvul_Sc4wPfr_2313.g10581.t1	Histone.HG1.15:like:AL031777.2/H2AC1/H2AC4/H2AC6/H2AC7/H2AC8/H2AC11/H2AC12/H2AC13/H2AC14/H2AC15/H2AC16/H2AC17/H2AC18/H2AC19/H2AC20/H2AC21/H2AJ/H2AW/H2AX:likeclu:17		Histone	Linker_histone Histone Histone_H2A_C
+Cgig_EKC28009	Histone.HG2.5:H3-2/H3-3A/H3-3B/H3-4/H3-5/H3C1/H3C2/H3C3/H3C4/H3C6/H3C7/H3C8/H3C10/H3C11/H3C12/H3C13/H3C14/H3C15/H3Y1/H3Y2	islike:H3-2/H3-3B/H3-4/H3C1/H3C2/H3C3/H3C4/H3C6/H3C7/H3C8/H3C10/H3C11/H3C12/H3C13/H3C14/H3C15	Histone	Linker_histone Histone
+Nvec_NVE24023	Histone.HG3.5:CU639417.1/H2BC1/H2BC3/H2BC4/H2BC5/H2BC6/H2BC7/H2BC8/H2BC9/H2BC10/H2BC11/H2BC12/H2BC13/H2BC14/H2BC15/H2BC17/H2BC18/H2BC21/H2BE1/H2BS1/H2BU1/H2BW1/H2BW2	islike:H2BE1/H2BW1/H2BW2	Histone	Linker_histone Histone
+Cfra_CFRG4840T1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Mlei_ML0022_g41_t1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Nvec_NVE20622	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Tcas_XP_008192549.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Notgen_g27110.t1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Diprot_Gene.2154	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Smoe_EFJ20484	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Exapal_XP_020899332.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Smoe_EFJ14038	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Exapal_XP_028516074.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Exapal_XP_020894684.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Spis_XP_022785844_1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Spis_XP_022797560_1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Sphfal_Sphfalx19G038300.1.p	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Aque_Aqu2.1.39631_001	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Ppat_PAC_32930975.CDS.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Adig_XP_015754925.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Cowc_KJE89878	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Ppat_PAC_32942819.CDS.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Spis_XP_022798608_1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Drer_ENSDARP00000070677.3	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Sphfal_Sphfalx02G086900.1.p	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Ppat_PAC_32938382.CDS.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Hsap_ENSP00000329662.4	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Smoe_EFJ13030	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Sphfal_Sphfalx05G043900.1.p	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Smoe_EFJ28547	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Marpol_PTQ48993	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Gefoke_MALSP_08268.mRNA.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Nvec_NVE4301	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Lcom_lcpid176897	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Ppat_PAC_32918193.CDS.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Adig_XP_015753988.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Adig_XP_015760088.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Nvec_NVE15465	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Sphfal_Sphfalx19G093300.1.p	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Gpro_KXS17671	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Sphfal_Sphfalx06G072600.1.p	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Marpol_PTQ32223	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Diprot_Gene.11283	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Sphfal_Sphfalx01G099500.1.p	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Sphfal_Sphfalx02G024400.1.p	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Ppat_PAC_32909784.CDS.1	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Marpol_PTQ35141	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Sarc_Sarc4_g29345T	LinkerHistone.HG1.0:H1-10	H1-10	LinkerHistone	Linker_histone
+Ngru_EFC38260	LinkerHistone.HG1.1:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Acas_ELR12653	LinkerHistone.HG1.1:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Amobb2_AMBB2_01218.mRNA.1	LinkerHistone.HG1.1:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Acas_ELR13465	LinkerHistone.HG1.1:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone WWE
+Amobb2_AMBB2_00854.mRNA.1	LinkerHistone.HG1.1:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Aplker_102241	LinkerHistone.HG1.1:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Drer_ENSDARP00000144733.1	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	SNF2_N Linker_histone zf-C3HC4 Helicase_C
+Perkma_EER05041	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER13081	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER14848	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Mbre_EDQ90890	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER15904	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER15909	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Lcom_lcpid188856	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Gefoke_MALSP_17130.mRNA.1	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER07735	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER13883	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER16779	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Bnat_JGI_V11_87300	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EEQ98442	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER01175	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Sros_EGD80855	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER02234	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER08793	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER03032	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER06503	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Perkma_EER19810	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Hsap_ENSP00000486723.1	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	SNF2_N Linker_histone Helicase_C
+Apla_XP_022092147.1	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone
+Drer_ENSDARP00000155027.1	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	SNF2_N Linker_histone zf-C3HC4 Helicase_C
+Schagg_105077	LinkerHistone.HG1.2:SHPRH	SHPRH	LinkerHistone	Linker_histone DDT WHIM1
+Scer_YPL127C	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone Linker_histone
+Rigram_Gene.28284	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sphfal_Sphfalx06G106700.1.p	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Otau_XP_003079186.2	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone FKBP_C
+Aurlim_11964	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Smoe_EFJ28173	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Azfi_s0099.g044182	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Esil_CBN77460	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Mgut_XP_012831551.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sphfal_Sphfalx09G100000.1.p	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ulvmut_UM015_00781	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Honfer_GBG26939	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	WD40
+Coka_g14700.t1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sphfal_Sphfalx12G090300.1.p	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Bdis_KQJ84145	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Plafun_PRP81963	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone WWE adh_short
+Ngad_EWM29629	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Plafun_PRP85464	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone WWE
+Vcar_XP_002947678.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Tpse_EED88841	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Vitbra_CEL93949.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ppat_Pp3c21_4670V3.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Mgut_XP_012857684.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Smoe_EFJ18688	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Plafun_PRP78942	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Jaklib_JAKLI_06154.mRNA.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Hetalb_XP_020429779.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Styinc_Gene1911_m1911	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Caulen_g6992.t1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Phatri_Phatr3_EG02092.p1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Porpur_KAA8497964.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sacu_v1.1_s0009.g004314	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Atri_ERN14461	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Mpus_XP_003064715.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone FKBP_C
+Ppat_Pp3c6_25560V3.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sphfal_Sphfalx06G106500.1.p	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Coka_g12418.t1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Crei_PNW73658	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Vitbra_CEM00976.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Malcal_MALCA_06251.mRNA.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Recame_RECAM_14633.mRNA.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Cpar_Cpar_evm1s6076	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ddis_EAL64734	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Notgen_g3104.t1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Esil_CBJ32082	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sbic_EES11298	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Porumb_OSX77051.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Acoe_PIA56004.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Maljak_MALJA_00369.mRNA.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Manpla_Gene.7500	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ehux_EOD16108	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Gefoke_MALSP_04795.mRNA.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Cocsub_XP_005643665.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Vitbra_CEM36996.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Jakbah_JAKBA_08280.mRNA.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Cocsub_XP_005643703.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Bdis_KQK12683	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Hetalb_XP_020427981.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Phatri_Phatr3_J16960.p1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone FKBP_C
+Ppat_PAC_32916534.CDS.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Esil_CBN77455	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Esil_CBN77002	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Klenit_GAQ79070.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Esil_CBJ33199	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Notgen_g7555.t1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ancsig_Gene.1459	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Vcar_XP_002946208.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Chabra_GBG80313	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Schagg_99795	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone Glyco_hydro_38N Alpha-mann_mid Glyco_hydro_38C
+Smoe_EFJ36127	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Atri_ERN01411	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ppat_Pp3c5_3110V3.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Meteor_CRO19MET_NODE_8960.p1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Coka_g12258.t1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Acoe_PIA31486.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Plafun_PRP82131	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone WWE
+Azfi_s0049.g030788	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Cpar_Cpar_evm1s7568	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Andgod_ANDGO_06070.mRNA.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Bdis_KQK20548	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Plafun_PRP86704	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	GATase_6 SIS SIS Linker_histone WWE
+Azfi_s0006.g010261	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Vitbra_CEM01548.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Cvel_20161.t1-p1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Chabra_GBG80314	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sphfal_Sphfalx12G090300.2.p	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Pavlsp_904603	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone FKBP_C
+Plafun_PRP82465	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone WWE
+Sphfal_Sphfalx12G090600.1.p	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Acoe_PIA53928.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Cavfas_EGG13855	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Hus1 Linker_histone
+Esil_CBJ48888	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Aplker_52207	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Coka_g14327.t1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Atri_ERN16825	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Gracho_PXF44799.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Esil_CBJ32074	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Vitbra_CEM36445.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Andgod_ANDGO_06070.mRNA.2	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Recame_RECAM_12018.mRNA.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Dmel_FBpp0082428	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Mgut_XP_012837456.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sphfal_Sphfalx09G099900.1.p	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Mpus_XP_003055997.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Tielac_KYQ96892	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Atha_AT1G06760.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Aplker_103611	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Cvar_XP_005843091.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sbic_OQU75744	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Fabtro_Gene.17755	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Atha_AT2G30620.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ttra_KNC51305	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sacu_v1.1_s0256.g026829	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Vcar_XP_002947538.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Caulen_g5714.t1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Chabra_GBG76249	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sbic_OQU90831	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sphfal_Sphfalx06G106400.1.p	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Honfer_GBG28384	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone SWIB
+Tpse_EED89016	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Marpol_PTQ41316	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Pavlsp_979940	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Crei_PNW73519	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Chocri_XP_005711951.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Esil_CBN77561	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Phatri_Phatr3_J44318.p1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Recame_RECAM_19809.mRNA.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ppat_Pp3c18_14270V3.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sarc_Sarc4_g22285T	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone FKBP_C
+Notgen_g38666.t1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sphfal_Sphfalx06G106600.1.p	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Plamic_ANCSI_03804.mRNA.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Notgen_g3103.t1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Crei_PNW82142	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Pavlsp_878392	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Coka_g9552.t1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ppat_Pp3c18_19330V3.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sbic_EER95966	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Klenit_GAQ79068.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Atha_AT2G18050.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sphfal_Sphfalx09G099800.1.p	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Mgut_XP_012831532.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Clyhem_TCONS_00004484-protein	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Pinf_PITG_21568T0	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Morelo_OAQ34755	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Rhidel_EIE85439	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Umbram_237906	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Rhidel_EIE86966	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Mcir_OAD00247	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Falb_KCV70662	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ccin_EAU88141	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Rirr_GBC53230	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Pinf_PITG_05391T0	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sappar_KDO27225	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Cneo_AAW45336	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Sappar_KDO17695	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Rirr_GBC20868	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ccin_EAU88138	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Gpro_KXS11534	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ccin_EFI28439	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Umbram_226187	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Alblai_CCA21793	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Alblai_CCA21966	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Cneo_AAW42420	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Tmel_CAZ79651	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Spun_KNC98339	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Morelo_OAQ26428	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ncra_ESA41820	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Pisp_OUM64813.1	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Umay_KIS68388	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Bden_EGF82403	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Rhidel_EIE88326	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Pinf_PITG_02255T0	LinkerHistone.HG1.3:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Apla_XP_022092438.1	LinkerHistone.HG1.4:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Lcom_lcpid153438	LinkerHistone.HG1.4:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Lcom_lcpid160674	LinkerHistone.HG1.4:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Lcom_lcpid190872	LinkerHistone.HG1.4:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Lcom_lcpid164204	LinkerHistone.HG1.4:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Cint_ENSCINP00000033638.1	LinkerHistone.HG1.4:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Mlei_ML0998_g9_t1	LinkerHistone.HG1.4:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Auraur_scaffold6.g48.t1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Lcom_lcpid193631	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Nvec_NVE17345	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PHD SAM_1
+Gpro_KXS18976	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Nvec_NVE25944	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PHD PHD zf-C2HC zf-MYST MOZ_SAS
+Ptyfla_pfl_40v0_9_20150316_1g22231.t1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone MOZ_SAS
+Cscu_XP_023244110.1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PHD zf-MYST
+Skow_XP_006824958.1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Esil_CBN78353	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone SNF2_N Helicase_C
+Spis_XP_022786543_1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Esil_CBN77761	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone DDT WHIM1 WSD PWWP
+Notgen_g27227.t1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Spur_XP_030835455.1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Lpol_XP_022240054.1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PHD zf-MYST MOZ_SAS
+Cscu_XP_023225843.1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	PHD PHD zf-MYST MOZ_SAS
+Ctel_CapteP224752	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PHD zf-MYST MOZ_SAS
+Lcom_lcpid18805	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Linana_g7746.t1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Coka_g8970.t1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone SNF2_N Helicase_C
+Cgig_EKC31016	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Lcom_lcpid193632	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Coka_g6822.t1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone DDT WHIM1 WSD PWWP
+Scil_scpid86926	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	PHD zf-C2HC
+Acas_ELR15828	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Mlei_ML1046_g30_t1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PHD zf-MYST MOZ_SAS
+Adig_XP_015749664.1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Ngad_EWM28553	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone SNF2_N Helicase_C
+Ocar_g6224.t1	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone zf-MYST MOZ_SAS
+Plabra_CEP03664	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Retfil_ETO09708	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Plabra_CEO94338	LinkerHistone.HG1.5:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Lcom_lcpid147122	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Acoe_PIA64263.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Ttra_KNC53436	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	FHA Pkinase Linker_histone
+Azfi_s0061.g035104	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Mgut_XP_012842546.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone AT_hook AT_hook AT_hook AT_hook
+Bdis_KQJ90171	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone AT_hook AT_hook AT_hook AT_hook AT_hook
+Atha_AT1G14900.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Sbic_KXG37737	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Bdis_PNT61589	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Acoe_PIA59142.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Mgut_XP_012844104.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Sbic_OQU82069	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Atri_ERN05352	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Sbic_EES15017	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Atha_AT1G49950.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Atha_AT1G48620.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Bdis_KQK08508	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Bdis_KQK09410	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Sphfal_Sphfalx12G059500.1.p	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Marpol_PTQ43921	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Bdis_KQK13615	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Sphfal_Sphfalx09G047000.1.p	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Acoe_PIA26637.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone AT_hook AT_hook AT_hook AT_hook
+Smoe_EFJ20257	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Azfi_s0218.g058575	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Mgut_XP_012848206.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Atha_AT1G72740.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Mgut_XP_012838405.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone AT_hook AT_hook AT_hook
+Ppat_Pp3c13_1060V3.8	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Rirr_GBC26353	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	PHD Linker_histone
+Ppat_Pp3c13_1310V3.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Mgut_XP_012846682.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Ppat_Pp3c3_1630V3.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Acoe_PIA29371.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Rigram_Gene.2251	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Bdis_KQJ85799	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Atha_AT1G17520.2	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Bdis_KQK04531	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook
+Bdis_KQJ98348	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Acoe_PIA42538.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone PLATZ
+Atri_ERN15366	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Sphfal_Sphfalx07G063100.1.p	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Klenit_GAQ90223.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Mgut_XP_012853239.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Sacu_v1.1_s0199.g025561	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Atri_ERN00595	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Smoe_EFJ10871	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Azfi_s0006.g010067	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Sbic_EES02415	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Mgut_XP_012846209.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Chabra_GBG80206	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Mgut_XP_012856646.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Atha_AT1G54260.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Sacu_v1.1_s0102.g019898	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Mgut_XP_012848020.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Spur_XP_030848335.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone NUDIX
+Umbram_250475	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	PHD Linker_histone
+Ttra_KNC53406	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Pkinase Linker_histone
+Cocsub_XP_005649926.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Sbic_EER88044	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook
+Atha_AT5G67580.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Rirr_GBC42926	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	PHD Linker_histone
+Sbic_EER98875	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Mgut_XP_012836848.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Acoe_PIA32615.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Sbic_EES00984	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Sacu_v1.1_s0011.g005172	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Ttra_KNC47295	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	FHA Pkinase Linker_histone
+Bdis_PNT74389	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Sbic_EES01351	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Sbic_OQU80556	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Spun_KNC96040	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	PHD Linker_histone
+Atha_AT5G08780.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Morelo_OAQ24561	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	PHD Linker_histone
+Acoe_PIA33568.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook AT_hook
+Spur_XP_030850029.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone Tetraspanin Tetraspanin
+Spur_XP_011673397.2	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone NUDIX
+Atha_AT3G49850.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Mgut_XP_012844103.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Sbic_KXG37955	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Mgut_XP_012845313.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone AT_hook AT_hook AT_hook
+Mgut_XP_012842543.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone AT_hook AT_hook AT_hook AT_hook
+Mgut_XP_012854030.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Myb_DNA-binding Linker_histone
+Tetwil_Twilhelma_g3741.t1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Atha_AT3G18035.1	LinkerHistone.HG1.6:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6/H1-8/H1-10/HP1BP3/SHPRH:likeclu:0/2/9/13/16/20		LinkerHistone	Linker_histone
+Cmer_CMN183CT	LinkerHistone.HG1.7:like:H1-8/HP1BP3:likeclu:9/13		LinkerHistone	Linker_histone
+Bralan_BL14488_evm4	LinkerHistone.HG1.7:like:H1-8/HP1BP3:likeclu:9/13		LinkerHistone	Linker_histone Linker_histone Linker_histone Linker_histone
+Bnat_JGI_V11_34697	LinkerHistone.HG1.7:like:H1-8/HP1BP3:likeclu:9/13		LinkerHistone	Linker_histone
+Gonavo_g30783.t1	LinkerHistone.HG1.7:like:H1-8/HP1BP3:likeclu:9/13		LinkerHistone	Linker_histone
+Lcom_lcpid148501	LinkerHistone.HG1.8:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Hydvul_Sc4wPfr_2313.g10581.t1	LinkerHistone.HG1.8:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone Histone Histone_H2A_C
+Hydvul_Sc4wPfr_244.2.g15106.t1	LinkerHistone.HG1.8:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Hydvul_Sc4wPfr_96.g11983.t1	LinkerHistone.HG1.8:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Hydvul_Sc4wPfr_24.g32541.t1	LinkerHistone.HG1.8:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Hydvul_Sc4wPfr_24.g32542.t1	LinkerHistone.HG1.8:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Secula_SECUL_08646.mRNA.1	LinkerHistone.HG1.8:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Clim_evm46s218	LinkerHistone.HG1.9:HP1BP3	HP1BP3	LinkerHistone	Linker_histone
+Lgig_LotgiP235765	LinkerHistone.HG1.9:HP1BP3	HP1BP3	LinkerHistone	Linker_histone
+Drer_ENSDARP00000142470.2	LinkerHistone.HG1.9:HP1BP3	HP1BP3	LinkerHistone	Linker_histone Linker_histone Linker_histone
+Phoaus_g1117.t1	LinkerHistone.HG1.9:HP1BP3	HP1BP3	LinkerHistone	Linker_histone
+Linana_g9654.t1	LinkerHistone.HG1.9:HP1BP3	HP1BP3	LinkerHistone	RFX_DNA_binding Linker_histone
+Linana_g30900.t1	LinkerHistone.HG1.9:HP1BP3	HP1BP3	LinkerHistone	RFX_DNA_binding Linker_histone
+Hsap_ENSP00000312625.5	LinkerHistone.HG1.9:HP1BP3	HP1BP3	LinkerHistone	Linker_histone Linker_histone Linker_histone
+Hduj_OQV24610.1	LinkerHistone.HG1.10:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Cowc_KJE90507	LinkerHistone.HG1.10:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Ramvar_GAV05743.1	LinkerHistone.HG1.10:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Dpul_EFX73840	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Lcom_lcpid106243	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Exapal_XP_020901922.1	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Hduj_OWA54132.1	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Lcom_lcpid104399	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Nvec_NVE18594	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Adig_XP_015778500.1	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Spis_XP_022780108_1	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Dpul_EFX88645	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Dpul_EFX89006	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Dpul_EFX73951	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Dpul_EFX77440	LinkerHistone.HG1.11:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	BTB BTB Linker_histone
+Nk52_evm1s2536	LinkerHistone.HG1.12:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Spis_XP_022803401_1	LinkerHistone.HG1.12:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Nvec_NVE12125	LinkerHistone.HG1.12:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Exapal_XP_020907833.1	LinkerHistone.HG1.12:like:H1-0/H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16/20		LinkerHistone	Linker_histone
+Hsap_ENSP00000319799.2	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Lpol_XP_022234980.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Linana_g29634.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Cint_ENSCINP00000008056.3	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Lpol_XP_013794452.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Lcom_lcpid194989	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Cgig_EKC31139	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Skow_XP_006814501.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	
+Ptyfla_pfl_40v0_9_20150316_1g4451.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g24960.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Drer_ENSDARP00000130504.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Tcas_XP_970807.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone zf-MYST MOZ_SAS
+Ptyfla_pfl_40v0_9_20150316_1g24962.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Skow_XP_002733520.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Cgig_EKC31637	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Tcas_XP_008197080.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone zf-MYST MOZ_SAS
+Ptyfla_pfl_40v0_9_20150316_1g5925.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Lcom_lcpid220128	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Skow_XP_002732964.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g3663.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Lgig_LotgiP79703	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Bralan_BL21459_cuf1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g8010.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Linana_g4777.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g12222.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Lcom_lcpid231326	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g23359.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g12225.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Skow_XP_006820305.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Skow_XP_002738107.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Skow_XP_002733294.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g4453.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Linana_g3176.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g12227.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Lcom_lcpid203240	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Lgig_LotgiP89152	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Skow_XP_002733982.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ctel_CapteP80204	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Notgen_g26321.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Skow_XP_006820109.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Lcom_lcpid209929	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g19839.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Oxytri_EJY76059	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Notgen_g4893.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g12224.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g25470.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Skow_XP_006820108.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Phatri_Phatr3_J50493.p1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone WSD
+Apla_XP_022101248.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Cscu_XP_023231849.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Notgen_g15249.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Spur_XP_030839851.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g11574.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Skow_XP_006819104.1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Phoaus_g11073.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g12223.t1	LinkerHistone.HG1.13:H1-8	H1-8	LinkerHistone	Linker_histone
+Bralan_BL08479_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091110	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Notgen_g7521.t1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091107	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Tcas_XP_008201493.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Notgen_g10286.t1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Linana_g4209.t1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Linana_g19764.t1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Tcas_XP_008195798.2	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091077	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091095	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091050	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091074	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Cscu_XP_023244704.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Tcas_XP_008196666.2	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Cscu_XP_023244745.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091086	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091057	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091062	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091059	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Linana_g15699.t1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone Plant_NMP1 Plant_NMP1 Plant_NMP1
+Dmel_FBpp0091104	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091089	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0085248	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Cscu_XP_023213285.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Cscu_XP_023222175.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Linana_g7560.t1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Cscu_XP_023225934.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Tcas_XP_008193830.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091065	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091054	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Linana_g4211.t1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091080	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Carmem_6448.p1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Notgen_g7522.t1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091101	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Tcas_XP_015840416.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091068	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091083	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091071	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Linana_g26812.t1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091098	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091052	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Dmel_FBpp0091092	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Skow_XP_002742323.2	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL30094_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL22972_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Skow_XP_006825952.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g11783.t1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL26693_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Spur_NP_999723.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL09822_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL21914_cuf0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL29362_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL26355_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL16477_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL26302_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Skow_XP_006825951.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL02896_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL31331_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Skow_XP_002742322.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Skow_XP_002742334.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL19841_cuf0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Spur_NP_999720.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g1742.t1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL23170_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL26569_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Skow_XP_002739155.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL21784_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Skow_XP_002738506.1	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL16493_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL26381_evm0	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Bralan_BL31987_evm2	LinkerHistone.HG1.14:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Apla_XP_022092357.1	LinkerHistone.HG1.15:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Sman_Smp_162370.1_pep	LinkerHistone.HG1.15:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Emul_CDS37718.1	LinkerHistone.HG1.15:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Spur_XP_030838381.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000067943.3	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000127877.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000097572.2	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000142167.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000101178.2	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000142541.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000129366.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000142564.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000072101.2	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	islike:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000142593.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000155905.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	islike:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000064399.4	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000127047.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Apla_XP_022080329.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000075802.2	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000049134.4	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Hsap_ENSP00000307705.4	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000142554.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000110558.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000142521.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000109050.2	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Hsap_ENSP00000341214.5	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Apla_XP_022095484.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Hsap_ENSP00000244534.6	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000122796.2	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Hsap_ENSP00000330074.4	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Hsap_ENSP00000339566.3	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Hsap_ENSP00000244573.4	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Drer_ENSDARP00000041384.4	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Spur_NP_999714.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Spur_XP_011668426.2	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Spur_XP_030837431.1	LinkerHistone.HG1.16:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	H1-1/H1-2/H1-3/H1-4/H1-5/H1-6	LinkerHistone	Linker_histone
+Emul_CDS41412.1	LinkerHistone.HG1.17:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Concor_KXN72355	LinkerHistone.HG1.17:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Notgen_g23996.t1	LinkerHistone.HG1.17:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lcom_lcpid176862	LinkerHistone.HG1.17:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Sman_Smp_003770.1_pep	LinkerHistone.HG1.17:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Emue_0002g1062a	LinkerHistone.HG1.18:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lcom_lcpid181387	LinkerHistone.HG1.18:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lcom_lcpid242744	LinkerHistone.HG1.18:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lcom_lcpid153562	LinkerHistone.HG1.18:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Scil_scpid86771	LinkerHistone.HG1.18:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Tetwil_Twilhelma_g27365.t1	LinkerHistone.HG1.18:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Emue_0002g1068a	LinkerHistone.HG1.18:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Auraur_scaffold1826.g9.t1	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Linana_g5650.t1	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lgig_LotgiP57981	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ctel_CapteP217782	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ctel_CapteP148467	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ctel_CapteP224579	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Cgig_EKC36128	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lcom_lcpid244194	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lcom_lcpid187370	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Cgig_EKC28009	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone Histone
+Ctel_CapteP203039	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Linana_g2515.t1	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ctel_CapteP81832	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ctel_CapteP29955	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Dpul_EFX60309	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ctel_CapteP88884	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lgig_LotgiP148180	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Helrob_HelroP144967	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Phoaus_g18686.t1	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lgig_LotgiP151937	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ramvar_GAV04260.1	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Cscu_XP_023235272.1	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ctel_CapteP70256	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Helrob_HelroP172833	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Helrob_HelroP105142	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ctel_CapteP19502	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lgig_LotgiP147763	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ctel_CapteP165663	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Cgig_EKC28039	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ptyfla_pfl_40v0_9_20150316_1g4552.t1	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Cgig_EKC36743	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lgig_LotgiP207166	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lgig_LotgiP87303	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lcom_lcpid209764	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Ctel_CapteP88150	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Hduj_OQV14430.1	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Phoaus_g11807.t1	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Skow_XP_002736938.1	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Helrob_HelroP89725	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lgig_LotgiP176948	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Helrob_HelroP144970	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Cgig_EKC17653	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Bralan_BL13836_cuf0	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Lgig_LotgiP59701	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Helrob_HelroP195122	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Cgig_EKC28013	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Skow_XP_002734898.1	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Aque_Aqu2.1.08428_001	LinkerHistone.HG1.19:like:H1-0:likeclu:20		LinkerHistone	Linker_histone
+Auraur_scaffold5.g58.t1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Phoaus_g17138.t1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Phoaus_g7642.t1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Cint_ENSCINP00000002187.3	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Morvir_scaffold22.g89.t1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Exapal_XP_020906580.1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Nvec_NVE24645	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Exapal_XP_028519350.1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Exapal_XP_020896796.1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Exapal_XP_020893621.1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Spis_XP_022796942_1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Apla_XP_022109231.1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Spis_XP_022792391_1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Exapal_XP_020913115.1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Nvec_NVE14709	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE24016	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Morvir_scaffold49.g70.t1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE21347	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE24628	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Adig_XP_015748860.1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE24017	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE5233	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nutlon_comp23986_c0_seq1.p1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Exapal_XP_020916257.1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Morvir_scaffold53.g50.t1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Aque_Aqu2.1.39632_001	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE8842	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Lcom_lcpid152675	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE24023	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone Histone
+Adig_XP_015775474.1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE24646	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE14097	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE24047	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Morvir_scaffold563.g8.t1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Phoaus_g12024.t1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Spis_XP_022792390_1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Spis_XP_022782393_1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Exapal_XP_020917664.1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Exapal_XP_020893573.1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Adig_XP_015780405.1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Adig_XP_015763397.1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Morvir_scaffold55.g74.t1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Exapal_XP_020908692.1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Morvir_scaffold86.g31.t1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Lcom_lcpid138991	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Spur_XP_030840668.1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE5228	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Nvec_NVE24040	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Phoaus_g17883.t1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Hsap_ENSP00000344504.2	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Nvec_NVE24006	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Exapal_XP_020913116.1	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Drer_ENSDARP00000056285.5	LinkerHistone.HG1.20:H1-0	H1-0	LinkerHistone	Linker_histone
+Tadh_P53828	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Spur_NP_999722.1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Spis_XP_022792389_1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Spis_XP_022794488_1	LinkerHistone.HG1.20:H1-0	islike:H1-0	LinkerHistone	Linker_histone
+Ctel_CapteP224518	LinkerHistone.HG1.21:like:H1-8:likeclu:13		LinkerHistone	Linker_histone Linker_histone
+Spur_XP_796458.1	LinkerHistone.HG1.22:like:H1-1/H1-2/H1-3/H1-4/H1-5/H1-6:likeclu:16		LinkerHistone	Linker_histone
+Mlei_ML1046_g30_t1	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone PHD zf-MYST MOZ_SAS
+Ptyfla_pfl_40v0_9_20150316_1g22231.t1	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone MOZ_SAS
+Lpol_XP_022240054.1	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone PHD zf-MYST MOZ_SAS
+Lcom_lcpid18805	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Ctel_CapteP224752	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone PHD zf-MYST MOZ_SAS
+Cgig_EKC31016	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Cscu_XP_023225843.1	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	PHD PHD zf-MYST MOZ_SAS
+Nvec_NVE25944	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone PHD PHD zf-C2HC zf-MYST MOZ_SAS
+Tcas_XP_970807.1	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone zf-MYST MOZ_SAS
+Spis_XP_022786543_1	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Notgen_g27227.t1	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Ocar_g6224.t1	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone zf-MYST MOZ_SAS
+Tcas_XP_008197080.1	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone zf-MYST MOZ_SAS
+Linana_g7746.t1	MOZ_SAS.HG1.2:KAT6A/KAT6B/KAT7	KAT6A/KAT6B	MOZ_SAS	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Spun_KNC96040	PHD.HG12.1:MTF2/PHF1/PHF19	islike:MTF2/PHF1/PHF19	PHD	PHD Linker_histone
+Umbram_250475	PHD.HG12.1:MTF2/PHF1/PHF19	islike:MTF2/PHF1/PHF19	PHD	PHD Linker_histone
+Rirr_GBC26353	PHD.HG12.1:MTF2/PHF1/PHF19	islike:MTF2/PHF1/PHF19	PHD	PHD Linker_histone
+Rirr_GBC42926	PHD.HG12.1:MTF2/PHF1/PHF19	islike:MTF2/PHF1/PHF19	PHD	PHD Linker_histone
+Morelo_OAQ24561	PHD.HG12.1:MTF2/PHF1/PHF19	islike:MTF2/PHF1/PHF19	PHD	PHD Linker_histone
+Nvec_NVE17345	PHD.HG6.3:like:DPF1/DPF2/KAT6A/KAT6B/PHF10:likeclu:4/6/8		PHD	Linker_histone PHD SAM_1
+Ctel_CapteP224752	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	Linker_histone PHD zf-MYST MOZ_SAS
+Cgig_EKC31016	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Spis_XP_022786543_1	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Cscu_XP_023244110.1	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	Linker_histone PHD zf-MYST
+Lpol_XP_022240054.1	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	Linker_histone PHD zf-MYST MOZ_SAS
+Nvec_NVE25944	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	Linker_histone PHD PHD zf-C2HC zf-MYST MOZ_SAS
+Lcom_lcpid18805	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Mlei_ML1046_g30_t1	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	Linker_histone PHD zf-MYST MOZ_SAS
+Linana_g7746.t1	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Notgen_g27227.t1	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	Linker_histone PHD zf-C2HC zf-MYST MOZ_SAS
+Scil_scpid86926	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	PHD zf-C2HC
+Cscu_XP_023225843.1	PHD.HG6.8:KAT6A/KAT6B	KAT6A/KAT6B	PHD	PHD PHD zf-MYST MOZ_SAS
+Coka_g6822.t1	PWWP.HG1.4:like:AC098650.1/BRD1/BRPF1/BRPF3/GLYR1/HDGFL1/HDGFL2/HDGFL3/MBD5/MSH6/PSIP1/PWWP2A/PWWP2B/PWWP3B/ZCWPW1/ZCWPW2/ZMYND8/ZMYND11:likeclu:8/14/17/18/22		PWWP	Linker_histone DDT WHIM1 WSD PWWP
+Esil_CBN77761	PWWP.HG1.4:like:AC098650.1/BRD1/BRPF1/BRPF3/GLYR1/HDGFL1/HDGFL2/HDGFL3/MBD5/MSH6/PSIP1/PWWP2A/PWWP2B/PWWP3B/ZCWPW1/ZCWPW2/ZMYND8/ZMYND11:likeclu:8/14/17/18/22		PWWP	Linker_histone DDT WHIM1 WSD PWWP
+Nvec_NVE17345	SAM.HG4.1:L3MBTL3/L3MBTL4/SAMD1/SAMD7/SAMD11/SAMD13/SCMH1/SCML1/SCML2/SCML4/SFMBT1/SFMBT2	SAMD1/SAMD13	SAM	Linker_histone PHD SAM_1
+Drer_ENSDARP00000144733.1	SNF2_N.HG10.1:SHPRH	SHPRH	SNF2_N	SNF2_N Linker_histone zf-C3HC4 Helicase_C
+Drer_ENSDARP00000155027.1	SNF2_N.HG10.1:SHPRH	SHPRH	SNF2_N	SNF2_N Linker_histone zf-C3HC4 Helicase_C
+Hsap_ENSP00000486723.1	SNF2_N.HG10.1:SHPRH	SHPRH	SNF2_N	SNF2_N Linker_histone Helicase_C
+Coka_g8970.t1	SNF2_N.HG2.13:like:SMARCA1/SMARCA5:likeclu:10		SNF2_N	Linker_histone SNF2_N Helicase_C
+Ngad_EWM28553	SNF2_N.HG2.13:like:SMARCA1/SMARCA5:likeclu:10		SNF2_N	Linker_histone SNF2_N Helicase_C
+Esil_CBN78353	SNF2_N.HG2.13:like:SMARCA1/SMARCA5:likeclu:10		SNF2_N	Linker_histone SNF2_N Helicase_C

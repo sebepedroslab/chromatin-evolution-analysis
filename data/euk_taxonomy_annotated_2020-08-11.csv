@@ -1,0 +1,173 @@
+Species name	Species	Macrogroup	Group	Phylum	Order
+Homo sapiens	Hsap	Obazoa	Bilateria	Bilateria	Vertebrata
+Danio rerio	Drer	Obazoa	Bilateria	Bilateria	Vertebrata
+Ciona intestinalis	Cint	Obazoa	Bilateria	Bilateria	Urochordata
+Branchiostoma lanceolatum	Bralan	Obazoa	Bilateria	Bilateria	Cephalochordata
+Saccoglossus kowalevskii	Skow	Obazoa	Bilateria	Bilateria	Hemichordata
+Ptychodera flava	Ptyfla	Obazoa	Bilateria	Bilateria	Hemichordata
+Strongylocentrotus purpuratus	Spur	Obazoa	Bilateria	Bilateria	Echinodermata
+Acanthaster planci	Apla	Obazoa	Bilateria	Bilateria	Echinodermata
+Drosophila melanogaster	Dmel	Obazoa	Bilateria	Bilateria	Arthropoda
+Tribolium castaneum	Tcas	Obazoa	Bilateria	Bilateria	Arthropoda
+Daphnia pulex	Dpul	Obazoa	Bilateria	Bilateria	Arthropoda
+Limulus polyphemus	Lpol	Obazoa	Bilateria	Bilateria	Arthropoda
+Centruroides sculpturatus	Cscu	Obazoa	Bilateria	Bilateria	Arthropoda
+Hypsibius dujardini	Hduj	Obazoa	Bilateria	Bilateria	Tardigrade
+Ramazzottius varieornatus	Ramvar	Obazoa	Bilateria	Bilateria	Tardigrade
+Capitella teleta	Ctel	Obazoa	Bilateria	Bilateria	Annelida
+Helobdella robusta	Helrob	Obazoa	Bilateria	Bilateria	Annelida
+Lottia gigantea	Lgig	Obazoa	Bilateria	Bilateria	Mollusca
+Crassostrea gigas	Cgig	Obazoa	Bilateria	Bilateria	Mollusca
+Notospermus geniculatus	Notgen	Obazoa	Bilateria	Bilateria	Nemertea
+Phoronis australis	Phoaus	Obazoa	Bilateria	Bilateria	Phoronida
+Lingula anatina	Linana	Obazoa	Bilateria	Bilateria	Brachiopoda
+Echinoccocus multilocularis	Emul	Obazoa	Bilateria	Bilateria	Platyhelminta
+Schistosoma mansoni	Sman	Obazoa	Bilateria	Bilateria	Platyhelminta
+Nematostella vectensis	Nvec	Obazoa	Cnidaria	Cnidaria	Anthozoa
+Exaiptasia pallida	Exapal	Obazoa	Cnidaria	Cnidaria	Anthozoa
+Acropora digitifera	Adig	Obazoa	Cnidaria	Cnidaria	Anthozoa
+Stylophora pistillata	Spis	Obazoa	Cnidaria	Cnidaria	Anthozoa
+Hydra vulgaris	Hydvul	Obazoa	Cnidaria	Cnidaria	Hydrozoa
+Clytia hemisphaerica	Clyhem	Obazoa	Cnidaria	Cnidaria	Hydrozoa
+Aurelia aurita	Auraur	Obazoa	Cnidaria	Cnidaria	Scyphozoa
+Morbakka virulenta	Morvir	Obazoa	Cnidaria	Cnidaria	Cubozoa
+Trichoplax adhaerens	Tadh	Obazoa	Placozoa	Placozoa	
+Mnemiopsis leidyi	Mlei	Obazoa	Ctenophora	Ctenophora	
+Oscarella carmela	Ocar	Obazoa	Porifera	Porifera	Homoscleromorpha
+Tethya wilhelma	Tetwil	Obazoa	Porifera	Porifera	Demospongiae
+Amphimedon queenslandica	Aque	Obazoa	Porifera	Porifera	Demospongiae
+Ephydatia muelleri	Emue	Obazoa	Porifera	Porifera	Demospongiae
+Sycon ciliatum	Scil	Obazoa	Porifera	Porifera	Calcarea
+Leucosolenia complicata	Lcom	Obazoa	Porifera	Porifera	Calcarea
+Monosiga brevicollis	Mbre	Obazoa	Choanoflagellata		
+Salpingoeca rosetta	Sros	Obazoa	Choanoflagellata		
+Capsaspora owczarzaki	Cowc	Obazoa	Filasterea		
+Ministeria vibrans	Mvib	Obazoa	Filasterea		
+Sphaeroforma arctica	Sarc	Obazoa	Ichthyosporea		
+Creolimax fragrantissima	Cfra	Obazoa	Ichthyosporea		
+Ichthyophonus hoferi	Ihof	Obazoa	Ichthyosporea		
+Chromosphaera perkinsii	Nk52	Obazoa	Ichthyosporea		
+Corallochytrium limacisporum	Clim	Obazoa	Corallochytrea		
+Schizosaccharomyces pombe	Spom	Obazoa	Fungi	Ascomycota	
+Tuber melanosporum	Tmel	Obazoa	Fungi	Ascomycota	
+Neurospora crassa	Ncra	Obazoa	Fungi	Ascomycota	
+Saccharomyces cerevisiae	Scer	Obazoa	Fungi	Ascomycota	
+Cryptococcus neoformans	Cneo	Obazoa	Fungi	Basidiomycota	
+Coprinopsis cinerea	Ccin	Obazoa	Fungi	Basidiomycota	
+Ustilago maydis	Umay	Obazoa	Fungi	Basidiomycota	
+Mortierella elongata	Morelo	Obazoa	Fungi	Mucoromycota	
+Phycomyces blakesleeanus	Pbla	Obazoa	Fungi	Mucoromycota	
+Mucor circinelloides	Mcir	Obazoa	Fungi	Mucoromycota	
+Rhizopus delemar	Rhidel	Obazoa	Fungi	Mucoromycota	
+Umbelopsis ramanniana	Umbram	Obazoa	Fungi	Mucoromycota	
+Rhizophagus irregularis	Rirr	Obazoa	Fungi	Mucoromycota	
+Coemansia reversa	Coerev	Obazoa	Fungi	Zoopagomycota	
+Conidiobolus coronatus	Concor	Obazoa	Fungi	Zoopagomycota	
+Batrachochytrium dendrobatidis	Bden	Obazoa	Fungi	Chytridiomycota	
+Spizellomyces punctatus	Spun	Obazoa	Fungi	Chytridiomycota	
+Gonapodya prolifera	Gpro	Obazoa	Fungi	Chytridiomycota	
+Piromyces spE2	Pisp	Obazoa	Fungi	Chytridiomycota	
+Allomyces macrogynus	Amac	Obazoa	Fungi	Blastocladiomycota	
+Catenaria anguillulae	Cang	Obazoa	Fungi	Blastocladiomycota	
+Rozella allomycis	Rall	Obazoa	Fungi	Rozellida	
+Fonticula alba	Falb	Obazoa	Discicristoidea		
+Thecamonas trahens	Ttra	Obazoa	Apusozoa		
+Pygsuia biforma	Pygbif	Obazoa	Breviatea		
+Dictyostelium discoideum	Ddis	Amoebozoa	Amoebozoa	Evosea	Eumycetozoa
+Tieghemostelium lacteum  	Tielac	Amoebozoa	Amoebozoa	Evosea	Eumycetozoa
+Heterostelium album	Hetalb	Amoebozoa	Amoebozoa	Evosea	Eumycetozoa
+Cavenderia fasciculata	Cavfas	Amoebozoa	Amoebozoa	Evosea	Eumycetozoa
+Mastigamoeba balamuthi	Masbal	Amoebozoa	Amoebozoa	Evosea	Archamoeba
+Acanthamoeba castellanii	Acas	Amoebozoa	Amoebozoa	Discosea	Centramoebida
+Planoprotostelium fungivorum	Plafun	Amoebozoa	Amoebozoa	Variosea	Cavosteliida
+Rigifila ramosa	Rigram	CRuMs	CRuMs		
+Diphylleia rotans	Diprot	CRuMs	CRuMs		
+Mantamonas plastica	Manpla	CRuMs	CRuMs		
+Nutomonas longa	Nutlon	Ancyromonadida	Ancyromonadida		
+Ancyromonas sigmoides	Ancsig	Ancyromonadida	Ancyromonadida		
+Fabomonas tropica	Fabtro	Ancyromonadida	Ancyromonadida		
+Planomonas micra	Plamic	Ancyromonadida	Ancyromonadida		
+Malawimonas californiana	Malcal	Malawimonadidae	Malawimonadidae		
+Malawimonas jakobiformis	Maljak	Malawimonadidae	Malawimonadidae		
+Gefionella okellyi (strain 249)	Gefoke	Malawimonadidae	Malawimonadidae		
+Arabidopsis thaliana	Atha	ArchaeCry	Streptophyta	Embryophyta	Tracheophyta
+Mimulus guttatus	Mgut	ArchaeCry	Streptophyta	Embryophyta	Tracheophyta
+Aquilegia coerulea	Acoe	ArchaeCry	Streptophyta	Embryophyta	Tracheophyta
+Brachypodium distachyon	Bdis	ArchaeCry	Streptophyta	Embryophyta	Tracheophyta
+Sorghum bicolor	Sbic	ArchaeCry	Streptophyta	Embryophyta	Tracheophyta
+Amborella trichopoda	Atri	ArchaeCry	Streptophyta	Embryophyta	Tracheophyta
+Salvinia cucullata	Sacu	ArchaeCry	Streptophyta	Embryophyta	Tracheophyta
+Azolla filiculoides	Azfi	ArchaeCry	Streptophyta	Embryophyta	Tracheophyta
+Selaginella moellendorffii	Smoe	ArchaeCry	Streptophyta	Embryophyta	Tracheophyta
+Physcomitrella patens	Ppat	ArchaeCry	Streptophyta	Embryophyta	Bryophyta
+Sphagnum fallax	Sphfal	ArchaeCry	Streptophyta	Embryophyta	Bryophyta
+Marchantia polymorpha	Marpol	ArchaeCry	Streptophyta	Embryophyta	Marchantiophyta
+Chara braunii	Chabra	ArchaeCry	Streptophyta	Charophyta	
+Klebsormidium nitens	Klenit	ArchaeCry	Streptophyta	Charophyta	
+Chlamydomonas reinhardtii	Crei	ArchaeCry	Chlorophyta	Chlorophyceae	
+Volvox carteri	Vcar	ArchaeCry	Chlorophyta	Chlorophyceae	
+Coccomyxa subellipsoidea	Cocsub	ArchaeCry	Chlorophyta	Trebouxiophyceae	
+Chlorella variabilis	Cvar	ArchaeCry	Chlorophyta	Trebouxiophyceae	
+Ulva mutabilis	Ulvmut	ArchaeCry	Chlorophyta	Ulvophyceae	
+Caulerpa lentillifera	Caulen	ArchaeCry	Chlorophyta	Ulvophyceae	
+Ostreococcus tauri	Otau	ArchaeCry	Chlorophyta	Mamiellophyceae	
+Micromonas pusilla	Mpus	ArchaeCry	Chlorophyta	Mamiellophyceae	
+Cyanidioschyzon merolae	Cmer	ArchaeCry	Rhodophyta	Cyanidiales	
+Porphyra umbilicalis	Porumb	ArchaeCry	Rhodophyta	Bangiophyceae	
+Porphyridium purpureum	Porpur	ArchaeCry	Rhodophyta	Bangiophyceae	
+Gracilariopsis chorda	Gracho	ArchaeCry	Rhodophyta	Florideophyceae	
+Chondrus crispus	Chocri	ArchaeCry	Rhodophyta	Florideophyceae	
+Cyanophora paradoxa	Cpar	ArchaeCry	Glaucophyta		
+Goniomonas avonlea	Gonavo	ArchaeCry	Cryptista	Cryptophyceae	
+Guillardia theta	Gthe	ArchaeCry	Cryptista	Cryptophyceae	
+Emiliania huxleyi	Ehux	SARHap	Haptista	Haptophyta	Prymnesiophyceae
+Chrysochromulina tobin	Chrtob	SARHap	Haptista	Haptophyta	Prymnesiophyceae
+Pavlovales sp. CCMP2436	Pavlsp	SARHap	Haptista	Haptophyta	Prymnesiophyceae
+Ectocarpus siliculosus	Esil	SARHap	Stramenopiles	Phaeophyceae	
+Cladosiphon okamuranus	Coka	SARHap	Stramenopiles	Phaeophyceae	
+Nannochloropsis gaditana	Ngad	SARHap	Stramenopiles	Eustigmatophyceae	
+Aureococcus anophagefferens	Aano	SARHap	Stramenopiles	Pelagophyceae	
+Phaeodactylum tricornutum	Phatri	SARHap	Stramenopiles	Diatomeae	
+Thalassiosira pseudonana	Tpse	SARHap	Stramenopiles	Diatomeae	
+Phytophthora infestans	Pinf	SARHap	Stramenopiles	Oomycota	
+Saprolegnia parasitica	Sappar	SARHap	Stramenopiles	Oomycota	
+Albugo laibachii	Alblai	SARHap	Stramenopiles	Oomycota	
+Hondaea fermentalgiana	Honfer	SARHap	Stramenopiles	Labyrinthulea	
+Aurantiochytrium limacinum	Aurlim	SARHap	Stramenopiles	Labyrinthulea	
+Schizochytrium aggregatum	Schagg	SARHap	Stramenopiles	Labyrinthulea	
+Aplanochytrium kerguelense	Aplker	SARHap	Stramenopiles	Labyrinthulea	
+Plasmodium falciparum	Pfal	SARHap	Alveolata	Apicomplexa	
+Toxoplasma gondii	Tgon	SARHap	Alveolata	Apicomplexa	
+Eimeria tenella	Eimten	SARHap	Alveolata	Apicomplexa	
+Vitrella brassicaformis	Vitbra	SARHap	Alveolata	Chromerida	
+Chromera velia	Cvel	SARHap	Alveolata	Chromerida	
+Perkinsus marinus	Perkma	SARHap	Alveolata	Perkinsozoa	
+Breviolum minutum	Bremin	SARHap	Alveolata	Dinoflagellata	
+Symbiodinium microadriaticum	Symmic	SARHap	Alveolata	Dinoflagellata	
+Paramecium tetraurelia	Ptet	SARHap	Alveolata	Ciliata	
+Oxytricha trifallax	Oxytri	SARHap	Alveolata	Ciliata	
+Tetrahymena thermophila	Tthe	SARHap	Alveolata	Ciliata	
+Reticulomyxa filosa	Retfil	SARHap	Rhizaria	Foraminifera	
+Bigelowiella natans	Bnat	SARHap	Rhizaria	Cercozoa	
+Plasmodiophora brassicae	Plabra	SARHap	Rhizaria	Cercozoa	
+Hemimastix kukwesjijk	Hemkuk	Hemimastigophora	Hemimastigophora		
+Spironema multiciliatum	Spimul	Hemimastigophora	Hemimastigophora		
+Meteora sp.	Meteor	Meteora	Meteora		
+Naegleria gruberi	Ngru	Discoba	Discoba	Heterolobosea	Tetramitia
+Pharyngomonas kirbyi	Phakir	Discoba	Discoba	Heterolobosea	Pharyngomonada
+Amoeba sp. BB2	Amobb2	Discoba	Discoba	Heterolobosea	
+Bodo saltans	Bodsal	Discoba	Discoba	Euglenozoa	Kinetoplastida
+Trypanosoma cruzi	Tcru	Discoba	Discoba	Euglenozoa	Kinetoplastida
+Leishmania major	Lmaj	Discoba	Discoba	Euglenozoa	Kinetoplastida
+Leptomonas seymouri	Lepsey	Discoba	Discoba	Euglenozoa	Kinetoplastida
+Strigomonas culicis	Strcul	Discoba	Discoba	Euglenozoa	Kinetoplastida
+Stygiella incarcerata	Styinc	Discoba	Discoba	Jakobida	Andalucina
+Andalucia godoyi	Andgod	Discoba	Discoba	Jakobida	Andalucina
+Reclinomonas americana	Recame	Discoba	Discoba	Jakobida	Histionina
+Seculamonas sp.	Secula	Discoba	Discoba	Jakobida	Histionina
+Jakoba bahamiensis	Jakbah	Discoba	Discoba	Jakobida	Histionina
+Jakoba libera	Jaklib	Discoba	Discoba	Jakobida	Histionina
+Trichomonas vaginalis	Tvag	Metamonada	Metamonada	Parabasalia	Trichomonadida
+Giardia lamblia	Glam	Metamonada	Metamonada	Fornicata	Diplomonadida
+Carpediemonas membranifera	Carmem	Metamonada	Metamonada	Fornicata	Carpediemonas-like
+Kipferlia bialata	Kipbia	Metamonada	Metamonada	Fornicata	Carpediemonas-like

@@ -1,0 +1,17 @@
+Bilateria|Apla_XP_022087098.1
+Bilateria|Dpul_EFX75805
+Bilateria|Linana_g9629.t1
+Bilateria|Lpol_XP_013794079.1
+Bilateria|Notgen_g21105.t1
+Bilateria|Spur_XP_030842939.1
+Cnidaria|Exapal_XP_020896532.1
+Cnidaria|Hydvul_Sc4wPfr_673.1.g28289.t1
+Cnidaria|Morvir_scaffold56.g36.t1
+Cnidaria|Spis_XP_022787477_1
+Ctenophora|Mlei_ML0101_g19_t1
+Placozoa|Tadh_P53567
+Porifera|Aque_Aqu2.1.24283_001
+Porifera|Lcom_lcpid36342
+Porifera|Ocar_g707.t1
+Porifera|Scil_scpid82954
+Porifera|Tetwil_Twilhelma_g22986.t1

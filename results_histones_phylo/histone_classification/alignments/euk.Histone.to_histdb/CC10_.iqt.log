@@ -1,0 +1,117 @@
+IQ-TREE multicore version 2.1.0 for Linux 64-bit built Jul 18 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    lapis (AVX2, FMA3, 15 GB RAM)
+Command: iqtree2 -s alignments/euk.Histone.to_histdb/CC10_.l.fasta -m LG+G4 -ntmax 8 -fast -pre alignments/euk.Histone.to_histdb/CC10_.iqt
+Seed:    895223 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Nov 16 18:14:46 2020
+Kernel:  AVX+FMA - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file alignments/euk.Histone.to_histdb/CC10_.l.fasta ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 44 sequences with 169 columns, 157 distinct patterns
+111 parsimony-informative, 31 singleton sites, 27 constant sites
+                                      Gap/Ambiguity  Composition  p-value
+   1  Spis_XP_022798972_1_310-423            32.54%    passed     96.00%
+   2  Adig_XP_015766894.1_288-403            31.36%    passed     73.47%
+   3  Exapal_XP_028514149.1_65-214           11.83%    passed     29.19%
+   4  Nvec_NVE3917_445-557                   33.14%    passed     76.09%
+   5  Apla_XP_022107282.1_462-578            30.77%    passed     98.44%
+   6  Linana_g9437.t1_440-552                33.14%    passed     88.36%
+   7  Phoaus_g6585.t1_484-585                39.64%    passed     72.93%
+   8  Notgen_g6439.t1_476-590                31.95%    passed     45.27%
+   9  Bralan_BL95789_evm0_498-614            30.77%    passed     88.32%
+  10  Spur_XP_011662281.2_444-562            29.59%    passed     86.16%
+  11  Ctel_CapteP158995_176-282              36.69%    passed     39.16%
+  12  Lpol_XP_022239208.1_122-232            34.32%    passed     39.52%
+  13  Cgig_EKC31215_300-412                  33.14%    passed     91.26%
+  14  Hsap_ENSP00000400140.2_446-561         31.36%    passed     48.05%
+  15  Drer_ENSDARP00000120776.1_796-912      30.77%    passed     67.28%
+  16  Umbram_259234_448-561                  32.54%    passed     90.48%
+  17  Morelo_OAQ31877_112-194                50.89%    passed     97.74%
+  18  Rirr_GBC49163_481-593                  33.14%    passed     44.97%
+  19  Nk52_evm52s224_416-517                 39.64%    passed     60.95%
+  20  Tmel_CAZ80884_394-513                  28.99%    passed     51.07%
+  21  Ncra_EAA35284_459-584                  25.44%    passed     47.59%
+  22  Tetwil_Twilhelma_g10011.t1_619-733     31.95%    passed     78.51%
+  23  Spom_SPBC800.13.1_pep_363-479          30.77%    passed     52.07%
+  24  Honfer_GBG25518_194-307                32.54%    passed     10.18%
+  25  Aurlim_41641_120-236                   31.36%    passed     23.59%
+  26  Plebac_Pbla_mRNA_507_432-544           33.14%    passed     98.62%
+  27  Pbla_XP_018298809.1_432-544            33.14%    passed     98.62%
+  28  Mcir_OAD04951_454-540                  48.52%    passed     25.28%
+  29  Malcal_MALCA_11097.mRNA.1_99-202       38.46%    passed     18.50%
+  30  Gefoke_MALSP_18247.mRNA.1_180-295      31.36%    passed     17.47%
+  31  Gefoke_MALSP_18247.mRNA.2_180-263      50.30%    passed     51.95%
+  32  Maljak_MALJA_07004.mRNA.1_162-246      49.70%    failed      0.02%
+  33  Maljak_MALJA_01865.mRNA.1_162-246      49.70%    failed      0.08%
+  34  Meteor_CRO19MET_NODE_6423.p3_196-307   33.73%    passed     36.83%
+  35  Cowc_KJE95813_307-419                  33.14%    passed     75.68%
+  36  Fabtro_Gene.44108_45-137               44.97%    passed     69.68%
+  37  Plamic_ANCSI_08315.mRNA.1_266-365      40.83%    passed     28.27%
+  38  Concor_KXN69315_797-913                30.77%    passed     32.74%
+  39  Aplker_103705_222-331                  35.50%    passed     40.48%
+  40  Andgod_ANDGO_03791.mRNA.1_359-474      31.36%    passed      6.97%
+  41  Styinc_Gene36119_m36119_246-350        37.87%    passed     98.49%
+  42  Cint_ENSCINP00000027920.2_80-176       42.60%    passed     26.49%
+  43  Falb_KCV73400_745-852                  36.09%    passed     32.41%
+  44  Ttra_KNC47674_304-424                  28.40%    passed     25.60%
+WARNING: 2 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                  34.95%  2 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Pbla_XP_018298809.1_432-544 is identical to Plebac_Pbla_mRNA_507_432-544 but kept for subsequent analysis
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.004 seconds
+
+NOTE: 4 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -8749.418
+2. Current log-likelihood: -8538.490
+3. Current log-likelihood: -8528.133
+Optimal log-likelihood: -8527.789
+Gamma shape alpha: 1.450
+Parameters optimization took 3 rounds (0.164 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.165742 sec (of wall-clock time) 0.165745 sec(of CPU time)
+Computing RapidNJ tree took 0.000127 sec (of wall-clock time) 0.000126 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -8475.165
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -8458.844
+Finish initializing candidate tree set (4)
+Current best tree score: -8458.844 / CPU time: 0.415
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -8458.844
+Optimal log-likelihood: -8458.844
+Gamma shape alpha: 1.447
+Parameters optimization took 1 rounds (0.030 sec)
+BEST SCORE FOUND : -8458.844
+Total tree length: 34.403
+
+Total number of iterations: 2
+CPU time used for tree search: 0.541 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.415 sec (0h:0m:0s)
+Total CPU time used: 1.056 sec (0h:0m:1s)
+Total wall-clock time used: 0.860 sec (0h:0m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                alignments/euk.Histone.to_histdb/CC10_.iqt.iqtree
+  Maximum-likelihood tree:       alignments/euk.Histone.to_histdb/CC10_.iqt.treefile
+  Likelihood distances:          alignments/euk.Histone.to_histdb/CC10_.iqt.mldist
+  Screen log file:               alignments/euk.Histone.to_histdb/CC10_.iqt.log
+
+Date and Time: Mon Nov 16 18:14:47 2020

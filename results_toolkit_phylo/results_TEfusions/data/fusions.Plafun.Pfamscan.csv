@@ -1,0 +1,473 @@
+# pfam_scan.pl,  run at Fri Dec 18 14:50:29 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Plafun.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Plafun_PRP73443   1107   1227   1106   1231 PF00078.28  RVT_1             Family     2   181   222     39.3   4.8e-10   1 CL0027   
+#HMM       pKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelq
+#MATCH     +Kk+ g+ R+ +     dy+ ln +++k           +++p ++++             l++ ++ak+++ lDlk+a++ v+ ++ ++ +taf+++                         +g++e+ ++p+G+ + P  f+  +n+ + ++         + YaD    +s++ e+l 
+#PP        7999.*****55.....***********.........***********.............9999*********************************.........................9***************************99998.......678887777777766665
+#SEQ       KKKD-GTLRLcV-----DYRRLNDVTVK---------STYPLPLIDEM-------------LDRIRSAKIFTALDLKDAYWLVRIKKGDEWKTAFRTR-------------------------YGLFEYLVMPFGLSNCPGNFQSKVNRTFADMLD-------IFYADLAAAFSDGTESLP
+#CS        E-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHH
+Plafun_PRP73443   1288   1447   1287   1447 PF00078.28  RVT_1             Family     2   222   222     86.5   1.9e-24   1 CL0027   
+#HMM       pKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     +Kk+ g+ R+ +     dy+ ln +++k           +++p ++++             l++ ++ak+++ lDlk+a++ v+ ++ ++ +taf+++                         +g++e+ ++p+G+ + P  f+  +n+ + ++      +++  Y DD+li+s s +e+ ++++ v +++ + +l++n +K+++      +++v++LG+++
+#PP        7999.*****55.....***********.........***********.............9999*********************************.........................9*******************************8....9*********************************************.....9*******986
+#SEQ       KKKD-GTLRLcV-----DYRRLNDVTVK---------STYPLPLIDEM-------------LDRIRSAKIFTALDLKDAYWLVRIKKGDEWKTAFRTR-------------------------YGLFEYLVMPFGLSNCPGNFQSKVNRTFADMLD----IFVQIYLDDFLIYSLSYTEHVTHVRQVLQRVIDEKLSVNLKKCTFH-----TTKVQFLGYKV
+#CS        E-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Plafun_PRP73443   1536   1640   1535   1640 PF17917.2   RT_RNaseH         Domain     2   105   105    118.2   1.8e-34   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqg.kk.ftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     p+ p++letDAs+ +i++vLsq ++dg  +p+ f+Srkl++ae ny+t++kellAi+++lk +rhy ++ +  f+++tDh+nlky++++ksln+r+ rw ++Ls++
+#PP        889*******************777777.**************************************997557******************************987
+#SEQ       PDLPIILETDASDFAISGVLSQVHSDGI-HPVGFLSRKLQPAELNYDTHDKELLAIIESLKGWRHYTMEtSTpFHILTDHNNLKYFMTSKSLNRRQVRWWQFLSDF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS.--.EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Plafun_PRP73443   1772   1830   1772   1831 PF17921.2   Integrase_H2C2    Domain     1    57    58     75.1   3.4e-21   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vpks+r +il   Hds  agH Gi+kt+++++r y+Wp+m++d+++yvksC++Cqr+k+
+#PP        8********************************************************98
+#SEQ       VPKSERTTILIVKHDSpiAGHYGIRKTKELVSRDYWWPKMTHDIESYVKSCDVCQRAKH
+Plafun_PRP73443   2141   2179   2124   2179 PF00385.25  Chromo            Domain    15    54    54     32.8   4.8e-08   1 CL0049   
+#HMM       gleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     + e++YlV+Wkg+ ++++ W p++nle+  ++l+++F+++
+#PP        4449***********************99.*******986
+#SEQ       EVEYKYLVRWKGYGPEHDLWIPADNLENS-PNLLQAFNQK
+#CS        EECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Plafun_PRP73443   2414   2541   2413   2542 PF07690.17  MFS_1             Family     2   125   353     36.1   3.4e-09   1 CL0015   
+#HMM       llaaflsalarsilgpalplalaedlg....ispseigllltlyalgaavaslplGrlsdrfGrrrvlllglllfalglllllfa.sslwlllvlrvlqGlgagalfpagaaliadwfpkeergraigl
+#MATCH     + ++f+ ++a+++ gp + +al + ++    +++++ g l+++y+++++++ ++++++s+r+Gr+ v+++++l+  l + ++++   ++++l+v+ vl+G +  ++f+++ a+++d++++++r++++++
+#PP        7789999999999999999888888885666666667779999**********************************94444464567889***********7.9*********************997
+#SEQ       FPTVFFFSAAFNLSGPCVYWALHDLYNgneaLAGQTNGALTGVYTAFTLIGGPIWAVISNRIGRKIVIVISILSAMLDCGIFIWKdVPVPVLYVSKVLCGSTF-SFFTVASAYVSDVSTPSNRAFGFSM
+Plafun_PRP73675      1     77      1     80 PF17917.2   RT_RNaseH         Domain    20    95   105     81.7   4.2e-23   1 CL0219   
+#HMM       vLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqg.kk.ftvitDhknlkyllskkslngrl
+#MATCH     vLsqr++dg  +p+ f+Srk+++ae ny+t++kellAi+++lk +rhy ++ +  f++itDh+nlk+++++ksln+r+
+#PP        89**999988.**************************************997557******************99998
+#SEQ       VLSQRHKDGV-HPVGFMSRKMQPAELNYDTHDKELLAIIESLKGWRHYTMEtSTpFEIITDHNNLKHFMTSKSLNRRQ
+#CS        EEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS.--.EEEE-SS--TTTTT----.---H
+Plafun_PRP73675    239    297    239    298 PF17921.2   Integrase_H2C2    Domain     1    57    58     76.9   8.9e-22   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++lr  i+ + Hds  agH+G +kt++++rr y+Wp+m++++++yvksC+tCqr+k+
+#PP        8********************************************************98
+#SEQ       VPEKLRLIIMMMKHDSplAGHFGSHKTKELVRRDYWWPKMYHTIESYVKSCDTCQRAKH
+Plafun_PRP73675    432    490    432    491 PF17921.2   Integrase_H2C2    Domain     1    57    58     75.6   2.3e-21   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++lr  i+ + Hds  agH+G +kt++++rr y+Wp+m++++++yvksC+tCqr+k+
+#PP        8********************************************************98
+#SEQ       VPEKLRLIIMMMKHDSplAGHFGSHKTKELVRRDYWWPKMHHTIESYVKSCDTCQRAKH
+Plafun_PRP73675    637    695    637    696 PF17921.2   Integrase_H2C2    Domain     1    57    58     76.9   8.9e-22   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++lr  i+ + Hds  agH+G +kt++++rr y+Wp+m++++++yvksC+tCqr+k+
+#PP        8********************************************************98
+#SEQ       VPEKLRLIIMMMKHDSplAGHFGSHKTKELVRRDYWWPKMYHTIESYVKSCDTCQRAKH
+Plafun_PRP73675    718    809    681    809 PF00665.27  rve               Domain     9   102   102     37.2   2.8e-09   1 CL0219   
+#HMM       qvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     ++D++ +++p  +g+  + vv+d f+++ + + +++ ++++ ++ l    v + +g  pe+++sD+g+++t++ +++f +++g+++s++ +++p
+#PP        67777.45579999***********************76666666655555555555.**********************************98
+#SEQ       TIDFM-VELPECQGFNAIMVVVDRFTKMSHFIPCKNTITSEEAAWLYIDRVFRLHGI-PEKIVSDRGTQFTAEFWTSFWKQMGTKHSMSTAYHP
+Plafun_PRP73675    851    897    848    898 PF17921.2   Integrase_H2C2    Domain    13    57    58     68.3   4.3e-19   1 CL0361   
+#HMM       lHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH      Hds  agH+G +kt++++rr y+Wp+m++++++yvksC+tCqr+k+
+#PP        6********************************************98
+#SEQ       SHDSplAGHFGSHKTKELVRRDYWWPKMYHTIESYVKSCDTCQRAKH
+Plafun_PRP73675    920   1011    883   1011 PF00665.27  rve               Domain     9   102   102     37.2   2.8e-09   1 CL0219   
+#HMM       qvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     ++D++ +++p  +g+  + vv+d f+++ + + +++ ++++ ++ l    v + +g  pe+++sD+g+++t++ +++f +++g+++s++ +++p
+#PP        67777.45579999***********************76666666655555555555.**********************************98
+#SEQ       TIDFM-VELPECQGFNAIMVVVDRFTKMSHFIPCKNTITSEEAAWLYIDRVFRLHGI-PEKIVSDRGTQFTAEFWTSFWKQMGTKHSMSTAYHP
+Plafun_PRP73675   1212   1262   1212   1262 PF00385.25  Chromo            Domain     1    54    54     44.6   9.8e-12   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     yeVe I+d+r++ ++   +YlV Wkg+ ++en W pe+nl++  ++l+  Fk r
+#PP        89**************..***********************99.*******976
+#SEQ       YEVEAILDVRKRYGKT--QYLVSWKGYGPEENLWLPEDNLSNS-PDLVADFKAR
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Plafun_PRP73716      4     85      1     85 PF00665.27  rve               Domain    20   102   102     32.8   6.7e-08   1 CL0219   
+#HMM       gggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH      +g+  + vv+d f+++ + + +++ ++ + ++ l    v   +g  pe+++sD+g+++t++ +++f +++g+++s++ +++p
+#PP        56778899******************98888888877777777777.**********************************98
+#SEQ       CQGFNAIMVVVDRFTKMSHFIPCKNTITGEEAAWLYIDRVFLLHGI-PEKIVSDRGTQFTAEFWTSFWKQMGTKHSMSTAYHP
+Plafun_PRP73716    286    336    286    336 PF00385.25  Chromo            Domain     1    54    54     44.3   1.3e-11   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     yeVe I+d +++ ++   +YlV W+g+ ++en W pe+nl++  ++l+  Fk r
+#PP        89**************..***********************99.*******976
+#SEQ       YEVEAILDAQKRYGKT--QYLVSWRGYGPEENLWLPEDNLSNS-PDLVADFKAR
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Plafun_PRP73885    434    489    434    522 PF13650.7   Asp_protease_2    Domain     1    58    90     24.6   3.2e-05   1 CL0129   
+#HMM       vpvtinGkpvrflvDTGasttlispelaeklglkvresklpvlvsgaggevtadlvrl
+#MATCH     vp+ +n+ ++r+l+D+Ga++++i++++ae+++++ +++  p++v++ag  +  d++ l
+#PP        7899******************************9998..699999988877777655
+#SEQ       VPILVNNIRFRALLDSGADGSYINRKTAEAHNISWTPT--PGRVTLAGEGQAMDRYGL
+Plafun_PRP73885    656    813    656    814 PF00078.28  RVT_1             Family     1   221   222     68.4   6.3e-19   1 CL0027   
+#HMM       ipKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvt
+#MATCH     +pK++ g +R+ i     d + +n + ++         +++++p   +              l+++k+a+++++lD+ +a++s p +e ++ +taf+ +                         ++ y+  + p+G++  P  f+++m+ ++r  +      +++ Y+DDi+++s + +++ e++ ++ + l  +g+++n +K+k++l     +++++LG++
+#PP        68999.9999977.....99999999999.........99999999998.............999**********************************.........................99***************************999......7********************************************5.....*******97
+#SEQ       VPKPD-GRVRVcI-----DPRPINMVSQD---------DKYPLPDANEL-------------LRRMKGACIFSTLDCTDAYHSLPIAEKDQHKTAFTWN-------------------------GKMYVFVRAPFGFKQIPGKFQRVMHIIFRNTH------FVIIYMDDITVYSFNLKHHPEHVCHTINLLTANGFRLNIAKCKWAL-----TRITFLGHI
+#CS        EE-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEE
+Plafun_PRP73885    963   1060    963   1061 PF17919.2   RT_RNaseH_2       Domain     1    99   100     86.6     9e-25   1 CL0219   
+#HMM       WteeqekafeklkealtsapvLalpdpdkpfiletDaSdtgiGavLsqedddgkerpiafaSrklskaernysttekellAivfalkkfrhyllgrkft
+#MATCH     Wt+e+++ ++++   l s ++L++ d++ pf   +DaS tgiG++++q  d++  r+i f Sr+l++aernys+t++ellA+++ + k r+y++  +f+
+#PP        ***************************************************65.6****************************************9996
+#SEQ       WTTEHDEDYNRILAILRSGTMLHHADFNYPFFGASDASGTGIGGCIYQIIDGT-TRYILFCSRSLTPAERNYSATKRELLALIYVICKGRNYFYEAHFE
+Plafun_PRP73885   1134   1222   1133   1225 PF17917.2   RT_RNaseH         Domain    10    99   105     80.2   1.2e-22   1 CL0219   
+#HMM       tDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwa
+#MATCH      DAs +gig++++q   dg+ r+i f Sr+l++aernys++++ellA+++ ++k r+y +g++f+ +tDh++l+y++s+ +l++ +  w 
+#PP        6*************.9999**********************************************************9999899999996
+#SEQ       SDASGTGIGGCIYQ-IIDGTTRYILFCSRSLTPAERNYSATKRELLALIYVIRKGRNYFYGAHFEFYTDHAALTYIHSQPKLHPMVIAWF
+#CS        EEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHH
+Plafun_PRP73885   1244   1297   1242   1299 PF17921.2   Integrase_H2C2    Domain     3    56    58     31.1   1.9e-07   1 CL0361   
+#HMM       kslrkeilkelHdsagHlGiektlarlrrr.yyWpgmrkdvkkyvksCetCqrrk
+#MATCH     k+ + ++l+e H   gH+G++++++ +r   y Wp+++++  ++v+sC  Cq+ +
+#PP        66788999999996.*************86377*******************987
+#SEQ       KDDQLKMLEEKHLL-GHFGATAMINAVRAAgYNWPQITEQATEIVRSCAKCQQFN
+Plafun_PRP73885   1313   1408   1311   1409 PF00665.27  rve               Domain     3   101   102     38.3   1.3e-09   1 CL0219   
+#HMM       apgelwqvDvt.viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgr
+#MATCH      pg+++ +D    ++  d+g   yl++++d ++r+++   + d++sa+tv++l++  +  fg   p++++sDng+e+++  ++ + +  g+++++  p++
+#PP        69999999999888866666.***********************89999998888.5555555..9********************************98
+#SEQ       MPGDHLAIDLAgPLPTTDRG-NNYLFIAVDICTRFCFLRPMVDKTSATTVTHLID-YCTIFGF--PRILQSDNGTEFVNGLMTLLKETAGFDHRLITPYH
+Plafun_PRP73885   1593   1642   1593   1642 PF00385.25  Chromo            Domain     1    54    54     41.4   9.9e-11   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     y++erIi hr    +   eYlVKWkg+  ++ntWEp +  ++     id+++ r
+#PP        79*************9..******************9999977..559999876
+#SEQ       YVIERIIQHRGTAPNY--EYLVKWKGYTAKYNTWEPTDSFDST--VSIDAYWTR
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Plafun_PRP74586     72    231     71    231 PF00078.28  RVT_1             Family     2   222   222     82.7   2.6e-23   1 CL0027   
+#HMM       pKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     +Kk+ g+ R+ +     dy+ ln +++k           +++p ++++             l+  ++ak+++ lDlk+a++ v+ ++  + +taf+++                         +g++e+ ++p+G+ + P  f+  +n+ + ++      +++  Y DD+li+s s +e+ ++++ v +++ + +l++n +K+++      +++v++LG+++
+#PP        7999.*****55.....***********.........***********.............7889*********************************.........................9*******************************8....9*********************************************.....9*******986
+#SEQ       KKKD-GTLRLcV-----DYRRLNDVTVK---------STYPLPLIDEM-------------LDWIRSAKIFTALDLKDAYWLVRIKKGNEWKTAFRTR-------------------------YGLFEYLVMPFGLSNCPGNFQSKVNRTFADMLD----IFVQIYLDDFLIYSLSYTEHVTHVRQVLQRVIDEKLSVNLKKCTFH-----TTKVQFLGYEV
+#CS        E-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Plafun_PRP74586    320    424    319    424 PF17917.2   RT_RNaseH         Domain     2   105   105    112.5   1.1e-32   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqg.kk.ftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     p+ p++letDAs  +i++vLsq ++dg  +p+ f+Srkl++ae ny+t++kellAi+++lk +rhy ++ +  f+++tDh+nlky++++ksln+ + +w ++Ls++
+#PP        889*******************777777.**************************************997557******************************987
+#SEQ       PDLPIILETDASYFAISGVLSQVHSDGI-HPVGFLSRKLQPAELNYDTHDKELLAIIESLKGWRHYTMEtSTpFHILTDHNNLKYFMTSKSLNRHQVQWWQFLSDF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS.--.EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Plafun_PRP74586    558    638    546    638 PF17917.2   RT_RNaseH         Domain    27   105   105     87.0   9.3e-25   1 CL0219   
+#HMM       dgeerpiafaSrklsgaernystiekellAivwalkkfrhylqg.kk.ftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     ++  +p+ f+Srkl++ae ny+t++kellAi+++lk +rhy ++ +  f+++tDh+nlky++++ksln+ + rw ++Ls++
+#PP        34459*************************************997557******************************997
+#SEQ       NDGIHPVGFLSRKLQPAELNYDTHDKELLAIIESLKGWRHYTMEtSTpFHILTDHNNLKYFMTSKSLNRHQVRWWQFLSNF
+#CS        E..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS.--.EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Plafun_PRP74586    770    828    770    829 PF17921.2   Integrase_H2C2    Domain     1    57    58     76.3   1.5e-21   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vpks+r +il   Hds  agH Gi+kt+++++r y+Wp+m++d+++yvksC++Cqr+k+
+#PP        8********************************************************98
+#SEQ       VPKSERTTILIVKHDSpiAGHYGIRKTKELVSRDYWWPKMTHDIESYVKSCDVCQRAKH
+Plafun_PRP74586   1142   1192   1142   1192 PF00385.25  Chromo            Domain     1    54    54     41.0   1.3e-10   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     yeVe I+d rt   ++  +YlV+Wkg+ ++++ W p++nle+  ++++++F+++
+#PP        89**************..***********************99.*******986
+#SEQ       YEVETILDARTCYCQK--QYLVRWKGYGPEHDLWIPADNLENS-PDQLQAFNQK
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Plafun_PRP74592   2158   2300   2157   2302 PF00078.28  RVT_1             Family     2   199   222     64.4     1e-17   1 CL0027   
+#HMM       pKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleavee.wlkesglkin
+#MATCH     +Kk+ g+ R+ +     dy+ ln +++k           +++p ++++             l++ ++ k+++ lDlk+a++ v+ ++ ++ +taf+++                         +g++e+ ++p+G+ + P  f+  +n+ + ++      v++  Y DD+li+s+s+ee+ ++++ v + ++k  g+++ 
+#PP        7999.*****55.....***********.........***********.............8999*********************************.........................9*******************************8....9***************999777776655505555777765
+#SEQ       KKKD-GTLRLcV-----DYRRLNDMTVK---------STYPLPLIDEM-------------LDRIRTGKIFTALDLKNAYWLVRIKKGDEWKTAFRTR-------------------------YGLFEYLVMPFGLSNCPGNFQAKVNSTFSDMID----VFVQIYLDDFLIYSQSREEHVQHVRRVLKrKVKFLGYEVT
+#CS        E-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHH.HHHHTT--BE
+Plafun_PRP74592   2377   2482   2377   2482 PF17917.2   RT_RNaseH         Domain     1   105   105    115.1   1.6e-33   1 CL0219   
+#HMM       dpskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqg.kk.ftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     dps p++letDAs+ +i++v sqr++d + +p+ f+Srk+++ae ny+t++kellAi+++lk +rhy ++ +  f++itDh+nlky++++ksln+r+ rw ++Ls++
+#PP        899********************5555.66**************************************997557******************************987
+#SEQ       DPSLPIVLETDASDFAISGVPSQRHKD-NLHPVGFMSRKMQPAELNYDTHDKELLAIIESLKGWRHYTMEtSTpFEIITDHNNLKYFMTSKSLNRRQVRWWQFLSDF
+#CS        -TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS.--.EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Plafun_PRP74592   2614   2672   2614   2673 PF17921.2   Integrase_H2C2    Domain     1    57    58     75.5   2.6e-21   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++lr  i+ + Hds  agH+G +kt++++rr y+Wp+m++++++yvksC+tCqr+k+
+#PP        8********************************************************98
+#SEQ       VPEKLRLIIMMMKHDSplAGHFGSHKTKELVRRDYWWPKMYHTIESYVKSCDTCQRAKH
+Plafun_PRP74592   2695   2786   2687   2786 PF00665.27  rve               Domain     9   102   102     35.6     9e-09   1 CL0219   
+#HMM       qvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     ++D++ +++p  +g+  + vv+d f+++ + + +++ ++++ ++ l    v + +g  pe+++sD+g+++t++ +++f +++g+++s++ +++p
+#PP        67777.45579999***********************76666666655555555555.**********************************98
+#SEQ       TIDFM-VELPECQGFNAIMVVVDRFTKMSHFIPCKNTITSEEAAWLYIDRVFRLHGI-PEKIVSDRGTQFTAEFWTSFWKQMGTKHSMSTAYHP
+Plafun_PRP74592   2869   2895   2864   2896 PF17921.2   Integrase_H2C2    Domain    31    57    58     37.2   2.4e-09   1 CL0361   
+#HMM       rryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     r y+Wp+m++++++yvksC+tCqr+k+
+#PP        78***********************98
+#SEQ       RDYWWPKMYHTIESYVKSCDTCQRAKH
+Plafun_PRP74592   2918   3009   2910   3009 PF00665.27  rve               Domain     9   102   102     39.2   6.9e-10   1 CL0219   
+#HMM       qvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     ++D++ +++p  +g+  + vv+d f+++ + + +++ ++++ +++l    v + +g  pe+++sD+g+++t++ +++f +++g+++s++ +++p
+#PP        67777.45579999***********************87777777766666666666.**********************************98
+#SEQ       TIDFM-VELPECQGFNAIMVVVDRFTKMSHFIPCKNTITSEEAACLYIDRVFRLHGI-PEKIVSDRGTQFTAEFWTSFWKQMGTKHSMSTAYHP
+Plafun_PRP74592   3199   3249   3199   3249 PF00385.25  Chromo            Domain     1    54    54     43.2   2.8e-11   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     yeVe I+d+r++ ++   +YlV Wkg+ ++en W pe+nl++  ++l+  Fk r
+#PP        89**************..***********************99.*******976
+#SEQ       YEVEAILDVRKRYGKT--QYLVSWKGYGPEENLWLPEDNLSNS-PDLVADFKAR
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Plafun_PRP74940     77    125     73    126 PF17921.2   Integrase_H2C2    Domain    11    57    58     70.6   8.3e-20   1 CL0361   
+#HMM       kelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     +  Hds  agH+G +kt++++rr y+Wp+m++++++yvksC+tCqr+k+
+#PP        678********************************************98
+#SEQ       QTEHDSplAGHFGSHKTKELVRRDYWWPKMYHTIESYVKSCDTCQRAKH
+Plafun_PRP74940    147    239    140    239 PF00665.27  rve               Domain     8   102   102     37.6   2.1e-09   1 CL0219   
+#HMM       wqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     +++D++ +++p  +g+  + vv+d f+++ + + +++ ++++ ++ l    v + +g  pe+++sD+g+++t++ ++ f +++g+++s++ +++p
+#PP        467777.45579999***********************76666666655555555555.**********************************98
+#SEQ       VTIDFM-VELPECQGFNAIMVVVDRFTKMSHFIPCKNTITSEEAAWLYIDRVFRLHGI-PEKIVSDRGTQFTAEFWTLFWKQMGTKHSMSTAYHP
+Plafun_PRP74940    525    574    524    574 PF00385.25  Chromo            Domain     2    54    54     44.1   1.4e-11   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     eVe I+d+r++ ++   +YlV Wkg+ ++en W pe+nl++  ++l+  Fk r
+#PP        8**************..***********************99.*******976
+#SEQ       EVEAILDVRKRYGKT--QYLVSWKGYGPEENLWLPEDNLSNS-PDLVADFKAR
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Plafun_PRP76895    156    315    155    315 PF00078.28  RVT_1             Family     2   222   222    101.8   3.7e-29   1 CL0027   
+#HMM       pKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     +Kk+ gs R+ +     dy+ +n +++k           +++p + ++             l++ ++ak+++klDlk+a+++v+ ++ ++ +taf+++                         +g+ye+  +p+G+ ++P++f+  +n+ + ++      vt+l Y DD+li+s+++e++ e ++ v ++l + gl+ n +K+ +      ++ev++LG+++
+#PP        79**.*****55.....***********.........99*********.............99***********************************.........................9*******************************8....9*********************************************.....9*******986
+#SEQ       RKKD-GSLRLcV-----DYRRINDITVK---------NVYPLPLISQM-------------LDRLGRAKIFTKLDLKDAYWHVRIAAGDEWKTAFRTQ-------------------------YGLYEYLIMPFGLSNAPSTFQAHVNNCFTDMID----VTVLIYLDDFLIFSETEEQHVEDVQRVLQRLIDKGLHCNLKKCDFH-----RDEVDFLGYKV
+#CS        E-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Plafun_PRP76895    404    507    403    507 PF17917.2   RT_RNaseH         Domain     2   105   105    114.0   3.7e-33   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkk.ftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH      + p+qletDAs+ +ig+v++q   +g  +p+af Srkl+gae ny++++kellA+v+++k +rh+l+g++ +tv+tDh+nl+y+ ++k ln+r+ rw++ L+++
+#PP        57799*****************888888.****************************************666******************************987
+#SEQ       ERYPVQLETDASDFAIGGVIQQPFPEGV-QPLAFWSRKLTGAELNYDVHDKELLAVVECCKAWRHWLMGPSdTTVFTDHRNLEYFRTTKILNRRQVRWSQLLADF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--.EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Plafun_PRP76895    625    683    625    684 PF17921.2   Integrase_H2C2    Domain     1    57    58     65.0   4.6e-18   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     +p  lr  +l++ Hd   agH G++kt++++ r y+Wp+ +kdv++y+ sC tC r+k 
+#PP        68899****************************************************96
+#SEQ       IPVPLRASVLHHRHDLptAGHVGRKKTYELVTRDYWWPTVSKDVNRYIESCATCHRTKV
+Plafun_PRP76895    705    797    698    797 PF00665.27  rve               Domain     8   102   102     34.2   2.4e-08   1 CL0219   
+#HMM       wqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     +++D+ v+  p+ +g+  +l+v+d f+++++ + + + ++a+ +++l  r + + +g  p+ +++D+g++++s  + +fl+  g ++s++ +++p
+#PP        689999888.99999**********************************999999999.*********************************998
+#SEQ       VTMDFIVGL-PRSEGFDTILTVVDRFTKMAHFIPTVNTITAQGTAKLYIREIFRHHGI-PKQIITDRGPQFASIFWNSFLSGIGSKPSLSTAYHP
+Plafun_PRP76895   1002   1053   1002   1053 PF00385.25  Chromo            Domain     1    54    54     33.8   2.4e-08   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     yeV r++d+r+ +++l  +Y  +Wk+ +  e+ WE+++  ++++ +lide++++
+#PP        89**************..**********************************86
+#SEQ       YEVSRVLDSRMHRNKL--QYRLRWKNRSTAEDVWEDAAKAKQMAGDLIDEYHRK
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Plafun_PRP78085    418    523    418    523 PF17917.2   RT_RNaseH         Domain     1   105   105    116.0   8.7e-34   1 CL0219   
+#HMM       dpskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqg.kk.ftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     dps p++letDAs+ +i++vLsqr++dg  +p+ f+Srk+++ae ny+t++kellAi+++lk ++hy ++ +  f++itDh+nlky++++ksln+ + rw ++Ls++
+#PP        899********************888877.**************************************997557******************************987
+#SEQ       DPSLPIVLETDASDFAISGVLSQRHKDGL-HPVGFMSRKMQPAELNYDTHDKELLAIIESLKGWQHYTMEtSTpFEIITDHNNLKYFMTSKSLNRCQVRWWQFLSDF
+#CS        -TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS.--.EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Plafun_PRP78085    653    679    648    680 PF17921.2   Integrase_H2C2    Domain    31    57    58     38.6   8.5e-10   1 CL0361   
+#HMM       rryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     r y+Wp+m++++++yvksC+tCqr+k+
+#PP        78***********************98
+#SEQ       RDYWWPKMYHTIESYVKSCDTCQRAKH
+Plafun_PRP78085    702    793    664    793 PF00665.27  rve               Domain     9   102   102     37.3   2.7e-09   1 CL0219   
+#HMM       qvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     ++D++ +++p  +g+  + vv+d f+++ + + +++ ++++ ++ l    v + +g  pe+++sD+g+++t++ +++f +++g+++s++ +++p
+#PP        67777.45579999***********************76666666655555555555.**********************************98
+#SEQ       TIDFM-VELPECQGFNAIMVVVDRFTKMSHFIPCKNTITSEEAAWLYIDRVFRLHGI-PEKIVSDRGTQFTAEFWTSFWKQMGTKHSMSTAYHP
+Plafun_PRP78085   1177   1227   1177   1227 PF00385.25  Chromo            Domain     1    54    54     42.0   6.5e-11   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     yeV  I+d+r++ ++   +YlV Wkg+ ++en W pe+nl++  ++l+  Fk r
+#PP        89**************..***********************99.*******976
+#SEQ       YEVKAILDVRKRYGKT--QYLVSWKGYGPEENLWLPEDNLSNS-PDLVADFKAR
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Plafun_PRP81976    361    404    361    405 PF00628.30  PHD               Domain     1    50    52     29.3   6.1e-07   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     +C+vCk+     ++l++Cd C+  +H +Cl ppl+  ++p+g w C+ C 
+#PP        5******....9**********************9..99**********5
+#SEQ       VCEVCKG----YGQLLLCDCCSAPYHLDCLVPPLK--DIPQGVWNCPLCV
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Plafun_PRP81976    418    468    418    469 PF00385.25  Chromo            Domain     2    53    54     29.4   5.5e-07   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     e++rI+ +r+++d+  +eY+VKW+  +y ++ W pe  + +++  ++++F++
+#PP        69*************.*******************99999999999999985
+#SEQ       EIDRILTSRKREDES-YEYYVKWSLRSYRDCVWLPELVVRNMAAAKLRNFQR
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Plafun_PRP81976    489    522    487    538 PF00385.25  Chromo            Domain     3    38    54     32.7   5.2e-08   1 CL0049   
+#HMM       VerIidhrtdkdgleleYlVKWkglpysentWEpee
+#MATCH     ++rI++h+ + +     YlVKW++ +y ++tWE+  
+#PP        79************..*****************865
+#SEQ       PDRIVNHKRVGSLM--RYLVKWCDQNYQYCTWEESH
+#CS        EEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGG
+Plafun_PRP81976    584    850    541    851 PF00176.24  SNF2_N            Family    51   349   350    204.1   2.5e-60   1 CL0023   
+#HMM       akqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk....mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdv.eknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH      +++ +  iLaDemGLGKTvq+++++  +            ++ ++gp+L+v+P s++++We+e++++ + +++ v+ +++q +    +++  +k  +k   ++dv+it+Y++++++a       vl   +wk +v+DE+h+lkn++sk+ +++++++ +++++ltGTPiqn++++l+  l+f+ ++ f ++  fd  +q + e    +++ r+++ll++++lrr k+dv ek +Ppkte i+ + l++ ++k+Y            a l+k+ e+    +s     +l+ ++elr+++nhp l
+#PP        45566788*******************.333..........455679*************************99888877776676652222333445667789***********999......9***************************************************************************9999....**********************7777**********************...........445555555555556.....9*************987
+#SEQ       SHSQRKDVILADEMGLGKTVQTVTFLN-CLF----------HESIRGPFLVVAPLSTMRHWEREFNQWGPTMNTVVYQGSQQARtviqENEFYQKKRNKKYVKFDVMITSYEMINSDA------AVLGVFDWKVLVVDEAHRLKNHESKLFTTLNTFRFDHKVLLTGTPIQNNMSELFHVLNFVDPQTFHSQAEFDAKFQMDRE----ENIGRIHKLLAPYLLRRLKSDVmEKLIPPKTELIVPVGLTSIQKKYYR-----------AILTKNYEILRRGQS-----LLNVMMELRKCVNHPFL
+#CS        HHHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH....HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCC.TSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Plafun_PRP81976    874    987    873    987 PF00271.32  Helicase_C        Family     2   111   111     68.8   4.6e-19   1 CL0023   
+#HMM       kleallell.kleeeggkilifvntidrlek.vklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     k+e + ++l kl++ g+++lif++ +++l+   +++ + +g k+++++ge +++er++ +++fn   +  + ++++t+++++Gi++  +++V+++d ++n+++  q+  R++R g
+#PP        6677778888999****************8755555.6669**********************9653344669****************************************86
+#SEQ       KMEVMDRMLdKLKRGGHRVLIFTQMTRMLDIlEDYM-NLRGHKCLRIDGEVSSSERQQRIDEFNrenSPVFAFILSTRAGGQGINLHTADTVFIYDSDWNPHNDLQALSRAHRLG
+#CS        HHHHHHHHH.HHHTTTSEEEEEESSHHHHHH.HHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Plafun_PRP81976   1103   1143   1090   1147 PF06465.14  DUF1087           Domain    20    62    65     33.2   4.1e-08   1 No_clan  
+#HMM       esedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsve
+#MATCH     es + ++WekLL+++Y +    e+++ GKGKR R +v   s +
+#PP        67889*****************************999..5555
+#SEQ       ESVEENFWEKLLRERYLESTSRESEEFGKGKRKRTSV--GSKN
+Plafun_PRP81976   1354   1442   1351   1478 PF08074.12  CHDCT2            Domain     4    86   126     36.7   4.3e-09   1 No_clan  
+#HMM       iWhrrhDyWllagvvlhGyarwqDilndprfsi...inepfkeesek..gnfleikn.kflarrfklleqalvieeqlrraaklnlqee
+#MATCH      W +  D+ ll gv +hGy+rw  i++dp + +   ++e + + +++  ++ +e+++ kf++rr+ lle ++ +e ++r + +l + + 
+#PP        599***************************9864445565554433321448898744******************9998876655433
+#SEQ       YWGKTQDHNLLRGVSIHGYGRWGAIQQDPDLELekpLEEEMASWEKSnsKTVTELQTiKFIKRRLMLLENCMNVEYNYRETVELVRISM
+Plafun_PRP82664     31    126     29    127 PF00665.27  rve               Domain     3   101   102     43.6   2.8e-11   1 CL0219   
+#HMM       apgelwqvDvt.viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgr
+#MATCH      pg+++ +D    ++  d+g   yl++++d ++r+++ + + d++sa+tv++l++  +  fg   p++++sDng+e++++ ++ + +  g+++++  p++
+#PP        69999999999888866666.***********************89999998888.5555555..9********************************98
+#SEQ       MPGDHLAIDLAgPLPTTDRG-NNYLFIAVDICTRFCFLHPMIDKTSATTVTHLID-YCTIFGF--PRILQSDNGTEFVNELMKLLKETAGFDHRLITPYH
+Plafun_PRP82664    311    360    311    360 PF00385.25  Chromo            Domain     1    54    54     36.0     5e-09   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     y++erIi hr    +   eYlVKWkg+  ++nt Ep +  ++     id+++ r
+#PP        79*************9..*******************999988..559**9986
+#SEQ       YVIERIIQHRGTAPNY--EYLVKWKGYTAKYNTLEPTDSFDST--ASIDAYWTR
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Plafun_PRP82696      2     96      1     97 PF00665.27  rve               Domain     4   101   102     42.6   5.9e-11   1 CL0219   
+#HMM       pgelwqvDvt.viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgr
+#MATCH     pg+++ +D    ++  d+g   yl++++d ++r+++   + d++sa+tv++l++  +  fg   p++++sDng+e++++ ++ + +  g+++++  p++
+#PP        8899999999888866666.***********************89999998888.5555555..9********************************98
+#SEQ       PGDHLAIDLAgPLPTTDRG-NNYLFIAVDICTRFCFLRPMIDKTSATTVTHLID-YCTIFGF--PRILQSDNGTEFVNELMKLLKETAGFDHRLITPYH
+Plafun_PRP82696    281    330    281    330 PF00385.25  Chromo            Domain     1    54    54     47.7   1.1e-12   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     y++erIi hr   ++   eYlVKWkg+  ++ntWEp +  ++     id+++ r
+#PP        79**************..*******************999988..55***9986
+#SEQ       YVIERIIQHRGTASNY--EYLVKWKGYTAKYNTWEPTDSFDST--ASIDAYWTR
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Plafun_PRP82731    579    738    578    738 PF00078.28  RVT_1             Family     2   222   222     92.5   2.6e-26   1 CL0027   
+#HMM       pKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     +Kk+ g+ R+ +     dy+ ln +++k           +++p ++++             l++ ++ k+++ lDlk+a++ v+ ++ ++ +taf+++                         +g++e+ ++p+G+ + P  f+  +n+ + ++      v++  Y DD+li+s+s+ee+ ++++ v +++ +++l++n +K+++      s++vk+LG+++
+#PP        7999.*****55.....***********.........***********.............8999*********************************.........................9*******************************8....9*********************************************.....9*******986
+#SEQ       KKKD-GTLRLcV-----DYRRLNDVTVK---------STYPLPLIDEM-------------LDRIRTGKIFTALDLKNAYWLVRIKKGDEWKTAFRTR-------------------------YGLFEYLVMPFGLSNCPGNFQAKVNSTFSDMID----VFVQIYLDDFLIYSQSREEHVQHVRRVLKRVIDHKLSVNLKKCEFH-----SQRVKFLGYEV
+#CS        E-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Plafun_PRP82731    792    876    763    876 PF00078.28  RVT_1             Family   129   222   222     54.4   1.2e-14   1 CL0027   
+#HMM       kkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH      + +p+G+ + P  f+  +n+ + ++      v++  Y DD+li+s+s+ee+ ++++ v +++ +++l++n +K+++      s++vk+LG+++
+#PP        5679***********************8....9*********************************************.....9*******986
+#SEQ       MTLMPFGLSNCPGNFQAKVNSTFSDMID----VFVQIYLDDFLIYSQSHEEHVQHVRRVLKRVIDHKLSVNLKKCEFH-----SQRVKFLGYEV
+#CS        ESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Plafun_PRP82731    964   1069    964   1069 PF17917.2   RT_RNaseH         Domain     1   105   105    118.6   1.3e-34   1 CL0219   
+#HMM       dpskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqg.kk.ftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     dps p++letDAs+ +i++vLsqr++dg  +p+ f+Srk+++ae ny+t++kellAi+++lk +rhy ++ +  f++i Dh+nlky++++ksln+r+ rw ++Ls++
+#PP        899********************999988.**************************************997557******************************987
+#SEQ       DPSLPIVLETDASDFAISGVLSQRHKDGV-HPVGFMSRKMQPAELNYDTHDKELLAIIESLKGWRHYTMEtSTpFEIIADHNNLKYFMTSKSLNRRQVRWWQFLSDF
+#CS        -TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS.--.EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Plafun_PRP82731   1155   1242   1154   1242 PF17917.2   RT_RNaseH         Domain    19   105   105     97.1   6.6e-28   1 CL0219   
+#HMM       avLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqg.kk.ftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     +vLsqr++dg  +p+ f+Srk+++ae ny+t++kellAi+++lk +rhy ++ +  f++itDh+nlky++++ksln+r+ rw ++Ls++
+#PP        69***999988.**************************************997557******************************987
+#SEQ       GVLSQRHKDGV-HPVGFMSRKMQPAELNYDTHDKELLAIIESLKGWRHYTMEtSTpFEIITDHNNLKYFMTSKSLNRRQVRWWQFLSDF
+#CS        EEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS.--.EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Plafun_PRP82731   1374   1432   1374   1433 PF17921.2   Integrase_H2C2    Domain     1    57    58     74.0   7.2e-21   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++lr  i+ + Hds  agH+G +kt++++rr y+Wp+m+++++ yvksC+tCqr+k+
+#PP        8********************************************************98
+#SEQ       VPEKLRLIIMMMKHDSplAGHFGSHKTKELVRRDYWWPKMYHTIEPYVKSCDTCQRAKH
+Plafun_PRP82731   1553   1611   1553   1612 PF17921.2   Integrase_H2C2    Domain     1    57    58     76.3   1.4e-21   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     vp++lr  i+ + Hds  agH+G +kt++++rr y+Wp+m++++++yvksC+tCqr+k+
+#PP        8********************************************************98
+#SEQ       VPEKLRLIIMMMKHDSplAGHFGSHKTKELVRRDYWWPKMYHTIESYVKSCDTCQRAKH
+Plafun_PRP82731   1634   1725   1604   1725 PF00665.27  rve               Domain     9   102   102     33.9     3e-08   1 CL0219   
+#HMM       qvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     ++D++ +++p  +g+  + vv+d f+++ + + +++ ++++ ++ l    v + +g  pe+++sD+g++++++ + +f +++g+++s++ +++p
+#PP        67777.45579999***********************77777777766666666666.**********************************98
+#SEQ       TIDFM-VELPECQGFNSIMVVVDRFTKMSHFIPCKNTITSEEAAWLYIDRVFWLHGI-PEKIVSDRGTQFIAEFWMSFWKQMGTKHSMSTAYHP
+Plafun_PRP82731   1877   1926   1877   1927 PF00385.25  Chromo            Domain     1    53    54     38.9     6e-10   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     yeVe I+d+r++ ++   +YlV W+g+ ++en W pe+nl++   +l+  Fk 
+#PP        89**************..***********************99.778888875
+#SEQ       YEVEAILDVRKRYGKT--QYLVSWRGYGPEENLWLPEDNLSNS-LDLVTDFKA
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Plafun_PRP83468     33    123     32    125 PF00078.28  RVT_1             Family     2   144   222     36.8   2.8e-09   1 CL0027   
+#HMM       pKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfn
+#MATCH     +Kk+ gs R+ +     dy++ln +++k           +++p +++              l++ ++ak+++klDlk+a++ +  +e ++ +taf+++                         +g++e+ ++p+G+ ++P  f+
+#PP        79**.*****55.....***********.........99*********.............99***********************************.........................9****************8887
+#SEQ       RKKD-GSLRLcV-----DYRKLNDITVK---------NVYPLPLIPQL-------------LDRLGSAKIFTKLDLKDAYWLICIREGDEWKTAFRTR-------------------------YGLFEYLVMPFGLSNAPGNFQ
+#CS        E-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHH
+Plafun_PRP83468    239    342    237    342 PF17917.2   RT_RNaseH         Domain     3   105   105    114.7   2.2e-33   1 CL0219   
+#HMM       skpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqg.kk.ftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     +  ++letDAs+ +i+++Lsq ++++  rpi f+Srk+++ae ny+t++kellAiv++lk +rh++ g +   t++tDh+nl+++ sk++ln+r+ rw+++L+++
+#PP        56789****************.666666****************************************9667******************************987
+#SEQ       TLDLVLETDASDFAISGILSQ-THSDGLRPISFYSRKMKEAELNYDTHDKELLAIVECLKAWRHWILGvSTpLTIYTDHENLRWFSSKQHLNRRQIRWSQFLADF
+#CS        TS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS.--.EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Plafun_PRP83468    466    524    466    525 PF17921.2   Integrase_H2C2    Domain     1    57    58     73.6     1e-20   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     +p  lr ++l+  Hd+  agH+G++kt+++++r y+Wp++ +dv+++vk+C +Cqr+k 
+#PP        68899****************************************************95
+#SEQ       IPVPLRVTVLQTRHDTplAGHFGVNKTHELIKRDYWWPKLLRDVEEFVKTCSICQRTKV
+Plafun_PRP83468    840    892    840    894 PF00385.25  Chromo            Domain     1    52    54     29.9   3.9e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgle.leYlVKWkglpysentWEp.eenlekcfqelideFk
+#MATCH     y+VerI+d+r +  + + +eYlVKW+g++ +    E+ +++ ++c +++++ + 
+#PP        89********99998888**********98766666655677777.66677775
+#SEQ       YIVERIVDSRQRGRKHKyTEYLVKWQGYDLDPKNNEDwITDTGHC-KDALKDYL
+#CS        EEEEEEEEEEEETTEEC.EEEEEEETTSTGGGTEEEE.GGGCTSCSHHHHHHHH
+Plafun_PRP85645     90    183     90    190 PF17919.2   RT_RNaseH_2       Domain     1    95   100    111.1   2.1e-32   1 CL0219   
+#HMM       WteeqekafeklkealtsapvLalpdpdkpfiletDaSdtgiGavLsqedddgkerpiafaSrklskaernysttekellAivfalkkfrhyllg
+#MATCH     W++ q+kaf++lk a++sa v++++d++++++letDaSd++i+++Lsq+++d ++rpi f+Srk+++ae ny+t++kellAiv++lk +rh++lg
+#PP        99*************************************************6.57**************************************99
+#SEQ       WGTVQQKAFDDLKAAFASADVVRHFDNTLDLVLETDASDFAISGILSQTHPD-GLRPISFYSRKMKEAELNYDTHDKELLAIVECLKAWRHWILG
+Plafun_PRP85645    344    402    344    403 PF17921.2   Integrase_H2C2    Domain     1    57    58     73.7   9.2e-21   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     +p  lr ++l+  Hd+  agH+G++kt+++++r y+Wp++ +dv+++vk+C +Cqr+k 
+#PP        68899****************************************************95
+#SEQ       IPVPLRVTVLQTRHDTplAGHFGVNKTHELIKRDYWWPKLLRDVEEFVKTCSICQRTKV
+Plafun_PRP85645    424    516    417    516 PF00665.27  rve               Domain     8   102   102     34.8   1.6e-08   1 CL0219   
+#HMM       wqvDvtviripdgggkayllvviddfsrlilaeavsde.msastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     +++D+  +++p  +g   + vv+d+f+++++  a+s+  +s +t++ +++r v++ g   pe ++sD+g ++ s+ +  f + l+ ++ ++  ++p
+#PP        568888.44469999***********************8899999*************..*******************************99998
+#SEQ       VTMDFI-VELPECQGYDAIMVVVDCFTKMAHFTACSTGiTSEQTALLFIDRVVRYHGI--PEQIISDRGVQFSSQFWSHFWKALKLTPVLSTLYHP
+Plafun_PRP85645    703    755    703    757 PF00385.25  Chromo            Domain     1    52    54     29.2   6.6e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgle.leYlVKWkglpysentWEp.eenlekcfqelideFk
+#MATCH     y+VerI+d++ +  + + +eYlVKW+g++ +    E+ +++ ++c +++++ + 
+#PP        89********99988888*********998766666655677777.66677775
+#SEQ       YIVERIVDSQQRGRKHKyTEYLVKWQGYNLDPKNNEDwITDTGHC-KDALKDYL
+#CS        EEEEEEEEEEEETTEEC.EEEEEEETTSTGGGTEEEE.GGGCTSCSHHHHHHHH
+Plafun_PRP88087     73    125     73    126 PF00385.25  Chromo            Domain     1    53    54     54.1   1.1e-14   1 CL0049   
+#HMM       yeVerIidhrtdkdgle..leYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     yeVe I+d+r + +g++   eYl+KWkg+p+s+ntWE +e++   + el++eF++
+#PP        89********666555559***********************9..569*****86
+#SEQ       YEVEDILDRRQVTKGRKttMEYLIKWKGYPESDNTWEAQEHIF--ASELLEEFER
+#CS        EEEEEEEEEEEETTEEC..EEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Plafun_PRP88087    260    311    260    312 PF00385.25  Chromo            Domain     2    53    54     45.4   5.8e-12   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +Ve+I+++r  +dgl ++Yl+KW++l++  ntWEp+  + + +++++ +F  
+#PP        59*************************************9999999999986
+#SEQ       KVEKILSVREAEDGLSPQYLIKWEDLSHLKNTWEPRRRINCISRRKLANFDA
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Plafun_PRP88087    335    382    335    384 PF00385.25  Chromo            Domain     2    52    54     50.3   1.7e-13   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFk
+#MATCH     +V+rI+d+rt+ d+   eYl+KW+ lpys+ tWE+e+ +e++ ++++++F+
+#PP        59*************..******************9999999.888****8
+#SEQ       KVDRIVDRRTSGDKT--EYLIKWEALPYSQLTWEDEKIVEGH-KDKVEKFE
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHH
+Plafun_PRP88087    433    708    419    709 PF00176.24  SNF2_N            Family    54   349   350    205.0   1.3e-60   1 CL0023   
+#HMM       svrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk.......mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLs.tsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH     + r+ iLaDemGLGKT+q++++il++ +     +++       gp+Liv+P s++ +We+e+ ++++  +l  ++++++++        +k + k  + ++  ++ v+ttY+  + ea      ++lk+ +w+ +++DEgh+lkn +sk + ++s+++  + r++ltGTP+qn+  +l++Ll+fL++e+f e +  +k + + +     +++s+L+++l +++lrr+k+dve  +Ppk e +++++ls+ ++++Y+    +l +k   +l ++ +    ++s     +l+ l++lr++cnhp+l
+#PP        56889*******************5555...34444.......8***************************999999988899*999855555777888999*************998......9*******************************996677********************************99999998888...999*********************************************....4444444444444444444444.....9**************98
+#SEQ       KKRNVILADEMGLGKTIQSMSFILHCSE---ACHNP-------GPFLIVAPLSTISNWEREFIKWAPHLNLITYTGDNDSRenirltlNRKYEFKHEKGYQPRFNAVLTTYELARMEA------KHLKKFDWQVLIVDEGHRLKNAESKSSSVLSDYKiEKIRILLTGTPLQNNIGELFALLQFLEPEKFPELEDLEKEFADLSD---GEKVSQLHKMLHEYILRRTKNDVETPVPPKAEFVVLVELSPLQKQWYK----ALLTKNYGVLNSNPKSGGVKTS-----LLNVLMQLRKCCNHPYL
+#CS        TT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH.......HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-.BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Plafun_PRP88087    736    845    731    845 PF00271.32  Helicase_C        Family     6   111   111     75.8   3.2e-21   1 CL0023   
+#HMM       llell.kleeeggkilifvntidrlek.vklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     l ++l kl++ g+++lif++ +++l+   ++l ++k+ k+a+l+g++ +++r +++++fn   ++e+ +L++t++++ Gi++  +++Vi +d ++n+++ iq+  R++R+g
+#PP        555667889****************9866666.6667***********************87667788*****************************************97
+#SEQ       LDRMLeKLKAGGHRVLIFSQMTKMLDIlEDYL-HHKKWKYARLDGDIRAEDRTHSIKKFNekdSEEFVFLLSTRAGGLGINLHTADTVILYDSDFNPHNDIQALSRAHRIG
+#CS        HHHHH.HHHTTTSEEEEEESSHHHHHH.HHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Plafun_PRP88087   1006   1048    995   1052 PF06465.14  DUF1087           Domain    19    63    65     31.7   1.2e-07   1 No_clan  
+#HMM       nesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsvee
+#MATCH      +++  d+W+kLL d+     eee  ++GKGKR RKq   v+ +e
+#PP        678889*******************************5..44444
+#SEQ       VNDSANDFWNKLLEDRVSRMEEEERANMGKGKRERKQR--VQYHE

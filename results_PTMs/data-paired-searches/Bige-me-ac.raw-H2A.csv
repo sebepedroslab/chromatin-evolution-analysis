@@ -1,0 +1,6 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Bnat_46712|Histone_H2A	Bnat_46712|Histone_H2A	H2A	FALSE	GKGKA VKATT R	Me1	K	2				99.5	GKGKAVKATTR	res
+Bnat_46712|Histone_H2A	Bnat_46712|Histone_H2A	H2A	FALSE	ASTSA PKKSK	Me1	K	7				25.01	ASTSAPKKSK	res
+Bnat_46712|Histone_H2A	Bnat_46712|Histone_H2A	H2A	FALSE	ASTSA PKKSK	Me1	K	8				25.01	ASTSAPKKSK	res
+Bnat_46712|Histone_H2A	Bnat_46712|Histone_H2A	H2A	FALSE	ASTSA PKKSK	Me1	K	10				49.98	ASTSAPKKSK	res
+Bnat_48254|Histone_H2A	Bnat_48254|Histone_H2A	H2A	FALSE	SGKGK GKGGR	Me1	K	3				100	SGKGKGKGGR	res

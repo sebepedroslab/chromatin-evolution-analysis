@@ -1,0 +1,743 @@
+IQ-TREE multicore version 2.1.0 for Linux 64-bit built Jul 18 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    lapis (AVX2, FMA3, 15 GB RAM)
+Command: iqtree2 -s alignments/all.Histone.to_histdb/CC31_H4.l.fasta -m TEST -mset LG -nt AUTO -ntmax 8 -fast -pre alignments/all.Histone.to_histdb/CC31_H4.iqt
+Seed:    357373 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Mar  1 19:48:42 2021
+Kernel:  AVX+FMA - auto-detect threads (8 CPU cores detected)
+
+Reading alignment file alignments/all.Histone.to_histdb/CC31_H4.l.fasta ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 417 sequences with 111 columns, 107 distinct patterns
+79 parsimony-informative, 9 singleton sites, 23 constant sites
+                                            Gap/Ambiguity  Composition  p-value
+   1  Spur_XP_001175505.3_27-103                   30.63%    passed     93.15%
+   2  Exapal_XP_020893578.1_26-103                 29.73%    passed    100.00%
+   3  Morvir_scaffold47.g152.t1_26-103             29.73%    passed    100.00%
+   4  Emul_CDI96644.1_26-103                       29.73%    passed    100.00%
+   5  Drer_ENSDARP00000145923.1_26-103             29.73%    passed    100.00%
+   6  Nvec_NVE24004_26-103                         29.73%    passed    100.00%
+   7  Nvec_NVE24630_26-103                         29.73%    passed    100.00%
+   8  Dmel_FBpp0091140_26-103                      29.73%    passed    100.00%
+   9  Drer_ENSDARP00000144745.1_26-103             29.73%    passed    100.00%
+  10  Hsap_ENSP00000481486.1_26-103                29.73%    passed    100.00%
+  11  Hsap_ENSP00000479106.2_26-103                29.73%    passed    100.00%
+  12  Drer_ENSDARP00000151057.1_26-103             29.73%    passed    100.00%
+  13  Bralan_BL00197_evm0_26-103                   29.73%    passed    100.00%
+  14  Hsap_ENSP00000350767.3_26-103                29.73%    passed    100.00%
+  15  Emue_0019g1141a_26-103                       29.73%    passed    100.00%
+  16  Drer_ENSDARP00000149954.1_26-103             29.73%    passed    100.00%
+  17  Dmel_FBpp0091116_26-103                      29.73%    passed    100.00%
+  18  Dmel_FBpp0091138_26-103                      29.73%    passed    100.00%
+  19  Aque_Aqu2.1.40839_001_26-103                 29.73%    passed    100.00%
+  20  Dmel_FBpp0091148_26-103                      29.73%    passed    100.00%
+  21  Hsap_ENSP00000462355.1_26-103                29.73%    passed    100.00%
+  22  Drer_ENSDARP00000142621.1_26-103             29.73%    passed    100.00%
+  23  Adig_XP_015747528.1_26-103                   29.73%    passed    100.00%
+  24  Drer_ENSDARP00000142128.1_26-103             29.73%    passed    100.00%
+  25  Nvec_NVE24360_26-103                         29.73%    passed    100.00%
+  26  Nvec_NVE24358_26-103                         29.73%    passed    100.00%
+  27  Dmel_FBpp0091132_26-103                      29.73%    passed    100.00%
+  28  Nvec_NVE22196_26-103                         29.73%    passed    100.00%
+  29  Nvec_NVE6466_26-103                          29.73%    passed    100.00%
+  30  Dmel_FBpp0091144_26-103                      29.73%    passed    100.00%
+  31  Hsap_ENSP00000367034.3_26-103                29.73%    passed    100.00%
+  32  Drer_ENSDARP00000155785.1_26-103             29.73%    passed    100.00%
+  33  Drer_ENSDARP00000145839.1_26-103             29.73%    passed    100.00%
+  34  Dmel_FBpp0091146_26-103                      29.73%    passed    100.00%
+  35  Nvec_NVE8849_26-103                          29.73%    passed    100.00%
+  36  Exapal_XP_020897888.1_26-103                 29.73%    passed    100.00%
+  37  Notgen_g37816.t1_26-103                      29.73%    passed    100.00%
+  38  Emue_0019g705a_26-103                        29.73%    passed    100.00%
+  39  Drer_ENSDARP00000106245.1_26-103             29.73%    passed    100.00%
+  40  Nvec_NVE20560_26-103                         29.73%    passed    100.00%
+  41  Nvec_NVE2470_26-103                          29.73%    passed    100.00%
+  42  Nvec_NVE24019_26-103                         29.73%    passed    100.00%
+  43  Drer_ENSDARP00000142419.1_26-103             29.73%    passed    100.00%
+  44  Drer_ENSDARP00000155226.1_26-103             29.73%    passed    100.00%
+  45  Hsap_ENSP00000479461.2_26-103                29.73%    passed    100.00%
+  46  Nvec_NVE14707_26-103                         29.73%    passed    100.00%
+  47  Ctel_CapteP205827_159-232                    33.33%    passed    100.00%
+  48  Hsap_ENSP00000244537.6_26-103                29.73%    passed    100.00%
+  49  Lgig_LotgiP148108_26-103                     30.63%    passed    100.00%
+  50  Emue_0022g428a_26-103                        29.73%    passed    100.00%
+  51  Dmel_FBpp0091154_26-103                      29.73%    passed    100.00%
+  52  Drer_ENSDARP00000148625.1_26-103             29.73%    passed    100.00%
+  53  Drer_ENSDARP00000082327.4_26-103             29.73%    passed    100.00%
+  54  Spis_XP_022792426_1_28-105                   29.73%    passed    100.00%
+  55  Carmem_6448.p5_26-104                        29.73%    passed    100.00%
+  56  Drer_ENSDARP00000142101.1_26-103             29.73%    passed    100.00%
+  57  Drer_ENSDARP00000155489.1_26-103             29.73%    passed    100.00%
+  58  Nvec_NVE14104_26-103                         29.73%    passed    100.00%
+  59  Nvec_NVE23184_26-103                         29.73%    passed    100.00%
+  60  Dmel_FBpp0091152_26-103                      29.73%    passed    100.00%
+  61  Dmel_FBpp0085280_26-103                      29.73%    passed    100.00%
+  62  Dmel_FBpp0091130_26-103                      29.73%    passed    100.00%
+  63  Hydvul_Sc4wPfr_319.g27304.t1_26-103          29.73%    passed    100.00%
+  64  Nvec_NVE8840_26-103                          29.73%    passed    100.00%
+  65  Emue_0018g273a_26-103                        29.73%    passed    100.00%
+  66  Drer_ENSDARP00000145342.1_26-103             29.73%    passed    100.00%
+  67  Emue_0022g240a_26-103                        29.73%    passed    100.00%
+  68  Emue_0495g3a_26-103                          29.73%    passed    100.00%
+  69  Drer_ENSDARP00000142261.1_26-103             29.73%    passed    100.00%
+  70  Auraur_scaffold1826.g7.t1_26-103             29.73%    passed    100.00%
+  71  Tadh_P23529_26-103                           29.73%    passed    100.00%
+  72  Hsap_ENSP00000479794.2_26-103                29.73%    passed    100.00%
+  73  Hsap_ENSP00000347168.2_26-103                29.73%    passed    100.00%
+  74  Drer_ENSDARP00000104379.1_26-103             29.73%    passed    100.00%
+  75  Drer_ENSDARP00000142571.1_26-103             29.73%    passed    100.00%
+  76  Nvec_NVE23384_26-103                         29.73%    passed    100.00%
+  77  Sman_Smp_053300.1_pep_26-103                 29.73%    passed    100.00%
+  78  Hsap_ENSP00000366956.1_26-103                29.73%    passed    100.00%
+  79  Drer_ENSDARP00000157059.1_26-103             29.73%    passed    100.00%
+  80  Nvec_NVE19440_26-103                         29.73%    passed    100.00%
+  81  Bralan_BL31784_evm0_32-107                   31.53%    passed    100.00%
+  82  Drer_ENSDARP00000148713.1_26-103             29.73%    passed    100.00%
+  83  Nvec_NVE18669_26-103                         29.73%    passed    100.00%
+  84  Ctel_CapteP198869_159-232                    33.33%    passed    100.00%
+  85  Drer_ENSDARP00000153440.1_26-103             29.73%    passed    100.00%
+  86  Dmel_FBpp0091136_26-103                      29.73%    passed    100.00%
+  87  Clim_evm13s167_26-103                        29.73%    passed    100.00%
+  88  Dmel_FBpp0091118_26-103                      29.73%    passed    100.00%
+  89  Nvec_NVE24050_26-103                         29.73%    passed    100.00%
+  90  Dmel_FBpp0082421_26-103                      29.73%    passed    100.00%
+  91  Drer_ENSDARP00000142273.1_26-103             29.73%    passed    100.00%
+  92  Ctel_CapteP20749_144-217                     33.33%    passed    100.00%
+  93  Dmel_FBpp0091128_26-103                      29.73%    passed    100.00%
+  94  Drer_ENSDARP00000077832.3_26-103             29.73%    passed    100.00%
+  95  Linana_g18735.t1_26-103                      29.73%    passed    100.00%
+  96  Nvec_NVE24648_26-103                         29.73%    passed    100.00%
+  97  Emue_0019g1161a_26-103                       29.73%    passed    100.00%
+  98  Hsap_ENSP00000366974.2_26-103                29.73%    passed    100.00%
+  99  Hsap_ENSP00000462667.1_26-103                29.73%    passed    100.00%
+ 100  Helrob_HelroP187742_26-103                   29.73%    passed    100.00%
+ 101  Emue_0022g430a_26-103                        29.73%    passed    100.00%
+ 102  Cgig_EKC28010_26-103                         29.73%    passed    100.00%
+ 103  Drer_ENSDARP00000129378.1_27-104             29.73%    passed    100.00%
+ 104  Drer_ENSDARP00000155402.1_26-103             29.73%    passed    100.00%
+ 105  Nvec_NVE24175_26-103                         29.73%    passed    100.00%
+ 106  Nvec_NVE5226_26-103                          29.73%    passed    100.00%
+ 107  Drer_ENSDARP00000155135.1_26-103             29.73%    passed    100.00%
+ 108  Dpul_EFX62752_26-103                         29.73%    passed    100.00%
+ 109  Tetwil_Twilhelma_g10938.t1_26-103            29.73%    passed    100.00%
+ 110  Lcom_lcpid229842_27-104                      29.73%    passed    100.00%
+ 111  Nvec_NVE21356_26-103                         29.73%    passed    100.00%
+ 112  Spis_XP_022782075_1_26-103                   29.73%    passed    100.00%
+ 113  Hsap_ENSP00000484789.1_26-103                29.73%    passed    100.00%
+ 114  Nvec_NVE21353_26-103                         29.73%    passed    100.00%
+ 115  Cscu_XP_023213286.1_26-103                   29.73%    passed    100.00%
+ 116  Dmel_FBpp0091142_26-103                      29.73%    passed    100.00%
+ 117  Dmel_FBpp0091150_26-103                      29.73%    passed    100.00%
+ 118  Nvec_NVE5231_26-103                          29.73%    passed    100.00%
+ 119  Dmel_FBpp0091120_26-103                      29.73%    passed    100.00%
+ 120  Drer_ENSDARP00000150900.1_26-103             29.73%    passed    100.00%
+ 121  Ocar_g3774.t1_26-103                         29.73%    passed    100.00%
+ 122  Dmel_FBpp0091134_26-103                      29.73%    passed    100.00%
+ 123  Ctel_CapteP219998_112-186                    32.43%    passed    100.00%
+ 124  Drer_ENSDARP00000142308.1_26-103             29.73%    passed    100.00%
+ 125  Nvec_NVE24024_26-103                         29.73%    passed    100.00%
+ 126  Emue_0022g429a_26-103                        29.73%    passed    100.00%
+ 127  Hsap_ENSP00000480960.2_26-103                29.73%    passed    100.00%
+ 128  Aque_Aqu2.1.08429_001_47-123                 30.63%    passed    100.00%
+ 129  Bralan_BL05479_evm0_43-119                   30.63%    passed    100.00%
+ 130  Bralan_BL17666_evm0_7-83                     30.63%    passed    100.00%
+ 131  Ramvar_GAU94133.1_26-103                     29.73%    passed    100.00%
+ 132  Hduj_OQV20927.1_26-103                       29.73%    passed    100.00%
+ 133  Nvec_NVE19301_26-98                          34.23%    passed    100.00%
+ 134  Cfra_CFRG3585T1_26-103                       29.73%    passed    100.00%
+ 135  Sarc_Sarc4_g12929T_26-104                    29.73%    passed    100.00%
+ 136  Lpol_XP_013776301.1_27-103                   30.63%    passed    100.00%
+ 137  Scil_scpid111142_26-103                      29.73%    passed    100.00%
+ 138  Dmel_FBpp0091122_26-103                      29.73%    passed    100.00%
+ 139  Dmel_FBpp0091124_26-103                      29.73%    passed    100.00%
+ 140  Dmel_FBpp0091114_26-103                      29.73%    passed    100.00%
+ 141  Dmel_FBpp0091126_26-103                      29.73%    passed    100.00%
+ 142  Mbre_EDQ85967_25-103                         28.83%    passed    100.00%
+ 143  Mbre_EDQ90656_25-103                         28.83%    passed    100.00%
+ 144  Mbre_EDQ85108_25-103                         28.83%    passed    100.00%
+ 145  Cowc_KJE89241_26-103                         29.73%    passed    100.00%
+ 146  Cowc_KJE91166_26-103                         29.73%    passed    100.00%
+ 147  Aplker_104514_26-104                         29.73%    passed    100.00%
+ 148  Otau_XP_022838377.1_26-103                   29.73%    passed    100.00%
+ 149  Schagg_42298_26-104                          29.73%    passed    100.00%
+ 150  Hemkuk_17594_TR5806_c0_g1_27-105             29.73%    passed    100.00%
+ 151  Chrtob_KOO22339.1_26-103                     29.73%    passed    100.00%
+ 152  Mpus_XP_003059520.1_26-103                   29.73%    passed    100.00%
+ 153  Ehux_EOD03932_26-103                         29.73%    passed    100.00%
+ 154  Fabtro_Gene.3905_26-104                      29.73%    passed    100.00%
+ 155  Aurlim_137655_25-104                         28.83%    passed    100.00%
+ 156  Honfer_GBG24868_25-103                       28.83%    passed    100.00%
+ 157  Bdis_KQK05861_117-190                        33.33%    passed    100.00%
+ 158  Smoe_EFJ18405_27-103                         30.63%    passed    100.00%
+ 159  Acoe_PIA26147.1_27-103                       30.63%    passed    100.00%
+ 160  Bdis_PNT73988_62-137                         31.53%    passed    100.00%
+ 161  Atri_ERM96612_27-103                         30.63%    passed    100.00%
+ 162  Azfi_s0007.g010920_165-234                   36.94%    passed    100.00%
+ 163  Atha_AT2G28740.1_27-103                      30.63%    passed    100.00%
+ 164  Atha_AT3G46320.1_27-103                      30.63%    passed    100.00%
+ 165  Sbic_OQU86251_185-258                        33.33%    passed    100.00%
+ 166  Atha_AT5G59690.1_27-103                      30.63%    passed    100.00%
+ 167  Atha_AT3G53730.1_27-103                      30.63%    passed    100.00%
+ 168  Bdis_PNT61710_125-198                        33.33%    passed    100.00%
+ 169  Sphfal_Sphfalx05G059200.1.p_109-183          33.33%    passed    100.00%
+ 170  Ppat_Pp3c27_7460V3.1_122-195                 33.33%    passed    100.00%
+ 171  Atha_AT3G45930.1_27-103                      30.63%    passed    100.00%
+ 172  Atha_AT1G07660.1_27-103                      30.63%    passed    100.00%
+ 173  Sbic_OQU89898_113-186                        33.33%    passed    100.00%
+ 174  Azfi_s0076.g037806_76-151                    32.43%    passed    100.00%
+ 175  Atha_AT1G07820.1_27-103                      30.63%    passed    100.00%
+ 176  Azfi_s0056.g034070_59-134                    32.43%    passed    100.00%
+ 177  Sacu_v1.1_s0041.g012615_84-159               32.43%    passed    100.00%
+ 178  Marpol_PTQ27186_27-103                       30.63%    passed    100.00%
+ 179  Atha_AT5G59970.1_27-103                      30.63%    passed    100.00%
+ 180  Acas_ELR14806_32-110                         28.83%    passed    100.00%
+ 181  Tcas_XP_008199927.1_5-81                     30.63%    passed    100.00%
+ 182  Skow_XP_006817031.1_27-103                   30.63%    passed    100.00%
+ 183  Gpro_KXS13514_26-103                         29.73%    passed    100.00%
+ 184  Sappar_KDO17679_26-103                       29.73%    passed    100.00%
+ 185  Sappar_KDO26681_26-101                       31.53%    passed    100.00%
+ 186  Sappar_KDO17680_26-103                       29.73%    passed    100.00%
+ 187  Esil_CBJ33198_29-106                         29.73%    passed    100.00%
+ 188  Pinf_PITG_03552T0_26-103                     29.73%    passed    100.00%
+ 189  Alblai_CCA15305_26-103                       29.73%    passed    100.00%
+ 190  Masbal_CACRSC010000037.1.p621_32-109         30.63%    passed    100.00%
+ 191  Coka_g12259.t1_26-103                        29.73%    passed    100.00%
+ 192  Aano_EGB03228_26-103                         29.73%    passed    100.00%
+ 193  Ngad_EWM29620_49-125                         30.63%    passed    100.00%
+ 194  Tpse_ACI64441_26-103                         29.73%    passed    100.00%
+ 195  Phatri_Phatr3_J26896.p1_26-103               29.73%    passed    100.00%
+ 196  Aano_EGB13172_1-79                           28.83%    passed     99.98%
+ 197  Meteor_CRO19MET_NODE_11825.p1_28-106         29.73%    passed    100.00%
+ 198  Rirr_GBC16827_45-121                         30.63%    passed    100.00%
+ 199  Mcir_OAD03484_26-103                         29.73%    passed    100.00%
+ 200  Bden_EGF79075_29-106                         29.73%    passed    100.00%
+ 201  Plebac_Pbla_mRNA_4574_48-125                 30.63%    passed    100.00%
+ 202  Mcir_OAD00958_29-106                         29.73%    passed    100.00%
+ 203  Pisp_OUM66373.1_26-103                       29.73%    passed    100.00%
+ 204  Plebac_Pbla_mRNA_8870_26-104                 29.73%    passed    100.00%
+ 205  Pbla_XP_018291083.1_26-103                   29.73%    passed    100.00%
+ 206  Pbla_XP_018294766.1_48-124                   30.63%    passed    100.00%
+ 207  Umbram_206617_26-104                         29.73%    passed    100.00%
+ 208  Rirr_GBC33120_26-103                         29.73%    passed    100.00%
+ 209  Coerev_PIA15958.1_29-105                     30.63%    passed    100.00%
+ 210  Rirr_GBC16680_26-103                         29.73%    passed    100.00%
+ 211  Klenit_GAQ88012.1_26-103                     29.73%    passed    100.00%
+ 212  Cocsub_XP_005643645.1_26-103                 29.73%    passed    100.00%
+ 213  Bnat_JGI_V11_38173_26-103                    29.73%    passed    100.00%
+ 214  Ancsig_Gene.5596_48-125                      30.63%    passed    100.00%
+ 215  Nutlon_comp14730_c0_seq1.p2_41-118           30.63%    passed    100.00%
+ 216  Ulvmut_UM017_00341_26-104                    29.73%    passed    100.00%
+ 217  Pygbif_GCRY01004699.1.p2_27-105              29.73%    passed    100.00%
+ 218  Cvar_XP_005843696.1_26-103                   29.73%    passed    100.00%
+ 219  Cvar_XP_005847450.1_26-103                   29.73%    passed    100.00%
+ 220  Bralan_BL23173_evm0_26-103                   29.73%    passed    100.00%
+ 221  Nvec_NVE24857_26-103                         29.73%    passed    100.00%
+ 222  Nk52_evm14s282_26-103                        29.73%    passed    100.00%
+ 223  Cneo_AAW42197_27-103                         30.63%    passed    100.00%
+ 224  Pbla_XP_018286973.1_26-107                   26.13%    passed    100.00%
+ 225  Plebac_Pbla_mRNA_12614_26-107                26.13%    passed    100.00%
+ 226  Ccin_EAU82836_26-103                         29.73%    passed    100.00%
+ 227  Pavlsp_1002810_26-104                        29.73%    passed     95.54%
+ 228  Pavlsp_1001810_26-104                        29.73%    passed     96.88%
+ 229  Pavlsp_1111585_26-104                        29.73%    passed     97.47%
+ 230  Pavlsp_947385_26-104                         29.73%    passed     96.53%
+ 231  Plamic_ANCSI_10250.mRNA.1_26-102             30.63%    passed    100.00%
+ 232  arc_RYG58633.1_26-103                        29.73%    passed    100.00%
+ 233  Nvec_NVE24230_94-172                         29.73%    passed    100.00%
+ 234  Helrob_HelroP84695_25-103                    28.83%    passed    100.00%
+ 235  Gthe_EKX41598_25-103                         28.83%    passed    100.00%
+ 236  Gonavo_comp53101_c0_seq1_6_ORF5_135_57-135   28.83%    passed    100.00%
+ 237  Gthe_EKX37956_25-103                         28.83%    passed    100.00%
+ 238  Caulen_g6227.t1_25-103                       28.83%    passed    100.00%
+ 239  Caulen_g6229.t1_25-103                       28.83%    passed    100.00%
+ 240  Amobb2_AMBB2_00308.mRNA.1_25-103             28.83%    passed    100.00%
+ 241  Rhidel_EIE83417_25-103                       28.83%    passed    100.00%
+ 242  Pbla_XP_018290322.1_25-103                   28.83%    passed    100.00%
+ 243  Morelo_OAQ31267_25-103                       28.83%    passed    100.00%
+ 244  Plebac_Pbla_mRNA_8998_25-104                 28.83%    passed    100.00%
+ 245  Morelo_OAQ25419_23-101                       28.83%    passed    100.00%
+ 246  Spun_KNC96051_25-103                         28.83%    passed    100.00%
+ 247  Sros_EGD83228_24-103                         27.93%    passed    100.00%
+ 248  Sros_EGD75966_24-103                         27.93%    passed    100.00%
+ 249  Vcar_XP_002945759.1_25-103                   28.83%    passed    100.00%
+ 250  Crei_PNW73723_25-103                         28.83%    passed    100.00%
+ 251  Crei_PNW70160_25-103                         28.83%    passed    100.00%
+ 252  Bralan_BL29335_evm0_26-103                   29.73%    passed    100.00%
+ 253  Chabra_GBG76583_403-476                      33.33%    passed    100.00%
+ 254  Chabra_GBG88273_57-132                       31.53%    passed    100.00%
+ 255  Lgig_LotgiP175997_30-106                     30.63%    passed    100.00%
+ 256  Nvec_NVE2880_30-103                          33.33%    passed    100.00%
+ 257  Skow_XP_006820302.1_30-106                   30.63%    passed    100.00%
+ 258  Emue_0019g1158a_28-106                       28.83%    passed    100.00%
+ 259  Spur_XP_030830328.1_145-218                  33.33%    passed     94.62%
+ 260  Spur_XP_030838374.1_30-106                   30.63%    passed     94.72%
+ 261  Spur_XP_030829748.1_1-80                     27.93%    passed     76.64%
+ 262  Apla_XP_022088067.1_30-106                   30.63%    passed     91.10%
+ 263  Spur_XP_011681115.1_20-102                   25.23%    passed     96.10%
+ 264  Spur_XP_011671581.2_25-103                   28.83%    failed      0.44%
+ 265  Ctel_CapteP98994_27-103                      30.63%    passed    100.00%
+ 266  Helrob_HelroP172804_27-106                   27.93%    passed    100.00%
+ 267  Dpul_EFX78453_26-103                         29.73%    passed    100.00%
+ 268  Adig_XP_015747527.1_27-103                   30.63%    passed    100.00%
+ 269  Cang_ORZ41062_23-100                         29.73%    passed    100.00%
+ 270  Ttra_KNC46204_26-103                         29.73%    passed    100.00%
+ 271  Scer_YBR009C_25-103                          28.83%    passed     98.56%
+ 272  Scer_YNL030W_25-103                          28.83%    passed     98.56%
+ 273  Amac_KNE60952_25-103                         28.83%    passed    100.00%
+ 274  Ehux_EOD21028_106-176                        36.04%    passed     99.99%
+ 275  Ehux_EOD24765_105-175                        36.04%    passed     99.99%
+ 276  Aplker_104780_20-93                          34.23%    passed    100.00%
+ 277  Mgut_XP_012829650.1_27-106                   27.93%    passed    100.00%
+ 278  Azfi_s0007.g010920_30-106                    30.63%    passed    100.00%
+ 279  Helrob_HelroP172808_27-106                   27.93%    failed      0.00%
+ 280  Spis_XP_022808495_1_30-106                   30.63%    passed    100.00%
+ 281  Spis_XP_022782076_1_30-106                   30.63%    passed     99.99%
+ 282  Nk52_evm99s217_26-103                        29.73%    passed    100.00%
+ 283  Aano_EGB03512_24-103                         27.93%    passed    100.00%
+ 284  Eimten_CDJ42422_25-103                       28.83%    passed     99.99%
+ 285  Tgon_TGME49_239260-t26_1-p1-CDS1_25-103      28.83%    passed     99.99%
+ 286  Pfal_CZT98716_25-103                         28.83%    passed     99.82%
+ 287  Bralan_BL19736_evm0_79-133                   50.45%    passed     97.70%
+ 288  Spimul_25439_TR12690_c0_g1_26-105            28.83%    passed    100.00%
+ 289  Plafun_PRP74142_68-144                       30.63%    passed    100.00%
+ 290  Manpla_Gene.522_27-104                       30.63%    passed    100.00%
+ 291  Rigram_Gene.3111_38-115                      30.63%    passed     99.91%
+ 292  Plabra_CEO95732_25-103                       28.83%    passed    100.00%
+ 293  Perkma_EER07832_27-103                       30.63%    passed     99.98%
+ 294  Perkma_EER01346_26-103                       29.73%    passed    100.00%
+ 295  Perkma_EER09441_27-103                       30.63%    passed    100.00%
+ 296  Lcom_lcpid202808_27-103                      30.63%    passed    100.00%
+ 297  Bremin_symbB.v1.2.008318.t1_37-113           30.63%    passed    100.00%
+ 298  Chocri_XP_005718072.1_25-103                 28.83%    passed     99.99%
+ 299  Chocri_XP_005711873.1_25-103                 28.83%    passed     99.91%
+ 300  Gracho_PXF43757.1_25-103                     28.83%    passed    100.00%
+ 301  Gracho_PXF49291.1_25-103                     28.83%    passed    100.00%
+ 302  Cmer_CMN166CT_25-103                         28.83%    passed    100.00%
+ 303  Porpur_KAA8495289.1_58-136                   28.83%    passed    100.00%
+ 304  Recame_RECAM_10452.mRNA.1_34-111             29.73%    passed    100.00%
+ 305  Jakbah_JAKBA_02675.mRNA.1_55-132             29.73%    passed     99.72%
+ 306  Porumb_OSX80297.1_25-103                     28.83%    passed    100.00%
+ 307  Umay_KIS69375_27-103                         30.63%    passed     99.36%
+ 308  Concor_KXN66775_26-103                       29.73%    passed    100.00%
+ 309  Gefoke_MALSP_04621.mRNA.1_25-103             28.83%    passed     95.90%
+ 310  Maljak_MALJA_01577.mRNA.1_25-103             28.83%    passed     96.84%
+ 311  Malcal_MALCA_02237.mRNA.1_25-103             28.83%    passed     96.34%
+ 312  Spom_SPAC1834.03c.1_pep_24-103               27.93%    passed    100.00%
+ 313  Spom_SPBC1105.12.1_pep_24-103                27.93%    passed    100.00%
+ 314  Spom_SPBC8D2.03c.1_pep_24-103                27.93%    passed    100.00%
+ 315  Ncra_EAA26766_24-103                         27.93%    passed    100.00%
+ 316  Tmel_CAZ81813_24-103                         27.93%    passed    100.00%
+ 317  Rall_EPZ32223_25-103                         28.83%    passed    100.00%
+ 318  Rall_EPZ35970_27-105                         28.83%    passed    100.00%
+ 319  Scil_scpid108740_27-105                      28.83%    passed     99.99%
+ 320  Azfi_s0003.g007998_27-106                    27.93%    passed    100.00%
+ 321  Ngru_EFC38679_21-103                         25.23%    passed    100.00%
+ 322  Lcom_lcpid226865_25-100                      31.53%    passed     99.91%
+ 323  Vitbra_CEL92092.1_25-103                     28.83%    passed     99.98%
+ 324  Emul_CDS36135.1_50-124                       32.43%    passed     99.49%
+ 325  Crei_PNW71303_23-103                         27.03%    passed     99.98%
+ 326  Oxytri_EJY66087_25-104                       27.93%    passed     99.97%
+ 327  Lcom_lcpid221119_25-104                      27.93%    passed    100.00%
+ 328  Carmem_b2322.p1_38-116                       29.73%    passed     98.11%
+ 329  Carmem_119.p1_35-113                         29.73%    passed     98.11%
+ 330  Carmem_b4367.p1_34-112                       29.73%    passed     98.11%
+ 331  Carmem_b1785.p1_37-115                       29.73%    passed     98.11%
+ 332  Carmem_b12809.p1_39-117                      29.73%    passed     98.11%
+ 333  Carmem_b12678.p1_35-113                      29.73%    passed     98.11%
+ 334  Jaklib_JAKLI_16100.mRNA.1_33-112             27.93%    passed    100.00%
+ 335  Secula_SECUL_00990.mRNA.1_12-90              28.83%    passed    100.00%
+ 336  Drer_ENSDARP00000142481.1_14-94              27.03%    passed     99.64%
+ 337  Phakir_PHAKIR_05677.mRNA.1_24-103            27.93%    passed     99.24%
+ 338  Diprot_Gene.548_78-154                       31.53%    passed     99.97%
+ 339  Apla_XP_022080340.1_30-107                   29.73%    passed     92.29%
+ 340  Apla_XP_022111595.1_82-137                   49.55%    passed     33.21%
+ 341  Helrob_HelroP70875_31-103                    34.23%    passed     77.37%
+ 342  Ttra_KNC53726_29-107                         28.83%    passed     99.65%
+ 343  Emue_0018g277a_30-118                        19.82%    failed      0.00%
+ 344  Azfi_s2141.g109596_84-160                    30.63%    passed     99.83%
+ 345  Exapal_XP_020913119.1_30-107                 29.73%    passed     77.27%
+ 346  Exapal_XP_020917667.1_30-107                 29.73%    passed     98.31%
+ 347  Exapal_XP_020896927.1_30-107                 29.73%    passed     96.58%
+ 348  Exapal_XP_020906586.1_30-107                 29.73%    passed     86.20%
+ 349  Exapal_XP_020896800.1_30-107                 29.73%    passed     86.20%
+ 350  Adig_XP_015770236.1_30-107                   29.73%    passed     99.16%
+ 351  Spis_XP_022792402_1_30-107                   29.73%    passed     99.16%
+ 352  Adig_XP_015747488.1_30-107                   29.73%    passed     99.16%
+ 353  Spis_XP_022792403_1_30-111                   26.13%    passed     98.77%
+ 354  Adig_XP_015747530.1_30-107                   29.73%    passed     97.77%
+ 355  Spis_XP_022791544_1_30-107                   29.73%    passed     49.13%
+ 356  Spis_XP_022808494_1_30-107                   29.73%    passed     57.61%
+ 357  arc_RYG46763.1_62-145                        24.32%    passed     74.60%
+ 358  Lgig_LotgiP148116_26-103                     29.73%    passed     95.24%
+ 359  Ptet_CAK58511_22-102                         27.03%    passed     77.76%
+ 360  Tthe_EAR96348_23-103                         27.03%    passed     97.92%
+ 361  Lcom_lcpid208961_34-102                      37.84%    passed     92.12%
+ 362  Tvag_XP_001308229.1_23-101                   28.83%    passed    100.00%
+ 363  Lcom_lcpid249310_24-102                      28.83%    passed     99.33%
+ 364  Cvel_16226.t2-p1_26-107                      26.13%    passed     26.94%
+ 365  Cvel_21595.t1-p1_24-103                      27.93%    passed     63.19%
+ 366  Falb_KCV68607_23-101                         28.83%    passed     98.19%
+ 367  Ngru_EFC47049_25-103                         28.83%    passed     96.79%
+ 368  vir_AMT81295.1_41-120                        27.93%    passed     95.12%
+ 369  vir_AMT81297.1_41-120                        27.93%    passed     96.06%
+ 370  vir_AMT81293.1_41-120                        27.93%    passed     96.06%
+ 371  vir_AMT81292.1_41-120                        27.93%    passed     98.96%
+ 372  vir_AMT81300.1_41-120                        27.93%    passed     98.96%
+ 373  vir_AMT81294.1_42-118                        30.63%    passed     95.46%
+ 374  vir_AMT81298.1_44-120                        30.63%    passed     97.24%
+ 375  vir_CAG17417.1_77-155                        28.83%    passed     97.52%
+ 376  vir_ABH10013.1_63-141                        28.83%    passed     99.39%
+ 377  vir_AAV98010.1_63-141                        28.83%    passed     99.03%
+ 378  vir_AEE09495.1_63-141                        28.83%    passed     99.03%
+ 379  Lcom_lcpid241556_10-104                      14.41%    passed     50.35%
+ 380  Lcom_lcpid203193_14-108                      14.41%    passed     48.59%
+ 381  Lcom_lcpid220144_28-100                      34.23%    passed     99.25%
+ 382  Lcom_lcpid209774_35-112                      29.73%    passed     99.80%
+ 383  Lcom_lcpid184971_31-111                      27.03%    passed     41.89%
+ 384  Andgod_ANDGO_00312.mRNA.1_25-101             30.63%    passed     99.94%
+ 385  Styinc_Gene337_m337_27-104                   30.63%    passed     97.23%
+ 386  Glam_EDO76322_18-99                          26.13%    passed     85.63%
+ 387  Ddis_EAL68777_30-108                         28.83%    passed     97.32%
+ 388  Tielac_KYQ90801_28-103                       31.53%    passed     89.61%
+ 389  Cavfas_EGG25166_29-105                       30.63%    passed     96.76%
+ 390  Hetalb_XP_020437641.1_28-106                 28.83%    passed     99.00%
+ 391  Hetalb_XP_020431192.1_27-104                 29.73%    passed     95.26%
+ 392  Skow_XP_002738204.1_26-104                   28.83%    passed     83.20%
+ 393  Carmem_b12813.p2_1-52                        54.05%    passed     25.78%
+ 394  vir_ALF62340.1_56-129                        33.33%    passed     70.27%
+ 395  vir_ALF62342.1_56-129                        33.33%    passed     70.27%
+ 396  vir_ALF62341.1_56-129                        33.33%    passed     70.27%
+ 397  Gthe_EKX41614_23-103                         27.03%    passed     70.03%
+ 398  Plafun_PRP86027_12-67                        49.55%    failed      0.00%
+ 399  Spun_KND01466_50-127                         29.73%    passed     99.99%
+ 400  Vitbra_CEM23183.1_32-112                     27.03%    passed     67.15%
+ 401  Vitbra_CEM13700.1_36-116                     27.03%    passed     34.28%
+ 402  Bnat_JGI_V11_38219_39-116                    29.73%    passed     77.24%
+ 403  Pbla_XP_018287451.1_16-96                    27.03%    passed     79.96%
+ 404  Plebac_Pbla_mRNA_12473_16-97                 27.03%    passed     79.96%
+ 405  Rall_EPZ32283_22-103                         26.13%    passed     81.13%
+ 406  vir_ERX552244.21_contig_7330_16_26-107       27.03%    failed      0.00%
+ 407  Lcom_lcpid144142_35-113                      28.83%    failed      0.21%
+ 408  Lcom_lcpid184614_32-108                      30.63%    failed      0.00%
+ 409  Strcul_EPY37248_19-99                        27.03%    failed      0.01%
+ 410  Strcul_EPY33348_19-99                        27.03%    failed      0.02%
+ 411  Strcul_EPY23518_19-99                        27.03%    failed      0.02%
+ 412  Lmaj_CAJ05650_24-100                         30.63%    failed      0.00%
+ 413  Lmaj_CAJ03225_23-100                         29.73%    failed      0.02%
+ 414  Symmic_Smic1605_130-199                      37.84%    passed     18.23%
+ 415  Perkma_EER12583_28-108                       27.03%    passed     88.68%
+ 416  Ptet_CAK88367_22-97                          31.53%    passed     28.16%
+ 417  Ptet_CAK58631_30-105                         31.53%    passed     28.16%
+WARNING: 2 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                        29.87%  12 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Morvir_scaffold47.g152.t1_26-103 is identical to Exapal_XP_020893578.1_26-103 but kept for subsequent analysis
+NOTE: Ctel_CapteP198869_159-232 is identical to Ctel_CapteP205827_159-232 but kept for subsequent analysis
+NOTE: Bralan_BL05479_evm0_43-119 is identical to Aque_Aqu2.1.08429_001_47-123 but kept for subsequent analysis
+NOTE: Hduj_OQV20927.1_26-103 is identical to Ramvar_GAU94133.1_26-103 but kept for subsequent analysis
+NOTE: Sarc_Sarc4_g12929T_26-104 is identical to Cfra_CFRG3585T1_26-103 but kept for subsequent analysis
+NOTE: Dmel_FBpp0091122_26-103 is identical to Scil_scpid111142_26-103 but kept for subsequent analysis
+NOTE: Mbre_EDQ90656_25-103 is identical to Mbre_EDQ85967_25-103 but kept for subsequent analysis
+NOTE: Cowc_KJE91166_26-103 is identical to Cowc_KJE89241_26-103 but kept for subsequent analysis
+NOTE: Otau_XP_022838377.1_26-103 is identical to Aplker_104514_26-104 but kept for subsequent analysis
+NOTE: Honfer_GBG24868_25-103 is identical to Aurlim_137655_25-104 but kept for subsequent analysis
+NOTE: Sbic_OQU86251_185-258 is identical to Bdis_KQK05861_117-190 but kept for subsequent analysis
+NOTE: Acoe_PIA26147.1_27-103 is identical to Smoe_EFJ18405_27-103 but kept for subsequent analysis
+NOTE: Azfi_s0056.g034070_59-134 is identical to Azfi_s0076.g037806_76-151 but kept for subsequent analysis
+NOTE: Sappar_KDO17680_26-103 is identical to Sappar_KDO17679_26-103 but kept for subsequent analysis
+NOTE: Pinf_PITG_03552T0_26-103 is identical to Esil_CBJ33198_29-106 but kept for subsequent analysis
+NOTE: Phatri_Phatr3_J26896.p1_26-103 is identical to Tpse_ACI64441_26-103 but kept for subsequent analysis
+NOTE: Plebac_Pbla_mRNA_4574_48-125 is identical to Rirr_GBC16827_45-121 but kept for subsequent analysis
+NOTE: Bden_EGF79075_29-106 is identical to Mcir_OAD03484_26-103 but kept for subsequent analysis
+NOTE: Cocsub_XP_005643645.1_26-103 is identical to Klenit_GAQ88012.1_26-103 but kept for subsequent analysis
+NOTE: Nutlon_comp14730_c0_seq1.p2_41-118 is identical to Ancsig_Gene.5596_48-125 but kept for subsequent analysis
+NOTE: Plebac_Pbla_mRNA_12614_26-107 is identical to Pbla_XP_018286973.1_26-107 but kept for subsequent analysis
+NOTE: Gthe_EKX37956_25-103 is identical to Gonavo_comp53101_c0_seq1_6_ORF5_135_57-135 but kept for subsequent analysis
+NOTE: Morelo_OAQ31267_25-103 is identical to Pbla_XP_018290322.1_25-103 but kept for subsequent analysis
+NOTE: Sros_EGD75966_24-103 is identical to Sros_EGD83228_24-103 but kept for subsequent analysis
+NOTE: Scer_YNL030W_25-103 is identical to Scer_YBR009C_25-103 but kept for subsequent analysis
+NOTE: Tgon_TGME49_239260-t26_1-p1-CDS1_25-103 is identical to Eimten_CDJ42422_25-103 but kept for subsequent analysis
+NOTE: Spom_SPBC1105.12.1_pep_24-103 is identical to Spom_SPAC1834.03c.1_pep_24-103 but kept for subsequent analysis
+NOTE: Tmel_CAZ81813_24-103 is identical to Ncra_EAA26766_24-103 but kept for subsequent analysis
+NOTE: Carmem_119.p1_35-113 is identical to Carmem_b2322.p1_38-116 but kept for subsequent analysis
+NOTE: Exapal_XP_020896800.1_30-107 is identical to Exapal_XP_020906586.1_30-107 but kept for subsequent analysis
+NOTE: Spis_XP_022792402_1_30-107 is identical to Adig_XP_015770236.1_30-107 but kept for subsequent analysis
+NOTE: vir_AMT81293.1_41-120 is identical to vir_AMT81297.1_41-120 but kept for subsequent analysis
+NOTE: vir_AMT81300.1_41-120 is identical to vir_AMT81292.1_41-120 but kept for subsequent analysis
+NOTE: vir_AEE09495.1_63-141 is identical to vir_AAV98010.1_63-141 but kept for subsequent analysis
+NOTE: vir_ALF62342.1_56-129 is identical to vir_ALF62340.1_56-129 but kept for subsequent analysis
+NOTE: Plebac_Pbla_mRNA_12473_16-97 is identical to Pbla_XP_018287451.1_16-96 but kept for subsequent analysis
+NOTE: Ptet_CAK58631_30-105 is identical to Ptet_CAK88367_22-97 but kept for subsequent analysis
+NOTE: 165 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Emul_CDI96644.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000145923.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE24004_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE24630_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091140_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000144745.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000481486.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000479106.2_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000151057.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Bralan_BL00197_evm0_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000350767.3_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Emue_0019g1141a_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000149954.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091116_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091138_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Aque_Aqu2.1.40839_001_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091148_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000462355.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000142621.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Adig_XP_015747528.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000142128.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE24360_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE24358_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091132_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE22196_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE6466_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091144_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000367034.3_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000155785.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000145839.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091146_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE8849_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Exapal_XP_020897888.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Notgen_g37816.t1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Emue_0019g705a_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000106245.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE20560_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE2470_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE24019_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000142419.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000155226.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000479461.2_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE14707_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000244537.6_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Emue_0022g428a_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091154_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000148625.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000082327.4_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Spis_XP_022792426_1_28-105 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Carmem_6448.p5_26-104 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000142101.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000155489.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE14104_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE23184_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091152_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0085280_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091130_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hydvul_Sc4wPfr_319.g27304.t1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE8840_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Emue_0018g273a_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000145342.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Emue_0022g240a_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Emue_0495g3a_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000142261.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Auraur_scaffold1826.g7.t1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Tadh_P23529_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000479794.2_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000347168.2_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000104379.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000142571.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE23384_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Sman_Smp_053300.1_pep_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000366956.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000157059.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE19440_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000148713.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE18669_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000153440.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091136_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Clim_evm13s167_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091118_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE24050_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0082421_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000142273.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091128_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000077832.3_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Linana_g18735.t1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE24648_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Emue_0019g1161a_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000366974.2_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000462667.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Helrob_HelroP187742_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Emue_0022g430a_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Cgig_EKC28010_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000129378.1_27-104 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000155402.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE24175_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE5226_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000155135.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dpul_EFX62752_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Tetwil_Twilhelma_g10938.t1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Lcom_lcpid229842_27-104 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE21356_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Spis_XP_022782075_1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000484789.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE21353_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Cscu_XP_023213286.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091142_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091150_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE5231_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091120_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000150900.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Ocar_g3774.t1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091134_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Drer_ENSDARP00000142308.1_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Nvec_NVE24024_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Emue_0022g429a_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Hsap_ENSP00000480960.2_26-103 (identical to Exapal_XP_020893578.1_26-103) is ignored but added at the end
+NOTE: Ctel_CapteP20749_144-217 (identical to Ctel_CapteP205827_159-232) is ignored but added at the end
+NOTE: Bralan_BL17666_evm0_7-83 (identical to Aque_Aqu2.1.08429_001_47-123) is ignored but added at the end
+NOTE: Dmel_FBpp0091124_26-103 (identical to Scil_scpid111142_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091114_26-103 (identical to Scil_scpid111142_26-103) is ignored but added at the end
+NOTE: Dmel_FBpp0091126_26-103 (identical to Scil_scpid111142_26-103) is ignored but added at the end
+NOTE: Mbre_EDQ85108_25-103 (identical to Mbre_EDQ85967_25-103) is ignored but added at the end
+NOTE: Schagg_42298_26-104 (identical to Aplker_104514_26-104) is ignored but added at the end
+NOTE: Hemkuk_17594_TR5806_c0_g1_27-105 (identical to Aplker_104514_26-104) is ignored but added at the end
+NOTE: Chrtob_KOO22339.1_26-103 (identical to Aplker_104514_26-104) is ignored but added at the end
+NOTE: Mpus_XP_003059520.1_26-103 (identical to Aplker_104514_26-104) is ignored but added at the end
+NOTE: Ehux_EOD03932_26-103 (identical to Aplker_104514_26-104) is ignored but added at the end
+NOTE: Fabtro_Gene.3905_26-104 (identical to Aplker_104514_26-104) is ignored but added at the end
+NOTE: Bdis_PNT61710_125-198 (identical to Bdis_KQK05861_117-190) is ignored but added at the end
+NOTE: Sphfal_Sphfalx05G059200.1.p_109-183 (identical to Bdis_KQK05861_117-190) is ignored but added at the end
+NOTE: Ppat_Pp3c27_7460V3.1_122-195 (identical to Bdis_KQK05861_117-190) is ignored but added at the end
+NOTE: Sbic_OQU89898_113-186 (identical to Bdis_KQK05861_117-190) is ignored but added at the end
+NOTE: Atri_ERM96612_27-103 (identical to Smoe_EFJ18405_27-103) is ignored but added at the end
+NOTE: Atha_AT2G28740.1_27-103 (identical to Smoe_EFJ18405_27-103) is ignored but added at the end
+NOTE: Atha_AT3G46320.1_27-103 (identical to Smoe_EFJ18405_27-103) is ignored but added at the end
+NOTE: Atha_AT5G59690.1_27-103 (identical to Smoe_EFJ18405_27-103) is ignored but added at the end
+NOTE: Atha_AT3G53730.1_27-103 (identical to Smoe_EFJ18405_27-103) is ignored but added at the end
+NOTE: Atha_AT3G45930.1_27-103 (identical to Smoe_EFJ18405_27-103) is ignored but added at the end
+NOTE: Atha_AT1G07660.1_27-103 (identical to Smoe_EFJ18405_27-103) is ignored but added at the end
+NOTE: Atha_AT1G07820.1_27-103 (identical to Smoe_EFJ18405_27-103) is ignored but added at the end
+NOTE: Marpol_PTQ27186_27-103 (identical to Smoe_EFJ18405_27-103) is ignored but added at the end
+NOTE: Atha_AT5G59970.1_27-103 (identical to Smoe_EFJ18405_27-103) is ignored but added at the end
+NOTE: Sacu_v1.1_s0041.g012615_84-159 (identical to Azfi_s0076.g037806_76-151) is ignored but added at the end
+NOTE: Alblai_CCA15305_26-103 (identical to Esil_CBJ33198_29-106) is ignored but added at the end
+NOTE: Coka_g12259.t1_26-103 (identical to Esil_CBJ33198_29-106) is ignored but added at the end
+NOTE: Aano_EGB03228_26-103 (identical to Esil_CBJ33198_29-106) is ignored but added at the end
+NOTE: Pbla_XP_018294766.1_48-124 (identical to Rirr_GBC16827_45-121) is ignored but added at the end
+NOTE: Mcir_OAD00958_29-106 (identical to Mcir_OAD03484_26-103) is ignored but added at the end
+NOTE: Pisp_OUM66373.1_26-103 (identical to Mcir_OAD03484_26-103) is ignored but added at the end
+NOTE: Plebac_Pbla_mRNA_8870_26-104 (identical to Mcir_OAD03484_26-103) is ignored but added at the end
+NOTE: Pbla_XP_018291083.1_26-103 (identical to Mcir_OAD03484_26-103) is ignored but added at the end
+NOTE: Umbram_206617_26-104 (identical to Mcir_OAD03484_26-103) is ignored but added at the end
+NOTE: Rirr_GBC33120_26-103 (identical to Mcir_OAD03484_26-103) is ignored but added at the end
+NOTE: Plebac_Pbla_mRNA_8998_25-104 (identical to Pbla_XP_018290322.1_25-103) is ignored but added at the end
+NOTE: Morelo_OAQ25419_23-101 (identical to Pbla_XP_018290322.1_25-103) is ignored but added at the end
+NOTE: Spun_KNC96051_25-103 (identical to Pbla_XP_018290322.1_25-103) is ignored but added at the end
+NOTE: Spom_SPBC8D2.03c.1_pep_24-103 (identical to Spom_SPAC1834.03c.1_pep_24-103) is ignored but added at the end
+NOTE: Carmem_b4367.p1_34-112 (identical to Carmem_b2322.p1_38-116) is ignored but added at the end
+NOTE: Carmem_b1785.p1_37-115 (identical to Carmem_b2322.p1_38-116) is ignored but added at the end
+NOTE: Carmem_b12809.p1_39-117 (identical to Carmem_b2322.p1_38-116) is ignored but added at the end
+NOTE: Carmem_b12678.p1_35-113 (identical to Carmem_b2322.p1_38-116) is ignored but added at the end
+NOTE: Adig_XP_015747488.1_30-107 (identical to Adig_XP_015770236.1_30-107) is ignored but added at the end
+NOTE: vir_ALF62341.1_56-129 (identical to vir_ALF62340.1_56-129) is ignored but added at the end
+Alignment was printed to alignments/all.Histone.to_histdb/CC31_H4.iqt.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to alignments/all.Histone.to_histdb/CC31_H4.iqt.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.021 seconds
+Measuring multi-threading efficiency up to 8 CPU cores
+Increase to 10 rounds for branch lengths
+24 trees examined
+Threads: 1 / Time: 8.256 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -8798
+Threads: 2 / Time: 5.340 sec / Speedup: 1.546 / Efficiency: 77% / LogL: -8798
+Threads: 3 / Time: 4.262 sec / Speedup: 1.937 / Efficiency: 65% / LogL: -8798
+Threads: 4 / Time: 3.899 sec / Speedup: 2.118 / Efficiency: 53% / LogL: -8798
+Threads: 5 / Time: 3.844 sec / Speedup: 2.148 / Efficiency: 43% / LogL: -8798
+BEST NUMBER OF THREADS: 4
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -5630.720
+2. Current log-likelihood: -5624.365
+3. Current log-likelihood: -5622.891
+Optimal log-likelihood: -5622.212
+Proportion of invariable sites: 0.067
+Gamma shape alpha: 0.687
+Parameters optimization took 3 rounds (0.247 sec)
+Time for fast ML tree search: 2.507 seconds
+
+NOTE: ModelFinder requires 19 MB RAM!
+ModelFinder will test up to 8 protein models (sample size: 111) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            6066.980     501 13135.960    516139.960   14493.435
+  2  LG+I          5999.704     502 13003.408    518015.408   14363.593
+  3  LG+G4         5654.368     502 12312.736    517324.736   13672.920
+  4  LG+I+G4       5621.811     503 12249.622    519273.622   13612.516
+  8  LG+F+I+G4     5766.734     522 12577.468    558589.468   13991.842
+Akaike Information Criterion:           LG+I+G4
+Corrected Akaike Information Criterion: LG
+Bayesian Information Criterion:         LG+I+G4
+Best-fit model: LG+I+G4 chosen according to BIC
+
+All model information printed to alignments/all.Histone.to_histdb/CC31_H4.iqt.model.gz
+CPU time for ModelFinder: 82.762 seconds (0h:1m:22s)
+Wall-clock time for ModelFinder: 29.308 seconds (0h:0m:29s)
+
+NOTE: 19 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 0.713 / Estimate: 0.000, 0.634 / LogL: -5629.813
+Init pinv, alpha: 0.023, 0.713 / Estimate: 0.063, 0.708 / LogL: -5621.826
+Init pinv, alpha: 0.046, 0.713 / Estimate: 0.062, 0.710 / LogL: -5621.842
+Init pinv, alpha: 0.069, 0.713 / Estimate: 0.069, 0.710 / LogL: -5621.804
+Init pinv, alpha: 0.092, 0.713 / Estimate: 0.075, 0.709 / LogL: -5621.824
+Init pinv, alpha: 0.115, 0.713 / Estimate: 0.072, 0.707 / LogL: -5621.809
+Init pinv, alpha: 0.138, 0.713 / Estimate: 0.073, 0.710 / LogL: -5621.813
+Init pinv, alpha: 0.161, 0.713 / Estimate: 0.074, 0.709 / LogL: -5621.818
+Init pinv, alpha: 0.184, 0.713 / Estimate: 0.075, 0.709 / LogL: -5621.825
+Init pinv, alpha: 0.207, 0.713 / Estimate: 0.076, 0.708 / LogL: -5621.833
+Optimal pinv,alpha: 0.069, 0.710 / LogL: -5621.804
+
+Parameters optimization took 1.144 sec
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 1.058411 sec (of wall-clock time) 4.216384 sec(of CPU time)
+Computing RapidNJ tree took 0.004820 sec (of wall-clock time) 0.011455 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -5639.329
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -5613.713
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 2: -5584.831
+Finish initializing candidate tree set (4)
+Current best tree score: -5584.831 / CPU time: 1.336
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:3s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -5584.831
+Optimal log-likelihood: -5584.818
+Proportion of invariable sites: 0.066
+Gamma shape alpha: 0.681
+Parameters optimization took 1 rounds (0.068 sec)
+BEST SCORE FOUND : -5584.818
+Total tree length: 48.798
+
+Total number of iterations: 2
+CPU time used for tree search: 5.347 sec (0h:0m:5s)
+Wall-clock time used for tree search: 1.337 sec (0h:0m:1s)
+Total CPU time used: 16.148 sec (0h:0m:16s)
+Total wall-clock time used: 4.000 sec (0h:0m:4s)
+
+Analysis results written to: 
+  IQ-TREE report:                alignments/all.Histone.to_histdb/CC31_H4.iqt.iqtree
+  Maximum-likelihood tree:       alignments/all.Histone.to_histdb/CC31_H4.iqt.treefile
+  Likelihood distances:          alignments/all.Histone.to_histdb/CC31_H4.iqt.mldist
+  Screen log file:               alignments/all.Histone.to_histdb/CC31_H4.iqt.log
+
+Date and Time: Mon Mar  1 19:49:15 2021

@@ -1,0 +1,132 @@
+# pfam_scan.pl,  run at Fri Dec 18 14:55:59 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Cavfas.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Cavfas_EGG14714    144    208    142    220 PF03732.18  Retrotrans_gag    Family     3    71    96     40.9   1.9e-10   1 CL0523   
+#HMM       astslegaAkswlkslvarsidasesWkdlkkaflktflpserkdqleeelsslrQgtesvreYvtrfk
+#MATCH     a ++l+g+A+sw+ s++a si+   sW+ +k+a++++f p +  d ++++l++l+Q++ s++eY+ +f+
+#PP        7789*********99876.688...8****************************************996
+#SEQ       ARSFLTGPASSWFISVEA-SIN---SWDAFKSALKNRFSPVNAADVARAKLWKLSQDKLSIQEYTSTFD
+Cavfas_EGG14714    462    620    462    622 PF00078.28  RVT_1             Family     1   220   222    107.8   5.6e-31   1 CL0027   
+#HMM       ipKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGv
+#MATCH     ++Kk+ g+ R+ +     d++alnk ++          +  ++p++++              ++k +kak+++k+Dlk++F++++ + +   +taf++p                         +g+ye++++p+G+ ++P+ f +++n ++ ++       +++ Y+DDili+s++++++ e+++ v ++l++++l  n++K++++      +ev++LG+
+#PP        68***.*****55.....***********.........***********.............7899*********************************.........................9*******************************9....69********************************************.....8*******8
+#SEQ       VRKKD-GTLRMcV-----DFRALNKQTVA---------DRFPLPRIDQL-------------IEKIAKAKIFSKIDLKDGFNQIRIKDEHTHKTAFSTP-------------------------SGHYEYTVIPFGLRNAPSAFVRAINAAFADILD----TFVIIYIDDILIFSENENDHYEHIKQVLDRLRSNKLFANKAKSSFL-----VKEVEFLGH
+#CS        EE-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTE
+Cavfas_EGG14714    684    751    684    775 PF17919.2   RT_RNaseH_2       Domain     1    73   100     57.7   9.3e-16   1 CL0219   
+#HMM       WteeqekafeklkealtsapvLalpdpdkpfiletDaSdtgiGavLsqedddgkerpiafaSrklskaernys
+#MATCH     W+++  +af k+k+ l++ + L +pd d pf+++tDaSd+giGavL q        p+af Srk++kaer   
+#PP        99**********************************************999.....*************9765
+#SEQ       WSDSLSAAFGKIKSLLCECTSLFIPDMDGPFTVTTDASDFGIGAVLEQDGR-----PVAFESRKMTKAERDAV
+Cavfas_EGG14977    558    713    551    713 PF00078.28  RVT_1             Family    17   222   222    100.3   1.1e-28   1 CL0027   
+#HMM       vdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra..kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     +dy+ ln+++           +++++  ++               l k+++ak+++klD kk+F +++ +e+++++ta+++p                          g y ++++p+G  ++P++f ++m+++++e+ ++   +++++++Y+DDil++sk++e+++++le+v ++++e+ + +n +K+ l+     + ev + G+++
+#PP        577777777777.........55555444444.............6688*********************************.........................9********************************99**************************************************.....9*******986
+#SEQ       HDYRTLNAITET---------DNHPIQFIPVL-------------LTKMAGAKIFSKLDAKKGFYQIRIREEDKEKTAVQTP-------------------------MGVYHYRVMPMGVRNAPATFCRLMDKIIQEIYEENkdEEIFVICYIDDILVFSKNEEDHKRHLEIVLKKMEEHLVYLNGSKCDLF-----KVEVAFVGYKI
+#CS        .-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T........TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Cavfas_EGG14977    806    909    805    909 PF17917.2   RT_RNaseH         Domain     2   105   105    106.8   6.2e-31   1 CL0219   
+#HMM       pskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH      +k f+++tDAs++g+g v+sq +edge +p+ f Srk+++aernyst+++ellA ++ l+k+rh   g+k+t++tDh+nl+y  sk++l++r  +w++ L e+
+#PP        5899**********************************************************************************99999*********9886
+#SEQ       GNKDFVIHTDASNYGVGSVVSQLDEDGEYHPVIFESRKMTPAERNYSTTDRELLAAIHVLQKYRHHFLGRKVTIYTDHNNLTYWDSKHQLSARERNWLEILGEF
+#CS        TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Cavfas_EGG14977    987   1045    987   1046 PF17921.2   Integrase_H2C2    Domain     1    57    58     56.2   2.6e-15   1 CL0361   
+#HMM       vpkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     v+k+++ +il e H    +gHlGi+k + ++r++y+W g+++ + k++ sC++Cqr+++
+#PP        78999***************************************************986
+#SEQ       VDKKHIAKILDESHAGyiGGHLGITKSYMKIRSNYFWIGLHSSIVKFIGSCDICQRSNK
+Cavfas_EGG14977   1065   1157   1061   1157 PF00665.27  rve               Domain     8   102   102     37.0   3.2e-09   1 CL0219   
+#HMM       wqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     +++D++ ++  +++g   llvv+d  s++++ +a+++e++a  +++ll + v + +g+ p  ++sD+ + +ts  + e+    g++ +++ p rp
+#PP        578999888.4566699*****************************************.*********************************998
+#SEQ       ISMDFMSLP-TSKNGMDNLLVVVDRLSKMVHLMACTKEIDAVGTAKLLFNNVFRLHGL-PSSIVSDRDPRFTSDLWSELMTAIGTKLKMSTPNRP
+Cavfas_EGG14977   1366   1416   1366   1417 PF00385.25  Chromo            Domain     1    53    54     39.8   3.2e-10   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     ++Ve+I++++ +  +++ +Y+V Wkg+p +e +W + e++e+c  e++d F++
+#PP        68********9999888**************************..67999986
+#SEQ       FVVEKILAKKLVGRNKKVQYFVLWKGYPIDEGSWVDHEQVEDC--EALDIFEQ
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Cavfas_EGG16520    102    166    100    178 PF03732.18  Retrotrans_gag    Family     3    71    96     41.0   1.8e-10   1 CL0523   
+#HMM       astslegaAkswlkslvarsidasesWkdlkkaflktflpserkdqleeelsslrQgtesvreYvtrfk
+#MATCH     a ++l+g+A+sw+ s++a si+   sW+ +k+a++++f p +  d ++++l++l+Q++ s++eY+ +f+
+#PP        7789*********99876.688...8****************************************996
+#SEQ       ARSFLTGPASSWFISVEA-SIN---SWDAFKSALKNRFSPVNAADVARAKLWKLSQDKLSIQEYTSTFD
+Cavfas_EGG16520    420    578    420    580 PF00078.28  RVT_1             Family     1   220   222    107.9   5.4e-31   1 CL0027   
+#HMM       ipKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGv
+#MATCH     ++Kk+ g+ R+ +     d++alnk ++          +  ++p++++              ++k +kak+++k+Dlk++F++++ + +   +taf++p                         +g+ye++++p+G+ ++P+ f +++n ++ ++       +++ Y+DDili+s++++++ e+++ v ++l++++l  n++K++++      +ev++LG+
+#PP        68***.*****55.....***********.........***********.............7899*********************************.........................9*******************************9....69********************************************.....8*******8
+#SEQ       VRKKD-GTLRMcV-----DFRALNKQTVA---------DRFPLPRIDQL-------------IEKIAKAKIFSKIDLKDGFNQIRIKDEHTHKTAFSTP-------------------------SGHYEYTVIPFGLRNAPSAFVRAINAAFADILD----TFVIIYIDDILIFSENENDHYEHIKQVLDRLRSNKLFANKAKSSFL-----VKEVEFLGH
+#CS        EE-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTE
+Cavfas_EGG16520    642    709    642    733 PF17919.2   RT_RNaseH_2       Domain     1    73   100     57.7     9e-16   1 CL0219   
+#HMM       WteeqekafeklkealtsapvLalpdpdkpfiletDaSdtgiGavLsqedddgkerpiafaSrklskaernys
+#MATCH     W+++  +af k+k+ l++ + L +pd d pf+++tDaSd+giGavL q        p+af Srk++kaer   
+#PP        99**********************************************999.....*************9765
+#SEQ       WSDSLSAAFGKIKSLLCECTSLFIPDMDGPFTVTTDASDFGIGAVLEQDGR-----PVAFESRKMTKAERDAV
+Cavfas_EGG22119    611    766    604    766 PF00078.28  RVT_1             Family    17   222   222     98.9   2.9e-28   1 CL0027   
+#HMM       vdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra..kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH     +dy+ ln+++           +++++  ++               l k+++ak+++klD kk+F +++ +e+++++ta+++p                          g y ++++p+G  ++P++f ++m+++++e+  +   +++++++Y+DDil++sk++e+++++++ v ++++e+ + +n +K+ l+     ++ev + G+++
+#PP        577777777777.........55555444444.............6689*********************************.........................9********************************999*************************************************.....9*******986
+#SEQ       HDYRTLNAITET---------DNHPIQFIPVL-------------LTKMAGAKIFSKLDAKKGFYQIRIREEDKEKTAVQTP-------------------------MGVYHYRVMPMGVRNAPATFCRLMDKIIQEIYDENkdEEIFVICYIDDILVFSKNEEDHKRHVSLVLKKMEEHLVYLNGSKCDLF-----KDEVAFVGYKI
+#CS        .-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T........TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Cavfas_EGG22119    803    885    800    889 PF17919.2   RT_RNaseH_2       Domain     6    88   100     87.3   5.7e-25   1 CL0219   
+#HMM       ekafeklkealtsapvLalpdpdkpfiletDaSdtgiGavLsqedddgkerpiafaSrklskaernysttekellAivfalkk
+#MATCH     ++a+ k+ke lts+pv+++ d +k+f+++tDaS++g+G v sq d+dg+ +p+ f Srk+++aernystt++ellA ++ l+k
+#PP        58999**************************************************************************9997
+#SEQ       KQAVLKCKEILTSKPVMKILDGNKDFVIHTDASNYGVGSVVSQLDEDGEYHPVIFESRKMTPAERNYSTTDRELLAAIHVLQK
+Cavfas_EGG22119    914    971    913    972 PF17921.2   Integrase_H2C2    Domain     2    57    58     54.7   7.9e-15   1 CL0361   
+#HMM       pkslrkeilkelHds..agHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     +k+++ +il e H    +gHlGi+k + ++r++y+W g+++ + k++ sC++Cqr+++
+#PP        578999*************************************************986
+#SEQ       NKKHIAKILDESHAGyiGGHLGITKSYMKIRSNYFWIGLHSSIVKFIGSCDICQRSNK
+Cavfas_EGG22119    991   1083    987   1083 PF00665.27  rve               Domain     8   102   102     37.1     3e-09   1 CL0219   
+#HMM       wqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     +++D++ ++  +++g   llvv+d  s++++ +a+++e++a  +++ll + v + +g+ p  ++sD+ + +ts  + e+    g++ +++ p rp
+#PP        578999888.4566699*****************************************.*********************************998
+#SEQ       ISMDFMSLP-TSKNGMDNLLVVVDRLSKMVHLMACTKEIDAVGTAKLLFNNVFRLHGL-PSSIVSDRDPRFTSDLWSELMTAIGTKLKMSTPNRP
+Cavfas_EGG22119   1292   1342   1292   1343 PF00385.25  Chromo            Domain     1    53    54     39.9     3e-10   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     ++Ve+I++++ +  +++ +Y+V Wkg+p +e +W + e++e+c  e++d F++
+#PP        68********9999888**************************..67999986
+#SEQ       FVVEKILAKKLVGRNKKVQYFVLWKGYPIDEGSWVDHEQVEDC--EALDIFEQ
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH
+Cavfas_EGG24134    102    166    100    178 PF03732.18  Retrotrans_gag    Family     3    71    96     41.0   1.8e-10   1 CL0523   
+#HMM       astslegaAkswlkslvarsidasesWkdlkkaflktflpserkdqleeelsslrQgtesvreYvtrfk
+#MATCH     a ++l+g+A+sw+ s++a si+   sW+ +k+a++++f p +  d ++++l++l+Q++ s++eY+ +f+
+#PP        7789*********99876.688...8****************************************996
+#SEQ       ARSFLTGPASSWFISVEA-SIN---SWDAFKSALKNRFSPVNAADVARAKLWKLSQDKLSIQEYTSTFD
+Cavfas_EGG24134    420    578    420    580 PF00078.28  RVT_1             Family     1   220   222    107.8   5.5e-31   1 CL0027   
+#HMM       ipKkgpgsyRp.isllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGv
+#MATCH     ++Kk+ g+ R+ +     d++alnk ++          +  ++p++++              ++k +kak+++k+Dlk++F++++ + +   +taf++p                         +g+ye++++p+G+ ++P+ f +++n ++ ++       +++ Y+DDili+s++++++ e+++ v ++l++++l  n++K++++      +ev++LG+
+#PP        68***.*****55.....***********.........***********.............7899*********************************.........................9*******************************9....69********************************************.....8*******8
+#SEQ       VRKKD-GTLRMcV-----DFRALNKQTVA---------DRFPLPRIDQL-------------IEKIAKAKIFSKIDLKDGFNQIRIKDEHTHKTAFSTP-------------------------SGHYEYTVIPFGLRNAPSAFVRAINAAFADILD----TFVIIYIDDILIFSENENDHYEHIKQVLDRLRSNKLFANKAKSSFL-----VKEVEFLGH
+#CS        EE-TT.S-EEE.......-THHHHCTB--.........-------HHHH.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTE
+Cavfas_EGG24134    642    709    642    733 PF17919.2   RT_RNaseH_2       Domain     1    73   100     57.7   9.1e-16   1 CL0219   
+#HMM       WteeqekafeklkealtsapvLalpdpdkpfiletDaSdtgiGavLsqedddgkerpiafaSrklskaernys
+#MATCH     W+++  +af k+k+ l++ + L +pd d pf+++tDaSd+giGavL q        p+af Srk++kaer   
+#PP        99**********************************************999.....*************9765
+#SEQ       WSDSLSAAFGKIKSLLCECTSLFIPDMDGPFTVTTDASDFGIGAVLEQDGR-----PVAFESRKMTKAERDAV

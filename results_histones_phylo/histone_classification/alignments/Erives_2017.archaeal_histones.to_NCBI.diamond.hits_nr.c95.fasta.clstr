@@ -1,0 +1,404 @@
+>Cluster 0
+0	76aa, >arc_AEB68168.1_1-76|Erives2017... *
+1	76aa, >arc_OPX76823.1_1-76|Erives2017... at 96.05%
+2	76aa, >arc_OPX78627.1_1-76|Erives2017... at 100.00%
+3	76aa, >arc_OPY47890.1_1-76|Erives2017... at 96.05%
+4	76aa, >arc_RQW77674.1_1-76|Erives2017... at 96.05%
+5	76aa, >arc_VVB72063.1_1-76|Erives2017... at 98.68%
+6	76aa, >arc_WP_013719213.1_1-76|Erives2017... at 100.00%
+>Cluster 1
+0	76aa, >arc_OPY53054.1_1-76|Erives2017... *
+>Cluster 2
+0	76aa, >arc_OPY54940.1_1-76|Erives2017... *
+>Cluster 3
+0	76aa, >arc_OQB20086.1_1-76|Erives2017... *
+1	76aa, >arc_OYV08972.1_1-76|Erives2017... at 97.37%
+2	76aa, >arc_OYV12834.1_1-76|Erives2017... at 97.37%
+3	76aa, >arc_OYV14193.1_1-76|Erives2017... at 97.37%
+>Cluster 4
+0	73aa, >arc_VVB63441.1_1-73|Erives2017... *
+>Cluster 5
+0	71aa, >arc_AET63785.1_1-71|Erives2017... *
+1	71aa, >arc_KUK44844.1_1-71|Erives2017... at 98.59%
+2	71aa, >arc_KUK96273.1_1-71|Erives2017... at 98.59%
+3	71aa, >arc_OPX80183.1_1-71|Erives2017... at 100.00%
+4	71aa, >arc_OPY54726.1_1-71|Erives2017... at 100.00%
+5	71aa, >arc_WP_014585970.1_1-71|Erives2017... at 100.00%
+>Cluster 6
+0	71aa, >arc_KAB2945744.1_7-77|Erives2017... *
+1	71aa, >arc_KPQ42730.1_7-77|Erives2017... at 100.00%
+2	71aa, >arc_PWB54550.1_7-77|Erives2017... at 95.77%
+3	71aa, >arc_VVB53895.1_7-77|Erives2017... at 100.00%
+4	71aa, >arc_WP_097299326.1_7-77|Erives2017... at 100.00%
+>Cluster 7
+0	71aa, >arc_OPX80233.1_1-71|Erives2017... *
+>Cluster 8
+0	71aa, >arc_VVB96810.1_6-76|Erives2017... *
+>Cluster 9
+0	70aa, >arc_ABK13826.1_1-70|Erives2017... *
+>Cluster 10
+0	69aa, >arc_RLG59890.1_1-69|Erives2017... *
+>Cluster 11
+0	68aa, >arc_OUJ18396.1_1-68|Erives2017... at 97.06%
+1	69aa, >arc_RZN63089.1_1-69|Erives2017... *
+2	68aa, >arc_WP_086637677.1_1-68|Erives2017... at 97.06%
+>Cluster 12
+0	68aa, >arc_ADI74788.1_1-68|Erives2017... *
+1	68aa, >arc_WP_013195353.1_1-68|Erives2017... at 100.00%
+>Cluster 13
+0	68aa, >arc_ETA68583.1_1-68|Erives2017... *
+1	68aa, >arc_SDF67777.1_1-68|Erives2017... at 97.06%
+2	68aa, >arc_TQD25144.1_1-68|Erives2017... at 97.06%
+3	68aa, >arc_WP_023845718.1_1-68|Erives2017... at 100.00%
+4	68aa, >arc_WP_091709407.1_1-68|Erives2017... at 97.06%
+>Cluster 14
+0	68aa, >arc_KCZ72620.1_7-74|Erives2017... *
+1	68aa, >arc_WP_102044965.1_3-70|Erives2017... at 100.00%
+>Cluster 15
+0	64aa, >arc_AFV23417.1_1-64|Erives2017... at 96.88%
+1	68aa, >arc_KXS45181.1_1-68|Erives2017... *
+2	68aa, >arc_TGC09655.1_1-68|Erives2017... at 95.59%
+3	68aa, >arc_WP_135389167.1_1-68|Erives2017... at 95.59%
+>Cluster 16
+0	68aa, >arc_OFV66632.1_3-70|Erives2017... *
+1	68aa, >arc_RJS71065.1_1-68|Erives2017... at 100.00%
+>Cluster 17
+0	68aa, >arc_OFV67413.1_1-68|Erives2017... *
+1	68aa, >arc_RLG35517.1_1-68|Erives2017... at 100.00%
+>Cluster 18
+0	68aa, >arc_OKY78445.1_1-68|Erives2017... *
+>Cluster 19
+0	68aa, >arc_OPY17159.1_1-68|Erives2017... *
+1	68aa, >arc_OPY20681.1_1-68|Erives2017... at 98.53%
+2	68aa, >arc_WP_015323859.1_1-68|Erives2017... at 95.59%
+>Cluster 20
+0	68aa, >arc_PTD93906.1_1-68|Erives2017... *
+>Cluster 21
+0	68aa, >arc_SFM85894.1_1-68|Erives2017... *
+1	68aa, >arc_WP_091937712.1_1-68|Erives2017... at 100.00%
+>Cluster 22
+0	68aa, >arc_SNQ62340.1_7-74|Erives2017... *
+1	68aa, >arc_VVB86792.1_7-74|Erives2017... at 98.53%
+2	68aa, >arc_WP_096206920.1_7-74|Erives2017... at 100.00%
+>Cluster 23
+0	68aa, >arc_TAN36437.1_7-74|Erives2017... *
+>Cluster 24
+0	68aa, >arc_TRZ88775.1_7-74|Erives2017... *
+>Cluster 25
+0	68aa, >arc_VUT27968.1_1-68|Erives2017... *
+1	68aa, >arc_WP_144142712.1_1-68|Erives2017... at 100.00%
+>Cluster 26
+0	68aa, >arc_VVB89515.1_7-74|Erives2017... *
+>Cluster 27
+0	68aa, >arc_VVB94163.1_7-74|Erives2017... *
+>Cluster 28
+0	68aa, >arc_WP_094227320.1_1-68|Erives2017... *
+>Cluster 29
+0	67aa, >arc_AAB53861.1_1-67|Erives2017... *
+1	67aa, >arc_sp|P95669.3|HANA_THEZI_1-67|Erives2017... at 100.00%
+2	67aa, >arc_WP_010477073.1_1-67|Erives2017... at 97.01%
+>Cluster 30
+0	67aa, >arc_AAB90902.1_6-72|Erives2017... *
+1	67aa, >arc_AIG97158.1_1-67|Erives2017... at 98.51%
+2	67aa, >arc_KUJ92703.1_1-67|Erives2017... at 98.51%
+3	67aa, >arc_sp|O29910.1|HAF1_ARCFU_6-72|Erives2017... at 100.00%
+4	67aa, >arc_WP_010877844.1_6-72|Erives2017... at 100.00%
+>Cluster 31
+0	67aa, >arc_ACS90532.1_1-67|Erives2017... *
+1	67aa, >arc_KUK16976.1_1-67|Erives2017... at 100.00%
+2	67aa, >arc_KUK27947.1_1-67|Erives2017... at 100.00%
+3	67aa, >arc_RLF79735.1_1-67|Erives2017... at 98.51%
+4	67aa, >arc_RLF85317.1_1-67|Erives2017... at 97.01%
+5	67aa, >arc_WP_015849749.1_1-67|Erives2017... at 100.00%
+6	66aa, >arc_WP_156300730.1_1-66|Erives2017... at 96.97%
+7	67aa, >arc_WP_167888978.1_1-67|Erives2017... at 97.01%
+>Cluster 32
+0	67aa, >arc_ADT83177.1_1-67|Erives2017... *
+1	67aa, >arc_AEH23840.1_1-67|Erives2017... at 95.52%
+2	67aa, >arc_AHF79684.1_1-67|Erives2017... at 100.00%
+3	67aa, >arc_AHL21670.1_1-67|Erives2017... at 97.01%
+4	67aa, >arc_ALM74217.1_1-67|Erives2017... at 100.00%
+5	67aa, >arc_ALV63249.1_1-67|Erives2017... at 95.52%
+6	67aa, >arc_AMQ19125.1_1-67|Erives2017... at 95.52%
+7	67aa, >arc_ANF23023.1_1-67|Erives2017... at 97.01%
+8	67aa, >arc_ASJ00192.1_1-67|Erives2017... at 95.52%
+9	67aa, >arc_ASJ12022.1_1-67|Erives2017... at 95.52%
+10	67aa, >arc_BAA77575.1_1-67|Erives2017... at 95.52%
+11	67aa, >arc_BAD85602.1_1-67|Erives2017... at 95.52%
+12	67aa, >arc_CAT72447.1_1-67|Erives2017... at 95.52%
+13	67aa, >arc_EHR78220.1_1-67|Erives2017... at 95.52%
+14	67aa, >arc_SEW09872.1_1-67|Erives2017... at 95.52%
+15	67aa, >arc_sp|Q9Y8I1.1|HARA_THEKO_1-67|Erives2017... at 95.52%
+16	67aa, >arc_WP_011250364.1_1-67|Erives2017... at 95.52%
+17	67aa, >arc_WP_013466475.1_1-67|Erives2017... at 100.00%
+18	67aa, >arc_WP_013904898.1_1-67|Erives2017... at 95.52%
+19	67aa, >arc_WP_042688694.1_1-67|Erives2017... at 97.01%
+20	67aa, >arc_WP_062390205.1_1-67|Erives2017... at 95.52%
+21	67aa, >arc_WP_068666274.1_1-67|Erives2017... at 97.01%
+22	67aa, >arc_WP_074631403.1_1-67|Erives2017... at 95.52%
+23	67aa, >arc_WP_088884533.1_1-67|Erives2017... at 95.52%
+24	67aa, >arc_WP_099210113.1_1-67|Erives2017... at 98.51%
+25	67aa, >arc_WP_167894615.1_1-67|Erives2017... at 97.01%
+>Cluster 33
+0	67aa, >arc_AEA47234.1_1-67|Erives2017... *
+1	67aa, >arc_RLI88095.1_1-67|Erives2017... at 97.01%
+2	67aa, >arc_WP_013683896.1_1-67|Erives2017... at 100.00%
+>Cluster 34
+0	67aa, >arc_AEK72656.1_1-67|Erives2017... *
+1	67aa, >arc_AFL94617.1_1-67|Erives2017... at 95.52%
+2	67aa, >arc_ASJ08794.1_1-67|Erives2017... at 95.52%
+3	67aa, >arc_KUH31667.1_1-67|Erives2017... at 100.00%
+4	67aa, >arc_QDA30973.1_1-67|Erives2017... at 98.51%
+5	67aa, >arc_QEK14533.1_1-67|Erives2017... at 100.00%
+6	67aa, >arc_WP_014012340.1_1-67|Erives2017... at 100.00%
+7	67aa, >arc_WP_014788258.1_1-67|Erives2017... at 95.52%
+8	67aa, >arc_WP_088856030.1_1-67|Erives2017... at 95.52%
+9	67aa, >arc_WP_139680328.1_1-67|Erives2017... at 98.51%
+10	67aa, >arc_WP_167890399.1_1-67|Erives2017... at 97.01%
+>Cluster 35
+0	67aa, >arc_AGK60764.1_1-67|Erives2017... *
+1	67aa, >arc_WP_015590363.1_1-67|Erives2017... at 100.00%
+>Cluster 36
+0	67aa, >arc_AIU69875.1_1-67|Erives2017... *
+1	67aa, >arc_ASJ06692.1_1-67|Erives2017... at 97.01%
+2	67aa, >arc_WP_050002849.1_1-67|Erives2017... at 100.00%
+3	67aa, >arc_WP_088853948.1_1-67|Erives2017... at 97.01%
+>Cluster 37
+0	67aa, >arc_AIY90720.1_1-67|Erives2017... *
+1	67aa, >arc_WP_048092641.1_2-68|Erives2017... at 100.00%
+>Cluster 38
+0	67aa, >arc_AKG92169.1_1-67|Erives2017... *
+1	67aa, >arc_WP_048094515.1_2-68|Erives2017... at 100.00%
+>Cluster 39
+0	67aa, >arc_ASA77135.1_1-67|Erives2017... *
+1	67aa, >arc_ASJ14408.1_1-67|Erives2017... at 100.00%
+2	67aa, >arc_WP_042697791.1_1-67|Erives2017... at 95.52%
+3	67aa, >arc_WP_088180029.1_1-67|Erives2017... at 100.00%
+4	67aa, >arc_WP_167891731.1_1-67|Erives2017... at 95.52%
+>Cluster 40
+0	67aa, >arc_ASJ04222.1_1-67|Erives2017... *
+1	67aa, >arc_WP_088864251.1_1-67|Erives2017... at 100.00%
+>Cluster 41
+0	67aa, >arc_KUJ99045.1_1-67|Erives2017... *
+1	67aa, >arc_RLF81200.1_1-67|Erives2017... at 97.01%
+2	67aa, >arc_RLF87995.1_1-67|Erives2017... at 97.01%
+3	67aa, >arc_WP_004068982.1_1-67|Erives2017... at 98.51%
+4	67aa, >arc_WP_087037385.1_1-67|Erives2017... at 97.01%
+>Cluster 42
+0	67aa, >arc_RLI70808.1_1-67|Erives2017... *
+1	67aa, >arc_RLI76062.1_1-67|Erives2017... at 100.00%
+>Cluster 43
+0	67aa, >arc_RLI84252.1_1-67|Erives2017... *
+>Cluster 44
+0	67aa, >arc_TDA25456.1_1-67|Erives2017... *
+>Cluster 45
+0	67aa, >arc_WP_016358304.1_1-67|Erives2017... *
+>Cluster 46
+0	67aa, >arc_WP_167913243.1_1-67|Erives2017... *
+>Cluster 47
+0	66aa, >arc_AAA73426.1_1-66|Erives2017... *
+1	66aa, >arc_AFK23282.1_2-67|Erives2017... at 100.00%
+2	66aa, >arc_AMM55009.1_1-66|Erives2017... at 100.00%
+3	66aa, >arc_ASJ17557.1_1-66|Erives2017... at 100.00%
+4	66aa, >arc_CUX78849.1_1-66|Erives2017... at 100.00%
+5	66aa, >arc_RLF92116.1_1-66|Erives2017... at 100.00%
+6	66aa, >arc_sp|P50485.1|HARA_PYRSG_1-66|Erives2017... at 100.00%
+7	66aa, >arc_WP_048056246.1_1-66|Erives2017... at 100.00%
+>Cluster 48
+0	66aa, >arc_AAL81955.1_1-66|Erives2017... *
+1	66aa, >arc_AEC51304.1_1-66|Erives2017... at 98.48%
+2	66aa, >arc_AFN04810.1_1-66|Erives2017... at 100.00%
+3	66aa, >arc_BAA30901.1_4-69|Erives2017... at 98.48%
+4	66aa, >arc_CAB49269.1_1-66|Erives2017... at 100.00%
+5	66aa, >arc_CCE69724.1_1-66|Erives2017... at 100.00%
+6	66aa, >arc_pdb|1KU5|A_4-69|Erives2017... at 98.48%
+7	66aa, >arc_pdb|1KU5|B_4-69|Erives2017... at 98.48%
+8	66aa, >arc_QEK79433.1_1-66|Erives2017... at 100.00%
+9	66aa, >arc_sp|O74098.2|HARA_PYRHO_1-66|Erives2017... at 98.48%
+10	66aa, >arc_sp|P61881.1|HARA_PYRAB_1-66|Erives2017... at 100.00%
+11	66aa, >arc_sp|P61882.1|HARA_PYRFU_1-66|Erives2017... at 100.00%
+12	66aa, >arc_WP_010867469.1_1-66|Erives2017... at 100.00%
+13	66aa, >arc_WP_048053612.1_1-66|Erives2017... at 98.48%
+>Cluster 49
+0	66aa, >arc_AAM04112.1_4-69|Erives2017... *
+1	66aa, >arc_AAM31521.1_5-70|Erives2017... at 100.00%
+2	66aa, >arc_AAZ70531.1_4-69|Erives2017... at 96.97%
+3	66aa, >arc_AGF97240.1_5-70|Erives2017... at 100.00%
+4	66aa, >arc_AKB17295.1_5-70|Erives2017... at 100.00%
+5	66aa, >arc_AKB20694.1_5-70|Erives2017... at 100.00%
+6	66aa, >arc_AKB27310.1_4-69|Erives2017... at 100.00%
+7	66aa, >arc_AKB31249.1_4-69|Erives2017... at 100.00%
+8	66aa, >arc_AKB35198.1_4-69|Erives2017... at 100.00%
+9	66aa, >arc_AKB62703.1_5-70|Erives2017... at 100.00%
+10	66aa, >arc_AKB66052.1_5-70|Erives2017... at 100.00%
+11	66aa, >arc_AKB68823.1_5-70|Erives2017... at 100.00%
+12	66aa, >arc_AKB73702.1_5-70|Erives2017... at 100.00%
+13	66aa, >arc_AKJ40019.1_4-69|Erives2017... at 96.97%
+14	66aa, >arc_KKG01541.1_5-70|Erives2017... at 100.00%
+15	66aa, >arc_KKG03566.1_5-70|Erives2017... at 100.00%
+16	66aa, >arc_KKG06080.1_5-70|Erives2017... at 100.00%
+17	66aa, >arc_KKG16386.1_5-70|Erives2017... at 100.00%
+18	66aa, >arc_KKG28166.1_5-70|Erives2017... at 100.00%
+19	66aa, >arc_KKG30315.1_5-70|Erives2017... at 100.00%
+20	66aa, >arc_KKG32411.1_5-70|Erives2017... at 100.00%
+21	66aa, >arc_KKG41862.1_5-70|Erives2017... at 100.00%
+22	66aa, >arc_KKG41900.1_5-70|Erives2017... at 100.00%
+23	66aa, >arc_KKG46610.1_5-70|Erives2017... at 100.00%
+24	66aa, >arc_KKG49992.1_5-70|Erives2017... at 100.00%
+25	66aa, >arc_KKG50805.1_5-70|Erives2017... at 100.00%
+26	66aa, >arc_KKG58070.1_5-70|Erives2017... at 100.00%
+27	66aa, >arc_KKG58112.1_5-70|Erives2017... at 100.00%
+28	66aa, >arc_KKG66269.1_5-70|Erives2017... at 100.00%
+29	66aa, >arc_KKG67532.1_5-70|Erives2017... at 100.00%
+30	66aa, >arc_KKG68078.1_5-70|Erives2017... at 100.00%
+31	66aa, >arc_KKG70355.1_5-70|Erives2017... at 100.00%
+32	66aa, >arc_KKG75524.1_5-70|Erives2017... at 100.00%
+33	66aa, >arc_KKG78150.1_5-70|Erives2017... at 100.00%
+34	66aa, >arc_KKG79501.1_5-70|Erives2017... at 100.00%
+35	66aa, >arc_KKG87557.1_5-70|Erives2017... at 100.00%
+36	66aa, >arc_KKG89700.1_5-70|Erives2017... at 100.00%
+37	66aa, >arc_KKG91587.1_5-70|Erives2017... at 100.00%
+38	66aa, >arc_KKG91950.1_5-70|Erives2017... at 100.00%
+39	66aa, >arc_KKG96617.1_5-70|Erives2017... at 100.00%
+40	66aa, >arc_KKH01508.1_5-70|Erives2017... at 100.00%
+41	66aa, >arc_KKH05268.1_5-70|Erives2017... at 100.00%
+42	66aa, >arc_KKH06579.1_5-70|Erives2017... at 100.00%
+43	66aa, >arc_KKH09581.1_5-70|Erives2017... at 100.00%
+44	66aa, >arc_KKH17827.1_5-70|Erives2017... at 100.00%
+45	66aa, >arc_KKH17978.1_5-70|Erives2017... at 100.00%
+46	66aa, >arc_KKH18868.1_5-70|Erives2017... at 100.00%
+47	66aa, >arc_KKH25632.1_5-70|Erives2017... at 100.00%
+48	66aa, >arc_KKH27610.1_5-70|Erives2017... at 100.00%
+49	66aa, >arc_KKH27739.1_5-70|Erives2017... at 100.00%
+50	66aa, >arc_KKH35008.1_5-70|Erives2017... at 100.00%
+51	66aa, >arc_KKH35579.1_5-70|Erives2017... at 100.00%
+52	66aa, >arc_KKH40171.1_5-70|Erives2017... at 100.00%
+53	66aa, >arc_KKH48636.1_5-70|Erives2017... at 100.00%
+54	66aa, >arc_KKH54749.1_5-70|Erives2017... at 100.00%
+55	66aa, >arc_KKH54856.1_5-70|Erives2017... at 100.00%
+56	66aa, >arc_KKH59109.1_5-70|Erives2017... at 100.00%
+57	66aa, >arc_KKH61900.1_5-70|Erives2017... at 100.00%
+58	66aa, >arc_KKH63447.1_5-70|Erives2017... at 100.00%
+59	66aa, >arc_KKH70155.1_5-70|Erives2017... at 100.00%
+60	66aa, >arc_KKH72494.1_5-70|Erives2017... at 100.00%
+61	66aa, >arc_KKH76832.1_5-70|Erives2017... at 100.00%
+62	66aa, >arc_KKH80030.1_5-70|Erives2017... at 100.00%
+63	66aa, >arc_KKH84117.1_5-70|Erives2017... at 100.00%
+64	66aa, >arc_KKH87928.1_5-70|Erives2017... at 100.00%
+65	66aa, >arc_KKH88571.1_5-70|Erives2017... at 100.00%
+66	66aa, >arc_KKH88631.1_5-70|Erives2017... at 100.00%
+67	66aa, >arc_KKH99416.1_5-70|Erives2017... at 100.00%
+68	66aa, >arc_KKI02455.1_5-70|Erives2017... at 100.00%
+69	66aa, >arc_KKI03782.1_5-70|Erives2017... at 100.00%
+70	66aa, >arc_QCR15692.1_5-70|Erives2017... at 100.00%
+71	66aa, >arc_QIB92219.1_5-70|Erives2017... at 100.00%
+72	66aa, >arc_TAH73817.1_5-70|Erives2017... at 100.00%
+73	66aa, >arc_WP_011020717.1_4-69|Erives2017... at 100.00%
+74	66aa, >arc_WP_011033762.1_5-70|Erives2017... at 100.00%
+75	66aa, >arc_WP_011306577.1_4-69|Erives2017... at 96.97%
+76	66aa, >arc_WP_048125684.1_5-70|Erives2017... at 100.00%
+>Cluster 50
+0	66aa, >arc_ACJ15670.1_1-66|Erives2017... *
+1	66aa, >arc_WP_012571143.1_1-66|Erives2017... at 100.00%
+2	66aa, >arc_WP_167730637.1_1-66|Erives2017... at 98.48%
+3	66aa, >arc_WP_167900250.1_1-66|Erives2017... at 95.45%
+>Cluster 51
+0	66aa, >arc_ACS34282.1_1-66|Erives2017... *
+1	66aa, >arc_EEB74307.1_1-66|Erives2017... at 98.48%
+2	66aa, >arc_WP_014122300.1_1-66|Erives2017... at 98.48%
+3	66aa, >arc_WP_015859391.1_1-66|Erives2017... at 100.00%
+>Cluster 52
+0	66aa, >arc_AJC71056.1_1-66|Erives2017... *
+1	66aa, >arc_WP_062370460.1_1-66|Erives2017... at 100.00%
+>Cluster 53
+0	66aa, >arc_AKB15367.1_4-69|Erives2017... *
+1	66aa, >arc_ALK05219.1_4-69|Erives2017... at 100.00%
+2	66aa, >arc_BAW29034.1_4-69|Erives2017... at 100.00%
+3	66aa, >arc_SFT51308.1_4-69|Erives2017... at 100.00%
+4	66aa, >arc_WP_148704399.1_21-86|Erives2017... at 100.00%
+>Cluster 54
+0	66aa, >arc_AKB26219.1_4-69|Erives2017... *
+1	66aa, >arc_WP_048181097.1_4-69|Erives2017... at 100.00%
+>Cluster 55
+0	66aa, >arc_ASJ02315.1_1-66|Erives2017... *
+1	66aa, >arc_WP_088857577.1_1-66|Erives2017... at 100.00%
+>Cluster 56
+0	66aa, >arc_KZX10691.1_3-68|Erives2017... *
+1	66aa, >arc_WP_084266363.1_17-82|Erives2017... at 100.00%
+>Cluster 57
+0	66aa, >arc_REE28545.1_3-68|Erives2017... *
+>Cluster 58
+0	66aa, >arc_RUM34953.1_3-68|Erives2017... *
+>Cluster 59
+0	65aa, >arc_AIF68887.1_2-66|Erives2017... *
+1	65aa, >arc_WP_048164500.1_2-66|Erives2017... at 100.00%
+>Cluster 60
+0	65aa, >arc_ALT68631.1_1-65|Erives2017... *
+1	65aa, >arc_SDA40814.1_1-65|Erives2017... at 100.00%
+2	65aa, >arc_WP_058738942.1_1-65|Erives2017... at 100.00%
+>Cluster 61
+0	65aa, >arc_RLF76361.1_1-65|Erives2017... *
+1	65aa, >arc_RLF90088.1_1-65|Erives2017... at 100.00%
+>Cluster 62
+0	65aa, >arc_RZN42470.1_1-65|Erives2017... *
+>Cluster 63
+0	65aa, >arc_WP_129598414.1_1-65|Erives2017... *
+>Cluster 64
+0	64aa, >arc_ACJ16723.1_3-66|Erives2017... *
+1	64aa, >arc_AEK73791.1_3-66|Erives2017... at 96.88%
+2	64aa, >arc_AFL95685.1_3-66|Erives2017... at 96.88%
+3	64aa, >arc_ANF22029.1_3-66|Erives2017... at 98.44%
+4	64aa, >arc_ASA78009.1_3-66|Erives2017... at 96.88%
+5	64aa, >arc_ASJ05087.1_3-66|Erives2017... at 100.00%
+6	64aa, >arc_ASJ05842.1_3-66|Erives2017... at 98.44%
+7	64aa, >arc_ASJ07907.1_3-66|Erives2017... at 98.44%
+8	64aa, >arc_ASJ13045.1_3-66|Erives2017... at 100.00%
+9	64aa, >arc_ASJ14748.1_3-66|Erives2017... at 96.88%
+10	64aa, >arc_KQH82909.1_3-66|Erives2017... at 100.00%
+11	64aa, >arc_KUH33491.1_3-66|Erives2017... at 96.88%
+12	64aa, >arc_QDA31915.1_3-66|Erives2017... at 96.88%
+13	64aa, >arc_QEK15571.1_3-66|Erives2017... at 96.88%
+14	64aa, >arc_SEV81931.1_3-66|Erives2017... at 100.00%
+15	64aa, >arc_WP_010480157.1_3-66|Erives2017... at 95.31%
+16	64aa, >arc_WP_012572195.1_3-66|Erives2017... at 100.00%
+17	64aa, >arc_WP_014013473.1_3-66|Erives2017... at 96.88%
+18	64aa, >arc_WP_055428882.1_3-66|Erives2017... at 100.00%
+19	64aa, >arc_WP_068664322.1_3-66|Erives2017... at 98.44%
+20	64aa, >arc_WP_088180889.1_3-66|Erives2017... at 96.88%
+21	64aa, >arc_WP_088853105.1_3-66|Erives2017... at 98.44%
+22	64aa, >arc_WP_167893808.1_3-66|Erives2017... at 96.88%
+23	64aa, >arc_WP_167904529.1_3-66|Erives2017... at 95.31%
+>Cluster 65
+0	62aa, >arc_AAA73427.1_3-64|Erives2017... at 95.16%
+1	62aa, >arc_AFK23164.1_4-65|Erives2017... at 95.16%
+2	64aa, >arc_AHF80071.1_3-66|Erives2017... *
+3	62aa, >arc_AMM55014.1_3-64|Erives2017... at 95.16%
+4	62aa, >arc_CUX78716.1_3-64|Erives2017... at 95.16%
+5	64aa, >arc_EHR77909.1_3-66|Erives2017... at 95.31%
+6	64aa, >arc_RLF84401.1_3-66|Erives2017... at 95.31%
+7	62aa, >arc_RLF89200.1_3-64|Erives2017... at 95.16%
+8	62aa, >arc_sp|P50486.2|HARB_PYRSG_3-64|Erives2017... at 95.16%
+9	64aa, >arc_WP_004069603.1_3-66|Erives2017... at 95.31%
+10	64aa, >arc_WP_042680281.1_3-66|Erives2017... at 100.00%
+11	62aa, >arc_WP_048056241.1_3-64|Erives2017... at 95.16%
+12	62aa, >arc_WP_068324793.1_3-64|Erives2017... at 95.16%
+>Cluster 66
+0	64aa, >arc_ASJ10074.1_3-66|Erives2017... *
+1	64aa, >arc_ASJ11296.1_3-66|Erives2017... at 100.00%
+2	64aa, >arc_WP_088881974.1_3-66|Erives2017... at 100.00%
+>Cluster 67
+0	64aa, >arc_RUM32907.1_3-66|Erives2017... *
+>Cluster 68
+0	64aa, >arc_SES64178.1_1-64|Erives2017... *
+1	64aa, >arc_WP_091688285.1_1-64|Erives2017... at 100.00%
+2	64aa, >arc_WP_135605926.1_1-64|Erives2017... at 96.88%
+>Cluster 69
+0	64aa, >arc_WP_167711792.1_3-66|Erives2017... *
+>Cluster 70
+0	62aa, >arc_KZX11542.1_5-66|Erives2017... *
+1	62aa, >arc_WP_066973092.1_5-66|Erives2017... at 100.00%
+>Cluster 71
+0	62aa, >arc_OQD58750.1_5-66|Erives2017... *
+1	62aa, >arc_RBQ23116.1_5-66|Erives2017... at 98.39%
+2	62aa, >arc_WP_042703161.1_5-66|Erives2017... at 98.39%
+3	62aa, >arc_WP_080460443.1_5-66|Erives2017... at 100.00%

@@ -1,0 +1,292 @@
+IQ-TREE multicore version 2.1.0 for Linux 64-bit built Jul 18 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    lapis (AVX2, FMA3, 15 GB RAM)
+Command: iqtree2 -s alignments/Erives_2017.alignment.fasta -m TEST -nt AUTO -ntmax 8 -pre alignments/Erives_2017.alignment.iqt -nm 10000 -bb 1000
+Seed:    798110 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Mar  2 14:58:06 2021
+Kernel:  AVX+FMA - auto-detect threads (8 CPU cores detected)
+
+Reading alignment file alignments/Erives_2017.alignment.fasta ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 52 sequences with 236 columns, 235 distinct patterns
+174 parsimony-informative, 56 singleton sites, 6 constant sites
+                                                 Gap/Ambiguity  Composition  p-value
+   1  FLY_H2A                                           47.46%    passed     40.51%
+   2  YEAST_H2A                                         44.07%    passed     26.74%
+   3  AMOEBA_XP_004335958.1_H2A                         38.56%    passed     72.82%
+   4  CHLAMYDOMONAS_XP_001690809.1_H2A                  44.92%    passed     50.08%
+   5  TRYPANOSOME_XP_807181.1_H2A                       42.80%    passed     71.97%
+   6  NAEGLERIA_XP_002679821.1_H2A                      24.58%    passed     36.48%
+   7  FLY_H2A.Z                                         40.25%    passed     95.58%
+   8  YEAST_NP_014631.1_H2A.Z                           43.22%    passed     90.93%
+   9  AMOEBA_XP_004336226.1_H2A.Z                       44.49%    passed     99.71%
+  10  CHLAMYDOMONAS_XP_001693700.1_H2A.Z                38.98%    passed     92.48%
+  11  TRYPANOSOME_XP_807077.1_H2A.Z                     24.58%    passed     35.30%
+  12  NAEGLERIA_XP_002680414.1_H2A.Z                    30.08%    passed     82.35%
+  13  LAUSANNEVIRUS_H2A_moiety                          30.08%    passed     40.78%
+  14  INSECTOMIME_VIRUS_H2A_moiety                      30.93%    passed     24.59%
+  15  MARSEILLEVIRUS_H2A_moiety                         29.24%    passed     34.58%
+  16  FLY_H2B                                           47.88%    passed     61.97%
+  17  YEAST_H2B                                         44.49%    passed     13.67%
+  18  AMOEBA_XP_004341446.1_H2B                         30.93%    passed     30.18%
+  19  CHLAMYDOMONAS_H2B                                 33.90%    failed      2.04%
+  20  TRYPANOSOME_P27795.1_H2B                          52.54%    failed      1.87%
+  21  NAEGLERIA_XP_002677696.1_H2B                      30.93%    failed      0.51%
+  22  LAUSANNEVIRUS_H2B_moiety                          52.54%    passed     98.51%
+  23  INSECTOMIME_VIRUS_H2B_moiety                      52.12%    passed     85.42%
+  24  MARSEILLEVIRUS_H2B_moiety                         56.78%    passed     99.05%
+  25  FLY_H3                                            42.37%    passed     78.29%
+  26  YEAST_H3                                          42.37%    passed     80.19%
+  27  AMOEBA_XP_004342027.1_H3                          43.22%    passed     86.61%
+  28  CHLAMYDOMONAS_XP_001690671.1_H3                   42.80%    passed     49.00%
+  29  TRYPANOSOME_XP_806456.1_H3                        43.64%    passed     36.32%
+  30  NAEGLERIA_XP_002669596.1_H3                       41.53%    passed     86.14%
+  31  FLY_CenH3                                         52.97%    failed      0.49%
+  32  YEAST_CenH3                                       53.39%    passed     10.30%
+  33  AMOEBA_XP_004344015.1_CenH3                       52.12%    passed     14.35%
+  34  CHLAMYDOMONAS_XP_001697869.1_CenH3                52.12%    passed     22.75%
+  35  TRYPANOSOME_XP_806096.1_CenH3                     54.66%    passed     13.91%
+  36  NAEGLERIA_XP_002682707.1_CenH3                    51.69%    passed     56.22%
+  37  LAUSANNEVIRUS_H3_moiety                           60.59%    passed     23.46%
+  38  INSECTOMIME_VIRUS_H3_moiety                       59.75%    passed     18.11%
+  39  MARSEILLEVIRUS_H3_moiety                          60.59%    passed     35.15%
+  40  FLY_H4                                            56.36%    passed      6.89%
+  41  YEAST_H4                                          56.36%    passed     26.50%
+  42  AMOEBA_XP_004336819.1_H4                          53.39%    failed      1.49%
+  43  CHLAMYDOMONAS_XP_001690669.1_H4                   58.05%    passed     24.44%
+  44  TRYPANOSOME_XP_806906.1_H4                        57.63%    passed      8.94%
+  45  NAEGLERIA_XP_002671423.1_H4                       56.36%    passed     10.53%
+  46  LAUSANNEVIRUS_H4_moiety                           47.46%    passed     12.88%
+  47  INSECTOMIME_VIRUS_H4_moiety                       47.46%    failed      2.83%
+  48  MARSEILLEVIRUS_H4_moiety                          47.88%    passed     13.13%
+  49  Methanosaeta_concilii_WP_013719213.1_aH           67.80%    failed      2.37%
+  50  Thermococcus_zilligii_WP_010477073.1_aH           71.61%    passed     17.57%
+  51  Methanohalobium_evestigatum_WP_013195353.1_aH     71.19%    passed     55.44%
+  52  Archaeoglobus_sulfaticallidus_WP_015590363.1_aH   71.61%    passed     50.56%
+WARNING: 23 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                             47.56%  7 sequences failed composition chi2 test (p-value<5%; df=19)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.006 seconds
+Measuring multi-threading efficiency up to 8 CPU cores
+Increase to 10 rounds for branch lengths
+59 trees examined
+Threads: 1 / Time: 8.106 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -13907
+Threads: 2 / Time: 4.608 sec / Speedup: 1.759 / Efficiency: 88% / LogL: -13907
+Threads: 3 / Time: 3.341 sec / Speedup: 2.426 / Efficiency: 81% / LogL: -13907
+Threads: 4 / Time: 3.120 sec / Speedup: 2.598 / Efficiency: 65% / LogL: -13907
+Threads: 5 / Time: 2.730 sec / Speedup: 2.969 / Efficiency: 59% / LogL: -13907
+Threads: 6 / Time: 3.070 sec / Speedup: 2.640 / Efficiency: 44% / LogL: -13907
+BEST NUMBER OF THREADS: 5
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -10185.728
+Optimal log-likelihood: -10185.537
+Proportion of invariable sites: 0.000
+Gamma shape alpha: 1.680
+Parameters optimization took 1 rounds (0.030 sec)
+Time for fast ML tree search: 0.248 seconds
+
+NOTE: ModelFinder requires 9 MB RAM!
+ModelFinder will test up to 168 protein models (sample size: 236) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            10385.167    101 20972.335    21126.096    21322.182
+  2  LG+I          10385.141    102 20974.281    21132.266    21327.592
+  3  LG+G4         10185.518    102 20575.035    20733.020    20928.346
+  4  LG+I+G4       10185.512    103 20577.024    20739.327    20933.799
+  7  LG+F+G4       10037.597    121 20317.193    20576.176    20736.317
+  8  LG+F+I+G4     10037.556    122 20319.113    20584.706    20741.700
+ 11  WAG+G4        10145.147    102 20494.295    20652.280    20847.606
+ 12  WAG+I+G4      10145.146    103 20496.292    20658.595    20853.066
+ 15  WAG+F+G4      10049.417    121 20340.834    20599.816    20759.957
+ 16  WAG+F+I+G4    10049.395    122 20342.789    20608.382    20765.376
+ 19  JTT+G4        10281.631    102 20767.261    20925.246    21120.572
+ 20  JTT+I+G4      10281.619    103 20769.237    20931.540    21126.012
+ 23  JTT+F+G4      10145.409    121 20532.819    20791.801    20951.942
+ 24  JTT+F+I+G4    10145.418    122 20534.836    20800.429    20957.423
+ 27  JTTDCMut+G4   10281.054    102 20766.109    20924.094    21119.420
+ 28  JTTDCMut+I+G4 10281.044    103 20768.089    20930.392    21124.863
+ 31  JTTDCMut+F+G4 10146.775    121 20535.551    20794.533    20954.674
+ 32  JTTDCMut+F+I+G4 10146.787    122 20537.574    20803.167    20960.161
+ 35  DCMut+G4      10208.946    102 20621.892    20779.877    20975.202
+ 36  DCMut+I+G4    10208.940    103 20623.880    20786.183    20980.655
+ 39  DCMut+F+G4    10121.191    121 20484.382    20743.365    20903.506
+ 40  DCMut+F+I+G4  10121.205    122 20486.410    20752.003    20908.997
+ 43  VT+G4         10175.401    102 20554.801    20712.786    20908.112
+ 44  VT+I+G4       10175.394    103 20556.788    20719.091    20913.563
+ 47  VT+F+G4       10037.050    121 20316.099    20575.082    20735.223
+ 48  VT+F+I+G4     10037.027    122 20318.055    20583.648    20740.642
+ 51  PMB+G4        10201.584    102 20607.167    20765.152    20960.478
+ 52  PMB+I+G4      10201.587    103 20609.173    20771.476    20965.948
+ 55  PMB+F+G4      10041.710    121 20325.419    20584.402    20744.543
+ 56  PMB+F+I+G4    10041.653    122 20327.306    20592.899    20749.893
+ 59  Blosum62+G4   10187.205    102 20578.409    20736.394    20931.720
+ 60  Blosum62+I+G4 10187.207    103 20580.415    20742.718    20937.189
+ 63  Blosum62+F+G4 10034.449    121 20310.898    20569.881    20730.022
+ 64  Blosum62+F+I+G4 10034.410    122 20312.821    20578.414    20735.408
+ 67  Dayhoff+G4    10209.738    102 20623.476    20781.461    20976.786
+ 68  Dayhoff+I+G4  10209.737    103 20625.474    20787.777    20982.249
+ 71  Dayhoff+F+G4  10122.142    121 20486.284    20745.266    20905.408
+ 72  Dayhoff+F+I+G4 10122.165    122 20488.329    20753.922    20910.917
+ 75  mtREV+G4      10982.550    102 22169.099    22327.084    22522.410
+ 76  mtREV+I+G4    10982.569    103 22171.138    22333.441    22527.913
+ 79  mtREV+F+G4    10240.034    121 20722.069    20981.051    21141.193
+ 80  mtREV+F+I+G4  10240.029    122 20724.059    20989.652    21146.646
+ 83  mtART+G4      11089.276    102 22382.552    22540.537    22735.863
+ 84  mtART+I+G4    11089.271    103 22384.542    22546.845    22741.317
+ 87  mtART+F+G4    10287.532    121 20817.063    21076.046    21236.187
+ 88  mtART+F+I+G4  10287.545    122 20819.091    21084.683    21241.678
+ 91  mtZOA+G4      10812.545    102 21829.091    21987.076    22182.402
+ 92  mtZOA+I+G4    10812.551    103 21831.101    21993.404    22187.876
+ 95  mtZOA+F+G4    10205.607    121 20653.213    20912.196    21072.337
+ 96  mtZOA+F+I+G4  10205.618    122 20655.236    20920.829    21077.824
+ 99  mtMet+G4      10957.496    102 22118.991    22276.976    22472.302
+100  mtMet+I+G4    10957.484    103 22120.968    22283.271    22477.742
+103  mtMet+F+G4    10244.456    121 20730.912    20989.894    21150.035
+104  mtMet+F+I+G4  10244.462    122 20732.924    20998.517    21155.512
+107  mtVer+G4      11132.544    102 22469.089    22627.074    22822.400
+108  mtVer+I+G4    11132.512    103 22471.024    22633.327    22827.799
+111  mtVer+F+G4    10408.374    121 21058.747    21317.729    21477.871
+112  mtVer+F+I+G4  10408.368    122 21060.735    21326.328    21483.323
+115  mtInv+G4      10963.354    102 22130.707    22288.692    22484.018
+116  mtInv+I+G4    10963.344    103 22132.689    22294.992    22489.464
+119  mtInv+F+G4    10148.193    121 20538.386    20797.368    20957.509
+120  mtInv+F+I+G4  10148.195    122 20540.389    20805.982    20962.977
+123  mtMAM+G4      11371.276    102 22946.552    23104.537    23299.863
+124  mtMAM+I+G4    11371.268    103 22948.535    23110.838    23305.310
+127  mtMAM+F+G4    10544.316    121 21330.632    21589.614    21749.755
+128  mtMAM+F+I+G4  10544.340    122 21332.681    21598.274    21755.268
+131  HIVb+G4       10613.752    102 21431.505    21589.490    21784.816
+132  HIVb+I+G4     10613.778    103 21433.556    21595.859    21790.330
+135  HIVb+F+G4     10378.284    121 20998.569    21257.551    21417.693
+136  HIVb+F+I+G4   10378.283    122 21000.566    21266.159    21423.154
+139  HIVw+G4       11028.330    102 22260.660    22418.645    22613.971
+140  HIVw+I+G4     11028.320    103 22262.639    22424.942    22619.414
+143  HIVw+F+G4     10632.556    121 21507.112    21766.094    21926.235
+144  HIVw+F+I+G4   10632.552    122 21509.104    21774.696    21931.691
+147  FLU+G4        10531.072    102 21266.144    21424.129    21619.455
+148  FLU+I+G4      10531.061    103 21268.122    21430.425    21624.897
+151  FLU+F+G4      10319.304    121 20880.608    21139.590    21299.732
+152  FLU+F+I+G4    10319.298    122 20882.597    21148.190    21305.184
+155  rtREV+G4      10233.690    102 20671.381    20829.366    21024.692
+156  rtREV+I+G4    10233.692    103 20673.383    20835.686    21030.158
+159  rtREV+F+G4    10028.478    121 20298.956    20557.938    20718.079
+160  rtREV+F+I+G4  10028.415    122 20300.831    20566.424    20723.418
+163  cpREV+G4      10317.025    102 20838.050    20996.035    21191.361
+164  cpREV+I+G4    10317.027    103 20840.054    21002.358    21196.829
+167  cpREV+F+G4    10148.328    121 20538.657    20797.639    20957.780
+168  cpREV+F+I+G4  10148.323    122 20540.647    20806.239    20963.234
+Akaike Information Criterion:           rtREV+F+G4
+Corrected Akaike Information Criterion: rtREV+F+G4
+Bayesian Information Criterion:         rtREV+F+G4
+Best-fit model: rtREV+F+G4 chosen according to BIC
+
+All model information printed to alignments/Erives_2017.alignment.iqt.model.gz
+CPU time for ModelFinder: 116.387 seconds (0h:1m:56s)
+Wall-clock time for ModelFinder: 34.045 seconds (0h:0m:34s)
+Generating 1000 samples for ultrafast bootstrap (seed: 798110)...
+
+NOTE: 9 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -10028.478
+Optimal log-likelihood: -10028.448
+Gamma shape alpha: 1.458
+Parameters optimization took 1 rounds (0.017 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.087054 sec (of wall-clock time) 0.424750 sec(of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing RapidNJ tree took 0.000728 sec (of wall-clock time) 0.003037 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -10102.225
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.572 second
+Computing log-likelihood of 98 initial trees ... 0.682 seconds
+Current best score: -10028.448
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -10026.739
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -10017.671
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 5: -10015.701
+Iteration 10 / LogL: -10018.078 / Time: 0h:0m:3s
+Iteration 20 / LogL: -10022.797 / Time: 0h:0m:5s
+Finish initializing candidate tree set (17)
+Current best tree score: -10015.701 / CPU time: 4.994
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 28: -10012.580
+Iteration 30 / LogL: -10015.344 / Time: 0h:0m:7s (0h:0m:24s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 37: -10011.982
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 40: -10011.203
+Iteration 40 / LogL: -10011.203 / Time: 0h:0m:8s (0h:0m:22s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 47: -10010.507
+Iteration 50 / LogL: -10016.762 / Time: 0h:0m:11s (0h:0m:21s left)
+Log-likelihood cutoff on original alignment: -10044.112
+Iteration 60 / LogL: -10032.080 / Time: 0h:0m:12s (0h:0m:18s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -10010.303
+Iteration 70 / LogL: -10016.356 / Time: 0h:0m:14s (0h:0m:16s left)
+Iteration 80 / LogL: -10013.076 / Time: 0h:0m:16s (0h:0m:13s left)
+Iteration 90 / LogL: -10030.937 / Time: 0h:0m:17s (0h:0m:11s left)
+Iteration 100 / LogL: -10011.288 / Time: 0h:0m:19s (0h:0m:9s left)
+Log-likelihood cutoff on original alignment: -10044.449
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.995
+Iteration 110 / LogL: -10013.165 / Time: 0h:0m:20s (0h:0m:17s left)
+Iteration 120 / LogL: -10013.446 / Time: 0h:0m:22s (0h:0m:15s left)
+Iteration 130 / LogL: -10010.646 / Time: 0h:0m:23s (0h:0m:12s left)
+Iteration 140 / LogL: -10011.410 / Time: 0h:0m:24s (0h:0m:10s left)
+TREE SEARCH COMPLETED AFTER 148 ITERATIONS / Time: 0h:0m:26s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -10010.303
+2. Current log-likelihood: -10010.286
+Optimal log-likelihood: -10010.282
+Gamma shape alpha: 1.353
+Parameters optimization took 2 rounds (0.091 sec)
+BEST SCORE FOUND : -10010.282
+Creating bootstrap support values...
+Split supports printed to NEXUS file alignments/Erives_2017.alignment.iqt.splits.nex
+Total tree length: 60.911
+
+Total number of iterations: 148
+CPU time used for tree search: 125.104 sec (0h:2m:5s)
+Wall-clock time used for tree search: 25.990 sec (0h:0m:25s)
+Total CPU time used: 127.085 sec (0h:2m:7s)
+Total wall-clock time used: 26.425 sec (0h:0m:26s)
+
+Computing bootstrap consensus tree...
+Reading input file alignments/Erives_2017.alignment.iqt.splits.nex...
+52 taxa and 389 splits.
+Consensus tree written to alignments/Erives_2017.alignment.iqt.contree
+Reading input trees file alignments/Erives_2017.alignment.iqt.contree
+Log-likelihood of consensus tree: -10010.798
+
+Analysis results written to: 
+  IQ-TREE report:                alignments/Erives_2017.alignment.iqt.iqtree
+  Maximum-likelihood tree:       alignments/Erives_2017.alignment.iqt.treefile
+  Likelihood distances:          alignments/Erives_2017.alignment.iqt.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          alignments/Erives_2017.alignment.iqt.splits.nex
+  Consensus tree:                alignments/Erives_2017.alignment.iqt.contree
+  Screen log file:               alignments/Erives_2017.alignment.iqt.log
+
+Date and Time: Tue Mar  2 14:59:07 2021

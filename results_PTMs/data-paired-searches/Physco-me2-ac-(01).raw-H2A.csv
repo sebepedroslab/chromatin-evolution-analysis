@@ -1,0 +1,4 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Ppat_XP_001777344|Histone_H2A	Ppat_XP_001777344|Histone_H2A	H2A	FALSE	AAASA VVDDK SK	Me2	K	10				100	AAASAVVDDKSK	res
+Ppat_XP_001777344|Histone_H2A	Ppat_XP_001777344|Histone_H2A	H2A	FALSE	AAASA VVDDK SK	Me2	K	12				100	AAASAVVDDKSK	res
+Ppat_XP_001785216|Histone_H2A	Ppat_XP_001785216|Histone_H2A	H2A	FALSE	KTGKG GK	Me2	K	7				99.98	KTGKGGK	res

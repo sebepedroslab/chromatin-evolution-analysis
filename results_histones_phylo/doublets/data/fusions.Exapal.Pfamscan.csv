@@ -1,0 +1,84 @@
+# pfam_scan.pl,  run at Tue Jan 19 16:55:18 2021
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: data/fusions.Exapal.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Exapal_XP_020896800.1     39     97     24    101 PF15511.7   CENP-T_C          Domain    22    80   108     31.9   1.1e-07   1 CL0012   
+#HMM       kasgskaklekealkalekasdkffeqvgeDLeayakHagRKtidesDvilLmkrqrkv
+#MATCH      ++g  ++++   ++    +++ f+e v +D  +y++Ha+RKt+ + Dv+  +krq+++
+#PP        3445666788888888899999**********************************975
+#SEQ       ARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRT
+Exapal_XP_020896800.1    103    197     92    198 PF00125.25  Histone           Domain    32   130   131     81.6   6.3e-23   1 CL0012   
+#HMM       kskkkkkrryrpgtvalkeirkyqkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArrl
+#MATCH     k++  kk   + g++a    +k++++ +++++++++++v++++++    d +is++a+ ++++++ + +++++ eA++la ++K++Tit+++iq+A+rl
+#PP        556667888999*********************************....*************************************************8
+#SEQ       KPAGGKKGEKKAGKKAALGDKKKRSRRRKETYSIYIYKVMKQVHP----DTGISSKAMSIMNSFVQDVFERIAGEASRLAHYNKKSTITSREIQTAVRL
+#CS        SSSB--TT--XTTHHHHHHHHHHHHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHHH
+Exapal_XP_020896927.1     39     97     24    104 PF15511.7   CENP-T_C          Domain    22    80   108     32.0     1e-07   1 CL0012   
+#HMM       kasgskaklekealkalekasdkffeqvgeDLeayakHagRKtidesDvilLmkrqrkv
+#MATCH      ++g  ++++   ++    +++ f+e v +D  +y++Ha+RKt+ + Dv+  +krq+++
+#PP        3445666788888888899999**********************************875
+#SEQ       ARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRT
+Exapal_XP_020896927.1    107    201     92    202 PF00125.25  Histone           Domain    32   130   131     81.7   5.9e-23   1 CL0012   
+#HMM       kskkkkkrryrpgtvalkeirkyqkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArrl
+#MATCH     k++  kk   + g++a    +k++++ +++++++++++v++++++    d +is++a+ ++++++ + +++++ eA++la ++K++Tit+++iq+A+rl
+#PP        444556788999*********************************....*************************************************8
+#SEQ       KPAGGKKGEKKAGKKAALGDKKKRSRRRKETYSIYIYKVMKQVHP----DTGISSKAMSIMNSFVQDVFERIAGEASRLAHYNKKSTITSREIQTAVRL
+#CS        SSSB--TT--XTTHHHHHHHHHHHHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHHH
+Exapal_XP_020906586.1     39     97     24    101 PF15511.7   CENP-T_C          Domain    22    80   108     31.9   1.1e-07   1 CL0012   
+#HMM       kasgskaklekealkalekasdkffeqvgeDLeayakHagRKtidesDvilLmkrqrkv
+#MATCH      ++g  ++++   ++    +++ f+e v +D  +y++Ha+RKt+ + Dv+  +krq+++
+#PP        3445666788888888899999**********************************975
+#SEQ       ARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRT
+Exapal_XP_020906586.1    103    197     92    198 PF00125.25  Histone           Domain    32   130   131     80.4   1.5e-22   1 CL0012   
+#HMM       kskkkkkrryrpgtvalkeirkyqkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArrl
+#MATCH     k++  kk   + g++a    +k++ + +++++++++++v++++++    d +is++a+ ++++++ + +++++ eA++la ++K++Tit+++iq+A+rl
+#PP        556667888999*********************************....*************************************************8
+#SEQ       KPAGGKKGEKKAGKKAALGDKKKRTRRRKETYSIYIYKVMKQVHP----DTGISSKAMSIMNSFVQDVFERIAGEASRLAHYNKKSTITSREIQTAVRL
+#CS        SSSB--TT--XTTHHHHHHHHHHHHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHHH
+Exapal_XP_020913119.1     39     97     24    103 PF15511.7   CENP-T_C          Domain    22    80   108     31.7   1.3e-07   1 CL0012   
+#HMM       kasgskaklekealkalekasdkffeqvgeDLeayakHagRKtidesDvilLmkrqrkv
+#MATCH      ++g  ++++   ++    +++ f+e v +D  +y++Ha+RKt+ + Dv+  +krq+++
+#PP        3445666788888888899999**********************************875
+#SEQ       ARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRT
+Exapal_XP_020913119.1    109    200     96    201 PF00125.25  Histone           Domain    35   130   131     81.6   6.1e-23   1 CL0012   
+#HMM       kkkkrryrpgtvalkeirkyqkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArrl
+#MATCH       kk   + g++a    +k++++ +++++++++++v++++++    d +is++a+ ++++++ + +++++ eA++la ++K++Tit+++iq+A+rl
+#PP        557778899*********************************....*************************************************8
+#SEQ       GGKKGEKKAGKKAALGDKKKRSRRRKETYSIYIYKVMKQVHP----DTGISSKAMSIMNSFVQDVFERIAGEASRLAHYNKKSTITSREIQTAVRL
+#CS        B--TT--XTTHHHHHHHHHHHHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHHH
+Exapal_XP_020917667.1     39     97     24    107 PF15511.7   CENP-T_C          Domain    22    80   108     31.9   1.2e-07   1 CL0012   
+#HMM       kasgskaklekealkalekasdkffeqvgeDLeayakHagRKtidesDvilLmkrqrkv
+#MATCH      ++g  ++++   ++    +++ f+e v +D  +y++Ha+RKt+ + Dv+  +krq+++
+#PP        3445666788888888899999**********************************875
+#SEQ       ARRGGVKRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRT
+Exapal_XP_020917667.1    110    202     96    203 PF00125.25  Histone           Domain    34   130   131     81.8   5.5e-23   1 CL0012   
+#HMM       kkkkkrryrpgtvalkeirkyqkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArrl
+#MATCH     +  kk   + g++a    +k++++ +++++++++++v++++++    d +is++a+ ++++++ + +++++ eA++la ++K++Tit+++iq+A+rl
+#PP        4556788899*********************************....*************************************************8
+#SEQ       AGGKKGEKKAGKKAALGDKKKRSRRRKETYSIYIYKVMKQVHP----DTGISSKAMSIMNSFVQDVFERIAGEASRLAHYNKKSTITSREIQTAVRL
+#CS        SB--TT--XTTHHHHHHHHHHHHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHHH

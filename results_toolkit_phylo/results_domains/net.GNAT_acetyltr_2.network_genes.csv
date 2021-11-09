@@ -1,0 +1,212 @@
+gene	orthogroup	orthologous_to	family	architecture
+Morvir_scaffold33.g86.t1	Acetyltransf_1.HG32.1:NA		Acetyltransf_1	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Bremin_symbB.v1.2.030938.t1	Acetyltransf_1.HG32.1:NA		Acetyltransf_1	GNAT_acetyltr_2
+Morvir_scaffold33.g86.t2	Acetyltransf_1.HG32.1:NA		Acetyltransf_1	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Eimten_CDJ39029	Acetyltransf_1.HG32.1:NA		Acetyltransf_1	GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Manpla_Gene.3561	Acetyltransf_1.HG32.1:NA		Acetyltransf_1	Helicase_RecD GNAT_acetyltr_2
+Fabtro_Gene.41327	Acetyltransf_1.HG32.1:NA		Acetyltransf_1	GNAT_acetyltr_2 tRNA_bind_3
+Symmic_Smic27656	Acetyltransf_1.HG32.1:NA		Acetyltransf_1	Helicase_RecD Acetyltransf_1 Methyltr_RsmB-F
+Fabtro_Gene.9749	Acetyltransf_1.HG32.1:NA		Acetyltransf_1	DUF1726 Helicase_RecD GNAT_acetyltr_2
+Exapal_XP_020893477.2	Acetyltransf_1.HG32.1:NA		Acetyltransf_1	Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Symmic_Smic40139	Acetyltransf_1.HG32.1:NA		Acetyltransf_1	GNAT_acetyltr_2
+Notgen_g15355.t1	Acetyltransf_1.HG32.1:NA		Acetyltransf_1	Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Symmic_Smic27656	GNAT_acetyltr_2.HG1.0:like:NAT10:likeclu:1		GNAT_acetyltr_2	Helicase_RecD Acetyltransf_1 Methyltr_RsmB-F
+Fabtro_Gene.49555	GNAT_acetyltr_2.HG1.0:like:NAT10:likeclu:1		GNAT_acetyltr_2	Helicase_RecD
+Ttra_KNC55266	GNAT_acetyltr_2.HG1.0:like:NAT10:likeclu:1		GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2
+Coka_g4740.t1	GNAT_acetyltr_2.HG1.0:like:NAT10:likeclu:1		GNAT_acetyltr_2	DUF2237 DUF1726 Helicase_RecD GNAT_acetyltr_2
+Fabtro_Gene.41327	GNAT_acetyltr_2.HG1.0:like:NAT10:likeclu:1		GNAT_acetyltr_2	GNAT_acetyltr_2 tRNA_bind_3
+Manpla_Gene.3561	GNAT_acetyltr_2.HG1.0:like:NAT10:likeclu:1		GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2
+Fabtro_Gene.9749	GNAT_acetyltr_2.HG1.0:like:NAT10:likeclu:1		GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2
+Bremin_symbB.v1.2.026142.t2	GNAT_acetyltr_2.HG1.0:like:NAT10:likeclu:1		GNAT_acetyltr_2	Helicase_RecD
+Symmic_Smic40139	GNAT_acetyltr_2.HG1.0:like:NAT10:likeclu:1		GNAT_acetyltr_2	GNAT_acetyltr_2
+Bremin_symbB.v1.2.030938.t1	GNAT_acetyltr_2.HG1.0:like:NAT10:likeclu:1		GNAT_acetyltr_2	GNAT_acetyltr_2
+Carmem_4345.p1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2
+Fabtro_Gene.8493	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Cvar_XP_005849127.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ccin_EAU82262	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2 tRNA_bind_2
+Cocsub_XP_005643437.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	GNAT_acetyltr_2
+Andgod_ANDGO_01938.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Falb_KCV71673	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Tetwil_Twilhelma_g11799.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Emul_CDI98361.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ppat_Pp3c5_20530V3.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ehux_EOD35490	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Pinf_PITG_19671T0	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ramvar_GAV02513.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Hduj_OQV16441.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Schagg_81668	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Tthe_EAR95019	GNAT_acetyltr_2.HG1.1:NAT10	islike:NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Sacu_v1.1_s0021.g008523	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ngru_EFC50309	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Glam_EDO76605	GNAT_acetyltr_2.HG1.1:NAT10	islike:NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ttra_KNC50569	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Gthe_EKX39913	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Cowc_KJE95863	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Recame_RECAM_22688.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Perkma_EEQ99617	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Gefoke_MALSP_15715.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Cocsub_XP_005643440.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Pavlsp_621641	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Morvir_scaffold33.g86.t2	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Chabra_GBG87241	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Vitbra_CEL94006.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Cavfas_EGG25143	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	GNAT_acetyltr_2 tRNA_bind_2
+Coka_g12543.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Linana_g7589.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2 tRNA_bind_2
+Ulvmut_UM146_00271	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Cscu_XP_023234847.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Gpro_KXS10044	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2 tRNA_bind_2
+Acoe_PIA47868.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Gracho_PXF44521.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Diprot_Gene.19456	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Gonavo_g4818.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2
+Clim_evm60s225	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Cang_ORZ34358	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Crei_PNW85567	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Sbic_EES18755	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Oxytri_EJY73076	GNAT_acetyltr_2.HG1.1:NAT10	islike:NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Sphfal_Sphfalx07G065200.1.p	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Amobb2_AMBB2_13008.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Cgig_EKC40095	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Tcas_XP_008192105.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Helrob_HelroP110320	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Cfra_CFRG8107T1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Dpul_EFX77576	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Malcal_MALCA_12530.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Nk52_evm67s343	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Cint_ENSCINP00000007371.3	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Tpse_EED91398	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Porpur_KAA8492217.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Spur_XP_030845019.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Adig_XP_015769988.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ehux_EOD28649	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Spom_SPAC20G8.09c.1_pep	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Tielac_KYQ93042	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Morvir_scaffold33.g86.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Lcom_lcpid30594	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Phoaus_g17003.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	GNAT_acetyltr_2 tRNA_bind_2
+Bnat_JGI_V11_57656	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Retfil_ETO27670	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2
+Bden_EGF83895	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ngad_EWM25885	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Scer_YNL132W	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Emue_0003g317a	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Alblai_CCA18908	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Atha_AT1G10490.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Hsap_ENSP00000257829.3	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Bralan_BL12072_evm0	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	GNAT_acetyltr_2
+Lpol_XP_022238453.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Meteor_CRO19MET_NODE_502.p1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Pygbif_GCRY01002204.1.p1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Azfi_s0345.g065787	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Lgig_LotgiP103703	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Phakir_PHAKIR_02780.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Cneo_AAW47031	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Apla_XP_022083615.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Hemkuk_3867_TR1359_c0_g1	GNAT_acetyltr_2.HG1.1:NAT10	islike:NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2
+Eimten_CDJ39029	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Sappar_KDO26199	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Spun_KNC97086	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Plamic_ANCSI_00556.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Nutlon_comp20389_c0_seq1.p1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ihof_evm19s27	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Mbre_EDQ88941	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Rhidel_EIE81825	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Lepsey_KPI89073	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Tadh_P20052	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Phoaus_g18758.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2
+Klenit_GAQ78702.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Rirr_GBC26450	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2
+Pfal_CZT98462	GNAT_acetyltr_2.HG1.1:NAT10	islike:NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Tvag_XP_001315570.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Vcar_XP_002957192.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2 Aldo_ket_red
+Maljak_MALJA_01010.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Morelo_OAQ30514	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ptet_CAK94963	GNAT_acetyltr_2.HG1.1:NAT10	islike:NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Aurlim_138182	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Sarc_Sarc4_g32283T	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Otau_XP_022839056.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Umbram_282036	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Jakbah_JAKBA_03881.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Tcru_EAN95509	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Skow_XP_006819163.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Jakbah_JAKBA_03881.mRNA.2	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2 tRNA_bind_2
+Atha_AT3G57940.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Hydvul_Sc4wPfr_760.g24142.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Honfer_GBG32874	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Scil_scpid27031	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Aano_EGB10386	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2 Biotin_carb_N CPSase_L_D2 Biotin_carb_C Biotin_lipoyl Carboxyl_trans VIT1
+Rigram_Gene.28457	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	GNAT_acetyltr_2 tRNA_bind_2
+Atri_ERN03844	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Tmel_CAZ85665	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Lmaj_CAJ03973	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Styinc_Gene17070_m17070	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Jaklib_JAKLI_25532.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	GNAT_acetyltr_2
+Dmel_FBpp0071217	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Concor_KXN65855	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Masbal_CACRSC010000038.1.p422	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	GNAT_acetyltr_2
+Mcir_OAD06972	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Bdis_KQK08319	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Esil_CBJ32687	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Mgut_XP_012853486.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Clyhem_TCONS_00052312-protein	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Sros_EGD74543	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Exapal_XP_020903831.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Manpla_Gene.18295	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ctel_CapteP195329	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Amac_KNE69832	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Aque_Aqu2.1.28503_001	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Secula_SECUL_08790.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Tcru_EAN85091	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Marpol_PTQ42188	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Bremin_symbB.v1.2.015502.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	GNAT_acetyltr_2 tRNA_bind_2
+Perkma_EER02175	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2
+Notgen_g15355.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Aplker_45644	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Mpus_XP_003056834.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Bodsal_CUG87193.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Cmer_CMH278CT	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Spis_XP_022780081_1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Sman_Smp_144490.1_pep	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Ocar_g9688.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Porumb_OSX75094.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2
+Chrtob_KOO25261.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Cvel_19163.t1-p1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Coerev_PIA17715.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Auraur_scaffold86.g11.t2	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Mlei_ML3061_g12_t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	RRM_1 DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Rigram_Gene.28456	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2
+Plafun_PRP80602	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Meteor_CRO19MET_NODE_577.p1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Phatri_Phatr3_J46516.p1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ncra_ESA42009	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Plabra_CEO95733	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2 zf-RING_2
+Amobb2_AMBB2_13008.mRNA.2	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Umay_KIS71318	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Hemkuk_19251_TR6388_c0_g1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	GNAT_acetyltr_2
+Amac_KNE71131	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Helrob_HelroP167054	GNAT_acetyltr_2.HG1.1:NAT10	islike:NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2
+Nvec_NVE16352	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Pbla_XP_018292707.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Maljak_MALJA_02339.mRNA.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Tcas_XP_008192107.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Exapal_XP_020893477.2	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Symmic_Smic15899	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Drer_ENSDARP00000155105.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Hetalb_XP_020435591.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Auraur_scaffold86.g11.t3	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ddis_EAL73023	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Rall_EPZ34683	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Ancsig_Gene.34977	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Tgon_TGME49_218610-t26_1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2 tRNA_bind_2
+Caulen_g2361.t1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2 tRNA_bind_2
+Plafun_PRP75174	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Strcul_EPY21209	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Chocri_XP_005709844.1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Smoe_EFJ17984	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2 tRNA_bind_2
+Carmem_4273.p1	GNAT_acetyltr_2.HG1.1:NAT10	NAT10	GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2
+Bremin_symbB.v1.2.017573.t1	GNAT_acetyltr_2.HG1.2:like:NAT10:likeclu:1		GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2
+Symmic_Smic19863	GNAT_acetyltr_2.HG1.2:like:NAT10:likeclu:1		GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2
+Symmic_Smic31216	GNAT_acetyltr_2.HG1.3:like:NAT10:likeclu:1		GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2 GNAT_acetyltr_2
+Bremin_symbB.v1.2.034212.t1	GNAT_acetyltr_2.HG1.3:like:NAT10:likeclu:1		GNAT_acetyltr_2	Helicase_RecD GNAT_acetyltr_2
+Bnat_JGI_V11_73095	GNAT_acetyltr_2.HG1.4:like:NAT10:likeclu:1		GNAT_acetyltr_2	DUF1726 Helicase_RecD GNAT_acetyltr_2

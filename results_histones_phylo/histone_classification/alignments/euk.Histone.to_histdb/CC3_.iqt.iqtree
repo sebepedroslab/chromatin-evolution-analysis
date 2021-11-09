@@ -1,0 +1,1217 @@
+IQ-TREE 2.1.0 COVID-edition built Jul 18 2020
+
+Input file name: alignments/euk.Histone.to_histdb/CC3_.l.fasta
+Type of analysis: tree reconstruction
+Random seed number: 499113
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 563 sequences with 244 amino-acid sites
+Number of constant sites: 79 (= 32.377% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 79 (= 32.377% of all sites)
+Number of parsimony informative sites: 134
+Number of distinct site patterns: 211
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.9759
+
+ Category  Relative_rate  Proportion
+  1         0.1321         0.2500
+  2         0.4694         0.2500
+  3         0.9959         0.2500
+  4         2.4026         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -43486.6411 (s.e. 4018.6705)
+Unconstrained log-likelihood (without tree): -1275.5336
+Number of free parameters (#branches + #model parameters): 1112
+Akaike information criterion (AIC) score: 89197.2822
+Corrected Akaike information criterion (AICc) score: 2564509.2822
+Bayesian information criterion (BIC) score: 93086.1333
+
+**************************** WARNING ****************************
+Number of parameters (K, model parameters and branch lengths): 1112
+Sample size (n, alignment length): 244
+
+Given that K>=n, the parameter estimates might be inaccurate.
+Thus, phylogenetic estimates should be interpreted with caution.
+
+Ideally, it is desirable that n >> K. When selecting optimal models,
+1. use AIC or BIC if n > 40K;
+2. use AICc or BIC if 40K >= n > K;
+3. be extremely cautious if n <= K
+
+To improve the situation (3), consider the following options:
+  1. Increase the sample size (n)
+  2. Decrease the number of parameters (K) to be estimated. If
+     possible:
+     a. Remove the least important sequences from the alignment
+     b. Specify some of the parameter values for the substitution
+        model (e.g., the nucleotide or amino acid frequencies)
+     c. Specify some of the parameter values for the rates-across-
+        sites model (e.g., the shape parameter for the discrete
+        Gamma distribution, the proportion of invariable sites, or
+        the rates of change for different rate categories under
+        the FreeRate model)
+
+Reference:
+Burnham KR, Anderson DR (2002). Model Selection and Multimodel
+Inference: A Practical Information-Theoretic Approach. Springer,
+New York.
+************************ END OF WARNING ***********************
+
+Total tree length (sum of branch lengths): 247.0182
+Sum of internal branch lengths: 75.3483 (30.5031% of tree length)
+
+WARNING: 46 near-zero internal branches (<0.0041) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Ihof_evm19s40_1-80' is drawn at root
+
++---Ihof_evm19s40_1-80
+|
+|  +**Sarc_Sarc4_g10288T_1-80
++--|
+|  +--Cfra_CFRG1280T1_1-80
+|
+|                                      +**Tcas_XP_008199350.1_1-83
+|                                  +---|
+|                                  |   +**Tcas_XP_967974.1_1-83
+|                               +--|
+|                               |  +----Dmel_FBpp0099657_1-82
+|                            +--|
+|                            |  |   +--Emul_CDI97192.1_1-86
+|                            |  +---|
+|                            |      +--Sman_Smp_198790.1_pep_1-83
+|                         +--|
+|                         |  |              +--Linana_g710.t1_1-83
+|                         |  |           +--|
+|                         |  |           |  |  +--Notgen_g20706.t1_1-83
+|                         |  |           |  +--|
+|                         |  |           |     +--Ctel_CapteP184024_1-80
+|                         |  |        +--|
+|                         |  |        |  +--Cscu_XP_023211230.1_1-83
+|                         |  |     +--|
+|                         |  |     |  |        +**Lcom_lcpid158298_1-83
+|                         |  |     |  |     +--|
+|                         |  |     |  |     |  +**Lcom_lcpid133101_1-83
+|                         |  |     |  |  +--|
+|                         |  |     |  |  |  +--Scil_scpid73688_1-83
+|                         |  |     |  +--|
+|                         |  |     |     +--Ocar_g4470.t1_1-83
+|                         |  |  +--|
+|                         |  |  |  |  +--Skow_XP_002735947.1_1-83
+|                         |  |  |  +--|
+|                         |  |  |     |        +--Apla_XP_022085190.1_1-84
+|                         |  |  |     |     +--|
+|                         |  |  |     |     |  +--Spur_XP_785187.1_1-83
+|                         |  |  |     |  +**|
+|                         |  |  |     |  |  +--Mlei_ML1054_g16_t1_1-83
+|                         |  |  |     +--|
+|                         |  |  |        |        +--Cint_ENSCINP00000032769.1_1-83
+|                         |  |  |        |     +--|
+|                         |  |  |        |     |  +--Nvec_NVE4158_1-83
+|                         |  |  |        |  +--|
+|                         |  |  |        |  |  |     +--Tetwil_Twilhelma_g5787.t1_1-84
+|                         |  |  |        |  |  |  +--|
+|                         |  |  |        |  |  |  |  |  +**Emue_0016g67a_1-83
+|                         |  |  |        |  |  |  |  +--|
+|                         |  |  |        |  |  |  |     +**Emue_0016g81a_1-83
+|                         |  |  |        |  |  +--|
+|                         |  |  |        |  |     +--Exapal_XP_020914885.1_1-83
+|                         |  |  |        +--|
+|                         |  |  |           |  +---Aque_Aqu2.1.37258_001_1-82
+|                         |  |  |           +--|
+|                         |  |  |              +-----Cscu_XP_023215972.1_13-96
+|                         |  +--|
+|                         |     |                 +--Lpol_XP_013781842.1_1-83
+|                         |     |              +--|
+|                         |     |              |  +--Lpol_XP_013781220.1_1-83
+|                         |     |           +--|
+|                         |     |           |  +--Bralan_BL02501_evm0_1-83
+|                         |     |        +--|
+|                         |     |        |  +--Lgig_LotgiP238643_1-83
+|                         |     |     +--|
+|                         |     |     |  +--Hsap_ENSP00000363284.3_1-83
+|                         |     |  +--|
+|                         |     |  |  |        +**Drer_ENSDARP00000146107.1_1-83
+|                         |     |  |  |     +--|
+|                         |     |  |  |     |  +**Drer_ENSDARP00000145775.1_1-83
+|                         |     |  |  |  +--|
+|                         |     |  |  |  |  |  +--Tadh_wf_g2149_t1_1-57
+|                         |     |  |  |  |  +--|
+|                         |     |  |  |  |     +--Phoaus_g18039.t1_27-107
+|                         |     |  |  +--|
+|                         |     |  |     +----Cgig_EKC18754_17-85
+|                         |     +**|
+|                         |        |           +--Spis_XP_022801833_1_1-82
+|                         |        |        +--|
+|                         |        |        |  +--Adig_XP_015753227.1_1-82
+|                         |        |     +--|
+|                         |        |     |  +--Morvir_scaffold162.g14.t1_1-83
+|                         |        |  +--|
+|                         |        |  |  +--Clyhem_TCONS_00021143-protein_1-83
+|                         |        +--|
+|                         |           +--Helrob_HelroP75183_1-83
+|                      +--|
+|                      |  |  +-----Recame_RECAM_02327.mRNA.1_1-79
+|                      |  +--|
+|                      |     +------Gefoke_MALSP_08998.mRNA.1_1-77
+|                   +--|
+|                   |  |  +------Nk52_evm35s2612_1-81
+|                   |  +--|
+|                   |     |  +----Cowc_KJE90880_5-87
+|                   |     +--|
+|                   |        +----------------Plafun_PRP81358_29-114
+|                +--|
+|                |  |         +-------Ancsig_Gene.26153_1-82
+|                |  |     +---|
+|                |  |     |   +---------Plamic_ANCSI_05878.mRNA.1_1-72
+|                |  |  +--|
+|                |  |  |  |  +----Styinc_Gene17934_m17934_1-81
+|                |  |  |  +--|
+|                |  |  |     +--------Andgod_ANDGO_02881.mRNA.1_1-80
+|                |  +--|
+|                |     |                  +--Hetalb_XP_020432381.1_1-80
+|                |     |               +--|
+|                |     |               |  |  +--Tielac_KYR01928_1-80
+|                |     |               |  +--|
+|                |     |               |     +--Ddis_EAL71263_1-80
+|                |     |           +---|
+|                |     |           |   +--Cavfas_EGG21379_1-79
+|                |     |        +--|
+|                |     |        |  +--Acas_ELR14904_1-74
+|                |     |     +**|
+|                |     |     |  +-------------Pygbif_GCRY01003196.1.p1_1-80
+|                |     |  +--|
+|                |     |  |  |           +-----Lcom_lcpid178424_1-76
+|                |     |  |  |        +**|
+|                |     |  |  |        |  |        +---Vitbra_CEM09150.1_45-127
+|                |     |  |  |        |  |     +--|
+|                |     |  |  |        |  |     |  +--------Meteor_CRO19MET_NODE_11212.p2_48-129
+|                |     |  |  |        |  |  +--|
+|                |     |  |  |        |  |  |  |   +------------Ttra_KNC52651_1-80
+|                |     |  |  |        |  |  |  +---|
+|                |     |  |  |        |  |  |      +-----Cvel_23660.t1-p1_1-82
+|                |     |  |  |        |  +--|
+|                |     |  |  |        |     |       +--Ehux_EOD23620_35-118
+|                |     |  |  |        |     |    +--|
+|                |     |  |  |        |     |    |  +--Ehux_EOD25995_35-113
+|                |     |  |  |        |     +----|
+|                |     |  |  |        |          +----Chrtob_KOO22593.1_36-118
+|                |     |  |  |     +--|
+|                |     |  |  |     |  |     +--Schagg_26154_1-78
+|                |     |  |  |     |  |  +--|
+|                |     |  |  |     |  |  |  |     +--Aurlim_74473_32-111
+|                |     |  |  |     |  |  |  +-----|
+|                |     |  |  |     |  |  |        +--Honfer_GBG32938_42-121
+|                |     |  |  |     |  +--|
+|                |     |  |  |     |     +----Aplker_56172_1-82
+|                |     |  |  |  +--|
+|                |     |  |  |  |  |       +--Tpse_ACI65003_1-73
+|                |     |  |  |  |  |  +----|
+|                |     |  |  |  |  |  |    +----Tpse_EED95062_70-154
+|                |     |  |  |  |  +--|
+|                |     |  |  |  |     |        +--Esil_CBN76059_1-85
+|                |     |  |  |  |     |     +--|
+|                |     |  |  |  |     |     |  +--Coka_g8673.t1_1-85
+|                |     |  |  |  |     |  +--|
+|                |     |  |  |  |     |  |  |  +----Ngad_EWM23659_78-159
+|                |     |  |  |  |     |  |  +--|
+|                |     |  |  |  |     |  |     +-----Phatri_Phatr3_J43730.p1_13-94
+|                |     |  |  |  |     +--|
+|                |     |  |  |  |        +-----Aano_EGB03606_1-76
+|                |     |  |  +--|
+|                |     |  |     +-------Pavlsp_1037333_59-142
+|                |     +--|
+|                |        |  +--------Jakbah_JAKBA_00330.mRNA.1_2-84
+|                |        +--|
+|                |           |    +----Ngru_EFC37840_73-155
+|                |           +----|
+|                |                +-----Phakir_PHAKIR_04125.mRNA.1_45-127
+|             +--|
+|             |  |        +---Manpla_Gene.53677_1-51
+|             |  |     +--|
+|             |  |     |  +---------Concor_KXN68540_40-123
+|             |  |  +--|
+|             |  |  |  |      +-----Amac_KNE71367_52-134
+|             |  |  |  +------|
+|             |  |  |         +------Cang_ORZ37377_18-101
+|             |  +--|
+|             |     |     +----Pisp_OUM58978.1_1-61
+|             |     |  +--|
+|             |     |  |  |  +--Spun_KNC95865_1-82
+|             |     |  |  +--|
+|             |     |  |     +-------Bden_EGF78726_72-155
+|             |     +--|
+|             |        |           +-----Coerev_PIA14123.1_1-83
+|             |        |        +--|
+|             |        |        |  +----Morelo_OAQ26000_1-83
+|             |        |     +--|
+|             |        |     |  +----Rhidel_EIE86808_2-85
+|             |        |  +--|
+|             |        |  |  +--Umbram_244787_1-83
+|             |        +--|
+|             |           |        +---Tmel_CAZ80274_1-116
+|             |           |     +--|
+|             |           |     |  |  +---Ncra_EAA34930_85-206
+|             |           |     |  +--|
+|             |           |     |     +--------Spom_SPBC3D6.09.1_pep_8-90
+|             |           |  +--|
+|             |           |  |  |       +------Cneo_AAW46916_28-111
+|             |           |  |  |    +--|
+|             |           |  |  |    |  +--------Umay_KIS68721_71-154
+|             |           |  |  +----|
+|             |           |  |       +------Ccin_EAU83629_18-101
+|             |           +--|
+|             |              +--------Rirr_GBC30421_19-100
+|          +--|
+|          |  |     +-------Plabra_CEO94249_1-80
+|          |  |  +--|
+|          |  |  |  |  +------Bnat_JGI_V11_52476_36-119
+|          |  |  |  +--|
+|          |  |  |     +-----------Oxytri_EJY69894_1-74
+|          |  +--|
+|          |     |                                   +--Sacu_v1.1_s0002.g001262_1-89
+|          |     |                                +--|
+|          |     |                                |  +--Azfi_s0066.g036069_85-148
+|          |     |                             +--|
+|          |     |                             |  |     +--Sbic_EER98514_32-122
+|          |     |                             |  |  +--|
+|          |     |                             |  |  |  +--Bdis_KQJ91588_34-126
+|          |     |                             |  +--|
+|          |     |                             |     |  +--Acoe_PIA28244.1_7-96
+|          |     |                             |     +--|
+|          |     |                             |        |  +---Atha_AT2G27470.1_1-89
+|          |     |                             |        +--|
+|          |     |                             |           +--Mgut_XP_012850173.1_12-100
+|          |     |                          +--|
+|          |     |                          |  |  +--Sphfal_Sphfalx14G105200.1.p_34-100
+|          |     |                          |  +--|
+|          |     |                          |     +--Ppat_Pp3c26_8280V3.1_5-97
+|          |     |                       +--|
+|          |     |                       |  +--Marpol_PTQ31887_1-91
+|          |     |                    +--|
+|          |     |                    |  +--Smoe_EFJ17220_1-93
+|          |     |                 +--|
+|          |     |                 |  |  +--Mpus_XP_003054988.1_1-53
+|          |     |                 |  +--|
+|          |     |                 |     +-----Otau_XP_022839473.1_1-89
+|          |     |              +--|
+|          |     |              |  +----Klenit_GAQ86387.1_63-132
+|          |     |           +--|
+|          |     |           |  +--Atri_ERN16538_23-89
+|          |     |        +--|
+|          |     |        |  |     +---Crei_PNW81084_3-94
+|          |     |        |  |  +--|
+|          |     |        |  |  |  +--Vcar_XP_002951737.1_1-95
+|          |     |        |  +--|
+|          |     |        |     |  +-----------Diprot_Gene.11403_1-80
+|          |     |        |     +--|
+|          |     |        |        +----Ulvmut_UM011_01141_1-92
+|          |     |     +--|
+|          |     |     |  |  +--Cocsub_XP_005648182.1_38-102
+|          |     |     |  +--|
+|          |     |     |     |  +---Cvar_XP_005847430.1_1-56
+|          |     |     |     +--|
+|          |     |     |        +----------Caulen_g5023.t1_27-90
+|          |     |  +--|
+|          |     |  |  |     +-----Rigram_Gene.24389_1-81
+|          |     |  |  |  +--|
+|          |     |  |  |  |  |         +----Alblai_CCA16754_1-76
+|          |     |  |  |  |  +---------|
+|          |     |  |  |  |            +---------Pinf_PITG_07175T0_3-77
+|          |     |  |  +--|
+|          |     |  |     +------Spimul_22855_TR11273_c0_g1_33-116
+|          |     +--|
+|          |        +------Hemkuk_17224_TR5731_c1_g1_4-88
+|       +--|
+|       |  |                 +---Hduj_OQV16774.1_46-129
+|       |  |      +----------|
+|       |  |      |          +-----Ramvar_GAU95479.1_38-116
+|       |  |  +---|
+|       |  |  |   |  +--Hduj_OQV20112.1_63-145
+|       |  |  |   +--|
+|       |  |  |      +-----Ramvar_GAV00550.1_36-118
+|       |  +--|
+|       |     |      +-------Gonavo_comp35953_c0_seq1_6_ORF3_122_1-77
+|       |     +------|
+|       |            +---------Gthe_EKX47036_11-78
++-------|
+        |  +------------Sappar_KDO34131_1-78
+        +--|
+           |                                                +--Tadh_P28921_1-77
+           |                                             +--|
+           |                                             |  +--Mlei_ML2931_g2_t1_53-159
+           |                                          +--|
+           |                                          |  |              +--Lpol_XP_013774818.1_64-147
+           |                                          |  |           +--|
+           |                                          |  |           |  +**Lpol_XP_022242177.1_52-135
+           |                                          |  |        +--|
+           |                                          |  |        |  |  +--Helrob_HelroP85626_1-77
+           |                                          |  |        |  +--|
+           |                                          |  |        |     +--Morvir_scaffold347.g9.t1_31-114
+           |                                          |  |     +--|
+           |                                          |  |     |  |           +--Auraur_scaffold332.g7.t1_10-93
+           |                                          |  |     |  |        +--|
+           |                                          |  |     |  |        |  +--Clyhem_TCONS_00062758-protein_148-231
+           |                                          |  |     |  |     +--|
+           |                                          |  |     |  |     |  +--Hydvul_Sc4wPfr_384.g24893.t1_41-156
+           |                                          |  |     |  |  +--|
+           |                                          |  |     |  |  |  |        +--Drer_ENSDARP00000057253.4_47-130
+           |                                          |  |     |  |  |  |     +--|
+           |                                          |  |     |  |  |  |     |  +--Cint_ENSCINP00000001885.3_30-113
+           |                                          |  |     |  |  |  |  +--|
+           |                                          |  |     |  |  |  |  |  |  +**Drer_ENSDARP00000145442.1_48-131
+           |                                          |  |     |  |  |  |  |  +--|
+           |                                          |  |     |  |  |  |  |     +**Drer_ENSDARP00000127511.1_43-126
+           |                                          |  |     |  |  |  +--|
+           |                                          |  |     |  |  |     +**Hsap_ENSP00000448250.2_50-133
+           |                                          |  |     |  +**|
+           |                                          |  |     |     |                    +**Exapal_XP_020900334.1_154-243
+           |                                          |  |     |     |                 +--|
+           |                                          |  |     |     |                 |  +**Exapal_XP_020900335.1_43-133
+           |                                          |  |     |     |              +--|
+           |                                          |  |     |     |              |  |     +**Spis_XP_022801153_1_146-243
+           |                                          |  |     |     |              |  |  +--|
+           |                                          |  |     |     |              |  |  |  +--Adig_XP_015774604.1_154-249
+           |                                          |  |     |     |              |  +--|
+           |                                          |  |     |     |              |     +**Nvec_NVE6127_141-224
+           |                                          |  |     |     |           +**|
+           |                                          |  |     |     |           |  |  +--Phoaus_g10147.t1_20-103
+           |                                          |  |     |     |           |  +--|
+           |                                          |  |     |     |           |     +--Linana_g17964.t1_129-212
+           |                                          |  |     |     |        +--|
+           |                                          |  |     |     |        |  +--Notgen_g23248.t1_380-463
+           |                                          |  |     |     |     +**|
+           |                                          |  |     |     |     |  +--Ptyfla_pfl_40v0_9_20150316_1g7847.t1_18-90
+           |                                          |  |     |     |  +**|
+           |                                          |  |     |     |  |  |  +--Dpul_EFX80168_18-102
+           |                                          |  |     |     |  |  +**|
+           |                                          |  |     |     |  |     |  +**Lgig_LotgiP142831_1-84
+           |                                          |  |     |     |  |     +--|
+           |                                          |  |     |     |  |        |     +--Cscu_XP_023233843.1_10-81
+           |                                          |  |     |     |  |        |  +--|
+           |                                          |  |     |     |  |        |  |  +---Sman_Smp_154340.1_pep_16-72
+           |                                          |  |     |     |  |        +--|
+           |                                          |  |     |     |  |           +--Skow_XP_006825371.1_6-74
+           |                                          |  |     |     +--|
+           |                                          |  |     |        +--Ctel_CapteP159684_46-129
+           |                                          |  |  +--|
+           |                                          |  |  |  +--Bralan_BL19234_evm17_86-169
+           |                                          |  +--|
+           |                                          |     |     +**Apla_XP_022099243.1_39-133
+           |                                          |     |  +--|
+           |                                          |     |  |  |  +**Spur_XP_030855718.1_50-133
+           |                                          |     |  |  +--|
+           |                                          |     |  |     +**Spur_NP_999685.1_50-133
+           |                                          |     +--|
+           |                                          |        |  +--Hduj_OWA51709.1_29-112
+           |                                          |        +--|
+           |                                          |           +--Ramvar_GAU98080.1_23-107
+           |                                       +--|
+           |                                       |  |        +**Tcas_XP_008197712.1_52-139
+           |                                       |  |     +**|
+           |                                       |  |     |  +**Tcas_XP_008197711.1_52-139
+           |                                       |  |  +**|
+           |                                       |  |  |  +**Tcas_XP_969725.1_52-135
+           |                                       |  +--|
+           |                                       |     +-----Dmel_FBpp0080827_33-115
+           |                                    +--|
+           |                                    |  +--Emul_CDI98208.1_42-125
+           |                                 +--|
+           |                                 |  |     +**Cfra_CFRG1301T1_36-119
+           |                                 |  |  +--|
+           |                                 |  |  |  +**Sarc_Sarc4_g29733T_45-128
+           |                                 |  +--|
+           |                                 |     +--Ihof_evm4s370_41-86
+           |                              +--|
+           |                              |  |  +--Cowc_KJE93209_14-101
+           |                              |  +--|
+           |                              |     +--Clim_evm12s62_23-107
+           |                           +--|
+           |                           |  +--Nk52_evm2s214_1-105
+           |                        +**|
+           |                        |  |                    +**Amobb2_AMBB2_06103.mRNA.3_15-98
+           |                        |  |                 +--|
+           |                        |  |                 |  +**Amobb2_AMBB2_06103.mRNA.1_15-98
+           |                        |  |              +--|
+           |                        |  |              |  |     +--Gracho_PXF43668.1_10-93
+           |                        |  |              |  |  +--|
+           |                        |  |              |  |  |  +--Porumb_OSX69827.1_16-98
+           |                        |  |              |  +--|
+           |                        |  |              |     |  +--Pinf_PITG_10861T0_9-92
+           |                        |  |              |     +--|
+           |                        |  |              |        +**Alblai_CCA19402_9-92
+           |                        |  |           +--|
+           |                        |  |           |  |        +**Phatri_Phatr3_J54067.p1_44-127
+           |                        |  |           |  |     +--|
+           |                        |  |           |  |     |  +--Tpse_EED87918_1-80
+           |                        |  |           |  |  +--|
+           |                        |  |           |  |  |  |  +--Ngad_EWM28041_18-101
+           |                        |  |           |  |  |  +**|
+           |                        |  |           |  |  |     |  +--Aplker_81582_12-95
+           |                        |  |           |  |  |     +--|
+           |                        |  |           |  |  |        |     +--Honfer_GBG33799_5-88
+           |                        |  |           |  |  |        |  +--|
+           |                        |  |           |  |  |        |  |  +--Aurlim_59042_5-88
+           |                        |  |           |  |  |        +**|
+           |                        |  |           |  |  |           +--Schagg_81524_2-85
+           |                        |  |           |  +--|
+           |                        |  |           |     +--Esil_CBN79369_9-92
+           |                        |  |        +--|
+           |                        |  |        |  |                 +**Sphfal_Sphfalx19G002900.1.p_29-112
+           |                        |  |        |  |              +--|
+           |                        |  |        |  |              |  +**Sphfal_Sphfalx19G002900.2.p_29-112
+           |                        |  |        |  |           +--|
+           |                        |  |        |  |           |  |  +**Ppat_Pp3c3_14260V3.2_150-233
+           |                        |  |        |  |           |  +**|
+           |                        |  |        |  |           |     |                    +**Ppat_Pp3c9_14800V3.10_30-113
+           |                        |  |        |  |           |     |                 +**|
+           |                        |  |        |  |           |     |                 |  +**Sphfal_Sphfalx14G037400.1.p_31-114
+           |                        |  |        |  |           |     |              +--|
+           |                        |  |        |  |           |     |              |  |  +--Ppat_Pp3c3_13480V3.1_116-158
+           |                        |  |        |  |           |     |              |  +--|
+           |                        |  |        |  |           |     |              |     +-----Ppat_Pp3c17_470V3.1_2-115
+           |                        |  |        |  |           |     |           +--|
+           |                        |  |        |  |           |     |           |  +--Marpol_PTQ27175_32-115
+           |                        |  |        |  |           |     |        +**|
+           |                        |  |        |  |           |     |        |  |                 +**Mgut_XP_012829444.1_15-98
+           |                        |  |        |  |           |     |        |  |              +**|
+           |                        |  |        |  |           |     |        |  |              |  +**Mgut_XP_012848260.1_15-98
+           |                        |  |        |  |           |     |        |  |           +--|
+           |                        |  |        |  |           |     |        |  |           |  |           +--Sbic_EES14637_54-137
+           |                        |  |        |  |           |     |        |  |           |  |        +--|
+           |                        |  |        |  |           |     |        |  |           |  |        |  +**Bdis_KQJ95195_39-122
+           |                        |  |        |  |           |     |        |  |           |  |     +--|
+           |                        |  |        |  |           |     |        |  |           |  |     |  |  +--Mgut_XP_012853354.1_17-101
+           |                        |  |        |  |           |     |        |  |           |  |     |  +--|
+           |                        |  |        |  |           |     |        |  |           |  |     |     |  +---------Gthe_EKX52359_1-74
+           |                        |  |        |  |           |     |        |  |           |  |     |     +--|
+           |                        |  |        |  |           |     |        |  |           |  |     |        |   +---------Plafun_PRP77327_34-116
+           |                        |  |        |  |           |     |        |  |           |  |     |        +---|
+           |                        |  |        |  |           |     |        |  |           |  |     |            +--------Acoe_PIA58329.1_34-117
+           |                        |  |        |  |           |     |        |  |           |  |  +--|
+           |                        |  |        |  |           |     |        |  |           |  |  |  +--Atri_ERM94322_14-97
+           |                        |  |        |  |           |     |        |  |           |  +--|
+           |                        |  |        |  |           |     |        |  |           |     |  +--Atha_AT2G13570.1_4-114
+           |                        |  |        |  |           |     |        |  |           |     +--|
+           |                        |  |        |  |           |     |        |  |           |        |  +**Mgut_XP_012845670.1_29-169
+           |                        |  |        |  |           |     |        |  |           |        +--|
+           |                        |  |        |  |           |     |        |  |           |           +**Mgut_XP_012845671.1_36-158
+           |                        |  |        |  |           |     |        |  |        +**|
+           |                        |  |        |  |           |     |        |  |        |  +--Bdis_KQK15318_18-101
+           |                        |  |        |  |           |     |        |  |     +--|
+           |                        |  |        |  |           |     |        |  |     |  +**Atha_AT4G14540.1_16-99
+           |                        |  |        |  |           |     |        |  |  +**|
+           |                        |  |        |  |           |     |        |  |  |  |  +**Mgut_XP_012841807.1_21-104
+           |                        |  |        |  |           |     |        |  |  |  +--|
+           |                        |  |        |  |           |     |        |  |  |     |  +**Atri_ERN17766_20-103
+           |                        |  |        |  |           |     |        |  |  |     +--|
+           |                        |  |        |  |           |     |        |  |  |        +--Atri_ERN09883_1-65
+           |                        |  |        |  |           |     |        |  +--|
+           |                        |  |        |  |           |     |        |     |        +**Bdis_KQK21295_18-101
+           |                        |  |        |  |           |     |        |     |     +--|
+           |                        |  |        |  |           |     |        |     |     |  +**Sbic_EER94693_18-101
+           |                        |  |        |  |           |     |        |     |  +--|
+           |                        |  |        |  |           |     |        |     |  |  +**Sbic_EER99684_16-99
+           |                        |  |        |  |           |     |        |     +--|
+           |                        |  |        |  |           |     |        |        +--Smoe_EFJ23407_23-106
+           |                        |  |        |  |           |     |     +--|
+           |                        |  |        |  |           |     |     |  |     +--Sacu_v1.1_s0054.g014195_36-119
+           |                        |  |        |  |           |     |     |  |  +--|
+           |                        |  |        |  |           |     |     |  |  |  |  +--Atha_AT5G47640.1_22-105
+           |                        |  |        |  |           |     |     |  |  |  +--|
+           |                        |  |        |  |           |     |     |  |  |     +--Smoe_EFJ31867_23-106
+           |                        |  |        |  |           |     |     |  +--|
+           |                        |  |        |  |           |     |     |     |           +--Sacu_v1.1_s0126.g021742_475-558
+           |                        |  |        |  |           |     |     |     |        +--|
+           |                        |  |        |  |           |     |     |     |        |  +**Sacu_v1.1_s0025.g009273_29-112
+           |                        |  |        |  |           |     |     |     |     +--|
+           |                        |  |        |  |           |     |     |     |     |  +--Azfi_s0032.g024682_49-132
+           |                        |  |        |  |           |     |     |     |  +--|
+           |                        |  |        |  |           |     |     |     |  |  |     +--Atri_ERN16970_31-124
+           |                        |  |        |  |           |     |     |     |  |  |  +--|
+           |                        |  |        |  |           |     |     |     |  |  |  |  |  +--Acoe_PIA44564.1_30-113
+           |                        |  |        |  |           |     |     |     |  |  |  |  +--|
+           |                        |  |        |  |           |     |     |     |  |  |  |     |  +**Bdis_PNT73541_30-112
+           |                        |  |        |  |           |     |     |     |  |  |  |     +--|
+           |                        |  |        |  |           |     |     |     |  |  |  |        +--Sbic_EES04176_29-111
+           |                        |  |        |  |           |     |     |     |  |  +--|
+           |                        |  |        |  |           |     |     |     |  |     |  +--Atha_AT2G47810.1_33-129
+           |                        |  |        |  |           |     |     |     |  |     +--|
+           |                        |  |        |  |           |     |     |     |  |        |  +--Acoe_PIA61525.1_23-117
+           |                        |  |        |  |           |     |     |     |  |        +--|
+           |                        |  |        |  |           |     |     |     |  |           |     +--Mgut_XP_012833303.1_32-115
+           |                        |  |        |  |           |     |     |     |  |           |  +--|
+           |                        |  |        |  |           |     |     |     |  |           |  |  |  +--Mgut_XP_012850788.1_1-82
+           |                        |  |        |  |           |     |     |     |  |           |  |  +--|
+           |                        |  |        |  |           |     |     |     |  |           |  |     +--Mgut_XP_012857060.1_31-113
+           |                        |  |        |  |           |     |     |     |  |           +--|
+           |                        |  |        |  |           |     |     |     |  |              |     +--Mgut_XP_012828059.1_42-125
+           |                        |  |        |  |           |     |     |     |  |              |  +--|
+           |                        |  |        |  |           |     |     |     |  |              |  |  +--Mgut_XP_012842193.1_12-97
+           |                        |  |        |  |           |     |     |     |  |              +--|
+           |                        |  |        |  |           |     |     |     |  |                 +--Atha_AT1G09030.1_1-81
+           |                        |  |        |  |           |     |     |     +--|
+           |                        |  |        |  |           |     |     |        |  +**Sacu_v1.1_s0056.g014640_28-111
+           |                        |  |        |  |           |     |     |        +--|
+           |                        |  |        |  |           |     |     |           |  +--Azfi_s0003.g007945_29-112
+           |                        |  |        |  |           |     |     |           +--|
+           |                        |  |        |  |           |     |     |              +--Azfi_s0095.g043581_27-110
+           |                        |  |        |  |           |     |  +--|
+           |                        |  |        |  |           |     |  |  |                       +--Bdis_KQK18584_20-102
+           |                        |  |        |  |           |     |  |  |                    +--|
+           |                        |  |        |  |           |     |  |  |                    |  +**Bdis_KQK18580_25-107
+           |                        |  |        |  |           |     |  |  |                 +--|
+           |                        |  |        |  |           |     |  |  |                 |  +--Sbic_OQU76250_42-124
+           |                        |  |        |  |           |     |  |  |              +**|
+           |                        |  |        |  |           |     |  |  |              |  +--Bdis_KQK01520_33-115
+           |                        |  |        |  |           |     |  |  |           +--|
+           |                        |  |        |  |           |     |  |  |           |  +--Sbic_KXG30848_11-114
+           |                        |  |        |  |           |     |  |  |        +--|
+           |                        |  |        |  |           |     |  |  |        |  +--Atha_AT1G21970.1_54-137
+           |                        |  |        |  |           |     |  |  |     +--|
+           |                        |  |        |  |           |     |  |  |     |  |     +**Mgut_XP_012849193.1_31-114
+           |                        |  |        |  |           |     |  |  |     |  |  +--|
+           |                        |  |        |  |           |     |  |  |     |  |  |  |  +--Atha_AT5G47670.1_35-136
+           |                        |  |        |  |           |     |  |  |     |  |  |  +--|
+           |                        |  |        |  |           |     |  |  |     |  |  |     +--Acoe_PIA25597.1_47-130
+           |                        |  |        |  |           |     |  |  |     |  +--|
+           |                        |  |        |  |           |     |  |  |     |     |  +--Atri_ERN19273_10-105
+           |                        |  |        |  |           |     |  |  |     |     +--|
+           |                        |  |        |  |           |     |  |  |     |        |  +--Azfi_s0293.g063460_20-101
+           |                        |  |        |  |           |     |  |  |     |        +--|
+           |                        |  |        |  |           |     |  |  |     |           +--Acoe_PIA58328.1_36-119
+           |                        |  |        |  |           |     |  |  |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |                    +--Mgut_XP_012836455.1_1-62
+           |                        |  |        |  |           |     |  |  |  |  |                 +--|
+           |                        |  |        |  |           |     |  |  |  |  |                 |  +--Mgut_XP_012836454.1_9-119
+           |                        |  |        |  |           |     |  |  |  |  |              +--|
+           |                        |  |        |  |           |     |  |  |  |  |              |  |  +--Mgut_XP_012839450.1_9-123
+           |                        |  |        |  |           |     |  |  |  |  |              |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |              |     +--Mgut_XP_012842675.1_81-161
+           |                        |  |        |  |           |     |  |  |  |  |           +**|
+           |                        |  |        |  |           |     |  |  |  |  |           |  |     +--Mgut_XP_012839458.1_1-74
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  |  |        +--Mgut_XP_012838634.1_387-469
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  |  |     +--|
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  |  |     |  |  +**Mgut_XP_012846296.1_76-157
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  |  |     |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  |  |     |     +**Mgut_XP_012844767.1_45-126
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  |  |  +**|
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  |  |  |  |  +--Mgut_XP_012850798.1_1-74
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  |  |  |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  |  |  |     +--Mgut_XP_012848273.1_151-233
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  |  +**|
+           |                        |  |        |  |           |     |  |  |  |  |           |  |  |     +--Mgut_XP_012857606.1_1-74
+           |                        |  |        |  |           |     |  |  |  |  |           |  +**|
+           |                        |  |        |  |           |     |  |  |  |  |           |     |  +--Mgut_XP_012839452.1_80-163
+           |                        |  |        |  |           |     |  |  |  |  |           |     +--|
+           |                        |  |        |  |           |     |  |  |  |  |           |        +--Mgut_XP_012839441.1_87-168
+           |                        |  |        |  |           |     |  |  |  |  |        +--|
+           |                        |  |        |  |           |     |  |  |  |  |        |  |           +--Mgut_XP_012841021.1_62-145
+           |                        |  |        |  |           |     |  |  |  |  |        |  |        +--|
+           |                        |  |        |  |           |     |  |  |  |  |        |  |        |  +--Mgut_XP_012852537.1_32-143
+           |                        |  |        |  |           |     |  |  |  |  |        |  |     +--|
+           |                        |  |        |  |           |     |  |  |  |  |        |  |     |  |     +--Mgut_XP_012841019.1_15-129
+           |                        |  |        |  |           |     |  |  |  |  |        |  |     |  |  +**|
+           |                        |  |        |  |           |     |  |  |  |  |        |  |     |  |  |  +--Mgut_XP_012852535.1_35-147
+           |                        |  |        |  |           |     |  |  |  |  |        |  |     |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |        |  |     |     +--Mgut_XP_012841020.1_51-166
+           |                        |  |        |  |           |     |  |  |  |  |        |  |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |        |  |  |  +--Mgut_XP_012846005.1_45-128
+           |                        |  |        |  |           |     |  |  |  |  |        |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |        |     |     +**Mgut_XP_012846941.1_13-116
+           |                        |  |        |  |           |     |  |  |  |  |        |     |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |        |     |  |  |  +--Mgut_XP_012833608.1_814-875
+           |                        |  |        |  |           |     |  |  |  |  |        |     |  |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |        |     |  |     +-------Mgut_XP_012836456.1_7-68
+           |                        |  |        |  |           |     |  |  |  |  |        |     +--|
+           |                        |  |        |  |           |     |  |  |  |  |        |        +--Mgut_XP_012833611.1_84-167
+           |                        |  |        |  |           |     |  |  |  |  |     +--|
+           |                        |  |        |  |           |     |  |  |  |  |     |  |  +**Mgut_XP_012838126.1_86-169
+           |                        |  |        |  |           |     |  |  |  |  |     |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |     |     +**Mgut_XP_012838119.1_216-299
+           |                        |  |        |  |           |     |  |  |  |  |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |  |  |        +--Mgut_XP_012857869.1_1-74
+           |                        |  |        |  |           |     |  |  |  |  |  |  |     +--|
+           |                        |  |        |  |           |     |  |  |  |  |  |  |     |  |  +--Mgut_XP_012833616.1_51-133
+           |                        |  |        |  |           |     |  |  |  |  |  |  |     |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |  |  |     |     +--Mgut_XP_012833609.1_20-99
+           |                        |  |        |  |           |     |  |  |  |  |  |  |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |  |  |  |  |     +**Mgut_XP_012858173.1_42-131
+           |                        |  |        |  |           |     |  |  |  |  |  |  |  |  |  +**|
+           |                        |  |        |  |           |     |  |  |  |  |  |  |  |  |  |  +--Mgut_XP_012858186.1_40-131
+           |                        |  |        |  |           |     |  |  |  |  |  |  |  |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |  |  |  |     +--Mgut_XP_012858122.1_34-123
+           |                        |  |        |  |           |     |  |  |  |  |  |  +--|
+           |                        |  |        |  |           |     |  |  |  |  |  |     +--Mgut_XP_012857928.1_53-135
+           |                        |  |        |  |           |     |  |  |  |  +--|
+           |                        |  |        |  |           |     |  |  |  |     +-----Mgut_XP_012848422.1_49-130
+           |                        |  |        |  |           |     |  |  +--|
+           |                        |  |        |  |           |     |  |     +--Smoe_EFJ12145_15-103
+           |                        |  |        |  |           |     +--|
+           |                        |  |        |  |           |        +--Ulvmut_UM020_01011_9-92
+           |                        |  |        |  |        +--|
+           |                        |  |        |  |        |  |        +**Marpol_PTQ27167_28-111
+           |                        |  |        |  |        |  |     +--|
+           |                        |  |        |  |        |  |     |  +--Chabra_GBG71017_39-122
+           |                        |  |        |  |        |  |  +**|
+           |                        |  |        |  |        |  |  |  |        +**Smoe_EFJ15373_27-110
+           |                        |  |        |  |        |  |  |  |     +**|
+           |                        |  |        |  |        |  |  |  |     |  |     +--Vcar_XP_002949581.1_12-95
+           |                        |  |        |  |        |  |  |  |     |  |  +**|
+           |                        |  |        |  |        |  |  |  |     |  |  |  +--Crei_PNW86267_12-95
+           |                        |  |        |  |        |  |  |  |     |  +--|
+           |                        |  |        |  |        |  |  |  |     |     +--Cvar_XP_005847098.1_1-80
+           |                        |  |        |  |        |  |  |  |  +--|
+           |                        |  |        |  |        |  |  |  |  |  |              +--Lcom_lcpid123763_98-159
+           |                        |  |        |  |        |  |  |  |  |  |        +-----|
+           |                        |  |        |  |        |  |  |  |  |  |        |     +------------Jakbah_JAKBA_01487.mRNA.1_1-58
+           |                        |  |        |  |        |  |  |  |  |  |     +--|
+           |                        |  |        |  |        |  |  |  |  |  |     |  +--Cpar_Cpar_evm3s7567_24-85
+           |                        |  |        |  |        |  |  |  |  |  |  +--|
+           |                        |  |        |  |        |  |  |  |  |  |  |  +**Ppat_Pp3c3_13480V3.1_29-89
+           |                        |  |        |  |        |  |  |  |  |  +--|
+           |                        |  |        |  |        |  |  |  |  |     +------Sacu_v1.1_s0126.g021744_1-53
+           |                        |  |        |  |        |  |  |  +--|
+           |                        |  |        |  |        |  |  |     |  +--Mpus_XP_003061751.1_20-103
+           |                        |  |        |  |        |  |  |     +--|
+           |                        |  |        |  |        |  |  |        |           +**Bdis_KQK10455_17-100
+           |                        |  |        |  |        |  |  |        |        +--|
+           |                        |  |        |  |        |  |  |        |        |  +--Sbic_OQU87808_17-100
+           |                        |  |        |  |        |  |  |        |     +--|
+           |                        |  |        |  |        |  |  |        |     |  |     +--Bdis_KQK04759_14-97
+           |                        |  |        |  |        |  |  |        |     |  |  +--|
+           |                        |  |        |  |        |  |  |        |     |  |  |  +--Sbic_OQU78465_11-93
+           |                        |  |        |  |        |  |  |        |     |  +--|
+           |                        |  |        |  |        |  |  |        |     |     +----Pavlsp_601209_3-93
+           |                        |  |        |  |        |  |  |        |  +--|
+           |                        |  |        |  |        |  |  |        |  |  |  +**Caulen_g8237.t1_15-98
+           |                        |  |        |  |        |  |  |        |  |  +--|
+           |                        |  |        |  |        |  |  |        |  |     +**Caulen_g8237.t2_15-98
+           |                        |  |        |  |        |  |  |        +--|
+           |                        |  |        |  |        |  |  |           +--Cocsub_XP_005651963.1_12-95
+           |                        |  |        |  |        |  +**|
+           |                        |  |        |  |        |     |                 +**Acoe_PIA38684.1_21-104
+           |                        |  |        |  |        |     |              +**|
+           |                        |  |        |  |        |     |              |  +**Acoe_PIA38681.1_21-104
+           |                        |  |        |  |        |     |           +--|
+           |                        |  |        |  |        |     |           |  +--Atri_ERN06716_21-104
+           |                        |  |        |  |        |     |        +**|
+           |                        |  |        |  |        |     |        |  |     +--Mgut_XP_012831929.1_28-111
+           |                        |  |        |  |        |     |        |  |  +--|
+           |                        |  |        |  |        |     |        |  |  |  |     +**Mgut_XP_012834697.1_31-114
+           |                        |  |        |  |        |     |        |  |  |  |  +--|
+           |                        |  |        |  |        |     |        |  |  |  |  |  +**Mgut_XP_012834698.1_31-114
+           |                        |  |        |  |        |     |        |  |  |  +--|
+           |                        |  |        |  |        |     |        |  |  |     +--Mgut_XP_012834891.1_23-106
+           |                        |  |        |  |        |     |        |  +--|
+           |                        |  |        |  |        |     |        |     |  +--Bdis_KQK05856_29-112
+           |                        |  |        |  |        |     |        |     +--|
+           |                        |  |        |  |        |     |        |        |  +**Sbic_KXG22176_28-111
+           |                        |  |        |  |        |     |        |        +--|
+           |                        |  |        |  |        |     |        |           |  +--Atha_AT2G38880.11_16-99
+           |                        |  |        |  |        |     |        |           +--|
+           |                        |  |        |  |        |     |        |              |     +--Bdis_KQJ95594_1-65
+           |                        |  |        |  |        |     |        |              |  +--|
+           |                        |  |        |  |        |     |        |              |  |  +--Bdis_PNT66881_17-92
+           |                        |  |        |  |        |     |        |              +--|
+           |                        |  |        |  |        |     |        |                 +-------Bdis_KQJ95465_12-95
+           |                        |  |        |  |        |     |     +--|
+           |                        |  |        |  |        |     |     |  |  +--Atha_AT3G53340.1_24-107
+           |                        |  |        |  |        |     |     |  +--|
+           |                        |  |        |  |        |     |     |     +--Atha_AT2G37060.1_25-108
+           |                        |  |        |  |        |     |  +--|
+           |                        |  |        |  |        |     |  |  +--Atri_ERN04890_90-173
+           |                        |  |        |  |        |     +--|
+           |                        |  |        |  |        |        +--Klenit_GAQ86342.1_7-90
+           |                        |  |        |  |     +--|
+           |                        |  |        |  |     |  +--Otau_XP_003074932.1_7-90
+           |                        |  |        |  |  +--|
+           |                        |  |        |  |  |  |        +--Fabtro_Gene.24369_29-111
+           |                        |  |        |  |  |  |     +--|
+           |                        |  |        |  |  |  |     |  +---Umay_KIS65863_78-160
+           |                        |  |        |  |  |  |  +--|
+           |                        |  |        |  |  |  |  |  |  +--Plamic_ANCSI_02881.mRNA.1_26-109
+           |                        |  |        |  |  |  |  |  +--|
+           |                        |  |        |  |  |  |  |     +-----Ancsig_Gene.34621_44-129
+           |                        |  |        |  |  |  +--|
+           |                        |  |        |  |  |     +--Aano_EGB03978_22-105
+           |                        |  |        |  +**|
+           |                        |  |        |     |  +--Gonavo_comp29221_c0_seq1_6_ORF7_173_47-130
+           |                        |  |        |     +--|
+           |                        |  |        |        +-------Nutlon_comp15254_c0_seq1.p1_71-154
+           |                        |  |     +--|
+           |                        |  |     |  |     +--Tthe_EAR82306_9-91
+           |                        |  |     |  |  +--|
+           |                        |  |     |  |  |  |  +**Ptet_CAK60712_20-103
+           |                        |  |     |  |  |  +--|
+           |                        |  |     |  |  |     +**Ptet_CAK58122_20-103
+           |                        |  |     |  +--|
+           |                        |  |     |     +--Oxytri_EJY64615_8-88
+           |                        |  |  +--|
+           |                        |  |  |  |  +--Porpur_KAA8491634.1_10-92
+           |                        |  |  |  +--|
+           |                        |  |  |     |        +--Cavfas_EGG15179_15-98
+           |                        |  |  |     |     +--|
+           |                        |  |  |     |     |  +--Hetalb_XP_020436670.1_17-99
+           |                        |  |  |     |  +--|
+           |                        |  |  |     |  |  +--Tielac_KYQ90624_16-99
+           |                        |  |  |     +--|
+           |                        |  |  |        +--Ddis_EAL67648_43-126
+           |                        |  +--|
+           |                        |     |  +--Coka_g9318.t1_65-147
+           |                        |     +--|
+           |                        |        +--Esil_CBN79370_12-94
+           |                     +--|
+           |                     |  |                       +**Mcir_OAC98524_10-94
+           |                     |  |                    +--|
+           |                     |  |                    |  +**Rhidel_EIE81896_10-94
+           |                     |  |                 +--|
+           |                     |  |                 |  |  +--Ncra_ESA44398_34-123
+           |                     |  |                 |  +--|
+           |                     |  |                 |     +**Tmel_CAZ84521_37-120
+           |                     |  |              +**|
+           |                     |  |              |  |  +**Plebac_Pbla_mRNA_2062_13-97
+           |                     |  |              |  +--|
+           |                     |  |              |     +**Pbla_XP_018297865.1_13-97
+           |                     |  |           +--|
+           |                     |  |           |  |  +**Umbram_232832_13-97
+           |                     |  |           |  +--|
+           |                     |  |           |     |     +**Amac_KNE63190_74-157
+           |                     |  |           |     |  +--|
+           |                     |  |           |     |  |  +**Amac_KNE62220_74-157
+           |                     |  |           |     +--|
+           |                     |  |           |        +---Cang_ORZ32077_38-124
+           |                     |  |        +**|
+           |                     |  |        |  |  +--Coerev_PIA17033.1_7-90
+           |                     |  |        |  +--|
+           |                     |  |        |     +--Morelo_OAQ28412_11-94
+           |                     |  |     +--|
+           |                     |  |     |  +--Rirr_GBC52372_26-109
+           |                     |  |  +--|
+           |                     |  |  |  |     +--Spun_KND00130_16-99
+           |                     |  |  |  |  +--|
+           |                     |  |  |  |  |  +--Bden_EGF81752_1-94
+           |                     |  |  |  +--|
+           |                     |  |  |     +--Spun_KND01956_12-95
+           |                     |  +--|
+           |                     |     +--Pisp_OUM70260.1_9-94
+           |                  +--|
+           |                  |  |     +--Ccin_EAU82951_42-125
+           |                  |  |  +--|
+           |                  |  |  |  +--Cneo_AAW43577_37-119
+           |                  |  +--|
+           |                  |     +--Aano_EGB08797_1-87
+           |               +--|
+           |               |  |        +--Emue_0001g2657a_141-230
+           |               |  |     +--|
+           |               |  |     |  +---Aque_Aqu2.1.37423_001_116-197
+           |               |  |  +--|
+           |               |  |  |  |     +--Lcom_lcpid69078_98-180
+           |               |  |  |  |  +--|
+           |               |  |  |  |  |  +--Scil_scpid61257_55-137
+           |               |  |  |  +--|
+           |               |  |  |     +--Secula_SECUL_07049.mRNA.1_10-91
+           |               |  +**|
+           |               |     +----Scer_YBL021C_32-114
+           |            +--|
+           |            |  |      +--Ngru_EFC38943_70-160
+           |            |  +------|
+           |            |         +**Ngru_EFC36079_71-161
+           |         +--|
+           |         |  |  +--Rall_EPZ35663_3-95
+           |         |  +--|
+           |         |     +-----Vitbra_CEM03312.1_13-95
+           |      +--|
+           |      |  |               +--Gpro_KXS09592_37-120
+           |      |  |           +---|
+           |      |  |           |   +------------Falb_KCV72540_786-867
+           |      |  |        +--|
+           |      |  |        |  |  +--Spom_SPAC23C11.08.1_pep_3-85
+           |      |  |        |  +--|
+           |      |  |        |     |  +------Hemkuk_7437_TR2543_c0_g1_46-129
+           |      |  |        |     +--|
+           |      |  |        |        |     +----------Diprot_Gene.19091_21-99
+           |      |  |        |        |  +--|
+           |      |  |        |        |  |  +----------Sbic_EES05602_37-116
+           |      |  |        |        +--|
+           |      |  |        |           |  +---------Andgod_ANDGO_02546.mRNA.1_11-92
+           |      |  |        |           +--|
+           |      |  |        |              +-----------------Masbal_CACRSC010000027.1.p347_1-82
+           |      |  |     +--|
+           |      |  |     |  |  +----Bnat_JGI_V11_66311_23-103
+           |      |  |     |  +--|
+           |      |  |     |     |     +----Plabra_CEP03261_9-92
+           |      |  |     |     |  +--|
+           |      |  |     |     |  |  |  +-------Sros_EGD83516_47-128
+           |      |  |     |     |  |  +--|
+           |      |  |     |     |  |     |         +------Chrtob_KOO21443.1_41-125
+           |      |  |     |     |  |     +---------|
+           |      |  |     |     |  |               +---------Ehux_EOD24855_7-92
+           |      |  |     |     +--|
+           |      |  |     |        +--------Plabra_CEP02743_26-109
+           |      |  |  +--|
+           |      |  |  |  |      +--Pfal_CZT99128_1124-1205
+           |      |  |  |  |  +---|
+           |      |  |  |  |  |   |     +-------------Sbic_EER89161_15-94
+           |      |  |  |  |  |   |  +--|
+           |      |  |  |  |  |   |  |  |                   +**Perkma_EER00796_635-718
+           |      |  |  |  |  |   |  |  +-------------------|
+           |      |  |  |  |  |   |  |                      +**Perkma_EEQ99762_317-400
+           |      |  |  |  |  |   +--|
+           |      |  |  |  |  |      +-----------Cvel_7252.t1-p1_4-88
+           |      |  |  |  +--|
+           |      |  |  |     |  +--Smoe_EFJ17554_2-85
+           |      |  |  |     +--|
+           |      |  |  |        +------------Glam_EDO79190_1-84
+           |      |  +--|
+           |      |     |        +--Bdis_PNT73540_37-119
+           |      |     |     +--|
+           |      |     |     |  +--Sbic_OQU88166_12-94
+           |      |     |  +--|
+           |      |     |  |  |          +**Styinc_Gene19184_m19184_116-198
+           |      |     |  |  +----------|
+           |      |     |  |             +**Styinc_Gene15750_m15750_90-172
+           |      |     +--|
+           |      |        |   +-----Plabra_CEO98301_23-102
+           |      |        +---|
+           |      |            +----------Bdis_PNT76054_30-98
+           |   +--|
+           |   |  |                +**Carmem_b599.p1_61-143
+           |   |  |             +--|
+           |   |  |             |  +**Carmem_b4424.p1_77-159
+           |   |  |     +-------|
+           |   |  |     |       +--Carmem_b5804.p1_62-129
+           |   |  |  +--|
+           |   |  |  |  +----------Sappar_KDO29108_299-384
+           |   |  +--|
+           |   |     |        +--Chrtob_KOO25873.1_1-71
+           |   |     +--------|
+           |   |              +**Chrtob_KOO28859.1_1-71
+           +---|
+               |     +---------------Pavlsp_567334_1-73
+               |  +--|
+               |  |  |         +**Ehux_EOD16654_23-105
+               |  |  +---------|
+               |  |            +--Ehux_EOD30474_23-105
+               +--|
+                  |                                              +----------------Nutlon_comp2278_c0_seq1.p2_3-85
+                  |                                          +---|
+                  |                                          |   +--Tadh_P54139_1-84
+                  |                                       +--|
+                  |                                       |  |  +------Ngru_EFC50479_1-84
+                  |                                       |  +--|
+                  |                                       |     +--------Sros_EGD75376_1-79
+                  |                                    +--|
+                  |                                    |  |              +**Porumb_OSX73753.1_7-91
+                  |                                    |  |         +----|
+                  |                                    |  |         |    +**Porumb_OSX73752.1_7-91
+                  |                                    |  |      +--|
+                  |                                    |  |      |  +---Gracho_PXF47214.1_1-80
+                  |                                    |  |  +---|
+                  |                                    |  |  |   +--Porpur_KAA8495349.1_11-94
+                  |                                    |  +--|
+                  |                                    |     |  +-----Otau_XP_003079045.1_1-88
+                  |                                    |     +--|
+                  |                                    |        +---------Recame_RECAM_00852.mRNA.1_1-82
+                  |                                 +--|
+                  |                                 |  |                 +--Ramvar_GAV09725.1_1-79
+                  |                                 |  |           +-----|
+                  |                                 |  |           |     +--Hduj_OQV19472.1_1-84
+                  |                                 |  |        +--|
+                  |                                 |  |        |  |        +--------Secula_SECUL_03353.mRNA.1_1-79
+                  |                                 |  |        |  |     +--|
+                  |                                 |  |        |  |     |  +--------------Rigram_Gene.15565_9-91
+                  |                                 |  |        |  |  +--|
+                  |                                 |  |        |  |  |  +-----------Plabra_CEO95037_1-82
+                  |                                 |  |        |  +--|
+                  |                                 |  |        |     +---------Andgod_ANDGO_01413.mRNA.1_2-84
+                  |                                 |  |     +--|
+                  |                                 |  |     |  |        +---Diprot_Gene.12166_8-91
+                  |                                 |  |     |  |     +--|
+                  |                                 |  |     |  |     |  |  +----Pygbif_GCRY01003139.1.p1_1-82
+                  |                                 |  |     |  |     |  +--|
+                  |                                 |  |     |  |     |     |   +-------Ttra_KNC54897_1-84
+                  |                                 |  |     |  |     |     +---|
+                  |                                 |  |     |  |     |         +--------------Styinc_Gene10087_m10087_1-75
+                  |                                 |  |     |  |  +--|
+                  |                                 |  |     |  |  |  +--Amobb2_AMBB2_03252.mRNA.1_1-84
+                  |                                 |  |     |  +**|
+                  |                                 |  |     |     |     +--Gonavo_comp50404_c0_seq1_6_ORF9_158_23-106
+                  |                                 |  |     |     |  +--|
+                  |                                 |  |     |     |  |  |  +--------Ulvmut_UM065_00081_1-81
+                  |                                 |  |     |     |  |  +--|
+                  |                                 |  |     |     |  |     |  +-------Oxytri_EJY83941_32-115
+                  |                                 |  |     |     |  |     +--|
+                  |                                 |  |     |     |  |        |                    +--Ptet_CAK63548_35-109
+                  |                                 |  |     |     |  |        |                 +**|
+                  |                                 |  |     |     |  |        |                 |  +--Ptet_CAK85656_24-101
+                  |                                 |  |     |     |  |        |       +---------|
+                  |                                 |  |     |     |  |        |       |         +--Ptet_CAK82990_1-71
+                  |                                 |  |     |     |  |        +-------|
+                  |                                 |  |     |     |  |                +------Tthe_EAR98480_1-79
+                  |                                 |  |     |     +--|
+                  |                                 |  |     |        |    +-----Cocsub_XP_005649265.1_1-79
+                  |                                 |  |     |        +----|
+                  |                                 |  |     |             +-----Cvar_XP_005850388.1_1-79
+                  |                                 |  |  +--|
+                  |                                 |  |  |  |     +--Tielac_KYQ89344_1-84
+                  |                                 |  |  |  |  +--|
+                  |                                 |  |  |  |  |  |  +--Ddis_EAL72169_3-86
+                  |                                 |  |  |  |  |  +--|
+                  |                                 |  |  |  |  |     +--Cavfas_EGG14050_3-86
+                  |                                 |  |  |  +--|
+                  |                                 |  |  |     |      +-----Falb_KCV71193_1-66
+                  |                                 |  |  |     +------|
+                  |                                 |  |  |            |       +--Meteor_CRO19MET_NODE_10154.p2_1-73
+                  |                                 |  |  |            +-------|
+                  |                                 |  |  |                    +**Meteor_CRO19MET_NODE_9696.p1_47-96
+                  |                                 |  +--|
+                  |                                 |     +---Cpar_Cpar_evm1s4755_3-86
+                  |                              +--|
+                  |                              |  |  +--Malcal_MALCA_02934.mRNA.1_1-62
+                  |                              |  +--|
+                  |                              |     +--Gefoke_MALSP_03325.mRNA.1_1-85
+                  |                           +--|
+                  |                           |  +------Phakir_PHAKIR_07148.mRNA.1_1-81
+                  |                        +--|
+                  |                        |  |               +--Cfra_CFRG1362T1_8-88
+                  |                        |  |           +---|
+                  |                        |  |           |   |   +**Sarc_Sarc4_g20687T_21-97
+                  |                        |  |           |   +---|
+                  |                        |  |           |       +---------------Gthe_EKX42279_18-96
+                  |                        |  |        +--|
+                  |                        |  |        |  +--Ihof_evm1s734_8-81
+                  |                        |  |     +--|
+                  |                        |  |     |  |  +---Coerev_PIA17380.1_6-89
+                  |                        |  |     |  +--|
+                  |                        |  |     |     +-----Nk52_evm1s164_3-85
+                  |                        |  |  +--|
+                  |                        |  |  |  +----Hemkuk_22479_TR7490_c0_g1_3-86
+                  |                        |  +**|
+                  |                        |     +--Maljak_MALJA_13261.mRNA.1_1-83
+                  |                     +--|
+                  |                     |  |        +--Cang_ORZ38041_2-85
+                  |                     |  |     +--|
+                  |                     |  |     |  |        +--Umay_KIS68587_10-93
+                  |                     |  |     |  |     +--|
+                  |                     |  |     |  |     |  +--Ccin_EAU84576_8-91
+                  |                     |  |     |  |  +--|
+                  |                     |  |     |  |  |  |                 +**Pbla_XP_018297139.1_7-90
+                  |                     |  |     |  |  |  |              +--|
+                  |                     |  |     |  |  |  |              |  +**Plebac_Pbla_mRNA_1328_7-90
+                  |                     |  |     |  |  |  |           +--|
+                  |                     |  |     |  |  |  |           |  |  +--Mcir_OAD07277_7-90
+                  |                     |  |     |  |  |  |           |  +--|
+                  |                     |  |     |  |  |  |           |     |  +--Rhidel_EIE83669_7-90
+                  |                     |  |     |  |  |  |           |     +--|
+                  |                     |  |     |  |  |  |           |        +--Rhidel_EIE75658_7-90
+                  |                     |  |     |  |  |  |        +--|
+                  |                     |  |     |  |  |  |        |  +**Umbram_230045_7-90
+                  |                     |  |     |  |  |  |     +--|
+                  |                     |  |     |  |  |  |     |  |  +--Morelo_OAQ26895_5-88
+                  |                     |  |     |  |  |  |     |  +--|
+                  |                     |  |     |  |  |  |     |     +--Concor_KXN67083_4-87
+                  |                     |  |     |  |  |  |  +--|
+                  |                     |  |     |  |  |  |  |  +--Rirr_GBC16911_11-94
+                  |                     |  |     |  |  |  +--|
+                  |                     |  |     |  |  |     |        +--Spom_SPBC30D10.02.1_pep_2-85
+                  |                     |  |     |  |  |     |     +--|
+                  |                     |  |     |  |  |     |     |  +-------Scer_YDR397C_1-83
+                  |                     |  |     |  |  |     |  +--|
+                  |                     |  |     |  |  |     |  |  +---Ncra_EAA35646_4-89
+                  |                     |  |     |  |  |     +--|
+                  |                     |  |     |  |  |        +--Tmel_CAZ84302_5-88
+                  |                     |  |     |  +--|
+                  |                     |  |     |     +--Amac_KNE65441_6-89
+                  |                     |  |  +--|
+                  |                     |  |  |  |  +--Spun_KND05105_8-91
+                  |                     |  |  |  +--|
+                  |                     |  |  |     |  +--Bden_EGF84205_9-92
+                  |                     |  |  |     +--|
+                  |                     |  |  |        +---Gpro_KXS20137_12-95
+                  |                     |  +--|
+                  |                     |     |  +-----Cneo_AAW43202_3-86
+                  |                     |     +--|
+                  |                     |        +-----Rall_EPZ32641_6-97
+                  |                  +--|
+                  |                  |  +----Fabtro_Gene.21018_10-93
+                  |               +--|
+                  |               |  |       +--Crei_PNW70930_1-66
+                  |               |  |    +--|
+                  |               |  |    |  +--Vcar_XP_002953528.1_1-66
+                  |               |  +----|
+                  |               |       +-----Caulen_g2026.t1_1-66
+                  |            +--|
+                  |            |  |                 +--Adig_XP_015749287.1_14-64
+                  |            |  |              +--|
+                  |            |  |              |  +**Adig_XP_015773700.1_43-121
+                  |            |  |           +--|
+                  |            |  |           |  +--Spis_XP_022788333_1_2-84
+                  |            |  |        +--|
+                  |            |  |        |  |     +--Nvec_NVE17599_4-86
+                  |            |  |        |  |  +--|
+                  |            |  |        |  |  |  |     +--Scil_scpid97321_3-85
+                  |            |  |        |  |  |  |  +--|
+                  |            |  |        |  |  |  |  |  +--Lcom_lcpid94114_3-85
+                  |            |  |        |  |  |  +--|
+                  |            |  |        |  |  |     +--Ocar_g5875.t1_6-85
+                  |            |  |        |  +--|
+                  |            |  |        |     +--Exapal_XP_028512889.1_1-83
+                  |            |  |     +--|
+                  |            |  |     |  |     +--Hydvul_Sc4wPfr_910.1.g9179.t1_13-95
+                  |            |  |     |  |  +--|
+                  |            |  |     |  |  |  +--Clyhem_TCONS_00027311-protein_5-87
+                  |            |  |     |  +--|
+                  |            |  |     |     |  +--Morvir_scaffold114.g30.t1_5-86
+                  |            |  |     |     +--|
+                  |            |  |     |        |  +--Mlei_ML3170_g7_t1_6-88
+                  |            |  |     |        +--|
+                  |            |  |     |           |     +--Emue_0008g60a_7-89
+                  |            |  |     |           |  +--|
+                  |            |  |     |           |  |  +--Tetwil_Twilhelma_g25214.t1_5-87
+                  |            |  |     |           +--|
+                  |            |  |     |              +--Aque_Aqu2.1.27250_001_5-87
+                  |            |  |  +--|
+                  |            |  |  |  |                          +--Notgen_g15812.t1_3-85
+                  |            |  |  |  |                       +--|
+                  |            |  |  |  |                       |  +--Phoaus_g19084.t1_1-87
+                  |            |  |  |  |                    +--|
+                  |            |  |  |  |                    |  |     +--Lgig_LotgiP68595_1-79
+                  |            |  |  |  |                    |  |  +--|
+                  |            |  |  |  |                    |  |  |  +--Cgig_EKC41979_6-88
+                  |            |  |  |  |                    |  +--|
+                  |            |  |  |  |                    |     |  +--Helrob_HelroP155148_35-117
+                  |            |  |  |  |                    |     +--|
+                  |            |  |  |  |                    |        |         +--Sman_Smp_149540.1_pep_24-113
+                  |            |  |  |  |                    |        |      +--|
+                  |            |  |  |  |                    |        |      |  +--Emul_CDS37710.1_8-87
+                  |            |  |  |  |                    |        +------|
+                  |            |  |  |  |                    |               +------Lcom_lcpid171498_1-54
+                  |            |  |  |  |                 +--|
+                  |            |  |  |  |                 |  +--Linana_g13542.t1_166-294
+                  |            |  |  |  |              +--|
+                  |            |  |  |  |              |  +--Ctel_CapteP165016_7-93
+                  |            |  |  |  |           +--|
+                  |            |  |  |  |           |  |     +**Cscu_XP_023215829.1_8-96
+                  |            |  |  |  |           |  |  +--|
+                  |            |  |  |  |           |  |  |  +**Cscu_XP_023215830.1_8-96
+                  |            |  |  |  |           |  +--|
+                  |            |  |  |  |           |     +--Lpol_XP_013793383.1_1-82
+                  |            |  |  |  |        +--|
+                  |            |  |  |  |        |  |  +--Apla_XP_022084353.1_8-90
+                  |            |  |  |  |        |  +--|
+                  |            |  |  |  |        |     +--Spur_XP_798916.1_7-88
+                  |            |  |  |  |     +--|
+                  |            |  |  |  |     |  |     +--Skow_XP_002736906.1_1-82
+                  |            |  |  |  |     |  |  +--|
+                  |            |  |  |  |     |  |  |  +--Ptyfla_pfl_40v0_9_20150316_1g9676.t1_1-82
+                  |            |  |  |  |     |  +--|
+                  |            |  |  |  |     |     +--Bralan_BL05055_evm0_3-84
+                  |            |  |  |  |  +--|
+                  |            |  |  |  |  |  |     +**Drer_ENSDARP00000135530.1_3-85
+                  |            |  |  |  |  |  |  +--|
+                  |            |  |  |  |  |  |  |  +**Drer_ENSDARP00000153150.1_3-85
+                  |            |  |  |  |  |  +--|
+                  |            |  |  |  |  |     +**Hsap_ENSP00000359290.1_3-85
+                  |            |  |  |  +--|
+                  |            |  |  |     |        +--Dmel_FBpp0080256_10-92
+                  |            |  |  |     |     +--|
+                  |            |  |  |     |     |  +--Dpul_EFX81721_2-84
+                  |            |  |  |     |  +--|
+                  |            |  |  |     |  |  +--Tcas_XP_974856.1_10-92
+                  |            |  |  |     +--|
+                  |            |  |  |        +--Cint_ENSCINP00000032088.1_1-85
+                  |            |  +--|
+                  |            |     |                                 +--Acoe_PIA39514.1_6-89
+                  |            |     |                              +--|
+                  |            |     |                              |  +--Acoe_PIA63450.1_6-89
+                  |            |     |                           +**|
+                  |            |     |                           |  |  +--Bdis_KQJ98106_6-89
+                  |            |     |                           |  +--|
+                  |            |     |                           |     +--Sbic_EES13767_6-89
+                  |            |     |                        +--|
+                  |            |     |                        |  +--Atri_ERN03579_6-89
+                  |            |     |                     +--|
+                  |            |     |                     |  |     +--Mgut_XP_012832678.1_5-89
+                  |            |     |                     |  |  +--|
+                  |            |     |                     |  |  |  +--Atha_AT5G23090.1_5-89
+                  |            |     |                     |  +--|
+                  |            |     |                     |     +--Atha_AT5G08190.1_5-89
+                  |            |     |                  +--|
+                  |            |     |                  |  +--Azfi_s0009.g012007_53-136
+                  |            |     |               +--|
+                  |            |     |               |  +--Smoe_EFJ12470_3-86
+                  |            |     |            +--|
+                  |            |     |            |  +--Marpol_PTQ38119_3-86
+                  |            |     |         +**|
+                  |            |     |         |  +--Ppat_Pp3c10_17500V3.4_17-99
+                  |            |     |      +--|
+                  |            |     |      |  +--Ppat_Pp3c3_25870V3.6_50-133
+                  |            |     |   +--|
+                  |            |     |   |  |        +**Sphfal_Sphfalx19G070700.1.p_4-87
+                  |            |     |   |  |     +**|
+                  |            |     |   |  |     |  +**Sphfal_Sphfalx19G069500.2.p_4-87
+                  |            |     |   |  |  +**|
+                  |            |     |   |  |  |  |  +**Sphfal_Sphfalx19G069500.3.p_7-57
+                  |            |     |   |  |  |  +**|
+                  |            |     |   |  |  |     +--Sphfal_Sphfalx19G069500.1.p_56-105
+                  |            |     |   |  +--|
+                  |            |     |   |     |       +--Azfi_s0216.g058490_39-118
+                  |            |     |   |     |  +----|
+                  |            |     |   |     |  |    +**Sacu_v1.1_s0145.g023017_1-69
+                  |            |     |   |     +**|
+                  |            |     |   |        +--Sphfal_Sphfalx19G069500.1.p_4-56
+                  |            |     +---|
+                  |            |         +--Chabra_GBG85969_1-69
+                  |         +--|
+                  |         |  |  +-------Klenit_GAQ78455.1_3-91
+                  |         |  +--|
+                  |         |     |  +------Mpus_XP_003059647.1_1-73
+                  |         |     +--|
+                  |         |        +--------Plamic_ANCSI_02127.mRNA.1_1-79
+                  |      +--|
+                  |      |  |  +----Cowc_KJE90256_7-90
+                  |      |  +--|
+                  |      |     +---------Clim_evm18s224_1-84
+                  |  +---|
+                  |  |   +----------------Jakbah_JAKBA_03273.mRNA.1_19-102
+                  +--|
+                     +---------------------Gpro_KXS21506_14-97
+
+Tree in newick format:
+
+(Ihof_evm19s40_1-80:0.4872469822,(Sarc_Sarc4_g10288T_1-80:0.0000029244,Cfra_CFRG1280T1_1-80:0.1162776122):0.2250751204,(((((((((((Tcas_XP_008199350.1_1-83:0.0000010000,Tcas_XP_967974.1_1-83:0.0000010000):0.4544936318,Dmel_FBpp0099657_1-82:0.5549397187):0.1135032672,(Emul_CDI97192.1_1-86:0.3328046047,Sman_Smp_198790.1_pep_1-83:0.2071221326):0.4749905382):0.1047248862,(((((Linana_g710.t1_1-83:0.0799912451,(Notgen_g20706.t1_1-83:0.1058448298,Ctel_CapteP184024_1-80:0.2636842754):0.0968019512):0.0816586366,Cscu_XP_023211230.1_1-83:0.1238402812):0.0251484168,(((Lcom_lcpid158298_1-83:0.0000010000,Lcom_lcpid133101_1-83:0.0000010000):0.0493994953,Scil_scpid73688_1-83:0.0175561158):0.2763539301,Ocar_g4470.t1_1-83:0.2458419649):0.1396912318):0.0329771061,(Skow_XP_002735947.1_1-83:0.1680148092,(((Apla_XP_022085190.1_1-84:0.0492831118,Spur_XP_785187.1_1-83:0.2062727703):0.2366761922,Mlei_ML1054_g16_t1_1-83:0.2941973534):0.0000021960,(((Cint_ENSCINP00000032769.1_1-83:0.1917749499,Nvec_NVE4158_1-83:0.1388078983):0.0841724832,((Tetwil_Twilhelma_g5787.t1_1-84:0.0461110315,(Emue_0016g67a_1-83:0.0000010000,Emue_0016g81a_1-83:0.0000010000):0.1248190154):0.1309103774,Exapal_XP_020914885.1_1-83:0.3399655713):0.0522339948):0.0529426222,(Aque_Aqu2.1.37258_001_1-82:0.4286177726,Cscu_XP_023215972.1_13-96:0.6191070966):0.1323313474):0.0195357679):0.0393198048):0.0513651557):0.0275890973,((((((Lpol_XP_013781842.1_1-83:0.1163146636,Lpol_XP_013781220.1_1-83:0.1626479932):0.1546351233,Bralan_BL02501_evm0_1-83:0.0919293957):0.0973723539,Lgig_LotgiP238643_1-83:0.1659905737):0.0303240971,Hsap_ENSP00000363284.3_1-83:0.0979227702):0.0371110428,(((Drer_ENSDARP00000146107.1_1-83:0.0000010000,Drer_ENSDARP00000145775.1_1-83:0.0000010000):0.0898587615,(Tadh_wf_g2149_t1_1-57:0.3581958046,Phoaus_g18039.t1_27-107:0.1804807326):0.1147475547):0.0429989701,Cgig_EKC18754_17-85:0.5488391348):0.0307573211):0.0227309892,((((Spis_XP_022801833_1_1-82:0.0855835124,Adig_XP_015753227.1_1-82:0.0569865519):0.1428715771,Morvir_scaffold162.g14.t1_1-83:0.2151515897):0.0665917777,Clyhem_TCONS_00021143-protein_1-83:0.3102743476):0.0252842612,Helrob_HelroP75183_1-83:0.2971382199):0.0868492083):0.0000025804):0.1065833502):0.3938929195,(Recame_RECAM_02327.mRNA.1_1-79:0.6529548414,Gefoke_MALSP_08998.mRNA.1_1-77:0.7145074985):0.0540946251):0.1725553665,(Nk52_evm35s2612_1-81:0.7624452967,(Cowc_KJE90880_5-87:0.5733396371,Plafun_PRP81358_29-114:1.7715476275):0.2321720748):0.2530672320):0.0400650783,(((Ancsig_Gene.26153_1-82:0.8025727032,Plamic_ANCSI_05878.mRNA.1_1-72:0.9995384097):0.4217875667,(Styinc_Gene17934_m17934_1-81:0.5708501230,Andgod_ANDGO_02881.mRNA.1_1-80:0.9650218892):0.3654623791):0.1354583522,((((((Hetalb_XP_020432381.1_1-80:0.2896420155,(Tielac_KYR01928_1-80:0.2804974176,Ddis_EAL71263_1-80:0.3699279663):0.1789770670):0.0474661967,Cavfas_EGG21379_1-79:0.1552891109):0.4781367355,Acas_ELR14904_1-74:0.3212200411):0.1906180796,Pygbif_GCRY01003196.1.p1_1-80:1.4317761453):0.0000020190,((((Lcom_lcpid178424_1-76:0.6740170243,(((Vitbra_CEM09150.1_45-127:0.4980198101,Meteor_CRO19MET_NODE_11212.p2_48-129:0.9778049341):0.2342267377,(Ttra_KNC52651_1-80:1.3387040625,Cvel_23660.t1-p1_1-82:0.6525491908):0.4819271057):0.0846039831,((Ehux_EOD23620_35-118:0.0883667930,Ehux_EOD25995_35-113:0.0225710926):0.3659699116,Chrtob_KOO22593.1_36-118:0.5143546352):0.5630739670):0.2300564730):0.0000028077,((Schagg_26154_1-78:0.2569839409,(Aurlim_74473_32-111:0.1172552821,Honfer_GBG32938_42-121:0.0671610902):0.6157492994):0.2139472933,Aplker_56172_1-82:0.5271018046):0.3179235947):0.1156388192,((Tpse_ACI65003_1-73:0.1228868191,Tpse_EED95062_70-154:0.5387259399):0.5944060755,(((Esil_CBN76059_1-85:0.0138019132,Coka_g8673.t1_1-85:0.0181758283):0.3188713261,(Ngad_EWM23659_78-159:0.5086438458,Phatri_Phatr3_J43730.p1_13-94:0.6484646920):0.0821096118):0.1051017095,Aano_EGB03606_1-76:0.6903296621):0.0726539099):0.0730975885):0.0933501197,Pavlsp_1037333_59-142:0.8680391489):0.1518261614):0.1222001472,(Jakbah_JAKBA_00330.mRNA.1_2-84:0.9387464757,(Ngru_EFC37840_73-155:0.5047405852,Phakir_PHAKIR_04125.mRNA.1_45-127:0.6701825940):0.5300901376):0.2487619347):0.0056385778):0.0506651610):0.1511728885,(((Manpla_Gene.53677_1-51:0.4870793327,Concor_KXN68540_40-123:1.0789029426):0.2195238441,(Amac_KNE71367_52-134:0.6408663186,Cang_ORZ37377_18-101:0.7139799103):0.7109163226):0.0288705371,((Pisp_OUM58978.1_1-61:0.5218731342,(Spun_KNC95865_1-82:0.2513380673,Bden_EGF78726_72-155:0.8949725650):0.0921264638):0.1377055913,((((Coerev_PIA14123.1_1-83:0.6276465394,Morelo_OAQ26000_1-83:0.5221613329):0.0735973802,Rhidel_EIE86808_2-85:0.5989647016):0.0487345933,Umbram_244787_1-83:0.2351293195):0.2713237316,(((Tmel_CAZ80274_1-116:0.4926051381,(Ncra_EAA34930_85-206:0.4431833449,Spom_SPBC3D6.09.1_pep_8-90:0.9381615054):0.2475160879):0.1553375409,((Cneo_AAW46916_28-111:0.7581639317,Umay_KIS68721_71-154:0.9443241649):0.3778733486,Ccin_EAU83629_18-101:0.7036503823):0.5515184137):0.1628824394,Rirr_GBC30421_19-100:0.9450899987):0.0416952240):0.0367799130):0.1362576514):0.1560391322):0.1027583766,((Plabra_CEO94249_1-80:0.8602895806,(Bnat_JGI_V11_52476_36-119:0.7240996344,Oxytri_EJY69894_1-74:1.2837821624):0.1494526244):0.1057495378,((((((((((((Sacu_v1.1_s0002.g001262_1-89:0.1421345056,Azfi_s0066.g036069_85-148:0.2723093157):0.1536207842,((Sbic_EER98514_32-122:0.2567475302,Bdis_KQJ91588_34-126:0.0072799370):0.2758333932,(Acoe_PIA28244.1_7-96:0.1995118501,(Atha_AT2G27470.1_1-89:0.4488366382,Mgut_XP_012850173.1_12-100:0.3112005951):0.1203929710):0.1239249853):0.2820360924):0.1661951337,(Sphfal_Sphfalx14G105200.1.p_34-100:0.1128675180,Ppat_Pp3c26_8280V3.1_5-97:0.0694074197):0.2722663904):0.0902048523,Marpol_PTQ31887_1-91:0.0703068408):0.0735782749,Smoe_EFJ17220_1-93:0.3782796977):0.0613396346,(Mpus_XP_003054988.1_1-53:0.2059464680,Otau_XP_022839473.1_1-89:0.6359663091):0.2624932870):0.0493182969,Klenit_GAQ86387.1_63-132:0.5310440721):0.1306998369,Atri_ERN16538_23-89:0.2391551281):0.1235790571,((Crei_PNW81084_3-94:0.4103160926,Vcar_XP_002951737.1_1-95:0.0657727405):0.2375734736,(Diprot_Gene.11403_1-80:1.2303833941,Ulvmut_UM011_01141_1-92:0.5587418023):0.3958667371):0.2985858842):0.0937604139,(Cocsub_XP_005648182.1_38-102:0.1194270274,(Cvar_XP_005847430.1_1-56:0.4212684319,Caulen_g5023.t1_27-90:1.1185711391):0.1464160754):0.2899743663):0.3630736852,((Rigram_Gene.24389_1-81:0.6486296962,(Alblai_CCA16754_1-76:0.5323190057,Pinf_PITG_07175T0_3-77:1.0348763169):1.0763660716):0.2170809604,Spimul_22855_TR11273_c0_g1_33-116:0.7467061732):0.2251931611):0.0768673005,Hemkuk_17224_TR5731_c1_g1_4-88:0.7309909776):0.1653371888):0.0541668579):0.1487459953,(((Hduj_OQV16774.1_46-129:0.4375188775,Ramvar_GAU95479.1_38-116:0.6243571200):1.1047659071,(Hduj_OQV20112.1_63-145:0.2950091441,Ramvar_GAV00550.1_36-118:0.6606533839):0.2747457331):0.4607119048,(Gonavo_comp35953_c0_seq1_6_ORF3_122_1-77:0.8086732566,Gthe_EKX47036_11-78:1.0785275075):0.7255234907):0.2084789247):0.0232220289,(Sappar_KDO34131_1-78:1.3882804556,((((((((((((((((Tadh_P28921_1-77:0.1110153235,Mlei_ML2931_g2_t1_53-159:0.1521383075):0.0685042782,(((((Lpol_XP_013774818.1_64-147:0.1188611484,Lpol_XP_022242177.1_52-135:0.0000025623):0.0465637215,(Helrob_HelroP85626_1-77:0.1052148133,Morvir_scaffold347.g9.t1_31-114:0.1259527269):0.0393686978):0.0362977351,((((Auraur_scaffold332.g7.t1_10-93:0.0410183072,Clyhem_TCONS_00062758-protein_148-231:0.0859356352):0.0331883040,Hydvul_Sc4wPfr_384.g24893.t1_41-156:0.1119492273):0.0662760099,(((Drer_ENSDARP00000057253.4_47-130:0.0156525805,Cint_ENSCINP00000001885.3_30-113:0.1725796839):0.0172443553,(Drer_ENSDARP00000145442.1_48-131:0.0000010000,Drer_ENSDARP00000127511.1_43-126:0.0000010000):0.0257893078):0.0385323744,Hsap_ENSP00000448250.2_50-133:0.0000025643):0.1190168624):0.0292381266,(((((((Exapal_XP_020900334.1_154-243:0.0000020045,Exapal_XP_020900335.1_43-133:0.0000024985):0.0586758243,((Spis_XP_022801153_1_146-243:0.0000020850,Adig_XP_015774604.1_154-249:0.0355397968):0.0746128514,Nvec_NVE6127_141-224:0.0000024624):0.0361937522):0.0620199373,(Phoaus_g10147.t1_20-103:0.0567066822,Linana_g17964.t1_129-212:0.1026829682):0.0103037825):0.0000022034,Notgen_g23248.t1_380-463:0.0330447909):0.0276140608,Ptyfla_pfl_40v0_9_20150316_1g7847.t1_18-90:0.1876428824):0.0000028046,(Dpul_EFX80168_18-102:0.1008387049,(Lgig_LotgiP142831_1-84:0.0000025541,((Cscu_XP_023233843.1_10-81:0.3908584574,Sman_Smp_154340.1_pep_16-72:0.4132013189):0.1243423733,Skow_XP_006825371.1_6-74:0.2402503779):0.1044693964):0.1382817754):0.0039683880):0.0000027903,Ctel_CapteP159684_46-129:0.0835479295):0.0219301841):0.0000027013):0.0407742110,Bralan_BL19234_evm17_86-169:0.1526640722):0.0184780800,((Apla_XP_022099243.1_39-133:0.0000024632,(Spur_XP_030855718.1_50-133:0.0000010000,Spur_NP_999685.1_50-133:0.0000010000):0.1029609713):0.0326488672,(Hduj_OWA51709.1_29-112:0.0932011171,Ramvar_GAU98080.1_23-107:0.0412152957):0.2525269907):0.1155821784):0.0301274171):0.0308608835,(((Tcas_XP_008197712.1_52-139:0.0000010000,Tcas_XP_008197711.1_52-139:0.0000010000):0.0000024881,Tcas_XP_969725.1_52-135:0.0000020045):0.0000020409,Dmel_FBpp0080827_33-115:0.6039720928):0.1292678464):0.0999484573,Emul_CDI98208.1_42-125:0.2282878054):0.0257644744,((Cfra_CFRG1301T1_36-119:0.0000010000,Sarc_Sarc4_g29733T_45-128:0.0000010000):0.1258372037,Ihof_evm4s370_41-86:0.2020075152):0.1594072874):0.0402726964,(Cowc_KJE93209_14-101:0.1751634106,Clim_evm12s62_23-107:0.2800125814):0.0284152216):0.1161187612,Nk52_evm2s214_1-105:0.1638175518):0.0585867269,(((((((Amobb2_AMBB2_06103.mRNA.3_15-98:0.0000010000,Amobb2_AMBB2_06103.mRNA.1_15-98:0.0000010000):0.1361549485,((Gracho_PXF43668.1_10-93:0.0060865486,Porumb_OSX69827.1_16-98:0.1447738897):0.2087536386,(Pinf_PITG_10861T0_9-92:0.0151620825,Alblai_CCA19402_9-92:0.0000021717):0.1035986092):0.0442294716):0.0224191698,(((Phatri_Phatr3_J54067.p1_44-127:0.0026228144,Tpse_EED87918_1-80:0.0550995452):0.1387810441,(Ngad_EWM28041_18-101:0.0137546335,(Aplker_81582_12-95:0.0684824009,((Honfer_GBG33799_5-88:0.0151236810,Aurlim_59042_5-88:0.2321047281):0.0328432852,Schagg_81524_2-85:0.0992903578):0.0000027860):0.0629480762):0.0000021305):0.0214190699,Esil_CBN79369_9-92:0.1180206875):0.0262450050):0.0171597107,((((((Sphfal_Sphfalx19G002900.1.p_29-112:0.0000010000,Sphfal_Sphfalx19G002900.2.p_29-112:0.0000010000):0.0304349951,(Ppat_Pp3c3_14260V3.2_150-233:0.0000029563,(((((((Ppat_Pp3c9_14800V3.10_30-113:0.0000010000,Sphfal_Sphfalx14G037400.1.p_31-114:0.0000010000):0.0000024488,(Ppat_Pp3c3_13480V3.1_116-158:0.3142772665,Ppat_Pp3c17_470V3.1_2-115:0.6942100024):0.0750124036):0.0166928920,Marpol_PTQ27175_32-115:0.0316649953):0.0178057874,((((((Mgut_XP_012829444.1_15-98:0.0000010000,Mgut_XP_012848260.1_15-98:0.0000010000):0.0040834691,((((Sbic_EES14637_54-137:0.0318731345,Bdis_KQJ95195_39-122:0.0000022554):0.0760382690,(Mgut_XP_012853354.1_17-101:0.0325991312,(Gthe_EKX52359_1-74:1.0698072966,(Plafun_PRP77327_34-116:1.0528427873,Acoe_PIA58329.1_34-117:0.9103349154):0.4889341637):0.3341007979):0.1787249751):0.0237639034,Atri_ERM94322_14-97:0.2185443099):0.0435167699,(Atha_AT2G13570.1_4-114:0.0995299366,(Mgut_XP_012845670.1_29-169:0.0000022022,Mgut_XP_012845671.1_36-158:0.0000020045):0.2621746746):0.1623259389):0.0453584753):0.0447067024,Bdis_KQK15318_18-101:0.1039088986):0.0000025274,Atha_AT4G14540.1_16-99:0.0000025521):0.0165701291,(Mgut_XP_012841807.1_21-104:0.0000025828,(Atri_ERN17766_20-103:0.0000021968,Atri_ERN09883_1-65:0.2820299613):0.0509179745):0.0619242465):0.0000020359,(((Bdis_KQK21295_18-101:0.0000010000,Sbic_EER94693_18-101:0.0000010000):0.0463525052,Sbic_EER99684_16-99:0.0024402134):0.0271026790,Smoe_EFJ23407_23-106:0.1344003636):0.0462972782):0.0167914391):0.0000025456,((Sacu_v1.1_s0054.g014195_36-119:0.0199626112,(Atha_AT5G47640.1_22-105:0.0492758629,Smoe_EFJ31867_23-106:0.0497741014):0.0361592047):0.0324947368,((((Sacu_v1.1_s0126.g021742_475-558:0.0322147762,Sacu_v1.1_s0025.g009273_29-112:0.0000020045):0.0169424004,Azfi_s0032.g024682_49-132:0.1030332431):0.0523520440,((Atri_ERN16970_31-124:0.1212340742,(Acoe_PIA44564.1_30-113:0.0948726804,(Bdis_PNT73541_30-112:0.0000021415,Sbic_EES04176_29-111:0.0745567876):0.0842940624):0.0250471252):0.0412500511,(Atha_AT2G47810.1_33-129:0.2588685254,(Acoe_PIA61525.1_23-117:0.1159469309,((Mgut_XP_012833303.1_32-115:0.0635801838,(Mgut_XP_012850788.1_1-82:0.1095313782,Mgut_XP_012857060.1_31-113:0.0285324227):0.3812474938):0.1256080496,((Mgut_XP_012828059.1_42-125:0.2254657510,Mgut_XP_012842193.1_12-97:0.2406447427):0.1109676580,Atha_AT1G09030.1_1-81:0.2801428527):0.0948356890):0.0721596086):0.0216264599):0.0336860569):0.2428738052):0.0172894272,(Sacu_v1.1_s0056.g014640_28-111:0.0000026722,(Azfi_s0003.g007945_29-112:0.0115935449,Azfi_s0095.g043581_27-110:0.0122663467):0.0230561596):0.0744177794):0.0421806968):0.0108132420):0.0304354274,((((((((Bdis_KQK18584_20-102:0.0342557681,Bdis_KQK18580_25-107:0.0000020043):0.2864080775,Sbic_OQU76250_42-124:0.2946921064):0.1568742468,Bdis_KQK01520_33-115:0.0183630392):0.0015230565,Sbic_KXG30848_11-114:0.0847113311):0.1338324474,Atha_AT1G21970.1_54-137:0.1682601962):0.0869418023,((Mgut_XP_012849193.1_31-114:0.0000026846,(Atha_AT5G47670.1_35-136:0.1470526185,Acoe_PIA25597.1_47-130:0.1432244983):0.0238968848):0.1160515034,(Atri_ERN19273_10-105:0.0289164462,(Azfi_s0293.g063460_20-101:0.3389938265,Acoe_PIA58328.1_36-119:0.3507475596):0.1131541498):0.0615726631):0.0587699106):0.0757851041,(((((((Mgut_XP_012836455.1_1-62:0.1266672249,Mgut_XP_012836454.1_9-119:0.0556632041):0.0553582525,(Mgut_XP_012839450.1_9-123:0.0200156918,Mgut_XP_012842675.1_81-161:0.1263231119):0.0957196397):0.0286237491,((Mgut_XP_012839458.1_1-74:0.0436141623,(((Mgut_XP_012838634.1_387-469:0.0511932204,(Mgut_XP_012846296.1_76-157:0.0000010000,Mgut_XP_012844767.1_45-126:0.0000010000):0.0541165196):0.0186898048,(Mgut_XP_012850798.1_1-74:0.0436398898,Mgut_XP_012848273.1_151-233:0.0460202750):0.0230314038):0.0000028557,Mgut_XP_012857606.1_1-74:0.0218470434):0.0000028474):0.0672005578,(Mgut_XP_012839452.1_80-163:0.0325499060,Mgut_XP_012839441.1_87-168:0.0521315167):0.0984238662):0.0000022822):0.0000029942,((((Mgut_XP_012841021.1_62-145:0.0481193322,Mgut_XP_012852537.1_32-143:0.0212133093):0.0428900647,((Mgut_XP_012841019.1_15-129:0.0162699868,Mgut_XP_012852535.1_35-147:0.0580323608):0.0026549952,Mgut_XP_012841020.1_51-166:0.0293051681):0.0091640068):0.0136453452,Mgut_XP_012846005.1_45-128:0.0677574627):0.0252656091,((Mgut_XP_012846941.1_13-116:0.0000029392,(Mgut_XP_012833608.1_814-875:0.1349806061,Mgut_XP_012836456.1_7-68:0.8032611084):0.3308859622):0.0711471857,Mgut_XP_012833611.1_84-167:0.0475840974):0.0438164371):0.1663601884):0.1043570942,(Mgut_XP_012838126.1_86-169:0.0000010000,Mgut_XP_012838119.1_216-299:0.0000010000):0.1372073190):0.1184072161,(((Mgut_XP_012857869.1_1-74:0.0441499811,(Mgut_XP_012833616.1_51-133:0.0666669088,Mgut_XP_012833609.1_20-99:0.2200195505):0.1056973525):0.0278160632,((Mgut_XP_012858173.1_42-131:0.0000020045,Mgut_XP_012858186.1_40-131:0.0130670141):0.0000024372,Mgut_XP_012858122.1_34-123:0.0400140554):0.0581303085):0.1198034425,Mgut_XP_012857928.1_53-135:0.3572458168):0.1394762806):0.0689287495,Mgut_XP_012848422.1_49-130:0.6274014936):0.3747830024):0.1059846950,Smoe_EFJ12145_15-103:0.0425439499):0.3531260554):0.0131811024,Ulvmut_UM020_01011_9-92:0.3486875955):0.0199709085):0.0000026420):0.0157229846,(((Marpol_PTQ27167_28-111:0.0000020461,Chabra_GBG71017_39-122:0.0305480468):0.0152830214,(((Smoe_EFJ15373_27-110:0.0000020045,((Vcar_XP_002949581.1_12-95:0.0160783576,Crei_PNW86267_12-95:0.0158993049):0.0000023564,Cvar_XP_005847098.1_1-80:0.1019989184):0.0478947216):0.0000028715,((((Lcom_lcpid123763_98-159:0.2094243451,Jakbah_JAKBA_01487.mRNA.1_1-58:1.2990111182):0.6074227468,Cpar_Cpar_evm3s7567_24-85:0.0880670130):0.1728281704,Ppat_Pp3c3_13480V3.1_29-89:0.0000026255):0.1766477103,Sacu_v1.1_s0126.g021744_1-53:0.7807803297):0.0076776638):0.0157591081,(Mpus_XP_003061751.1_20-103:0.0132701117,((((Bdis_KQK10455_17-100:0.0000027681,Sbic_OQU87808_17-100:0.0178796653):0.0479886522,((Bdis_KQK04759_14-97:0.0624566161,Sbic_OQU78465_11-93:0.1237604149):0.0590193765,Pavlsp_601209_3-93:0.5013952473):0.1412051363):0.0671498958,(Caulen_g8237.t1_15-98:0.0000010000,Caulen_g8237.t2_15-98:0.0000010000):0.1519671050):0.0164484620,Cocsub_XP_005651963.1_12-95:0.0555060654):0.0290728774):0.0240818647):0.0154966941):0.0000029503,((((((Acoe_PIA38684.1_21-104:0.0000010000,Acoe_PIA38681.1_21-104:0.0000010000):0.0000021726,Atri_ERN06716_21-104:0.0803683232):0.0161672012,((Mgut_XP_012831929.1_28-111:0.0201400653,((Mgut_XP_012834697.1_31-114:0.0000010000,Mgut_XP_012834698.1_31-114:0.0000010000):0.0169636275,Mgut_XP_012834891.1_23-106:0.1468823493):0.0714106618):0.0138335813,(Bdis_KQK05856_29-112:0.0110002869,(Sbic_KXG22176_28-111:0.0000025300,(Atha_AT2G38880.11_16-99:0.0839796037,((Bdis_KQJ95594_1-65:0.0931982136,Bdis_PNT66881_17-92:0.3936477757):0.2193818489,Bdis_KQJ95465_12-95:0.8500806472):0.3001024645):0.0542549136):0.0320266978):0.0618944275):0.0161518553):0.0000022787,(Atha_AT3G53340.1_24-107:0.0345753736,Atha_AT2G37060.1_25-108:0.0656624815):0.0880307332):0.0301103130,Atri_ERN04890_90-173:0.0190838319):0.0435508932,Klenit_GAQ86342.1_7-90:0.1156775492):0.0186502476):0.0000026901):0.0081519984,Otau_XP_003074932.1_7-90:0.1679147221):0.0622343773,(((Fabtro_Gene.24369_29-111:0.1694804397,Umay_KIS65863_78-160:0.4665301397):0.0580850895,(Plamic_ANCSI_02881.mRNA.1_26-109:0.1946161394,Ancsig_Gene.34621_44-129:0.6063574892):0.0157422447):0.0361982156,Aano_EGB03978_22-105:0.2898993432):0.0670364804):0.0257335765,(Gonavo_comp29221_c0_seq1_6_ORF7_173_47-130:0.2022276667,Nutlon_comp15254_c0_seq1.p1_71-154:0.8833361848):0.2559785731):0.0000026186):0.0521055197,((Tthe_EAR82306_9-91:0.0983640357,(Ptet_CAK60712_20-103:0.0000010000,Ptet_CAK58122_20-103:0.0000010000):0.1145790829):0.1490284003,Oxytri_EJY64615_8-88:0.3814337283):0.1319839434):0.0351791573,(Porpur_KAA8491634.1_10-92:0.2288207941,(((Cavfas_EGG15179_15-98:0.1528888767,Hetalb_XP_020436670.1_17-99:0.0706560870):0.0203673071,Tielac_KYQ90624_16-99:0.2941152233):0.0352602553,Ddis_EAL67648_43-126:0.1078304934):0.1140551062):0.0911904243):0.0187953422,(Coka_g9318.t1_65-147:0.1508341207,Esil_CBN79370_12-94:0.0330411816):0.3643909079):0.1426155632):0.0000029890,((((((((Mcir_OAC98524_10-94:0.0000010000,Rhidel_EIE81896_10-94:0.0000010000):0.0219453553,(Ncra_ESA44398_34-123:0.0337406569,Tmel_CAZ84521_37-120:0.0000026582):0.2080264349):0.0110223800,(Plebac_Pbla_mRNA_2062_13-97:0.0000010000,Pbla_XP_018297865.1_13-97:0.0000010000):0.0515171338):0.0000022267,(Umbram_232832_13-97:0.0000022832,((Amac_KNE63190_74-157:0.0000010000,Amac_KNE62220_74-157:0.0000010000):0.1471357264,Cang_ORZ32077_38-124:0.4352620128):0.0657172721):0.0315279009):0.0990784563,(Coerev_PIA17033.1_7-90:0.0334591914,Morelo_OAQ28412_11-94:0.0774710800):0.0474114542):0.0000024832,Rirr_GBC52372_26-109:0.0163072086):0.0248858736,((Spun_KND00130_16-99:0.1008720353,Bden_EGF81752_1-94:0.2062707806):0.0650866236,Spun_KND01956_12-95:0.2253640425):0.0680275722):0.0295259854,Pisp_OUM70260.1_9-94:0.0403051471):0.0835419723):0.0308578092,((Ccin_EAU82951_42-125:0.2082639246,Cneo_AAW43577_37-119:0.2208973689):0.0797963828,Aano_EGB08797_1-87:0.3404867881):0.0647381120):0.0259347638,(((Emue_0001g2657a_141-230:0.0298286175,Aque_Aqu2.1.37423_001_116-197:0.4886626795):0.3176766254,((Lcom_lcpid69078_98-180:0.0296781248,Scil_scpid61257_55-137:0.0787007931):0.1031253531,Secula_SECUL_07049.mRNA.1_10-91:0.3356959879):0.1929209347):0.1195022472,Scer_YBL021C_32-114:0.5420052132):0.0000022954):0.0578251962,(Ngru_EFC38943_70-160:0.0144483114,Ngru_EFC36079_71-161:0.0000026697):0.7777753088):0.0448698239,(Rall_EPZ35663_3-95:0.1283830118,Vitbra_CEM03312.1_13-95:0.6421290408):0.2040632517):0.0480796830,(((((Gpro_KXS09592_37-120:0.0294446859,Falb_KCV72540_786-867:1.3428015993):0.4159120407,(Spom_SPAC23C11.08.1_pep_3-85:0.3446807626,(Hemkuk_7437_TR2543_c0_g1_46-129:0.7820177866,((Diprot_Gene.19091_21-99:1.1658500078,Sbic_EES05602_37-116:1.1543787306):0.2526153223,(Andgod_ANDGO_02546.mRNA.1_11-92:1.0214224222,Masbal_CACRSC010000027.1.p347_1-82:1.8422771955):0.3784999209):0.1255618097):0.1580343295):0.0472410831):0.0434220159,(Bnat_JGI_V11_66311_23-103:0.5948462673,((Plabra_CEP03261_9-92:0.5572090764,(Sros_EGD83516_47-128:0.8278212423,(Chrtob_KOO21443.1_41-125:0.7333277264,Ehux_EOD24855_7-92:1.0066679604):1.0461545465):0.2539325153):0.0286563121,Plabra_CEP02743_26-109:0.9582273854):0.1372903528):0.1047887038):0.1434173424,((Pfal_CZT99128_1124-1205:0.2848292689,((Sbic_EER89161_15-94:1.4020864379,(Perkma_EER00796_635-718:0.0000010000,Perkma_EEQ99762_317-400:0.0000010000):2.0239233092):0.2952363003,Cvel_7252.t1-p1_4-88:1.2931191730):0.3767944245):0.4100793388,(Smoe_EFJ17554_2-85:0.2082830854,Glam_EDO79190_1-84:1.3230037893):0.2575457013):0.1170424872):0.0270359974,(((Bdis_PNT73540_37-119:0.3800978673,Sbic_OQU88166_12-94:0.0621903985):0.3613868643,(Styinc_Gene19184_m19184_116-198:0.0000010000,Styinc_Gene15750_m15750_90-172:0.0000010000):1.1728039975):0.2041875721,(Plabra_CEO98301_23-102:0.6451396595,Bdis_PNT76054_30-98:1.1166989118):0.4718129167):0.0688946095):0.1166781791):0.3959682815,((((Carmem_b599.p1_61-143:0.0000020089,Carmem_b4424.p1_77-159:0.0000020089):0.0899969843,Carmem_b5804.p1_62-129:0.2724674432):0.8062993871,Sappar_KDO29108_299-384:1.1515515757):0.1965396522,(Chrtob_KOO25873.1_1-71:0.0209250386,Chrtob_KOO28859.1_1-71:0.0000024811):0.9788302496):0.1395871842):0.0474783093,((Pavlsp_567334_1-73:1.6318286506,(Ehux_EOD16654_23-105:0.0000025944,Ehux_EOD30474_23-105:0.0169109563):1.0518849850):0.1061579722,(((((((((((((((Nutlon_comp2278_c0_seq1.p2_3-85:1.7051301356,Tadh_P54139_1-84:0.3984638305):0.4071905549,(Ngru_EFC50479_1-84:0.7322379061,Sros_EGD75376_1-79:0.9228774649):0.2586933928):0.1540468447,((((Porumb_OSX73753.1_7-91:0.0000010000,Porumb_OSX73752.1_7-91:0.0000010000):0.5075295922,Gracho_PXF47214.1_1-80:0.4014680959):0.0615254604,Porpur_KAA8495349.1_11-94:0.2575137857):0.4645294207,(Otau_XP_003079045.1_1-88:0.6546915395,Recame_RECAM_00852.mRNA.1_1-82:1.0497755675):0.0664568277):0.3107915278):0.0305375912,(((((Ramvar_GAV09725.1_1-79:0.3397230001,Hduj_OQV19472.1_1-84:0.0042624308):0.6583861987,(((Secula_SECUL_03353.mRNA.1_1-79:0.9881197980,Rigram_Gene.15565_9-91:1.5773168961):0.1795494478,Plabra_CEO95037_1-82:1.2960827281):0.0364937632,Andgod_ANDGO_01413.mRNA.1_2-84:1.0641990183):0.1361207450):0.2015404038,(((Diprot_Gene.12166_8-91:0.4936971127,(Pygbif_GCRY01003139.1.p1_1-82:0.5246557259,(Ttra_KNC54897_1-84:0.8521865331,Styinc_Gene10087_m10087_1-75:1.5434777908):0.4458196243):0.2050554633):0.0910933649,Amobb2_AMBB2_03252.mRNA.1_1-84:0.2819603719):0.3429522757,((Gonavo_comp50404_c0_seq1_6_ORF9_158_23-106:0.3379252915,(Ulvmut_UM065_00081_1-81:0.9379774125,(Oxytri_EJY83941_32-115:0.8796432813,(((Ptet_CAK63548_35-109:0.0993941135,Ptet_CAK85656_24-101:0.0396004482):0.0000024224,Ptet_CAK82990_1-71:0.0077903274):1.0437802234,Tthe_EAR98480_1-79:0.7309821974):0.8249996891):0.3099629260):0.0563834580):0.1626346068,(Cocsub_XP_005649265.1_1-79:0.6625108349,Cvar_XP_005850388.1_1-79:0.6262275412):0.5190418252):0.1118464483):0.0000022667):0.0425784318,((Tielac_KYQ89344_1-84:0.1608330190,(Ddis_EAL72169_3-86:0.0914598985,Cavfas_EGG14050_3-86:0.3679999506):0.1261260767):0.1696487091,(Falb_KCV71193_1-66:0.6501019974,(Meteor_CRO19MET_NODE_10154.p2_1-73:0.0333662901,Meteor_CRO19MET_NODE_9696.p1_47-96:0.0000027345):0.8876982157):0.7350323722):0.1117558475):0.0318717058,Cpar_Cpar_evm1s4755_3-86:0.4009922028):0.0252285690):0.0387282208,(Malcal_MALCA_02934.mRNA.1_1-62:0.3617311817,Gefoke_MALSP_03325.mRNA.1_1-85:0.1725273883):0.1649794148):0.0315889936,Phakir_PHAKIR_07148.mRNA.1_1-81:0.7807174227):0.0915128340,(((((Cfra_CFRG1362T1_8-88:0.0092844347,(Sarc_Sarc4_g20687T_21-97:0.0000024296,Gthe_EKX42279_18-96:1.6139520703):0.4832008642):0.4453855618,Ihof_evm1s734_8-81:0.2519796410):0.2283423659,(Coerev_PIA17380.1_6-89:0.4274142824,Nk52_evm1s164_3-85:0.6515187995):0.0948003923):0.0830616040,Hemkuk_22479_TR7490_c0_g1_3-86:0.5728764284):0.1177872335,Maljak_MALJA_13261.mRNA.1_1-83:0.3726545539):0.0000028944):0.0449372090,(((Cang_ORZ38041_2-85:0.3425017463,(((Umay_KIS68587_10-93:0.3435709212,Ccin_EAU84576_8-91:0.3253268303):0.1014283522,((((((Pbla_XP_018297139.1_7-90:0.0000010000,Plebac_Pbla_mRNA_1328_7-90:0.0000010000):0.0282810451,(Mcir_OAD07277_7-90:0.0466046299,(Rhidel_EIE83669_7-90:0.0152602153,Rhidel_EIE75658_7-90:0.0981159993):0.0243610878):0.0401087587):0.1206621747,Umbram_230045_7-90:0.0010488146):0.1879002384,(Morelo_OAQ26895_5-88:0.1578119807,Concor_KXN67083_4-87:0.3920443630):0.1224645324):0.0306229681,Rirr_GBC16911_11-94:0.1651998136):0.0988464636,(((Spom_SPBC30D10.02.1_pep_2-85:0.1621149109,Scer_YDR397C_1-83:0.8529098656):0.1235524663,Ncra_EAA35646_4-89:0.4014727138):0.1006282499,Tmel_CAZ84302_5-88:0.2481492262):0.1978605357):0.0370987296):0.0644225461,Amac_KNE65441_6-89:0.2645779077):0.0662122409):0.0430552782,(Spun_KND05105_8-91:0.3326051751,(Bden_EGF84205_9-92:0.1616067520,Gpro_KXS20137_12-95:0.4609643188):0.0693285497):0.0593004960):0.0717024121,(Cneo_AAW43202_3-86:0.6033201615,Rall_EPZ32641_6-97:0.6964011225):0.0749772515):0.2340975643):0.0360625873,Fabtro_Gene.21018_10-93:0.5417793508):0.0702447982,((Crei_PNW70930_1-66:0.0959448836,Vcar_XP_002953528.1_1-66:0.1188462716):0.3238808536,Caulen_g2026.t1_1-66:0.6686458053):0.5406288767):0.1342913180,((((((Adig_XP_015749287.1_14-64:0.3368384232,Adig_XP_015773700.1_43-121:0.0000022330):0.1629710030,Spis_XP_022788333_1_2-84:0.0277623054):0.1244838536,((Nvec_NVE17599_4-86:0.0099557769,((Scil_scpid97321_3-85:0.1184787521,Lcom_lcpid94114_3-85:0.0240974041):0.2665335426,Ocar_g5875.t1_6-85:0.3552948034):0.3081892270):0.1150960925,Exapal_XP_028512889.1_1-83:0.2168393939):0.0869437358):0.1112246236,((Hydvul_Sc4wPfr_910.1.g9179.t1_13-95:0.1093497183,Clyhem_TCONS_00027311-protein_5-87:0.1387029952):0.0753086026,(Morvir_scaffold114.g30.t1_5-86:0.1299408053,(Mlei_ML3170_g7_t1_6-88:0.3782526503,((Emue_0008g60a_7-89:0.1103560372,Tetwil_Twilhelma_g25214.t1_5-87:0.1694369120):0.1634395205,Aque_Aqu2.1.27250_001_5-87:0.0881683827):0.3113661586):0.0895255962):0.1152920689):0.0693924980):0.0837862950,(((((((((Notgen_g15812.t1_3-85:0.3764686136,Phoaus_g19084.t1_1-87:0.1477550398):0.0473291075,((Lgig_LotgiP68595_1-79:0.1571271875,Cgig_EKC41979_6-88:0.1328293941):0.0251964085,(Helrob_HelroP155148_35-117:0.1033177535,((Sman_Smp_149540.1_pep_24-113:0.2704674745,Emul_CDS37710.1_8-87:0.3435075449):0.1677453195,Lcom_lcpid171498_1-54:0.7696525526):0.7507166839):0.1423335528):0.0282327631):0.0271758359,Linana_g13542.t1_166-294:0.1781218316):0.0620783673,Ctel_CapteP165016_7-93:0.1496659716):0.0686426347,((Cscu_XP_023215829.1_8-96:0.0000010000,Cscu_XP_023215830.1_8-96:0.0000010000):0.1489515935,Lpol_XP_013793383.1_1-82:0.1873292832):0.1696446061):0.0514084363,(Apla_XP_022084353.1_8-90:0.1736235174,Spur_XP_798916.1_7-88:0.2199074982):0.1258712626):0.0630765036,((Skow_XP_002736906.1_1-82:0.1198192982,Ptyfla_pfl_40v0_9_20150316_1g9676.t1_1-82:0.0313973279):0.0877387782,Bralan_BL05055_evm0_3-84:0.2332244112):0.0525342159):0.0916050121,((Drer_ENSDARP00000135530.1_3-85:0.0000010000,Drer_ENSDARP00000153150.1_3-85:0.0000010000):0.0469946527,Hsap_ENSP00000359290.1_3-85:0.0000024050):0.1449167982):0.0287109840,(((Dmel_FBpp0080256_10-92:0.2340135164,Dpul_EFX81721_2-84:0.3925122203):0.0585707808,Tcas_XP_974856.1_10-92:0.1647059420):0.2871445543,Cint_ENSCINP00000032088.1_1-85:0.3940087056):0.1061498325):0.0218286839):0.2956129647,(((((((((((Acoe_PIA39514.1_6-89:0.0487599385,Acoe_PIA63450.1_6-89:0.0862416811):0.0339372029,(Bdis_KQJ98106_6-89:0.0769304131,Sbic_EES13767_6-89:0.0212039052):0.1059917268):0.0000028514,Atri_ERN03579_6-89:0.0633865534):0.0179878368,((Mgut_XP_012832678.1_5-89:0.0959230130,Atha_AT5G23090.1_5-89:0.0163082043):0.0151749876,Atha_AT5G08190.1_5-89:0.0321371235):0.0677429268):0.0409223295,Azfi_s0009.g012007_53-136:0.1380094322):0.0982039090,Smoe_EFJ12470_3-86:0.0583328355):0.0522809177,Marpol_PTQ38119_3-86:0.0262106767):0.0519249890,Ppat_Pp3c10_17500V3.4_17-99:0.2772827834):0.0000021023,Ppat_Pp3c3_25870V3.6_50-133:0.0169934178):0.0124879413,(((Sphfal_Sphfalx19G070700.1.p_4-87:0.0000020089,Sphfal_Sphfalx19G069500.2.p_4-87:0.0000020089):0.0000023273,(Sphfal_Sphfalx19G069500.3.p_7-57:0.0000028173,Sphfal_Sphfalx19G069500.1.p_56-105:0.2465432034):0.0000028664):0.0000028303,((Azfi_s0216.g058490_39-118:0.1503202654,Sacu_v1.1_s0145.g023017_1-69:0.0000024811):0.5384210938,Sphfal_Sphfalx19G069500.1.p_4-56:0.2801343916):0.0000022158):0.0216893113):0.1438584248,Chabra_GBG85969_1-69:0.1878419669):0.4546676508):0.0271248047):0.0871211255,(Klenit_GAQ78455.1_3-91:0.8058654186,(Mpus_XP_003059647.1_1-73:0.7308015313,Plamic_ANCSI_02127.mRNA.1_1-79:0.9486456908):0.3263845803):0.1184384356):0.1070368921,(Cowc_KJE90256_7-90:0.5314327320,Clim_evm18s224_1-84:1.0703440828):0.2217022493):0.2767008308,Jakbah_JAKBA_03273.mRNA.1_19-102:1.7809445990):0.4713195988,Gpro_KXS21506_14-97:2.2456762400):0.1753220368):0.0757901702):0.4966908858):0.1782056310):0.8693360707);
+
+TIME STAMP
+----------
+
+Date and time: Mon Nov 16 18:19:38 2020
+Total CPU time used: 49.8806 seconds (0h:0m:49s)
+Total wall-clock time used: 49.7424 seconds (0h:0m:49s)
+

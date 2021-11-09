@@ -1,0 +1,8 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Pinf_XP_002906668|Histone_H2B	Pinf_XP_002906668|Histone_H2B	H2B	FALSE	SGKGK GKGKK R	Me1	K	3				100	SGKGKGKGKKR	res
+Pinf_XP_002906668|Histone_H2B	Pinf_XP_002906668|Histone_H2B	H2B	FALSE	GKGKG KKR	Me1	K	4				99.83	GKGKGKKR	res
+Pinf_XP_002906668|Histone_H2B	Pinf_XP_002906668|Histone_H2B	H2B	FALSE	AKTPS KKAAK	Me1	K	6				50.01	AKTPSKKAAK	res
+Pinf_XP_002906668|Histone_H2B	Pinf_XP_002906668|Histone_H2B	H2B	FALSE	AKTPS KKAAK TVAK	Me1	K	6				49.78	AKTPSKKAAKTVAK	res
+Pinf_XP_002906668|Histone_H2B	Pinf_XP_002906668|Histone_H2B	H2B	FALSE	IASEA GKLSR	Me1	K	7				100	IASEAGKLSR	res
+Pinf_XP_002906668|Histone_H2B	Pinf_XP_002906668|Histone_H2B	H2B	FALSE	AKTPS KKAAK	Me1	K	7				49.99	AKTPSKKAAK	res
+Pinf_XP_002906668|Histone_H2B	Pinf_XP_002906668|Histone_H2B	H2B	FALSE	AKTPS KKAAK TVAK	Me1	K	7				49.78	AKTPSKKAAKTVAK	res

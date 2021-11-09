@@ -1,0 +1,14 @@
+Bilateria|Apla_XP_022087920.1
+Bilateria|Cgig_EKC33868
+Bilateria|Cscu_XP_023218212.1
+Bilateria|Dpul_EFX73971
+Bilateria|Hsap_ENSP00000229595.5
+Bilateria|Lpol_XP_013776638.1
+Cnidaria|Auraur_scaffold554.g4.t1
+Cnidaria|Morvir_scaffold33.g62.t1
+Ctenophora|Mlei_ML0760_g30_t1
+Placozoa|Tadh_P29129
+Porifera|Aque_Aqu2.1.21830_001
+Porifera|Emue_0011g1023a
+Porifera|Scil_scpid80684
+Porifera|Tetwil_Twilhelma_g7373.t1

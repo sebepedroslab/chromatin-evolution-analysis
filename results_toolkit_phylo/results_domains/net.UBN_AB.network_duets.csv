@@ -1,0 +1,9 @@
+i	j	weight
+DnaJ	HUN	1
+DnaJ	UBN_AB	1
+HUN	PhoLip_ATPase_N	1
+HUN	She9_MDM33	1
+HUN	UBN_AB	57
+PhoLip_ATPase_N	UBN_AB	1
+She9_MDM33	UBN_AB	1
+UBN_AB	UBN_AB	14

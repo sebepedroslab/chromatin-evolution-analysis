@@ -1,0 +1,5 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Clim_g1810|Histone_H2B	Clim_g1810|Histone_H2B	H2B	FALSE	KGGDK GGK	Ace	K	5				94.31	[K].KGGDKGGK.[R]	[17-24]
+Clim_g1810|Histone_H2B	Clim_g1810|Histone_H2B	H2B	FALSE	KGGDK GGK	Me2	K	8				94.31	[K].KGGDKGGK.[R]	[17-24]
+Clim_g1810|Histone_H2B	Clim_g1810|Histone_H2B	H2B	FALSE	LAKYN KKSTI TSR	Ubi	K	6				50	[R].LAKYNKKSTITSR.[E]	[76-88]
+Clim_g1810|Histone_H2B	Clim_g1810|Histone_H2B	H2B	FALSE	LAKYN KKSTI TSR	Ubi	K	7				49.99	[R].LAKYNKKSTITSR.[E]	[76-88]

@@ -1,0 +1,11 @@
+IQ-TREE multicore version 2.1.0 for Linux 64-bit built Jul 18 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    lapis (AVX2, FMA3, 15 GB RAM)
+Command: iqtree2 -s alignments/all.concatenated/allhistone_dom.c99.g.fasta -m TEST -nt AUTO -ntmax 8 -pre alignments/all.concatenated/allhistone_dom.iqtfb -nm 10000
+Seed:    897632 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Nov 23 23:17:47 2020
+Kernel:  AVX+FMA - auto-detect threads (8 CPU cores detected)
+
+Reading alignment file alignments/all.concatenated/allhistone_dom.c99.g.fasta ... ERROR: Cannot read file alignments/all.concatenated/allhistone_dom.c99.g.fasta

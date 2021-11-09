@@ -1,0 +1,161 @@
+# pfam_scan.pl,  run at Fri Dec 18 14:51:53 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Auraur.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Auraur_scaffold10.g229.t1      29     85     29     85 PF12802.8   MarR_2            Family     3    61    61     48.5   6.5e-13   1 CL0123   
+#HMM       ltpaqfdvLaalarspppltvgeLaarlgvsksavsrlvkrLveaGLVerepspaDkRa
+#MATCH     ltp q+ +L+++  +p  lt+ +La++l+v+ks++sr+v  L++ GLVe  ++p DkR+
+#PP        79*************9..9***************************************6
+#SEQ       LTPVQAHALGEIQLQP--LTINQLAQQLNVDKSNASRTVTGLIKLGLVESIENPKDKRS
+#CS        --HHHHHHHHHHCCTTTSBEHHHHHHHHTSSHHHHHHHHHHHHHTTSEEEECSSSSTTS
+Auraur_scaffold10.g229.t1     193    278    164    278 PF00583.26  Acetyltransf_1    Family    31   117   117     47.3   2.1e-12   1 CL0257   predicted_active_site[261,273][223] 
+#HMM       eaegllvaeedgeliGfisllkipdekggvayieslaVspeyrgkGlGsaLlealeerareegikkivlaveedndaairlYeklGF
+#MATCH     +   ++v+e+ ge++G  ++ +    +++v+++  ++  p+ rg+Gl+++ +   ++ a++ g++  +l+++e  + a+ lYeklGF
+#PP        34499********************.89************************************888*******************9
+#SEQ       NRAAYWVIEHRGEIVGGGGFAPLAG-EPNVCELQKMYFLPQTRGHGLAKRIVALSLQLAKQFGYQQCYLETTECLREAVSLYEKLGF
+#CS        TTEEEEEEEETTEEEEEEEEEEEETTSTTEEEEEEEEESGGGTTSSHHHHHHHHHHHHHHHTTCSEEEEEEETTEHHHHHHHHHTTE
+Auraur_scaffold1257.g13.t1     72    161     68    164 PF00665.27  rve               Domain     6    96   102     34.4   2.1e-08   1 CL0219   
+#HMM       elwqvDvtviripdggg..kayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsf
+#MATCH      lw+ D + ++  + +     +llv id+fs+++++  ++++ + + ++++ +  +       p+++++D+g+e+++k+f++fl++ +i+ ++
+#PP        6899999944433333346889********************.*********999888888..*************************98766
+#SEQ       YLWEADLVDMSQLKEENddITFLLVCIDTFSKYTWVRTLKRK-TGKEIIKAFQSILNEGRT--PRKLRTDKGTEFINKSFQAFLKSKDISFYT
+Auraur_scaffold1257.g13.t1    322    361    322    363 PF00385.25  Chromo            Domain     1    41    54     31.1   1.7e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenle
+#MATCH     +++e++i +++ k g+   YlV+W+g+p + + W +e++++
+#PP        689*************.9*******************9986
+#SEQ       FVIEKVIRKKKLKQGK-NIYLVRWRGYPSEFDEWVSEDQVQ
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCT
+Auraur_scaffold1329.g6.t1       9     63      8     64 PF00628.30  PHD               Domain     2    51    52     31.1   1.6e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpeg.....ewlCekCke
+#MATCH     C +C+k+ ++++++++C +C+ ++H +C k++  ++e  ++      w+C +C+ 
+#PP        ******999************************999998888999********85
+#SEQ       CGICQKNIHKNQKWLLCSQCNFHVHISCNKISAAEYEAIQKkpddvPWFCLHCTV
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSS.....TBSSTTTHT
+Auraur_scaffold1329.g6.t1     154    298    122    355 PF03372.24  Exo_endo_phos     Domain    16   164   236     26.5   4.2e-06   1 CL0530   predicted_active_site[287] 
+#HMM       srrsdrladlltayda..DvlgLQEvdddelsriplllalggvlgaslhsrpgtgggggggnggavlsrfplfslfrrtfiefndlvaatrreplaakleqlni.shrdhdlvrdlqllalllqvealnadfgapvivaGDfNarpsdddsr
+#MATCH     s ++  l++ll++ +   D++g+ E++d+    i ++ + +g++++     p     +   +g++++++  l+  +r ++ ++  + ++t  e +++k+++  i + ++h+    ++++++ ++++ + a ++  v+++GDfN      ds 
+#PP        444555899998887788************9999888887666644.....33..3456679**********************************************************************************44444444
+#SEQ       SCHIEELQSLLANLNIkfDAIGVSETWDSVDRPICTNINIPGYVYF-----PS--KSFSQNGGVGLYVKVGLKPTPRPDLNGNTEHYETTWVEIENTKGKNILIcCAYRHPNFAPEIFADYMQDILSNDAVTNTQVFILGDFNINLLNYDSD
+#CS        HHHHHHHHHHHHHSTT..SEEEEEEEBSCTCHHHHHHHHHTTCECTCEEEEEEECSSSTTSSEEEEEECSTEEEEEEEEEEETSSSSGCEEEEEEEEEEEEEEE.CCHHGHHHHHHHHHHHHHHHHHHHHHTTSEEEEEEE-SSSTSGGGBS
+Auraur_scaffold1329.g6.t1     650    897    648    899 PF00078.28  RVT_1             Family     3   220   222    165.7   1.1e-48   1 CL0027   
+#HMM       Kkg....pgsyRpisllsvdykalnkliakrLkdvl..ekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskee......lqelleaveewlkesglkinpeKtklvlft..................v.kseevkyLGv
+#MATCH     Kkg     ++yRpisllsv  k+++k++ krL d+l   ++l + q+gfr  +s+ +a+   ++ +k   ++k   + ++lDl+kaFd+v+++ ll+kl +++++ + + +++s+ls+r+++v+vng++s+ +++++g+pqGsvl+Pllf +++n++++  +k    + ++++aDD+ i+++s +       +++ l+ v++wl  ++l +n +Kt ++ f+                  v k++ vk+LG+
+#PP        555566669***************************999********************8885555555777888999************************************************************************************9....8**************95555677777777888**********************9*************9997648********97
+#SEQ       KKGcplnSSNYRPISLLSVFSKIIEKIMYKRLYDFLelHNVLYNLQFGFRASHSINHALislTESVKNTLDNKMFGCGIFLDLQKAFDTVNHQILLKKLDHYGIRGTALSWFSSYLSNREQYVSVNGHSSSNQKVTCGVPQGSVLGPLLFLIYINDISKASSK----LSFYLFADDTNIYYQSASLeqlqkvVNHELKYVKKWLDANKLALNVDKTNFIIFHsprkplndtvdirfgkqhVrKAKYVKFLGL
+#CS        -TT.....S-EEE......-THHHHCTB--...........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHH......HHHHHHHHHHHHHHTT--BEGGG-EEE........................ESSEEETTE
+Auraur_scaffold1520.g2.t1      88    139     87    141 PF00628.30  PHD               Domain     2    50    52     32.7   5.1e-08   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpeg...ewlCekCk
+#MATCH     C  Ckk  +++++ ++Cd+C+ wfH++C++++++++   ++   +w C +C 
+#PP        999***8889************************9988888888*******7
+#SEQ       CGECKKPVKANQDGILCDDCEFWFHPNCVHIDENEYIALSEpntNWSCLQCI
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSS...TBSSTTTH
+Auraur_scaffold1520.g2.t1     282    391    280    392 PF14529.7   Exo_endo_phos_2   Domain     3   118   119     44.5   1.2e-11   1 CL0530   
+#HMM       iisvYippssslenlestleklleslksp..kiiiaGDfNakhplWgstdtdtsargeeLieflnehelsllnllksgptykssntsstiDltltsdplavsklekeeedlgSDHrpi
+#MATCH     i s+Y+pp+++l+++ s++e+ l++l+++  +i ++GDfN+   + +    +   + ++  +fl +++l+  +  k ++++ +s++ ++iDl+ ++++ +v    +    + SDH++i
+#PP        78**************************999**********9877666..44..889*************..88886677766665.*************99.6777789******98
+#SEQ       IGSIYRPPDATLDTYLSDIEDQLQKLDHTktEIAVMGDFNVDMLSKSR--PK--TKRQSVRNFLLANDLE--QVIKLPTRVCESSK-TLIDLFCVNNKHRVV-QTEVISSSISDHSII
+Auraur_scaffold1520.g2.t1     678    923    672    923 PF00078.28  RVT_1             Family     4   222   222    165.1   1.7e-48   1 CL0027   
+#HMM       kgpgsyRpisllsvdykalnkliakrLkdvl..ekllsenqpgfrpgrstldav....edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskee......lqelleaveewlkesglkinpeKtklvlft...................v.kseevkyLGvtl
+#MATCH     k++++yRpis+l++  k+l+++++ +L ++l  + ll+++q+gf++  st++a+    +d+l+   ++ k + +  lDlkkaFd+v+++ llrkl+a++v++k + ++ s+ls+rs++ +v + +s+++y++ g+pqGsvl+Pllf +++n+l+ +l++     + +++aDD++++++  ++      l+e l  v++wl e++l++n  K+k +l++                     k +++kyLGv++
+#PP        3389****************************999********************886555555.688888**************************************************77778********************************9....6***************8888**************************************************997637*********986
+#SEQ       KNCDNYRPISILPTASKILERAVHAQLYKFLkeNVLLHPRQYGFQHSSSTVHALlkfcDDILEN-MDNSKVTGACYLDLKKAFDTVEHSILLRKLAAHGVDEKSVGWFTSYLSNRSQRTSVGNFTSTPSYVSIGVPQGSVLGPLLFLIYINDLPDRLQN----TKSSLFADDTVVYTTALSAdhltvaLNEDLHNVRNWLVENRLTLNIGKSKYMLIGgnkrvkdfgnvalsiegkgLeKVSNYKYLGVII
+#CS        TT.S-EEE......-THHHHCTB--...........-------HHHH.................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHH......HHHHHHHHHHHHHHTT--BEGGG-EEE.........................ESSEEETTEEE
+Auraur_scaffold1574.g2.t1       1     55      1     56 PF15299.7   ALS2CR8           Family   163   217   218     43.9   2.5e-11   1 No_clan  
+#HMM       lvekglkkvsemrkhlkafvedelfkgedlppttrrrykPtvrdikNrmasvkdt
+#MATCH     lv++ +++v+emr+hlk +v++elf++e+lpp+t++ry+P  + i+N+m +++++
+#PP        578899*******************************************999865
+#SEQ       LVKEDVSSVNEMRRHLKVIVKRELFQEESLPPKTNKRYFPRPKTIRNHMVKATRK
+Auraur_scaffold1574.g2.t1     148    238    146    239 PF10551.10  MULE              Domain     3    97    98     45.9   5.9e-12   1 CL0219   
+#HMM       vlDgTYktnkyklpLftvvgvdsngqvvpiafalveneteesfewllqelkelleeasgespkviitDrdkalknaleevfPeakhrlCifHink
+#MATCH     +lD+TY+t++y lpLf +v+ ++  + + + f + e+e+++ ++ +l+ lke++    + sp  ++tD+++ +++a+e+ f ++   +C fH ++
+#PP        79***************999999998887777.9**************6666655...699*******************************987
+#SEQ       FLDATYRTTRYALPLFFLVVKTNVDYQIAATF-ICETESTDVIKEALSILKEWNP---QFSPTFFMTDYSNEEITAIETLFEDSFVFICDFHREQ
+Auraur_scaffold1574.g2.t1     816    911    787    924 PF02902.20  Peptidase_C48     Domain    90   198   216     30.6   2.8e-07   1 CL0125   predicted_active_site[822,840,882] 
+#HMM       inedgkHWvll.iinlpdktililDSlislhtvkkenrpinnlkpyLleealkkkqkqldltpfeierltkvpqqknsgDCGiyvlkfiellaegapqessvtltekdvd
+#MATCH     ++ +++HW+++   + + + ++++DSl s+          +++k+++ + +        +++p  i+++ +v qq +++DCG++++ f++++++ ++  ssv+++++ + 
+#PP        78899******55688889***********99.......44444444444322......3577889999.*****************************99987666654
+#SEQ       LHDGNYHWIAIsTYHCQPGEVIYMDSLFSGVI-------AKHVKKQICSIIRY------EKSPLTIKVI-PVQQQRHFVDCGLFAVAFVQYVLHHNEYPSSVSFDQSKMR
+#CS        EEC.TTEEEEE.EEETCCCEEEEE-TTS-SSH.HHHHHHHHHHHHHHHHHCCCCCSTT-.GGGEEEEEEE-----SSCCCHHHHHHHHHHHHHCTHHCHHHHHSS.HHHH
+Auraur_scaffold1574.g2.t1     949   1001    946   1002 PF00628.30  PHD               Domain     5    51    52     29.0   7.1e-07   1 CL0390   
+#HMM       Ckk......ksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C+       ++++++++ +C+gC++w+H +C ++p+e  +k++ +wlCe+C++
+#PP        554444445667799**********************9999999*******86
+#SEQ       CRLpwsqgdNAKTNRQMALCNGCNEWYHRECKRIPKEVFQKSDVDWLCESCNQ
+#CS        TTS......TTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Auraur_scaffold1885.g5.t1      10     64      9     66 PF00628.30  PHD               Domain     2    50    52     32.3   6.6e-08   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpeg......ewlCekCk
+#MATCH     C +C+k+ ++++ +++C++C+  +H kC +++l ++   ++       w+C kC+
+#PP        ******9999***********************9998888889999********8
+#SEQ       CGICHKNVKDNKPFLFCHHCNFRVHIKCNNISLAEYTSISNnrpndaPWFCLKCT
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSS......TBSSTTTH
+Auraur_scaffold1885.g5.t1     153    339    124    351 PF03372.24  Exo_endo_phos     Domain    13   208   236     31.0   1.9e-07   1 CL0530   predicted_active_site[289] 
+#HMM       lgssrrsdrladlltayda..DvlgLQEvdddelsriplllalggvlgaslhsrpgtgggggggnggavlsrfplfslfrrtfiefndlvaatrreplaakleqlni.shrdhdlvrdlqllalllqvealnadfgapvivaGDfNarpsdddsrvtrtrglalapappgrglyllgggptptyvtraggsrlDyilas
+#MATCH     ++ s + d l + l++ +   Dv+g+ E++d+ ++ i+++ + +g+  +s +s           +g++++++  l  ++r +++ +    +a+  e +++k++++   + ++h+ +    l  +l++v+ ++a  ++ ++++GDfN +    ds+  +     l         +ll+    pt+v+ +    +D i+a+
+#PP        445555555666666555566********************984444222222.......45588**********************************************************************************8888877775555444444.....5666666666666666666666666665
+#SEQ       RSLSCHFDELFSTLASLRIefDVIGVSETWDSFENSIKTNIDIPGYSFFSVQS-------HSQNGGVGLYVKTGLSPIVRPDLSKDSADYEAVWVEVENGKEKNFLFcCLYRHPNSNPDNLSTYLQEVLSNPAVLNKQIFLLGDFNLDLLNYDSHTATGEFVNLLL-----SKQLLPYVVHPTRVSDNSSTIIDNIFAN
+#CS        HTHHHHHHHHHHHHHHSTT..SEEEEEEEBSCTCHHHHHHHHHTTCECTCEEEEEEECSSSTTSSEEEEEECSTEEEEEEEEEEETSSSSGCEEEEEEEEEEEEEEE.CCHHGHHHHHHHHHHHHHHHHHHHHHTTSEEEEEEE-SSSTSGGGBSCGHHHHHHCTTTHHHHSSCESCETTTTTTTTTTTEB-BEEEEEE
+Auraur_scaffold1885.g5.t1     653    900    651    902 PF00078.28  RVT_1             Family     3   220   222    166.2   7.9e-49   1 CL0027   
+#HMM       Kkg....pgsyRpisllsvdykalnkliakrLkdvl..ekllsenqpgfrpgrstldav....edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskee......lqelleaveewlkesglkinpeKtklvlft..................v.kseevkyLGv
+#MATCH     Kkg    +++yRpisllsv  k+ +k++ krL d+l   ++l ++q+gfr+ +s+ +a+    e+++++  +++k  + ++lDl+kaFd+v+++ ll kl++++++ + ++++ks+ls+r+++v+vng++s+++ +++g+pqGsvl+Pllf +f+n+l+++ +     + ++++aDD+ i+++ ++       +++ l++v+ewl  ++l++n +Kt ++ f+                  v +s+ vk+LG+
+#PP        666677789***************************988999*****************9995445554.77888899*************************************************************************************9....8***************8888*999999999**************************************99976489********8
+#SEQ       KKGcsvtASNYRPISLLSVFSKITEKVMYKRLYDFLekHSILYSFQFGFRESHSINHALvsmtETIKNS-LDNRKFGCGIFLDLQKAFDTVNHSILLLKLENYGIRGPALEWFKSYLSGRTQYVSVNGSSSSHLNVTCGVPQGSVLGPLLFLIFINDLPNSSSL----LSFYLFADDTNIYFEAENLdmlqriVNRELKKVKEWLDVNKLSLNIDKTNFIIFKspqhssletvnikignqpVkQSRYVKFLGI
+#CS        -TT.....S-EEE......-THHHHCTB--...........-------HHHH.................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHH......HHHHHHHHHHHHHHTT--BEGGG-EEE........................ESSEEETTE
+Auraur_scaffold72.g1.t1         5     44      2     45 PF00567.25  TUDOR             Domain    82   121   122     32.9   5.3e-08   1 CL0049   
+#HMM       kveVlfiDyGntetvpvsdlrelpseleelppqaikcrLa
+#MATCH     +++V+f+DyGn e++ +++l++l++e ++lp q ikc+La
+#PP        79**********************999999*********8
+#SEQ       RCHVHFVDYGNEEQCRADELKHLRKEYLKLPKQGIKCKLA
+#CS        EEEEEETTTSBEEEEEGGGEEE--GGGCSS-BSSEEEEET
+Auraur_scaffold72.g1.t1       114    218     76    245 PF00078.28  RVT_1             Family    68   179   222     37.6   1.7e-09   1 CL0027   
+#HMM       aklllklDlkkaFdsvpl.eellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskee
+#MATCH      +  +k   +++F++v+l e+ +  + +f v ++   li+s + ++ ++ +  +e s++   ++g+pqGs+l+Pl+f l++n++++ ++     + ll+YaDD  +++++++ 
+#PP        5666677778999999973555667778888866...777766555444444444679999***************************9.....69*******8877777655
+#SEQ       VTATSKAVDSNGFNKVSLiEKNDTNVMTFDVAKS---LIESGMVSKVTATSKGKEISSPGELSCGVPQGSILGPLIFLLYVNDMPQAVD-----CDLLLYADDSCLVFSDNSV
+#CS        --EEEEEEBCCGCCCSBB.-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHH
+Auraur_scaffold806.g9.t1      937   1030    936   1031 PF10551.10  MULE              Domain     2    97    98     42.1   9.3e-11   1 CL0219   
+#HMM       lvlDgTYktnkyklpLftvvgvdsngqvvpiafalveneteesfewllqelkelleeasgespkviitDrdkalknaleevf.PeakhrlCifHink
+#MATCH     +++D+T+ tn y++ L+t+++vd+ g+  p++  l + e+    ++++q   ++++++++  p+ +++D   ++++a +++  ++ k+++C +H+ k
+#PP        799**********************************************...****9999******************6666599999******987
+#SEQ       ICVDTTHGTNMYDFLLITMMVVDEFGEGQPVGWCLANHENFSFLRVFFQ---KIMDNTGSIFPRWFMSDLASQFYDAFCATSkSSPKRLFCTWHVDK
+Auraur_scaffold806.g9.t1     1472   1518   1465   1519 PF00628.30  PHD               Domain     2    51    52     29.7   4.5e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C +C+    +  +++ C++C +wfH +C++ ++++e+ p+  w+C+ C++
+#PP        999999..7789**********************999987.*******85
+#SEQ       CPICNL--PKYVDMIECEECTTWFHWDCVSTQKNKEQLPS-MWVCRGCST
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Auraur_scaffold921.g6.t1       36    133     34    133 PF00665.27  rve               Domain     3   102   102     37.3   2.6e-09   1 CL0219   
+#HMM       apgelwqvDvt.viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     +p +++ vDv   ++ +d+g   y+ v++d f+++  a+av++  +a+t+++l +  +  ++   p+++lsD+g+ + sk ++ +++  +++  +t  ++p
+#PP        789999******99988888.***********************.9999999998888888888.**********************99999999998887
+#SEQ       GPFDRVAVDVLgPFPTSDRG-NKYVVVFTDYFTKWPEAFAVKNA-DAPTTAKLFVEEILCRHSA-PRKLLSDRGKNFLSKVVKGICQMVNTSKVNTTSYHP
+Auraur_scaffold921.g6.t1      438    489    437    490 PF00385.25  Chromo            Domain     2    53    54     25.1   1.2e-05   1 CL0049   
+#HMM       eVerIidhrtdkdgle...leYlVKWkglpysentWEpeenlekcfqelideFkk
+#MATCH     +V  I+d++++k++ +   + YlV W + +  e +WEp +nl +   el++eF++
+#PP        799***********************9965.5779*******966..9*****97
+#SEQ       VVKSILDKKVVKNRSGrrdTLYLVEWDDKD-IEPSWEPLSNLHCG--ELLKEFES
+#CS        EEEEEEEEEEETTEEC...EEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHH

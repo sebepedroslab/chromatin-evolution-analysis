@@ -1,0 +1,9 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Scil_95679|Histone_H2B	Scil_95679|Histone_H2B	H2B	FALSE	PGKVA AKGGK SAVSG K	Me2	K	3				100	PGKVAAKGGKSAVSGK	res
+Scil_95679|Histone_H2B	Scil_95679|Histone_H2B	H2B	FALSE	PGKVA AKGGK	Me2	K	3				100	PGKVAAKGGK	res
+Scil_95679|Histone_H2B	Scil_95679|Histone_H2B	H2B	FALSE	PGKVA AKGGK SAVSG KATK	Me2	K	3				100	PGKVAAKGGKSAVSGKATK	res
+Scil_95679|Histone_H2B	Scil_95679|Histone_H2B	H2B	FALSE	PGKVA AKGGK SAVSG KATKK	Me2	K	3				100	PGKVAAKGGKSAVSGKATKK	res
+Scil_95679|Histone_H2B	Scil_95679|Histone_H2B	H2B	FALSE	PGKVA AKGGK SAVSG KATK	Me2	K	3				99.79	PGKVAAKGGKSAVSGKATK	res
+Scil_95679|Histone_H2B	Scil_95679|Histone_H2B	H2B	FALSE	PGKVA AKGGK SAVSG KATKK	Me2	K	3				99.74	PGKVAAKGGKSAVSGKATKK	res
+Scil_95679|Histone_H2B	Scil_95679|Histone_H2B	H2B	FALSE	PGKVA AKGGK	Me2	K	3				99.32	PGKVAAKGGK	res
+Scil_95679|Histone_H2B	Scil_95679|Histone_H2B	H2B	FALSE	GGKSA VSGK	Me2	K	9				100	GGKSAVSGK	res

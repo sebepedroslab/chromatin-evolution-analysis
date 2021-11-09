@@ -1,0 +1,6 @@
+i	j	weight
+DnaJ	DnaJ_C	1
+DnaJ	Menin	1
+DnaJ_C	Menin	1
+Exo_endo_phos_2	Menin	1
+Menin	Menin	42

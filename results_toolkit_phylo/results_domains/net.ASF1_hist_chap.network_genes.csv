@@ -1,0 +1,238 @@
+gene	orthogroup	orthologous_to	family	architecture
+Carmem_2818.p1	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Strcul_EPY24302	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Tcru_EAN94203	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Lepsey_KPI89352	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Bodsal_CUG91580.1	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Lmaj_CAJ03392	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Lepsey_KPI85634	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Bodsal_CUG91583.1	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Strcul_EPY30712	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Tcru_EAN82461	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Tcru_EAN89246	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Lmaj_CAJ03510	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Tcru_EAN82621	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Bodsal_CUE72338.1	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Bnat_JGI_V11_132590	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Glam_EDO80429	ASF1_hist_chap.HG1.0:like:ASF1A/ASF1B:likeclu:1		ASF1_hist_chap	ASF1_hist_chap
+Gthe_EKX55068	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ehux_EOD12374	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ptyfla_pfl_40v0_9_20150316_1g13055.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Hsap_ENSP00000499863.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ncra_EAA29352	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sphfal_Sphfalx04G044000.1.p	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ptet_CAK73145	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Plabra_CEP02863	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Bden_EGF82969	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Retfil_ETO30892	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Hemkuk_2983_TR1050_c0_g1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Alblai_CCA15363	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Coerev_PIA14435.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ppat_Pp3c8_25080V3.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Pfal_CZT99404	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Diprot_Gene.11542	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Atha_AT5G38110.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Caulen_g1164.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap ADIP
+Umay_KIS69901	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Esil_CBN75153	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Falb_KCV71658	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Hetalb_XP_020430196.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Oxytri_EJY70368	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Lpol_XP_013788243.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Plamic_ANCSI_04318.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ptet_CAK74311	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sacu_v1.1_s0049.g013739	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Auraur_scaffold554.g4.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Amac_KNE58090	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sman_Smp_033020.1_pep	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ppat_Pp3c23_22070V3.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Mlei_ML0760_g30_t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Nvec_NVE25205	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Tcas_XP_968535.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Smoe_EFJ30535	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Emul_CDS37156.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sarc_Sarc4_g29218T	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Phoaus_g4050.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Spom_SPCC663.05c.1_pep	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Mcir_OAC99648	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cocsub_XP_005643385.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ptet_CAK77977	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Dpul_EFX64801	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Tielac_KYQ90296	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Dmel_FBpp0074715	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cint_ENSCINP00000009096.3	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Spis_XP_022783118_1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ngad_EWM27157	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Lgig_LotgiP205091	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Aano_EGB05416	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Mpus_XP_003060399.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ptet_CAK85085	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Atha_AT1G66740.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Fabtro_Gene.40711	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Alblai_CCA15361	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Bnat_JGI_V11_50198	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ancsig_Gene.14661	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ancsig_Gene.1630	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Bdis_PNT70758	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sappar_KDO24019	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Bremin_symbB.v1.2.025052.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Rall_EPZ34222	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Concor_KXN74659	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Perkma_EER05132	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Bralan_BL13767_evm13	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cscu_XP_023218212.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cvar_XP_005849343.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Tadh_P29129	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cneo_AAW40678	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Atri_ERN05631	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Rirr_GBC49266	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Perkma_EER18223	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cmer_CMG143CT	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Dpul_EFX65078	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Azfi_s0087.g042354	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Crei_PNW80063	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cpar_Cpar_evm1s3617	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Lpol_XP_022244009.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Tetwil_Twilhelma_g7373.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Dpul_EFX73971	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ihof_evm6s287	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Porpur_KAA8497530.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Pygbif_GCRY01003605.1.p1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Malcal_MALCA_04483.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Morvir_scaffold33.g62.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Tgon_TGME49_209140-t26_1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ppat_Pp3c23_22130V3.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Phakir_PHAKIR_12183.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Secula_SECUL_06644.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Diprot_Gene.1438	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ptet_CAK75382	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Scil_scpid80684	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Aplker_93760	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap ASF1_hist_chap
+Sappar_KDO32234	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Mbre_EDQ87618	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Umbram_258881	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Tvag_XP_001276817.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Nutlon_comp14633_c0_seq2.p1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sphfal_Sphfalx15G051400.1.p	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Acas_ELR23671	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Manpla_Gene.18534	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Spur_XP_793879.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Chocri_XP_005717268.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Acoe_PIA63659.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Retfil_ETO13431	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ptet_CAK71375	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Bdis_KQK09221	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Gracho_PXF41937.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Pavlsp_835408	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ngru_EFC43712	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Pavlsp_625154	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cvel_665.t1-p1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Gefoke_MALSP_04744.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Notgen_g24494.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap ASF1_hist_chap
+Meteor_CRO19MET_NODE_10010.p2	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Skow_XP_002740162.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Jaklib_JAKLI_11985.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Chrtob_KOO34836.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Marpol_PTQ38230	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Emue_0011g1023a	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cfra_CFRG7339T1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Nk52_evm1s322	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Clyhem_TCONS_00024550-protein	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Plafun_PRP84412	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Helrob_HelroP95507	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sphfal_Sphfalx07G076100.1.p	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ttra_KNC53756	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Rigram_Gene.15797	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Spun_KND03803	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Tpse_ACI65051	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Dpul_EFX83116	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Mgut_XP_012846232.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Dpul_EFX65079	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Gonavo_comp49486_c2_seq1_6_ORF2_210	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap ASF1_hist_chap
+Clim_evm11s146	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Pbla_XP_018293135.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sappar_KDO24559	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ddis_EAL64594	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Symmic_Smic32108	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Pisp_OUM64455.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Scer_YJL115W	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Drer_ENSDARP00000140363.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Plafun_PRP82763	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap F-box
+Cpar_Cpar_evm2s3693	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Tthe_EAR85480	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Gpro_KXS13676	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Dpul_EFX68647	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Apla_XP_022087920.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ngru_EFC39813	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Exapal_XP_020900107.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Hsap_ENSP00000229595.5	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A	ASF1_hist_chap	ASF1_hist_chap
+Amobb2_AMBB2_11402.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Aano_EGB05681	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cgig_EKC33868	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Coka_g6788.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Maljak_MALJA_18344.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ocar_g6020.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	BTB BACK Pkinase ASF1_hist_chap
+Phakir_PHAKIR_10350.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Lpol_XP_013776638.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sphfal_Sphfalx12G085400.1.p	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ppat_Pp3c24_20900V3.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Linana_g20361.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Phakir_PHAKIR_00701.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sbic_EES18639	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Andgod_ANDGO_06629.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Malcal_MALCA_03148.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cavfas_EGG20087	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Chrtob_KOO27893.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cowc_KJE90446	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ulvmut_UM009_01361	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Mgut_XP_012854521.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Schagg_35072	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Azfi_s0110.g045535	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Rhidel_EIE83079	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Vitbra_CEL94659.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Jakbah_JAKBA_04410.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Otau_XP_022838761.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Porumb_OSX68303.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ptet_CAK86004	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ccin_EAU87806	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Spimul_26083_TR13008_c0_g1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Andgod_ANDGO_00935.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sacu_v1.1_s0232.g026458	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	Trypsin_2 PDZ_2 ASF1_hist_chap
+Chabra_GBG86795	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Vitbra_CEL99624.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Hydvul_Sc4wPfr_1061.g18811.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cang_ORZ35268	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Alblai_CCA20191	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Morelo_OAQ24438	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Amac_KNE59283	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Plabra_CEO96253	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Phatri_Phatr3_J52450.p1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Gefoke_MALSP_01826.mRNA.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Sacu_v1.1_s0001.g000629	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap ASF1_hist_chap
+Vcar_XP_002952942.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Smoe_EFJ23001	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Aurlim_141683	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap ASF1_hist_chap
+Dpul_EFX65082	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Pinf_PITG_17091T0	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ptet_CAK72461	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ctel_CapteP149983	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Adig_XP_015747939.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Hsap_ENSP00000263382.3	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Aque_Aqu2.1.21830_001	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cint_ENSCINP00000030631.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Drer_ENSDARP00000064193.2	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Tmel_CAZ83719	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Hydvul_Sc4wPfr_1061.g18810.t1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Lcom_lcpid95632	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Ramvar_GAV05832.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Chabra_GBG75145	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Acoe_PIA63658.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Hduj_OQV21185.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap Drf_GBD Drf_FH3
+Manpla_Gene.10611	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Klenit_GAQ83249.1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Masbal_CACRSC010001918.1.p11	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Honfer_GBG30406	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap ASF1_hist_chap
+Ptet_CAK71762	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Cfra_CFRG7338T1	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Styinc_Gene10249_m10249	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	islike:ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap
+Azfi_s0008.g011484	ASF1_hist_chap.HG1.1:ASF1A/ASF1B	ASF1A/ASF1B	ASF1_hist_chap	ASF1_hist_chap

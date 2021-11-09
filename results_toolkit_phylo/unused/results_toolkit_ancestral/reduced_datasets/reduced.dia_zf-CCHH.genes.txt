@@ -1,0 +1,8 @@
+Alveolata|Cvel_6880.t1-p1
+Alveolata|Tthe_EAS00264
+Cryptista|Gonavo_comp27564_c0_seq1_6_ORF15_577
+Haptista|Chrtob_KOO31407.1
+Haptista|Ehux_EOD26480
+Rhizaria|Retfil_ETO12360
+Streptophyta|Chabra_GBG59519
+Streptophyta|Marpol_PTQ49322

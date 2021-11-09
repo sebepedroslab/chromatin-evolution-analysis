@@ -1,0 +1,5 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Ttra_AMSG_12164|Histone_H3	Ttra_AMSG_12164|Histone_H3	H3	FALSE	SAPAT GGVKK AHR	Me2	K	9				95.75	SAPATGGVKKAHR	res
+Ttra_AMSG_12164|Histone_H3	Ttra_AMSG_12164|Histone_H3	H3	FALSE	KSAPA TGGVK KAHR	Me2	K	10				99.72	KSAPATGGVKKAHR	res
+Ttra_AMSG_12164|Histone_H3	Ttra_AMSG_12164|Histone_H3	H3	FALSE	KSAPA TGGVK KAHR	Me2	K	10				99.7	KSAPATGGVKKAHR	res
+Ttra_AMSG_12164|Histone_H3	Ttra_AMSG_12164|Histone_H3	H3	FALSE	KSAPA TGGVK KAHR	Me2	K	10				95.5	KSAPATGGVKKAHR	res

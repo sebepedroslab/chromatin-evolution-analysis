@@ -1,0 +1,536 @@
+>Cluster 0
+0	149aa, >Lcom_lcpid140138_8-156... *
+1	149aa, >Lcom_lcpid141097_5-153... at 97.99%
+>Cluster 1
+0	148aa, >Bodsal_CUG08627.1_22-169... *
+1	139aa, >Bodsal_CUG89924.1_1-139... at 100.00%
+>Cluster 2
+0	138aa, >Azfi_s0114.g046096_1-138... at 98.55%
+1	147aa, >Azfi_s0350.g066542_152-298... *
+2	138aa, >Sacu_v1.1_s0039.g012214_1-138... at 96.38%
+>Cluster 3
+0	147aa, >Chocri_XP_005711740.1_69-215... *
+>Cluster 4
+0	147aa, >Porumb_OSX72307.1_37-183... *
+>Cluster 5
+0	146aa, >Ngru_EFC37563_51-196... *
+>Cluster 6
+0	146aa, >Rigram_Gene.224_5-150... *
+>Cluster 7
+0	145aa, >Carmem_111.p2_2-146... *
+1	145aa, >Carmem_b12648.p1_7-151... at 95.86%
+2	145aa, >Carmem_b1279.p1_7-151... at 97.24%
+3	145aa, >Carmem_b6558.p2_7-151... at 95.17%
+>Cluster 8
+0	145aa, >Carmem_b5516.p1_6-150... *
+>Cluster 9
+0	145aa, >Gonavo_comp62663_c0_seq1_6_ORF7_257_7-151... *
+>Cluster 10
+0	145aa, >Hemkuk_14561_TR4935_c0_g1_5-149... *
+>Cluster 11
+0	145aa, >Honfer_GBG27597_20-164... *
+>Cluster 12
+0	145aa, >Lcom_lcpid115462_2-146... *
+>Cluster 13
+0	145aa, >Lcom_lcpid133675_7-151... *
+1	145aa, >Lcom_lcpid133883_7-151... at 100.00%
+2	104aa, >Lcom_lcpid235289_7-110... at 95.19%
+3	136aa, >Scil_scpid97300_1-136... at 99.26%
+>Cluster 14
+0	145aa, >Lcom_lcpid135214_1-145... *
+>Cluster 15
+0	145aa, >Lcom_lcpid150447_4-148... *
+>Cluster 16
+0	145aa, >Manpla_Gene.2550_4-148... *
+>Cluster 17
+0	129aa, >Ihof_evm3s732_1-129... at 100.00%
+1	145aa, >Nutlon_comp24486_c0_seq1.p1_3-147... *
+>Cluster 18
+0	145aa, >Ptyfla_pfl_40v0_9_20150316_1g32152.t1_68-212... *
+>Cluster 19
+0	145aa, >Scil_scpid99720_5-149... *
+>Cluster 20
+0	145aa, >Spimul_4628_TR2317_c0_g1_4-148... *
+>Cluster 21
+0	145aa, >Tadh_P63768_30-174... *
+>Cluster 22
+0	145aa, >Umbram_261701_33-177... *
+>Cluster 23
+0	144aa, >Ancsig_Gene.703_11-154... *
+>Cluster 24
+0	144aa, >Lcom_lcpid129395_3-146... *
+>Cluster 25
+0	144aa, >Lcom_lcpid132697_3-146... *
+>Cluster 26
+0	144aa, >Pygbif_GCRY01000097.1.p2_1-144... *
+>Cluster 27
+0	143aa, >Pbla_XP_018286699.1_1557-1699... *
+1	136aa, >Pbla_XP_018287058.1_1-136... at 98.53%
+2	136aa, >Pbla_XP_018290528.1_1-136... at 98.53%
+3	136aa, >Plebac_Pbla_mRNA_12699_1-136... at 98.53%
+4	143aa, >Plebac_Pbla_mRNA_12940_1557-1699... at 100.00%
+5	136aa, >Plebac_Pbla_mRNA_8071_1-136... at 98.53%
+>Cluster 28
+0	142aa, >Aque_Aqu2.1.18688_001_1-142... *
+>Cluster 29
+0	142aa, >Bden_EGF81500_1-142... *
+>Cluster 30
+0	142aa, >Glam_EDO81337_1-142... *
+>Cluster 31
+0	142aa, >Lcom_lcpid136288_1-142... *
+>Cluster 32
+0	141aa, >Lcom_lcpid135578_1-141... *
+>Cluster 33
+0	141aa, >Rall_EPZ33559_31-171... *
+>Cluster 34
+0	141aa, >Retfil_ETO14316_16-156... *
+>Cluster 35
+0	141aa, >Strcul_EPY30098_1-141... *
+>Cluster 36
+0	140aa, >Fabtro_Gene.411_1-140... *
+>Cluster 37
+0	140aa, >Lcom_lcpid119080_1-140... *
+>Cluster 38
+0	140aa, >Ngru_EFC43541_1-140... *
+>Cluster 39
+0	139aa, >Acoe_PIA52048.1_1-139... *
+1	138aa, >Acoe_PIA55154.1_1-138... at 100.00%
+2	138aa, >Acoe_PIA55155.1_1-138... at 100.00%
+3	138aa, >Atha_AT4G31700.1_1-138... at 96.38%
+4	138aa, >Atri_ERN04110_1-138... at 98.55%
+5	138aa, >Atri_ERN14746_1-138... at 98.55%
+6	138aa, >Atri_ERN15502_1-138... at 99.28%
+7	138aa, >Sbic_EES15988_1-138... at 97.83%
+>Cluster 40
+0	139aa, >Cmer_CMT154CT_1-139... *
+>Cluster 41
+0	139aa, >Lcom_lcpid131963_1-139... *
+>Cluster 42
+0	139aa, >Lcom_lcpid139274_1-139... *
+>Cluster 43
+0	139aa, >Lepsey_KPI88805_1-139... *
+1	139aa, >Lmaj_CAJ05109_1-139... at 96.40%
+>Cluster 44
+0	139aa, >Oxytri_EJY78082_1-139... *
+>Cluster 45
+0	139aa, >Porpur_KAA8494269.1_1-139... *
+>Cluster 46
+0	139aa, >Tcru_EAN95595_1-139... *
+1	139aa, >Tcru_EAN96041_1-139... at 100.00%
+>Cluster 47
+0	138aa, >Amobb2_AMBB2_02623.mRNA.1_1-138... *
+1	138aa, >Amobb2_AMBB2_02623.mRNA.2_1-138... at 100.00%
+>Cluster 48
+0	138aa, >Ancsig_Gene.72803_1-138... *
+1	136aa, >Gefoke_MALSP_12514.mRNA.1_1-136... at 100.00%
+>Cluster 49
+0	138aa, >Atha_AT5G10360.1_1-138... *
+>Cluster 50
+0	138aa, >Bdis_KQK15221_1-138... *
+>Cluster 51
+0	138aa, >Bdis_KQK21436_1-138... *
+>Cluster 52
+0	138aa, >Chabra_GBG78096_1-138... *
+>Cluster 53
+0	138aa, >Chrtob_KOO35749.1_1-138... *
+>Cluster 54
+0	138aa, >Cocsub_XP_005647484.1_1-138... *
+>Cluster 55
+0	138aa, >Crei_PNW78353_1-138... *
+>Cluster 56
+0	138aa, >Cvar_XP_005848306.1_1-138... *
+>Cluster 57
+0	138aa, >Ehux_EOD22278_1-138... *
+>Cluster 58
+0	138aa, >Klenit_GAQ80419.1_1-138... *
+>Cluster 59
+0	138aa, >Lcom_lcpid167259_1-138... *
+>Cluster 60
+0	138aa, >Marpol_PTQ32475_1-138... *
+>Cluster 61
+0	138aa, >Marpol_PTQ48931_1-138... *
+>Cluster 62
+0	138aa, >Mgut_XP_012840824.1_1-138... *
+1	138aa, >Mgut_XP_012845145.1_1-138... at 100.00%
+>Cluster 63
+0	138aa, >Mpus_XP_003055759.1_1-138... *
+>Cluster 64
+0	138aa, >Otau_XP_022838503.1_1-138... *
+>Cluster 65
+0	138aa, >Pavlsp_623174_1-138... *
+>Cluster 66
+0	138aa, >Phakir_PHAKIR_07437.mRNA.1_1-138... *
+>Cluster 67
+0	138aa, >Ppat_Pp3c11_21120V3.1_1-138... *
+1	138aa, >Ppat_Pp3c15_25430V3.1_1-138... at 100.00%
+>Cluster 68
+0	138aa, >Smoe_EFJ14726_1-138... *
+>Cluster 69
+0	138aa, >Sphfal_Sphfalx06G054000.1.p_1-138... *
+1	138aa, >Sphfal_Sphfalx12G038000.1.p_1-138... at 99.28%
+>Cluster 70
+0	138aa, >Sphfal_Sphfalx09G024800.1.p_1-138... *
+>Cluster 71
+0	138aa, >Ulvmut_UM027_00761_1-138... *
+>Cluster 72
+0	138aa, >Vcar_XP_002955255.1_1-138... *
+>Cluster 73
+0	137aa, >Cowc_KJE93375_1-137... *
+>Cluster 74
+0	137aa, >Gracho_PXF49039.1_1-137... *
+>Cluster 75
+0	137aa, >Lcom_lcpid184151_1-137... *
+>Cluster 76
+0	137aa, >Meteor_CRO19MET_NODE_9245.p2_1-137... *
+>Cluster 77
+0	137aa, >Nutlon_comp23042_c0_seq1.p1_1-137... *
+>Cluster 78
+0	137aa, >Plafun_PRP82908_1-137... *
+>Cluster 79
+0	136aa, >Aano_EGB03964_1-136... *
+>Cluster 80
+0	136aa, >Alblai_CCA23176_1-136... *
+1	136aa, >Alblai_CCA23177_1-136... at 100.00%
+>Cluster 81
+0	136aa, >Amac_KNE63437_1-136... *
+>Cluster 82
+0	136aa, >Apla_XP_022108234.1_1-136... *
+>Cluster 83
+0	136aa, >Aplker_29045_1-136... *
+>Cluster 84
+0	136aa, >Aurlim_40033_1-136... *
+>Cluster 85
+0	136aa, >Bnat_JGI_V11_54140_1-136... *
+>Cluster 86
+0	136aa, >Bralan_BL18693_evm0_1-136... *
+>Cluster 87
+0	136aa, >Bremin_symbB.v1.2.019218.t1_1-136... *
+>Cluster 88
+0	136aa, >Cavfas_EGG15393_1-136... *
+>Cluster 89
+0	136aa, >Ccin_EAU89691_1-136... *
+>Cluster 90
+0	136aa, >Cfra_CFRG2309T1_1-136... *
+>Cluster 91
+0	136aa, >Cint_ENSCINP00000003510.3_1-136... *
+>Cluster 92
+0	136aa, >Clim_evm3s83_1-136... *
+>Cluster 93
+0	136aa, >Clyhem_TCONS_00012271-protein_1-136... *
+>Cluster 94
+0	136aa, >Cneo_AAW42915_1-136... *
+>Cluster 95
+0	136aa, >Coerev_PIA14465.1_1-136... *
+>Cluster 96
+0	136aa, >Coka_g15398.t1_1-136... *
+1	136aa, >Esil_CBJ34010_1-136... at 98.53%
+>Cluster 97
+0	136aa, >Concor_KXN72848_1-136... *
+>Cluster 98
+0	136aa, >Cpar_Cpar_evm1s9200_1-136... *
+>Cluster 99
+0	136aa, >Cscu_XP_023215567.1_1-136... *
+>Cluster 100
+0	136aa, >Ctel_CapteP160712_1-136... *
+>Cluster 101
+0	136aa, >Cvel_7629.t1-p1_1-136... *
+>Cluster 102
+0	136aa, >Ddis_EAL67023_1-136... *
+>Cluster 103
+0	136aa, >Diprot_Gene.136_1-136... *
+>Cluster 104
+0	136aa, >Dmel_FBpp0071087_1-136... *
+>Cluster 105
+0	136aa, >Dpul_EFX86254_1-136... *
+>Cluster 106
+0	136aa, >Drer_ENSDARP00000011148.6_1-136... *
+1	136aa, >Hsap_ENSP00000369757.4_1-136... at 96.32%
+>Cluster 107
+0	136aa, >Emue_0009g32a_1-136... *
+>Cluster 108
+0	136aa, >Exapal_XP_020904774.1_1-136... *
+>Cluster 109
+0	136aa, >Gpro_KXS15127_1-136... *
+>Cluster 110
+0	136aa, >Gthe_EKX40248_1-136... *
+>Cluster 111
+0	136aa, >Hduj_OQV24347.1_1-136... *
+>Cluster 112
+0	136aa, >Helrob_HelroP107583_1-136... *
+>Cluster 113
+0	136aa, >Hydvul_Sc4wPfr_262.g16770.t1_1-136... *
+>Cluster 114
+0	136aa, >Jakbah_JAKBA_00779.mRNA.1_1-136... *
+>Cluster 115
+0	136aa, >Lcom_lcpid123712_1-136... *
+>Cluster 116
+0	136aa, >Lcom_lcpid124881_1-136... *
+>Cluster 117
+0	136aa, >Lcom_lcpid126217_1-136... *
+>Cluster 118
+0	136aa, >Lcom_lcpid131044_1-136... *
+>Cluster 119
+0	136aa, >Lcom_lcpid132818_1-136... *
+1	136aa, >Lcom_lcpid161669_1-136... at 97.79%
+>Cluster 120
+0	136aa, >Lcom_lcpid134119_1-136... *
+>Cluster 121
+0	136aa, >Lcom_lcpid138396_1-136... *
+>Cluster 122
+0	136aa, >Lcom_lcpid138909_1-136... *
+>Cluster 123
+0	136aa, >Lcom_lcpid154221_1-136... *
+>Cluster 124
+0	136aa, >Linana_g91.t1_1-136... *
+>Cluster 125
+0	136aa, >Lpol_XP_013778625.1_1-136... *
+>Cluster 126
+0	136aa, >Malcal_MALCA_01867.mRNA.1_1-136... *
+>Cluster 127
+0	136aa, >Mbre_EDQ89026_1-136... *
+>Cluster 128
+0	136aa, >Mcir_OAC99777_1-136... *
+1	136aa, >Mcir_OAD01679_1-136... at 99.26%
+2	105aa, >Rhidel_EIE77157_1-105... at 97.14%
+3	136aa, >Rhidel_EIE84935_1-136... at 97.06%
+4	105aa, >Rhidel_EIE86362_1-105... at 97.14%
+5	105aa, >Rhidel_EIE88750_1-105... at 97.14%
+>Cluster 129
+0	136aa, >Morelo_OAQ22624_1-136... *
+1	136aa, >Morelo_OAQ24544_1-136... at 99.26%
+>Cluster 130
+0	136aa, >Ncra_ESA43687_1-136... *
+>Cluster 131
+0	136aa, >Ngad_EWM21878_1-136... *
+>Cluster 132
+0	136aa, >Nk52_evm38s352_1-136... *
+>Cluster 133
+0	136aa, >Notgen_g11274.t1_1-136... *
+>Cluster 134
+0	136aa, >Nvec_NVE4298_1-136... *
+>Cluster 135
+0	136aa, >Perkma_EER03465_1-136... *
+1	136aa, >Perkma_EER13781_1-136... at 98.53%
+2	136aa, >Perkma_EER19684_1-136... at 97.06%
+>Cluster 136
+0	136aa, >Pfal_CAD52550_1-136... *
+>Cluster 137
+0	136aa, >Phatri_Phatr3_J18559.p1_1-136... *
+>Cluster 138
+0	136aa, >Phoaus_g18110.t1_1-136... *
+>Cluster 139
+0	136aa, >Pinf_PITG_00443T0_1-136... *
+>Cluster 140
+0	136aa, >Pisp_OUM65570.1_1-136... *
+>Cluster 141
+0	136aa, >Plabra_CEP00157_1-136... *
+>Cluster 142
+0	136aa, >Plamic_ANCSI_06636.mRNA.1_1-136... *
+>Cluster 143
+0	136aa, >Ptet_CAK74304_1-136... *
+1	105aa, >Ptet_CAK76808_1-105... at 100.00%
+2	136aa, >Ptet_CAK76990_1-136... at 100.00%
+3	99aa, >Ptet_CAK80496_1-99... at 100.00%
+4	136aa, >Ptet_CAK81428_1-136... at 100.00%
+>Cluster 144
+0	136aa, >Ramvar_GAV05475.1_1-136... *
+>Cluster 145
+0	136aa, >Recame_RECAM_14181.mRNA.1_1-136... *
+>Cluster 146
+0	136aa, >Rirr_GBC31452_1-136... *
+>Cluster 147
+0	136aa, >Sappar_KDO30078_1-136... *
+>Cluster 148
+0	136aa, >Sarc_Sarc4_g19512T_1-136... *
+>Cluster 149
+0	136aa, >Scer_YBR181C_1-136... *
+1	136aa, >Scer_YPL090C_1-136... at 100.00%
+>Cluster 150
+0	136aa, >Schagg_79576_1-136... *
+>Cluster 151
+0	136aa, >Secula_SECUL_03856.mRNA.1_1-136... *
+>Cluster 152
+0	136aa, >Skow_XP_002741732.1_1-136... *
+>Cluster 153
+0	136aa, >Sman_Smp_053130.1_pep_1-136... *
+>Cluster 154
+0	136aa, >Spimul_22625_TR11158_c0_g1_1-136... *
+>Cluster 155
+0	136aa, >Spimul_29684_TR14567_c0_g1_1-136... *
+>Cluster 156
+0	136aa, >Spis_XP_022792045_1_1-136... *
+>Cluster 157
+0	136aa, >Spom_SPAC13G6.07c.1_pep_1-136... *
+1	136aa, >Spom_SPAPB1E7.12.1_pep_1-136... at 99.26%
+>Cluster 158
+0	92aa, >Mvib_comp3331_c0_seq1_fr5_1-92... at 100.00%
+1	136aa, >Spun_KNC96483_1-136... *
+>Cluster 159
+0	136aa, >Spur_XP_780499.1_1-136... *
+>Cluster 160
+0	136aa, >Sros_EGD80125_1-136... *
+>Cluster 161
+0	136aa, >Symmic_Smic1862_1-136... *
+>Cluster 162
+0	136aa, >Tcas_NP_001165861.1_1-136... *
+>Cluster 163
+0	136aa, >Tetwil_Twilhelma_g5991.t1_1-136... *
+>Cluster 164
+0	136aa, >Tgon_TGME49_210690-t26_1-p1-CDS1_1-136... *
+>Cluster 165
+0	136aa, >Tielac_KYQ90863_1-136... *
+>Cluster 166
+0	136aa, >Tpse_EED88801_1-136... *
+>Cluster 167
+0	136aa, >Ttra_KNC52869_1-136... *
+>Cluster 168
+0	136aa, >Umay_KIS72246_1-136... *
+>Cluster 169
+0	136aa, >Umbram_238380_1-136... *
+>Cluster 170
+0	136aa, >Vitbra_CEM13228.1_1-136... *
+>Cluster 171
+0	135aa, >Andgod_ANDGO_06289.mRNA.1_1-135... *
+>Cluster 172
+0	135aa, >Eimten_CDJ43101_1-135... *
+>Cluster 173
+0	135aa, >Emul_CDS41155.1_1-135... *
+>Cluster 174
+0	135aa, >Falb_KCV73408_1-135... *
+>Cluster 175
+0	135aa, >Lcom_lcpid129441_1-135... *
+>Cluster 176
+0	135aa, >Lcom_lcpid132664_1-135... *
+>Cluster 177
+0	135aa, >Lcom_lcpid193905_1-135... *
+>Cluster 178
+0	135aa, >Maljak_MALJA_08357.mRNA.1_1-135... *
+1	135aa, >Maljak_MALJA_10814.mRNA.1_1-135... at 99.26%
+>Cluster 179
+0	135aa, >Styinc_Gene304_m304_1-135... *
+>Cluster 180
+0	135aa, >Tcas_XP_974296.1_1-135... *
+>Cluster 181
+0	135aa, >Tthe_EDK31478_1-135... *
+>Cluster 182
+0	135aa, >Tvag_XP_001300897.1_1-135... *
+>Cluster 183
+0	134aa, >Cang_ORZ29591_1-134... *
+>Cluster 184
+0	134aa, >Lcom_lcpid143146_1-134... *
+>Cluster 185
+0	134aa, >Lcom_lcpid195545_1-134... *
+>Cluster 186
+0	134aa, >Lgig_LotgiP66846_1-134... *
+>Cluster 187
+0	131aa, >Sacu_v1.1_s0185.g025013_1-131... *
+>Cluster 188
+0	129aa, >Carmem_b12914.p1_6-134... *
+>Cluster 189
+0	129aa, >Ngru_EFC44004_1-129... *
+>Cluster 190
+0	128aa, >Hetalb_XP_020432084.1_106-233... *
+>Cluster 191
+0	125aa, >Lcom_lcpid213774_1-125... *
+>Cluster 192
+0	123aa, >Amobb2_AMBB2_02623.mRNA.3_4-126... *
+>Cluster 193
+0	123aa, >Meteor_CRO19MET_NODE_4506.p3_44-166... *
+>Cluster 194
+0	122aa, >Lcom_lcpid138478_1-122... *
+>Cluster 195
+0	122aa, >Secula_SECUL_03856.mRNA.2_153-274... *
+>Cluster 196
+0	121aa, >Lcom_lcpid218973_1-121... *
+>Cluster 197
+0	120aa, >Ancsig_Gene.38286_1-120... *
+>Cluster 198
+0	119aa, >Jaklib_JAKLI_25010.mRNA.1_1-119... *
+>Cluster 199
+0	117aa, >Ptet_CAK86010_1-117... *
+>Cluster 200
+0	111aa, >Scil_scpid113158_5-115... *
+>Cluster 201
+0	107aa, >Lcom_lcpid240439_1-107... *
+>Cluster 202
+0	107aa, >Lcom_lcpid240987_1-107... *
+>Cluster 203
+0	105aa, >Adig_XP_015753989.1_1-105... *
+>Cluster 204
+0	105aa, >Lcom_lcpid221695_1-105... *
+>Cluster 205
+0	105aa, >Sbic_OQU90282_142-246... *
+>Cluster 206
+0	105aa, >Tmel_CAZ79586_1-105... *
+>Cluster 207
+0	102aa, >Lcom_lcpid219794_1-102... *
+>Cluster 208
+0	99aa, >Lcom_lcpid196287_1-99... *
+>Cluster 209
+0	99aa, >Ptet_CAK81614_43-141... *
+>Cluster 210
+0	95aa, >Mvib_comp3502_c0_seq1_fr4_5-99... *
+>Cluster 211
+0	93aa, >Secula_SECUL_03856.mRNA.3_1-93... *
+>Cluster 212
+0	88aa, >Carmem_b12796.p1_4-91... *
+>Cluster 213
+0	81aa, >Lcom_lcpid140755_1-81... *
+>Cluster 214
+0	81aa, >Lcom_lcpid232890_1-81... *
+>Cluster 215
+0	80aa, >Lcom_lcpid193027_1-80... *
+>Cluster 216
+0	80aa, >Symmic_Smic12125_121-200... *
+>Cluster 217
+0	79aa, >Scil_scpid106215_33-111... *
+>Cluster 218
+0	78aa, >Lcom_lcpid163502_1-78... *
+>Cluster 219
+0	78aa, >Lcom_lcpid227808_1-78... *
+>Cluster 220
+0	77aa, >Lcom_lcpid160032_1-77... *
+1	77aa, >Lcom_lcpid160447_1-77... at 100.00%
+2	77aa, >Lcom_lcpid162393_1-77... at 100.00%
+>Cluster 221
+0	77aa, >Lcom_lcpid160430_1-77... *
+>Cluster 222
+0	77aa, >Lcom_lcpid164925_1-77... *
+>Cluster 223
+0	77aa, >Lcom_lcpid167543_1-77... *
+>Cluster 224
+0	76aa, >Caulen_g8782.t1_1-76... *
+1	75aa, >Caulen_g8782.t2_1-75... at 98.67%
+>Cluster 225
+0	76aa, >Lcom_lcpid170077_1-76... *
+>Cluster 226
+0	75aa, >Lcom_lcpid161228_1-75... *
+1	75aa, >Lcom_lcpid163263_1-75... at 100.00%
+>Cluster 227
+0	75aa, >Masbal_CACRSC010000011.1.p1217_1-75... *
+>Cluster 228
+0	74aa, >Mlei_ML0095_g8_t1_1-74... *
+>Cluster 229
+0	73aa, >Lcom_lcpid164327_1-73... *
+>Cluster 230
+0	72aa, >Lcom_lcpid227431_1-72... *
+>Cluster 231
+0	70aa, >Lcom_lcpid237177_1-70... *
+>Cluster 232
+0	70aa, >Lcom_lcpid237285_1-70... *
+>Cluster 233
+0	69aa, >Morvir_scaffold34.g2.t1_1-69... *
+>Cluster 234
+0	68aa, >Ocar_g5550.t1_29-96... *
+>Cluster 235
+0	67aa, >Carmem_b12796.p3_5-71... *
+>Cluster 236
+0	62aa, >Sbic_OQU90282_70-131... *
+>Cluster 237
+0	61aa, >Lcom_lcpid196011_1-61... *
+>Cluster 238
+0	59aa, >Secula_SECUL_03856.mRNA.3_152-210... *
+>Cluster 239
+0	57aa, >Meteor_CRO19MET_NODE_8901.p5_51-107... *
+>Cluster 240
+0	53aa, >Lcom_lcpid221175_1-53... *

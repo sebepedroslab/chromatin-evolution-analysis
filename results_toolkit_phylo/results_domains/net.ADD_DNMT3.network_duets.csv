@@ -1,0 +1,17 @@
+i	j	weight
+7tm_2	ADD_DNMT3	1
+7tm_2	DNA_methylase	1
+7tm_2	GPS	1
+7tm_2	PWWP	1
+ADD_DNMT3	ADD_DNMT3	5
+ADD_DNMT3	Aminotran_1_2	1
+ADD_DNMT3	CH	3
+ADD_DNMT3	DNA_methylase	38
+ADD_DNMT3	GPS	1
+ADD_DNMT3	PWWP	34
+Aminotran_1_2	PWWP	1
+CH	DNA_methylase	3
+CH	PWWP	1
+DNA_methylase	GPS	1
+DNA_methylase	PWWP	31
+GPS	PWWP	1

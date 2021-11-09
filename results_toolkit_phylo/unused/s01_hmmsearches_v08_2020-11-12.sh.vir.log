@@ -1,0 +1,337 @@
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SIR2 | # genes found = 313
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SIR2 | # unique domains = 314
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.SIR2.seqs.fasta...    done.
+Indexed 313 sequences (313 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.SIR2.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: DOT1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Acetyltransf_1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Acetyltransf_1 | # genes found = 922
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Acetyltransf_1 | # unique domains = 923
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Acetyltransf_1.seqs.fasta...    done.
+Indexed 922 sequences (922 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Acetyltransf_1.seqs.fasta.ssi
+Fatal exception (source file esl_sqio_ascii.c, line 1986):
+Failed to fetch subsequence residues -- corrupt coords?
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: GNAT_acetyltr_2 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: GNAT_acetyltr_2 | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: GNAT_acetyltr_2 | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.GNAT_acetyltr_2.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.GNAT_acetyltr_2.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Hat1_N | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Hat1_N | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Hat1_N | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: KAT11 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: KAT11 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: KAT11 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: MOZ_SAS | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: MOZ_SAS | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: MOZ_SAS | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Hist_deacetyl | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Hist_deacetyl | # genes found = 28
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Hist_deacetyl | # unique domains = 28
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Hist_deacetyl.seqs.fasta...    done.
+Indexed 28 sequences (28 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Hist_deacetyl.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SIR2 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SIR2 | # genes found = 313
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SIR2 | # unique domains = 314
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.SIR2.seqs.fasta...    done.
+Indexed 313 sequences (313 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.SIR2.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: DOT1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: DOT1 | # genes found = 44
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: DOT1 | # unique domains = 44
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.DOT1.seqs.fasta...    done.
+Indexed 44 sequences (44 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.DOT1.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SET | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SET | # genes found = 315
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SET | # unique domains = 315
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.SET.seqs.fasta...    done.
+Indexed 315 sequences (315 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.SET.seqs.fasta.ssi
+Fatal exception (source file esl_sqio_ascii.c, line 1986):
+Failed to fetch subsequence residues -- corrupt coords?
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SWIRM | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SWIRM | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SWIRM | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CupinJmjC | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CupinJmjC | # genes found = 254
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CupinJmjC | # unique domains = 277
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.CupinJmjC.seqs.fasta...    done.
+Indexed 254 sequences (254 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.CupinJmjC.seqs.fasta.ssi
+Fatal exception (source file esl_sqio_ascii.c, line 1986):
+Failed to fetch subsequence residues -- corrupt coords?
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: HIF-1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: HIF-1 | # genes found = 2
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: HIF-1 | # unique domains = 2
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.HIF-1.seqs.fasta...    done.
+Indexed 2 sequences (2 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.HIF-1.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Histone | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Histone | # genes found = 151
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Histone | # unique domains = 166
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Histone.seqs.fasta...    done.
+Indexed 151 sequences (151 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Histone.seqs.fasta.ssi
+Fatal exception (source file esl_sqio_ascii.c, line 1986):
+Failed to fetch subsequence residues -- corrupt coords?
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: LinkerHistone | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: LinkerHistone | # genes found = 4
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: LinkerHistone | # unique domains = 4
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.LinkerHistone.seqs.fasta...    done.
+Indexed 4 sequences (4 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.LinkerHistone.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ASF1_hist_chap | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ASF1_hist_chap | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ASF1_hist_chap | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CAF1A | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CAF1A | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CAF1A | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CHZ | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CHZ | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CHZ | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Daxx | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Daxx | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Daxx | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Hira | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Hira | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Hira | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: HJURP_mid | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: HJURP_mid | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: HJURP_mid | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: NAP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: NAP | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: NAP | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Rtt106 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Rtt106 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Rtt106 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SPT16 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SPT16 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SPT16 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SSrecog | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SSrecog | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SSrecog | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-CCHH | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-CCHH | # genes found = 3
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-CCHH | # unique domains = 3
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.zf-CCHH.seqs.fasta...    done.
+Indexed 3 sequences (3 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.zf-CCHH.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ADD_ATRX | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ADD_ATRX | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ADD_ATRX | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ADD_DNMT3 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ADD_DNMT3 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ADD_DNMT3 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: BAH | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: BAH | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: BAH | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: BIR | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: BIR | # genes found = 956
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: BIR | # unique domains = 1456
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.BIR.seqs.fasta...    done.
+Indexed 956 sequences (956 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.BIR.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Bromodomain | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Bromodomain | # genes found = 4
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Bromodomain | # unique domains = 8
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Bromodomain.seqs.fasta...    done.
+Indexed 4 sequences (4 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Bromodomain.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Chromo | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Chromo | # genes found = 47
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Chromo | # unique domains = 47
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Chromo.seqs.fasta...    done.
+Indexed 47 sequences (47 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Chromo.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ING | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ING | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ING | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: MBT | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: MBT | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: MBT | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: MRG | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: MRG | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: MRG | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PHD | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PHD | # genes found = 4
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PHD | # unique domains = 4
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.PHD.seqs.fasta...    done.
+Indexed 4 sequences (4 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.PHD.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PWWP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PWWP | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PWWP | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SAWADEE | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SAWADEE | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SAWADEE | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: TTD | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: TTD | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: TTD | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: TUDOR | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: TUDOR | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: TUDOR | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.TUDOR.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.TUDOR.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-CW | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-CW | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-CW | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ATF7IP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ATF7IP | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: ATF7IP | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PA1 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PA1 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PA1 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Dpy-30 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Dpy-30 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Dpy-30 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Menin | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Menin | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Menin | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: NCOA6 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: NCOA6 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: NCOA6 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PTIP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PTIP | # genes found = 530
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: PTIP | # unique domains = 530
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.PTIP.seqs.fasta...    done.
+Indexed 530 sequences (530 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.PTIP.seqs.fasta.ssi
+Fatal exception (source file esl_sqio_ascii.c, line 1986):
+Failed to fetch subsequence residues -- corrupt coords?
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: TRRAP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: TRRAP | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: TRRAP | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: AF9 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: AF9 | # genes found = 1
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: AF9 | # unique domains = 1
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.AF9.seqs.fasta...    done.
+Indexed 1 sequences (1 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.AF9.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: RAWUL | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: RAWUL | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: RAWUL | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: YAF2_RYBP | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: YAF2_RYBP | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: YAF2_RYBP | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SAM | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SAM | # genes found = 43
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SAM | # unique domains = 44
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.SAM.seqs.fasta...    done.
+Indexed 43 sequences (43 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.SAM.seqs.fasta.ssi
+Fatal exception (source file esl_sqio_ascii.c, line 1986):
+Failed to fetch subsequence residues -- corrupt coords?
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SLED | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SLED | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SLED | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Suz12 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Suz12 | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Suz12 | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CAF1C | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CAF1C | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: CAF1C | Omit downstream analyses
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Kelch | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Kelch | # genes found = 2195
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: Kelch | # unique domains = 5311
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Kelch.seqs.fasta...    done.
+Indexed 2195 sequences (2195 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.Kelch.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-C2H2 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-C2H2 | # genes found = 422
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-C2H2 | # unique domains = 641
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.zf-C2H2.seqs.fasta...    done.
+Indexed 422 sequences (422 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.zf-C2H2.seqs.fasta.ssi
+Fatal exception (source file esl_sqio_ascii.c, line 1986):
+Failed to fetch subsequence residues -- corrupt coords?
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-CXXC | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-CXXC | # genes found = 3
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: zf-CXXC | # unique domains = 3
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.zf-CXXC.seqs.fasta...    done.
+Indexed 3 sequences (3 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.zf-CXXC.seqs.fasta.ssi
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: WD40 | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: WD40 | # genes found = 210
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: WD40 | # unique domains = 489
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.WD40.seqs.fasta...    done.
+Indexed 210 sequences (210 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.WD40.seqs.fasta.ssi
+Fatal exception (source file esl_sqio_ascii.c, line 1986):
+Failed to fetch subsequence residues -- corrupt coords?
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SNF2_N | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SNF2_N | # genes found = 3700
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: SNF2_N | # unique domains = 3770
+Creating SSI index for /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.SNF2_N.seqs.fasta...    done.
+Indexed 3700 sequences (3700 names).
+SSI index written to file /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20//vir.SNF2_N.seqs.fasta.ssi
+Fatal exception (source file esl_sqio_ascii.c, line 1986):
+Failed to fetch subsequence residues -- corrupt coords?
+# END
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: UBN_AB | HMM search
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: UBN_AB | # genes found = 0
+# /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Virus.fasta: UBN_AB | Omit downstream analyses
+# END

@@ -1,0 +1,434 @@
+# pfam_scan.pl,  run at Fri Dec 18 18:47:40 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Coka.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Coka_g12416.t1     13     87      4     89 PF00125.25  Histone           Domain    54   129   131     50.2   3.2e-13   1 CL0012   
+#HMM       yqkstdlliqklpfaRvvreivksekedlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArr
+#MATCH       +++ + + ++p+ Rv r +++  k   r  a a+++++++lE+l++e++e+A+++a+++K+ +i p++iqlA+r
+#PP        45666777788***********9.***************************************************9
+#SEQ       ATSRSSRAGLQFPVGRVGRFLKQ-GKYATRTGAGAPVYMAAVLEYLTAEVLELAGNAARDNKKARIIPRHIQLAVR
+#CS        HHHXXSXXSXHHHHHHHHHHHH.TTSSSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHH
+Coka_g12416.t1     90    124     90    124 PF16211.6   Histone_H2A_C     Family     1    35    35     68.3   3.5e-19   1 No_clan  
+#HMM       EELnkLLggVTIAqGGVLPnIhkvLLpkktkkkkk
+#MATCH     EELnkLLg VTIA+GGVLPnIh+vLLpkkt kk k
+#PP        9*******************************965
+#SEQ       EELNKLLGEVTIASGGVLPNIHAVLLPKKTMKKVK
+#CS        HHHHHHHH.HHHHHTXXSSXXXXXXXXXXXXXXXX
+Coka_g12416.t1    561    760    560    760 PF03184.20  DDE_1             Family     2   175   175     60.5   1.6e-16   1 CL0219   
+#HMM       erltvllcanaagsekLkplvigkaksprafkn...............gektkkkldveyksnrkawltssifee.WL.kvfdkrle.......aekrkilLlldssrshetvel.leselqniklvflPassasllqPldqgvvselKarYrrqllqalleeqnrlsk..eqkkltlldalkfikkAwnavsketiksaf
+#MATCH      r+t +l  + a++ kL pl+i+k++   + k+                +  + + +++y +  k+w ++ +f e WL +v+++r           +   lL  d+++ h+t+ + + +e++n++l+ +P   + +lqP+d  v + +Ka+  r +   +  ++ + ++    +        +++kkAw++++ e+i+s++
+#PP        68999999.6677789****************************988777778889*****************877********9998999998888899***********8888799*******************************9966655555444444433332223444555669****************99
+#SEQ       LRITSVLT-VFADGSKLSPLLIFKGQPTPKGKSpaansierefkdnkdKKGYAYPRGMAYAVDPKGWHSQRVFDEvWLpQVWNRRPGrlgrlggYRQPDTLLAWDDYTVHKTDASnKAMEKSNTTLFNIPGGLTPKLQPCDGLVNKIFKANMSRLYDDHMASKDVTRNErgYPQPPSRGLVAQWVKKAWDSLTAEEIRSSW
+Coka_g1420.t1       8     80      7     82 PF03551.15  PadR              Domain     2    73    75     54.6   7.9e-15   1 CL0123   
+#HMM       LalleeqpsyGyeiikelee.lsegllelseGslYpaLkrLekeglveseweesgegpprkyYrlTdaGrrel
+#MATCH     La+l+ ++  Gyei+ke +e +++ + ++s Gs+YpaL+rLe+eg+v+ ++e+++ +p+rk+Y +T+aGr+e+
+#PP        899************98655277788899*****************************************986
+#SEQ       LAILSFGDATGYEIRKESTEgRFSYFDDASFGSIYPALARLEAEGMVTVREEPQAGKPARKVYSITEAGRTEF
+#CS        HHHHHHS-BEHHHHHHHHHH.TSTT.CCTTHHHHHHHHHHHHHTTSEEEEEEESCTSSEEEEEEESHHHHHHH
+Coka_g1420.t1     244    430    219    431 PF16576.6   HlyD_D23          Domain    30   213   214     61.2   7.8e-17   1 CL0105   
+#HMM       veklyvkatgdkVkkGqpLaelys...pe.lvaaqeeyllalkakkklkeke....lleaarerLrllgvseeqiaeleksgkvqktvtvkapisGvVtelnvreGqyvqpgdtlftiadlskVWveaevpeqqlalvkvgqkvevtvealpgktfeGkvdyiyptvdpetRtvkvRieldNpdgkLkpgmf
+#MATCH     v k  ++ +g +V++G+ L el+    +  +++a++ + +a+ +++++++       +++ r+   + +++++  a++++ +   +++ +++pi+Gv+ + ++  G  ++ g  ++t+ + + +  + +v e ++++++ ++++ev++  + g+t++G+v yi+p++dp+tRt++v iel+Npdg+ + g+ 
+#PP        3344444.6999999**999998622233144566666665554444433.2366633333444444444433.366777777778899******************************************************99877..69*********************************9887765
+#SEQ       VVKRPAR-EGARVSAGDILCELDKgtrEAlVLEAKAGLAQAKLDHSAATQ-LatkgFTAQTRAAATQAQLDAA-TARVKEAELELERTIIRSPIDGVIESPMAEVGAQLNSGGICATVVNSDPMIAIGQVSELNVGQISRDMPAEVDL--VTGETLKGTVRYISPSADPDTRTFRVEIELPNPDGTARDGIT
+#CS        XXXXXXXXXXXXXXXXXXXXXXXX...XX.XXXXXXXXXXXXXXXXXXXXX.....XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Coka_g1420.t1     506    983    504   1011 PF00873.20  ACR_tran          Family     6   489  1021    309.1   5.3e-92   1 CL0322   
+#HMM       ikrpifalvlaliilllGilsilslPvdalPeiapptvqvstsypGaspevvesevtqplEqalngldglkyvsSqSseglssitltFedgtdidiArqqvqnrlqeaknkLPeevqepgiskiktssseilvlavtskdgsltktelrdlaetnikdqLsrveGVgdvqliGgsekavriwldpqklaklgltltdvvsalkeqnvnvaaGqlegqeeelliraqgqlqsaediekiivknqdgskvrlrDvAkVelgaeeerlaatfngkpavllevkklpganaievakavkekleeLkeslPegveivvvydrtefvrasieeVvktLleaivLvvlvvflFLqnlratlipaiavPlsllgtfavlkalgfslNlltLfgLvlAiGlvvDdAiVvvEnierkleeegekpleaalksmkeiqgalvaialvllavflPilflgGveGklfrqfaltivlaillsvlvaltltPalcall
+#MATCH     ++rp ++ vl+l++l++G++s++s+P +  P+i+ p   vs    G+spe +e+   +p+E +l gldglk+++   seg + i+l+F+ + d d+A  +v +++  ak +LP +++ep+is ++ ++ +++++a++ +   +++ +l++ a +++kdq++ ++ V + +l G +e+ + + +d qkl+++ +t ++++s l+++n+ v+aG ++g + +++++++g +++a d+  + +k++    v l D+A++    ++ +   ++ng+pa++l v k++g n+ie   a+++ ++e ++  Pe +++ ++ d ++ + + +   + + + ai Lv++ v+  L+ lr++l +++a+P s +++f +l+ lg+++N + +fgLvl +G++vD+AiV+vE   rk++e g++ +ea +++++ +  ++v+++++ l++flP+l+  Gv G++   + + +++ +++++l a+++ P+  +++
+#PP        799*************************************************************************************************************************************999...9999999976.68*************************************************************************************9888899**************************************************************************************************998.9************************************************************.*******************************************************************987765
+#SEQ       LRRPKTVFVLMLALLVAGVFSYISIPKEDSPDIDVPVFYVSIAQQGISPEDAERLLIRPMETELRGLDGLKEITAIASEGHAGIVLEFDISFDKDEAMADVRDKVDTAKGELPADAEEPTISETNFALVPTITIALSGN---VPERTLYQHA-RRLKDQVEAIDTVRSADLKGHREEILEVLIDSQKLESYSVTQQELLSSLSNNNQLVPAGFIDGGQGRFNVKVPGLIETALDVYSLPIKQSGEGVVTLADIAEIRRTFKDANSYTRVNGQPAIALDVTKRIGTNIIENNLAIRAVVDEATKDWPETIKVDYMIDMSSNIFEVLGSLQSSIMTAIFLVMILVLAALG-LRSALLVGLAIPTSFMVGFLILSGLGYTVNIMVMFGLVLTVGMLVDGAIVMVEYADRKVSE-GMEDREAYIRAARLMFWPIVSSTATTLVAFLPMLLWPGVAGEFMSYLPIMVIIVLMAALLTAMVFLPVTGGIF
+#CS        HTSHHHHHHHHHHHHHHHHHHHCTSSBESSSS-S--EEEEEEE-TTC-HHHHHHHTHHHHHCTCTS-TTEEEEEEEETTSEEEEEEEESTTS-HHHHHHHHHHHHHHHGGGSSHHHHHH-EEEEEEECCECEEEEEEESSSSS-HHHHHHHHHHHTHHHHHTSTTEEEEEESS.-SEEEEEEE-HHHHHCTT--HHHHHHHHHHHSSB-EEEEETT-SB-EEEEESB---SHHHHCTSEEEETTSCEEEGGGTEEEEEEESSSSSEEEETTEEEEEEEEEEETTSBHHHHHHHHHHHHHCCGGGSSTTEEEEEEEESHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHSSHHHHHHHHHHHHHHHHHHHHHHHHTT--BCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTS-HHHHHHHHHHHHHHHHHHHHHHHHHHHTGGGGSBHHHHHHHHHHHHHHHHHHHHHHHHHHHCHHHHHHHH
+Coka_g1420.t1    1202   1732   1191   1735 PF00873.20  ACR_tran          Family   512  1017  1021    190.2   4.6e-56   1 CL0322   
+#HMM       leraYakllekvlrhravvllvalvllvlsvllfvr.....ipkeflPeedegvlvtsvqlppgvsleqtqkvlkqvekilkekpevesvfavt.......Gfae.sgdtagp..nsakvfisLkpekerkeeeksvealierlrkelkkipganvellapiqlreletlsgvrselqvklfgddleaLseaaeqllaalkelpelsdvrseqqedqpqlqveidrekaarlGvsisdindtletalggsyvndf..ieegrrvkvvvrleedlrsspedlkklkvrnkkgkmvplsavakieeekgpnsierengsrsvvisgnv.........aegdslseaeeavekiakkvklpegvtiewtgqaeqeqeasnsllilvalalllvflvLaalyeslsepllilltvPlalvGallalllrglelsvia.qvGlilliGlavkNaillvefakelrekegksleeaileaakeRLrPiLMTalaailGvlPLalst............gaGselqqplgivvlgGlvtstvLtLllvPvlY
+#MATCH      +  Y + l+ +  ++   +l ++v+l++++++f++     ++ ef+ +e+  ++v+ + +   +s +++ +++k+ve  + + + +++v++ +       G ++  g++ +p    ++++ +L     r     +++++ +++++  + +pg++v   ++ ++++ +  +g +++l+v  +++d++++ + + ++++ l ++ +l + + +      + q++idre+a r+   i  ++++++   +g  +++    + + +v++ vrl++d r+ ++  ++l+++++ g +vp++++++   e+  +si+r +g  s++++++v         ++ ++  +++e  + + ++ ++p  v +++ g+ e ++e+++ l+  ++++l+l+fl+L  +++s+ +++l l+tv ++++G ll+++l+g+++s+i+   G+++l G++v+Nai+l++ ++  r+ +g ++ +ail+ + +R+rPiL+T++++i+G++P+a++             g  +     l ++v++Gl  st+LtL ++Pv+ 
+#PP        566788999999999988888999999998888876333336789*************************************999999998753333332255666666655511467777777766666....9********************5...5667777.888999999998..9*******************************************************************999998324566789999999999986.8**********998.8*******************************996554443222223445666777777778.9**************************************************************************875269***********************99.9**********************************99622233222222133344556899********************95
+#SEQ       FTGLYVRHLKLLAGNPIGNVLTLVVVLGACFAIFSSfasnpTGVEFFVDEEPDQAVVLISARGNMSAAESLELVKKVEVEVLQTAGIQNVITSAfppgggsGPDFiGGVQDKPadVVGEMTLELAKYCCR----RTAKEIFAEIHERTEMLPGIKV---ETRKIEG-GPPTGKDIQLEV--QSTDYDTMVAEVGRIRKHLDTMEHLLNQEDDRPLPGIEWQITIDREQAGRYQAGIGSVGNMVQLVTNGVLIGTYrpTDSEDEVDIRVRLPADERT-LDRFDQLRLQTNLG-LVPIANFIERAPEQKVSSITRRDGLYSMMLKASVdqsavdekgNQITVDAKVQELSAWLDTQ-TFPDNVFLQFRGADEDQKESGEFLMRAMMASLFLMFLILLTQFNSFYQTFLTLSTVVMSVMGVLLGMMLTGQKFSIIMtGTGVVALAGIVVNNAIVLIDTYNRFRH-DGFEPLDAILKTSGQRIRPILLTTVTTIVGLIPMATAMnldfftqtiavgGITAIWWIQLSTAVISGLAFSTILTLVMIPVMI
+#CS        HHHHHHHHHHHHHHSHHHHHHHHHHHHHHHHHHHHC.....S-BESS----TSEEEEEEE-STTB-HHHHHHHHHHHHHHHHTTTTEEEEEEEE.......CECS.SE..EEE..EEEEEEEEES-GCGS-SGCGSHHHHHHHHHHHHTTSTSSEEEEEETTSSCCCTSSSCEEEEEEE.SSSSHHHHHHHHHHHHHHHHHCSTTEEEEEESS-S-EEEEEEEE-HHHHHHCTCSHHHHHHHHHHHCTTEEEEEE..EETTEEEEEEEEE-GGGSSSGGGGCCSEEEETTSCEEEGGGTEEEEEEEE-SEEEEETTCEEEEEEEEE.........STTS-HHHHHHHHHHHCTC..SSTTEEEEEEHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTSSSTCHHHHTTHHHHHHHHHHHHHHTT--BSHHH.HHHHHHHHHHHHHHHHHHHHHHHHHHHTTTSCHHHHHHHHHHHCHHHHHHHHHHHHHHHHHHHCT-............STTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Coka_g1420.t1    1807   1859   1800   1859 PF12802.8   MarR_2            Family     8    61    61     37.0   2.6e-09   1 CL0123   
+#HMM       fdvLaalarspppltvgeLaarlgvsksavsrlvkrLveaGLVerepspaDkRa
+#MATCH       +  +++ +p+ +t++eL+a+l+++ks+vsrl+k L+++G ++ ++s+ D+R+
+#PP        567788999**9.****************************************6
+#SEQ       VHAVLEIGLHPG-MTAKELSAKLKLEKSTVSRLLKSLEARGDIVQTRSESDGRS
+#CS        HHHHHHHCCTTTSBEHHHHHHHHTSSHHHHHHHHHHHHHTTSEEEECSSSSTTS
+Coka_g1420.t1    1975   2058   1952   2058 PF00583.26  Acetyltransf_1    Family    33   117   117     45.8   6.1e-12   1 CL0257   
+#HMM       egllvaeedgeliGfisllkipdekggvayieslaVspeyrgkGlGsaLlealeerareegikkivlaveedndaairlYeklGF
+#MATCH     +  +++ ++ge+iG is+   +  +g+ a+++ +  s+  rgkGlG+ Ll +++ ++ ++g++++ l++ +  daa++lYek GF
+#PP        3789999***********99999.9***********************************************************9
+#SEQ       NNSWSVVDGGEVIGSISIDGEDL-EGNIAHLRWFILSERLRGKGLGKVLLSKALAHCDRHGFDEVHLWTLKGLDAARALYEKNGF
+#CS        EEEEEEEETTEEEEEEEEEEEETTSTTEEEEEEEEESGGGTTSSHHHHHHHHHHHHHHHTTCSEEEEEEETTEHHHHHHHHHTTE
+Coka_g14572.t1     39     99     38     99 PF12802.8   MarR_2            Family     2    61    61     45.7   4.8e-12   1 CL0123   
+#HMM       Glt..paqfdvLaalarspppltvgeLaarlgvsksavsrlvkrLveaGLVerepspaDkRa
+#MATCH     G++  +a++++L++++rsp+ ++v  L a lgv+k++++r+++ L+e GLVe + + aDkR+
+#PP        6666689*************.*********************************99*****5
+#SEQ       GISygRAHHRALHFIGRSPG-MNVNRLLAILGVTKQSLNRVLRTLIEDGLVESRVGVADKRE
+#CS        T--..HHHHHHHHHHCCTTTSBEHHHHHHHHTSSHHHHHHHHHHHHHTTSEEEECSSSSTTS
+Coka_g14572.t1    145    241    137    242 PF00072.25  Response_reg      Domain    13   111   112     72.6   2.7e-20   1 CL0304   
+#HMM       llrqlleeegyeevaeaedgkealellkeekvdlillDinmpgmdGlellkeireedpelpviiltahseeedavealkagaddflsKpfdpeeLlkal
+#MATCH      ++  l++ g+  +  a+d+  a +ll   ++dli+lD++mpg dG+ l++ +re+  ++p+++lta++e +d++++l+agadd+l+Kpf+p+eLl ++
+#PP        45556778999.9999***************************************99.*************************************9887
+#SEQ       MMEPELRRLGF-LISGARDAGHARRLLAGLEFDLIVLDVMMPGEDGISLTRSLRERM-QTPILLLTARDEAKDRIAGLEAGADDYLAKPFEPKELLLRI
+#CS        HHHHHHHHTTEEEEEEESSHHHHHHHHHHHHESEEEEESSCSSSEHHHHHHHHHHCTTTSEEEEEESSTSHHHHHHHHHCTESEEEESSG-HHHHHHHH
+Coka_g14572.t1    282    352    278    354 PF00486.29  Trans_reg_C       Domain     4    71    77     54.5   9.4e-15   1 CL0123   
+#HMM       veltpkefklLelLaenpgrvvsreqLleevwgede...dvddrtvdvhisrLRkkLeddekkprlIetvr
+#MATCH     v+lt +e +l++++ ++pg+++sr++L+ee+ +      + ++r+vdv+i+rLR+k+edd+k+pr+++tv 
+#PP        89*****************************876666669*****************************96
+#SEQ       VRLTGTEVQLMRIFSASPGEPISRTRLVEELGRGAGkdgQAQERAVDVQITRLRRKIEDDPKQPRYLQTVA
+#CS        EE-SHHHHHHHHHHHHTTTSEEEHHHHHHHHTTTTS...TSHTHHHHHHHHHHHHHHHTTTTSSSSEEEET
+Coka_g14572.t1    352    630    343    630 PF00850.20  Hist_deacetyl     Domain     6   307   307    281.7     8e-84   1 CL0302   predicted_active_site[449] 
+#HMM       eRlsailealaeaeglldkleliidpreatkeellrvHseeYlelleelseelkkkeeaselelskseskedddtylspksleaaklaagavleavdavlkgevrsafalvrPpgHHAekdkasGFCllNnvaiaakylqkkyglkrvaivDfDvHhGnGtqeifysdpsvltlSiHryeesfyPgtgsleeigegkgkgktvnvplekgtgdeeylkafeeillpaleefkPelivvsaGfDalkgDplgelnltaegyaeitkkllelaekvck.rlvllleGGYnlealarsvtavlaal
+#MATCH     +Rl ++l+al+ + +ll++     +++ a+++ +l++H  ++le l+ ++ e+++ +              d dt +sp+sl+aa++a+g++++avd vl+gev++af++ rPpgHHAek+ ++GFCl+ nvaiaak++ +++gl+rvaivDfDvHhGnGtq++++++++ l++S H++  ++yPgtg+++e+g   ++g++ n+pl++gt+   y k+++  +lp++e fkPe++++saGfDa+k+Dpl++l l++e++ +it++l++la ++c+ r+v++leGGYnl al+ s++a++ al
+#PP        5777777777776.66654.....6799*******************9998887776.............4789********************************************************************************************************5..66**********6...8899*************************************************************************************************99875
+#SEQ       ARLHEVLRALEGK-DLLRR-----EAPMAEDATILLCHPLAHLEALNAAAPETGSVQ-------------LDADTHMSPGSLKAAYRAVGGAVQAVDMVLSGEVQNAFVATRPPGHHAEKQSPMGFCLFGNVAIAAKHALERHGLSRVAIVDFDVHHGNGTQDLLWDEARALFISSHEM--PLYPGTGAQREVG---AHGQITNIPLSTGTDGGLYRKILTGRILPLIETFKPEMLFISAGFDAHKDDPLASLALETEDFGWITDQLCALAGRICGgRVVSCLEGGYNLPALGASAAAHVDAL
+#CS        HHHHHHHHHHHHT.THHHHCCE.EE-----HHHHTTTS-HHHHHHHHCHHHHCHHT.TTHCCHHHCCTSTSSSSCHCTTTCCHHHHHHHHHHHHHHHHHHTTSSSEEEETTSS--TT-BTTB-BTTBSS-HHHHHHHHHHHCC-SS-EEEEE-SSS--HHHHHHCTT-TTEEEEEEEE-CCTSTTSS--TT---SGGGTTSEEEEEE-TT-BHHHHHHHHHHCHHHHHCCH--SEEEEEE-STTBTTSTT-S-BB-HHHHHHHHHHHCCCHGS-.G..EEEEE-S---HHHHHHHHHHHHHHH
+Coka_g14572.t1    658    880    655    888 PF00348.18  polyprenyl_synt   Domain     7   232   256    151.4   2.4e-44   1 CL0613   
+#HMM       aleylveagGKrlRpllvlltaealkeeeeelekaarlawivellhaasLvhDDi..mDdsetRRGqpcahrlvgnklaindgdfllarafellaklf..eks.lellelfsevll..qlaeGqlldleeekeddlskfsleeYleivkyKTaylfalpvalaallagaseeelealkdigrelGlaFQiqDDylDltgdpevlgKpagtDikegkctlpvlkalelaspeqr
+#MATCH     a+ + +  gGKrlR  lv   a +  +++     a ++a+++e +ha+sLvhDD+  mDd+++RRG p++h+++++++a+++gd+l+++af l+a++    ++ + l++ +++++    ++ Gq++d+ +e  +  +  +l e  e   +KT++l++ +++++ ++a a++     +  ++r lGlaFQi DD+lD+ gd++++gK + +D   gk+t++ l  l+ a++e +
+#PP        556666.9**************9999555...789*************************************************************998644458888888888866689********665..5555577****************************855...58***********************************************99966555.3
+#SEQ       AMAHAT-GGGKRLRAFLVCEGAALHDVDP---VAAMDAAAAIEAMHAYSLVHDDLpcMDDDDLRRGLPTVHVKWDEATAVLTGDALQTLAFDLIAHMPlaADRvVTLTAGLARASGgvGMVLGQAMDIAAE--TAATPLTLPEITELQAKKTGALIEWSAQAGPVMAAADT---GPMGAYARALGLAFQIADDILDVEGDEAETGKRLRKDDDAGKATFVSLLGLDGAKAE-A
+#CS        HHHHHHHSSS--HHHHHHHHHHHHCSCGHCHHHHHHHHHHHHHHHHHHHHHHHHH..HTTGSEETTEE-HHHHCHHHHHHHHHHHHHHHHHHHHHHHH..STT.HHHHHHHHHHHH..HHHHHHHHHHHHTTTTTCCC.SHHHHHHHHHHHTHHHHHHHHHHHHHHTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHS-HHHHSS-CSHHHHTTS-SHHHHHHHHCS-HHHH
+Coka_g14572.t1    903   1180    903   1180 PF13292.7   DXP_synthase_N    Family     1   273   273    382.7  8.4e-115   1 CL0254   
+#HMM       LdkikspedlkklseeeleelaeeiReeliesvsktggHlasnLGvveLtvalhrvfdtpkdklvwDvgHqaYvhKiltgRrdklktlrqkgGlsgfpkreEseyDafeagHsstsisaalGlavardlkgekrk....vvaviGDgaltgGmafealnnagelkkklivvlNDNemsisknvGalskylskllsskayeklkeevkkllkklgkklaelakklkeslkellvpgtlfeelglkylGpidGhdlkelvkvleevkk.lkgpvllhvvt
+#MATCH     Ldk++ p+dlk++s++el+++a+e+R+e i++vs+tggHl+++LGvveLtvalh ++d+pkd+++wDv+Hq+Y+hKiltgRrd+++tlrqk+Glsgf+kr+Es+yD f+a+HsstsisaalG+avardl g  ++    ++aviGDga+++Gmafea+nnag+l+k+liv+lNDN+msi+++vGalskyls+l  +  +++lk+++k + + l ++++e ak++ke+lk+++v gtlfeelg++y+Gp+dGhd+++l+ vl++vk+ ++gpvl+hvvt
+#PP        799******************************************************************************************************************************99754322339*****************************************************************************************************************************83589******99
+#SEQ       LDKVQVPADLKQFSDAELRQVAHELRSETISAVSETGGHLGAGLGVVELTVALHAIWDAPKDRIIWDVSHQSYPHKILTGRRDRIRTLRQKDGLSGFTKRSESPYDPFGAAHSSTSISAALGFAVARDLGGAPDHglgdAIAVIGDGAMSAGMAFEAMNNAGHLNKRLIVILNDNDMSIAPPVGALSKYLSRLYGEAPFHDLKAAAKGMASLLPPPFQEGAKRAKEMLKSMTVGGTLFEELGFSYIGPLDGHDMSQLLPVLRTVKArATGPVLIHVVT
+Coka_g14572.t1   1217   1377   1215   1380 PF02779.25  Transket_pyr      Domain     3   173   178    121.7   2.6e-35   1 CL0254   predicted_active_site[1268] 
+#HMM       iawrkaeaealaellkedpevvligaDvaggtfsvrkgllhdqgegrvidsgisEqavlgfavGaalagpllviveaqFgdFangAqiyadqairsgeakgklkvg.vvtrlpigvgedGpehqsaeleaflrlipglkvvrPsdpaetkhllrrairredrkPvvlrlpks
+#MATCH     ++++ ++++ l +l++ dp+v++++a++  gt+++  + ++++   r++d+gi+Eq+ ++fa+G+a+ g  l++++a++++F++    + ++++++++a ++l+v   ++r+++ vg dG++h + +++af++ +pg+ v++ +d+ae+ h++ +a++++ ++P+++r+p++
+#PP        678999*************************************...***********************..*************....**************************.*******************************************65.7********97
+#SEQ       PSYTSVFGKELVRLAAIDPRVCAVTAAMPDGTGLNLMAERYPS---RCFDVGIAEQHGVTFAAGLAAGG--LRPFCAMYSTFLQ----RGYDQVVHDVAIQRLPVRfAIDRAGL-VGADGATHAGSFDIAFMANLPGMVVMAAADEAELMHMVATAAAHD-EGPIAFRYPRG
+#CS        EEHHHHHHHHHHHHHCTTTTEEEEESSTHHHHTTCHCCHHEGGTTEGEEE--S-HHHHHHHHHHHHHHCTTEEEEEEEEHHHHGGGHHGGHHHHHCHHHHHT--EE.EEESBSGGGSTTGTTTSBSSHHHHHHTSTTEEEE--SSHHHHHHHHHHHHHSSS.SEEEEEE-SS
+Coka_g14572.t1   1394   1517   1394   1517 PF02780.21  Transketolase_C   Domain     1   124   124    103.7   6.1e-30   1 CL0591   
+#HMM       gkaeilregkdvtlvayGsmveealeAaeeLekegisaeVvdlrtvkplDketilesvkktgrlvvveeavkrgGigsevaaalaeeafdgldapvkrvggpdv.iepgsaeelekafgldaeki
+#MATCH     gk++++r gk+v+++++G+ ++e+l A+e+Le++gis +V d+r+ kplD+++il+++  ++ l+++ee+++ gG+gs+va++l+ee+ +++  +++++++pd+ i++ s++++++ +gl+ae+i
+#PP        8999*****************************************************************999.*************************************************998
+#SEQ       GKGRMIRTGKRVAILSFGTRLSEVLTACEALEARGISPTVADARFAKPLDRDLILQLAGDHEALITIEEGAV-GGFGSHVAQLLSEEGAFDTGLRFRSMVLPDTfIDQSSPADMYATAGLNAEDI
+#CS        TEEEEEESSSSEEEEEETTHHHHHHHHHHHHHCTTTCEEEEE-SEEESHHHHHHHHHHHHHSEEEEEEEEESTTSHHHHHHHHHHHCCTTTESSEEEEEEESSS.SSSSGHHHHHHHTT-SHHHH
+Coka_g14572.t1   1548   1606   1540   1612 PF13417.7   GST_N_3           Domain    12    72    75     41.8     1e-10   1 CL0172   
+#HMM       rvrlaLnekglpyevvpvtkgdhsdellaknpkgkvPvLeddgtalteSlaIidyLeelyp
+#MATCH     rv ++L+e+g++y    ++  +hs+e+++ +p gk+PvL ddg+a+t+S+aI+ yL ++++
+#PP        899**********99..5579999**********************************997
+#SEQ       RVIWMLEELGQAYDR--IPAKQHSAEVREHSPLGKLPVLLDDGEAITDSAAILTYLADKHG
+#CS        HHHHHHHHHT--EEEE---TTTTHHHHHHH-TT--SSEEETTS-EEESHHHHHHHHHHHH-
+Coka_g14572.t1   1642   1705   1621   1720 PF00043.26  GST_C             Domain    11    75    93     23.8   3.8e-05   1 CL0497   
+#HMM       lfyvkaeekkeelvdealekvaevlsaleeelkkqdylvGdkltlADialvpilnwlqrlglafg
+#MATCH      f+ ++e++   l++ a+ + a+ l+a+e+++k   +l+Gd+++++Di+l+ +lnw+++ ++ ++
+#PP        556666677777888999999************.99**********************9887765
+#SEQ       SFILPEEQRVDGLKQSAKWEWARNLKAVEARFK-GPFLMGDEMSVPDILLTHVLNWAYSAKFPIE
+#CS        HHHSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHTSSSSSTTSSCHHHHHHHHHHHHHHHHTTTTT
+Coka_g17764.t1      5     71      4     76 PF06627.12  DUF1153           Family     2    68    87     86.9   7.8e-25   1 CL0123   
+#HMM       kkkkpksvigpdGsvltradLPppntkrWvarRKaevvaavrggLltleealerYklseeEfasWqk
+#MATCH     k+++p+++++pdGs++t+adLPp++t+rWva+RKa+vv++v +gL+t+++alerY+ls +Ef+  ++
+#PP        7899**********************************************************97655
+#SEQ       KISGPRAITLPDGSIMTQADLPPKETRRWVASRKAAVVKGVMHGLITQDQALERYALSADEFHLGEE
+#CS        --SSSSEEE-TTS-EEETTTS--SS-S---HHHHHHHHHHHHCTTS-HHHHHHCTTSSHHHHHHHHH
+Coka_g17764.t1     54    148     48    149 PF00072.25  Response_reg      Domain    16   111   112     69.1   3.5e-19   1 CL0304   
+#HMM       qlleeegyeevaeaedgkealellkeekvdlillDinmpgmdGlellkeireedpelpviiltahseeedavealkagaddflsKpfdpeeLlkal
+#MATCH     q+le+  + + +e+  g+e ++l+k  ++dlillD+ +p+m+G+e+l+++r    ++p++il+++++ e++++++  gadd+++Kpf++eeL++++
+#PP        67888888.999*********************************************************************************998
+#SEQ       QALERYAL-SADEFHLGEEGIDLAKLYDYDLILLDLGLPDMNGHEVLRQLRLARIDTPILILSGADDTENKIKGFGFGADDYMTKPFHREELIARI
+#CS        HHHHHTTEEEEEEESSHHHHHHHHHHHHESEEEEESSCSSSEHHHHHHHHHHCTTTSEEEEEESSTSHHHHHHHHHCTESEEEESSG-HHHHHHHH
+Coka_g17764.t1    181    250    181    254 PF00486.29  Trans_reg_C       Domain     1    70    77     50.5   1.7e-13   1 CL0123   
+#HMM       geeveltpkefklLelLaenpgrvvsreqLleevwgededvddrtvdvhisrLRkkLeddekkprlIetv
+#MATCH     g++v+lt ke+++LelL  ++g  +++e+ l++++g  ++++ + +dv i++LRkkL++++  +++Iet 
+#PP        678********************************************************988889**996
+#SEQ       GKSVHLTGKEYQMLELLSLRKGTTLTKEMFLNHLYGGMDEPELKIIDVFICKLRKKLSNATGGDNHIETA
+#CS        TEEEE-SHHHHHHHHHHHHTTTSEEEHHHHHHHHTTTTSTSHTHHHHHHHHHHHHHHHTTTTSSSSEEEE
+Coka_g17764.t1    274    588    273    588 PF01653.19  DNA_ligase_aden   Domain     2   319   319    379.4  1.2e-113   1 CL0078   predicted_active_site[388] 
+#HMM       eakkeleelrellrkydyeYyvldePvvsDaeyDrllrelkelEekhPelitpdSPtqrvGgaeleaefkkveHeapmlSLdnafdedelkafeerirkalgnkek..veyvvepKiDGlsvsllYengllvraatRGdGetGedvtaNvktirsiPlklklenlpeelevRGEvflekeeFeklNeerleegeklfaNpRNaAaGslRqldpkitakrkLklivyglgllekeelevktqsealkvlkklglkvskelklvksieevlelieelekkResleyeiDGvvvkvdelalqeelGftakaPrwAiAyKfpae
+#MATCH     +ak+el++l++ll + + +Y+++d+P++sDa+yD+  r++ e+Ee++P+l+++dSP+ +vG a+++  f k++H ++m+SL naf+++++++f++r+r+ l+  +   ++++ epKiDGls+sl+Ye g+lv+aatRGdGe+Ge+vtaN+ ti++iP++l+    pe levRGEv++++++F++lN++++e+g k+faNpRNaAaGslRqldp+it  r+Lk+++y++g l +    ++tq  a+++l+klg+++++ ++l+ks ee+l+ ++++e++R++l y+iDGvv+kvd+lalq++lG  + +PrwA+A+Kfpae
+#PP        578999******************************************************9.777788******************************98876543349*****************************************************8..****************************************************************6665..6669*******************************************************************************96
+#SEQ       QAKEELARLADLLARANTAYHTEDAPEISDADYDAAKRRNAEIEERFPNLKRADSPSDQVG-AAPSEGFGKIRHVVRMMSLANAFEDADITDFDARVRSYLNIPAGqpLAFTAEPKIDGLSLSLRYEGGRLVQAATRGDGEVGENVTANALTIEDIPERLEGA--PEVLEVRGEVYMSHADFAALNTRQEERGGKTFANPRNAAAGSLRQLDPEITRSRPLKFFAYAWGDLSA--PLADTQFGAIQQLEKLGFQTNPLTHLCKSPEEMLAHYRSIEEQRATLGYDIDGVVYKVDDLALQQRLGSRSTTPRWALAHKFPAE
+#CS        HHHHHHHHHHHHHHHHHHHHHCTT-SSC-HCHHHHHHHHHHHHHHHSGGG--TTSCCG-SS.SS--CTS-EEE-SS-----EEE-SHHHHHHHHHHHHHHSSS--S..-EEEEEEEESSEEEEEEEETTEEEEEEE-TTSSEEEB-HHHHCT-TTS-SB-SSSS--SEEEEEEEEE--HHHHHHHHHHHHHCT----SSHHHHHHHHHT-SSHHHHHTS--EEEEEEEEEEESS---.SBHHHHHHHHHHCT--B-TT-EEECSHHHHHHHHHHHHHHGGGSSS-EEEEEEEESBHHHHHHH-EETSCESSEEEEE---C
+Coka_g17764.t1    592    638    591    651 PF03120.17  DNA_ligase_OB     Domain     2    48    79     66.2   1.8e-18   1 CL0021   
+#HMM       tkledievqVGRtGaltpvAeLepvelaGttVsratLhnedeierkd
+#MATCH     t+le+i++qVGRtGal+pvA+L+pv+++G++Vs+atLhned+i+ +d
+#PP        99*****************************************8877
+#SEQ       TRLEAIDIQVGRTGALSPVARLTPVTVGGVVVSNATLHNEDYIAGRD
+#CS        --XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Coka_g17764.t1    662    728    659    729 PF00533.27  BRCT              Family     5    73    79     38.0   1.6e-09   1 CL0459   
+#HMM       lfhgckfvitgtfdnfnreeleelikelGGkvtkevskktthlivgepesrtlkllqalklnipivnee
+#MATCH     +  g+++v+tgt+  ++r e++ ++++lG+kv+++vs kt++l++g      +k ++a +l+i++++e+
+#PP        56799*******************************************..77************99986
+#SEQ       PVAGKTVVFTGTLEKMTRAEAKATAESLGAKVSGSVSAKTDLLVAGPG--AGSKAKKAADLGIETIDED
+#CS        TTTTEEEEEEESTSSHHHHHHHHHHHHTTCEEESSESTTSSEEEESSSHSHHHHHHHHHHTTSEEEECH
+Coka_g17764.t1    944   1099    942   1105 PF00270.30  DEAD              Domain     3   170   176     59.8   2.7e-16   1 CL0023   
+#HMM       iQaeaiplil..gg....gdvlvaaeTGsGKTlaflipvlqivyetkgktgpkalivePtreLaeqtlnnlkkfkkyidlrvlliiggvaardqlskl...dng.vdivvgtpgrlddllstgklnlsqvrflVlDEadrlldqgfsdfinrilnqlpqitcdgklqrqvivlSATlp
+#MATCH      Q++ai++i    g     + l+++++G+GKTl++++++l +v     + g + ++++Pt+ La+q+l+ ++ + + +++rv+ ++g ++  d ++kl   ++g +di++gt+  ++d +      ++++r+ ++DE +r+    ++  + +             +q  v+v++AT+ 
+#PP        69999999996622233245679*****************666.....7889*******************************9999666666666662225668*************554.....9**************998.333333322...........2334888888876
+#SEQ       AQQRAIQEIAkdMGgdtrMSRLLQGDVGAGKTLVAVMALLIAV-----EAGGQGVMMAPTEILARQHLESVQPLAEAAGVRVEILTGRDRGADRVEKLralQAGdIDILLGTHAVFQDDVI-----FRDLRLAIVDEQHRFGVR-QRLLLGKKG-----------AQADVLVMTATPI
+#CS        HHHHHHHHHH..TT....HEEEEEESTTSSHHHHHHHHHHHHHHHSTTTTS-EEEEEESSHHHHHHHHHHHHHHTTTSTSEEEEEETSSCHHHHHHHH...HHT.CSEEEESHHHHHHHHHCTSSHCTTEEEEEEETHHHHHHTTTHHHHHHHHHHSHHHHCCSTTTSEEEEEESSBS
+Coka_g17764.t1   1138   1255   1134   1256 PF00271.32  Helicase_C        Family     5   110   111     56.7   2.7e-15   1 CL0023   
+#HMM       allell.kleeeggkilifvntidrlek.........vklllekk....gikvavlhgelpqnereeileqfnkgesdvLiatdvaerGidipkvnlVinfdlp.rnvtsyiqriGRtgRa
+#MATCH      +++ l    +eg++++ +++ +++ e          +k l   +    +  va +hg++p+ ++++++++f +g+++vL+at+v+e G+++p+++ +++  +  +++++++q +GR+gR+
+#PP        55555556678999999999999966553334442233333...2567778899*************************************************9888*************7
+#SEQ       EVVNHLrRAVAEGKQAYWVCPLVEESETvdltaaedrFKHL---RaalgEDVVALVHGQMPAADKDAAMAKFVAGDRQVLVATTVIEVGVNVPNASIMVIERAEtFGLAQLHQLRGRVGRG
+#CS        HHHHHH.HHHTTTSEEEEEESSHHHHHH.........HHHHHHHT....TSCEEEESTTSTHHHHHHHHHHHHTTSSSEEEESGGGTSSSTSTTEEEEEESSCS.SSHHHHHHHHTTSSST
+Coka_g20878.t1    263    312    248    312 PF13463.7   HTH_27            Domain    19    68    68     26.2   8.7e-06   1 CL0123   
+#HMM       kkladicrrlnvedshisyslkkLteagLlereedeedgRevfvslTakG
+#MATCH      +++++   l +e+s++s++l kL+   L+e   d  d+R++++slT+kG
+#PP        56799********************************************9
+#SEQ       ATASALGPLLHLEKSSVSRLLQKLESDQLIEGICDTADRRSRRLSLTPKG
+Coka_g20878.t1    406    502    384    502 PF00583.26  Acetyltransf_1    Family    23   117   117     52.8   4.2e-14   1 CL0257   
+#HMM       efeesfsleae...gllvaeedgeliGfisllkipdekggvayieslaVspeyrgkGlGsaLlealeerareegikkivlaveedndaairlYeklGF
+#MATCH     e+ e+ s++++   + ++a+ ++el+G +sl  ++  + g+++++ + Vsp+++g G+G +L+e+++ ++  +g++   l++++  daa++lYek+GF
+#PP        3444444444444378889***************99.89************************************888*******************9
+#SEQ       EMSEFMSRIESlanTVFCAYQGEELLGSVSLDGQDL-EDGTCHLRWFIVSPKAQGLGIGGRLMEKAVNFVDTQGYRTTRLWTFKGLDAARHLYEKHGF
+#CS        HHHHHHHSTTE...EEEEEEETTEEEEEEEEEEEETTSTTEEEEEEEEESGGGTTSSHHHHHHHHHHHHHHHTTCSEEEEEEETTEHHHHHHHHHTTE
+Coka_g2379.t1       5     51      4     51 PF13412.7   HTH_24            Domain     2    48    48     57.6   6.6e-16   1 CL0123   
+#HMM       detdrkILelLqknprisqreLAerlglSpstvnrrlkrLeeeGlIk
+#MATCH     d++d +IL+ Lq ++r+s++ LAe++ lS ++++rrlkrLee G+I+
+#PP        99********************************************7
+#SEQ       DRIDADILSRLQSDGRLSNARLAEQVSLSETPCWRRLKRLEETGVIE
+Coka_g2379.t1      70    125     70    130 PF01037.22  AsnC_trans_reg    Domain     1    56    75     50.3   1.8e-13   1 CL0032   
+#HMM       vlvslerghpeqleefeealaelpeVvecyrvtGdydyllkvvvrdlealerflre
+#MATCH     v+++++ +++e++ +f  a+++ p+V++c+ +tGd+d+ll+vv+ dl++++rf+++
+#PP        678888555********************************************875
+#SEQ       VQLTCSEHDEETTAAFQSAIEASPQVLSCHNTTGDADFLLQVVASDLDDYSRFVEK
+#CS        EEEEE-GGGTTHHHHHHHHHHTSTTEEEEEEESSSSSEEEEEEESSHHHHHHHHHH
+Coka_g2379.t1     129    211    120    217 PF01906.18  YbjQ_1            Family    15    96   104     96.8     1e-27   1 CL0522   
+#HMM       vevlgivtgetvrsrnvlkdilaglrslvGGelkayeelleeareeAlerlkeeAkelGAnAvvgvrldtseige.kgmlevl
+#MATCH      +++g+vtge++ ++n++kd++ag+r++vGG+++ayee+l++are A++++ ++A+++GAnAv+gv+ld++++g+ ++ml+ +
+#PP        489**********************************************************************9966666654
+#SEQ       LDYKGLVTGEAILGANLFKDLFAGIRDIVGGRSGAYEEELAKAREIAVNEMCQQAQAMGANAVIGVDLDYETVGQnGSMLMAF
+Coka_g2379.t1     233    353    216    353 PF00583.26  Acetyltransf_1    Family    31   117   117     54.2   1.5e-14   1 CL0257   
+#HMM       eaegllv..aeedgeliGfisllkipd................................ekggvayieslaVspeyrgkGlGsaLlealeerareegikkivlaveedndaairlYeklGF
+#MATCH     +++++ v     dg+l+G ++++ ++                                 +++++  +++++V++e+rg+G+G+aLl+a+ ++ar++g+ ++ l+v + n +a  lYe+ GF
+#PP        55555554444457777777555555555555555544444444444455577778888889999999****************************************************9
+#SEQ       INPEFAVgaLTPDGRLLGLAGFKTDDGalvggnlndmtavygaiggtwrgllldalernTEPDCLLMDGIFVAEEARGQGIGRALLQAICDEARQRGLSRVRLDVIDGNPRAKSLYERSGF
+#CS        TTEEEEE..EEETTEEEEEEEEEEEET................................TSTTEEEEEEEEESGGGTTSSHHHHHHHHHHHHHHHTTCSEEEEEEETTEHHHHHHHHHTTE
+Coka_g2379.t1     387    628    387    633 PF00491.22  Arginase          Domain     1   243   280    208.5   1.3e-61   1 CL0302   
+#HMM       advallGvPfdaagsgrpGarfGPraireasarle.e.aleynlelgv....leelkivdlgdvpvtpvdneevleqieeavaeilkagklpivlGGDHsialgslralaekygkplgvihfDAHaDlrtpetegsgnshGtpfrraaeegllkpkklvqiGirsvdne...eyelakelgirvitmreidelglkavveeilervgaeedpvylSfDiDvlDpavaPGtGtpepgGltlrellallrelag
+#MATCH     adva+lG+Pfd +++ r+Gar+GPraireas+ ++   a  y++e+++      + +ivdlgd+++  +d+ e++++ie  v++il+ag+lp+vlGGDHs+ +++++a+  +  +p++v+++DAH+D+ ++  +g ++ hG p+rraae+ ++    l+qiGir+v+++    ye+a+++g ++ + r++++lg++ ++++i e      +  yl++DiD++Dp++aPGtGtp +gG+ ++e+l+l+++la+
+#PP        589********************************8568999**99999**9999***********98888889************************************97..68**************99.9**************998886..9************9999999*99***************9655555543.....468*************************************977
+#SEQ       ADVAVLGAPFDFGTQWRSGARMGPRAIREASTLFSfGhAGAYDFEDDItylpPGSTRIVDLGDADIVHTDTIESHKRIEFGVRKILAAGALPVVLGGDHSVNIPCINAFDGE--DPVHVVQIDAHLDFVDER-HGVRYGHGNPMRRAAEKPYVT--GLTQIGIRNVSSTardGYEDARRMGSDIQSVRHVRKLGIEGMLARIPE-----GKRYYLTIDIDAFDPSIAPGTGTPSHGGFLYYEVLELIDGLAK
+#CS        EEEEEEEEE--TTTSSSCCGGGHHHHHHHHHHTSB.C.HHHEETTTTE....SCCSEEEEEEEEE--SSTHHHHHHHHHHHHHHHHHTTCEEEEEESSGGGHHHHHHHHHHHHSSTEEEEEESSS----STTTTTBSSSTTSHHHHHHHHTSCCGGCEEEEEE-STTSH...HHHHHHHCTSEEEEHHHHHHHHHHHHHHHHHHHHTCTTSEEEEEEEGGGBBTTTSTSCSS-BSS-B-HHHHHHHHHHHHH
+Coka_g831.t1        3     88      3     88 PF08712.12  Nfu_N             Domain     1    88    88    102.3   1.1e-29   1 No_clan  
+#HMM       iqtesTPnpnalkFipgkellpegstaefksaeeakasplakkLfkiegVksVfigsdFitvtkeedvdWeelkpevlevikeflesg
+#MATCH     iqte+TPnp++lkF+pg+ +lp ++t++f+s+++a  spla+kLf+++gV++Vf+g+dF+tvtk +d+dW+++kp +l vi+e+++sg
+#PP        9*********************.79***************************************.99*****************9986
+#SEQ       IQTEATPNPATLKFLPGRVVLP-EGTYDFRSKADAGVSPLAEKLFDVPGVAAVFFGHDFVTVTK-DDTDWQHMKPAILGVIMEQFMSG
+Coka_g831.t1      117    151    117    156 PF01106.18  NifU              Family     1    35    67     33.3   4.2e-08   1 CL0232   
+#HMM       ieevleeeirPaLasdGGdielvdvdegvVkvrlq
+#MATCH     i+e+le+++rPa+a+dGGdi++ +++egvV++ ++
+#PP        89******************************997
+#SEQ       IKELLETRVRPAVAQDGGDITFKGFKEGVVYLSMR
+#CS        HHHHHHH.HGGG--GG--EEEEEEEETTEEEEEEE
+Coka_g831.t1      159    262    150    302 PF00814.26  TsaD              Family    23   130   271     87.6   1.1e-24   1 CL0108   
+#HMM       elasraHserllplieealaeaglsledldaIavtkgPGlftgLrvGvsfAkglalalnkPlvgVnhleahalaarleekeefPvvllvsGghtqvylvkegryeilg
+#MATCH     e+  r H+erl+ +i e++ae  ++++dld+++vt gPG+ftgLrvG+s+A+g+ l l+kP+vg+ +l+a+a aa  + + + Pv++++ G+ ++vy+    +++ +g
+#PP        677899*********************************************************************744.3479**************99...776665
+#SEQ       EEIGRGHAERLMDMIGEVMAETSTAFSDLDRVVVTVGPGSFTGLRVGLSVARGFGLVLGKPVVGITTLAAIARAAARK-DGRGPVLVALTGKGEEVYCQ---QFDDGG
+#CS        HHHHHHHHHHHHHHHHHHHHHCTSTGGGEEEEEEEEESS-HHHHHHHHHHHHHHHHHCT--EEEEEHHHHHHHHHHHTSCCSSCEEEEESSSCEEEEEECTSEEEEEE
+Coka_g831.t1      342    440    338    446 PF00583.26  Acetyltransf_1    Family     5   105   117     28.6   1.4e-06   1 CL0257   predicted_active_site[397] 
+#HMM       vellvesffppnedaseeefeesfsleae.gllvaeed...ge..liGfisllkipdekggvayieslaVspeyrgkGlGsaLlealeerareegikkivlaveedn
+#MATCH      e++ +sf  +++ +++++++      a+ ++lva++    g+  ++Gf+ l+   d    +a+++ +aV+p  rg+G+G++L+ea + r+  e +k ++l+  ed 
+#PP        56666666677777777774444....443566666666775557**********99....8***********************************9999877775
+#SEQ       AEIHDASFKHNWNIEEFARMKAQ----AGtSILVARRAspyGTraPLGFLILRTAAD----EAEVITIAVHPRQRGRGVGKQLMEAGLFRLYGERCKSLFLEMAEDK
+#CS        HHHHHHHTCTHHHHHHHHHHHHHHHSTTE.EEEEEEET...TE..EEEEEEEEEEETTSTTEEEEEEEEESGGGTTSSHHHHHHHHHHHHHHHTTCSEEEEEEETTE
+Coka_g831.t1      451    562    450    566 PF01475.20  FUR               Family     2   112   120    118.6   1.6e-34   1 CL0123   
+#HMM       aglklTkqRekilevleksee.hlsaeevykelkeedpeislaTVYrtLklleeaglvkelefedgesryelakkehhdhlicekCgkviefkddeiekiqeeiaekegfkl
+#MATCH     +g+++T+qR+ i +v+e+  e h+++ee+y++ +  dp is++TVYrt+kl+e+ag++++++f+dg+srye++ +ehhdhli+ ++g+vief++++ie++qe ia+k g+kl
+#PP        79***************99999****************************************************************************************98
+#SEQ       KGMRMTEQRRVIASVIEDASEeHPDVEELYRRSVAIDPGISISTVYRTVKLFEDAGMIERHDFRDGRSRYETVPDEHHDHLIDLRSGQVIEFRNEDIEALQEFIARKLGYKL
+#CS        TTHCHHHHHHHHHHHHHHCSS.SBEHHHHHHHHHHTTTT--HHHHHHHHHHHHHTTSEEEEEETTSEEEEEESSSSCCEEEEETTT--EEEE--HHHHHHHHHHHHHTT-EE
+Coka_g831.t1      588    706    571    708 PF01553.22  Acyltransferase   Family    13   133   135     51.4   8.2e-14   1 CL0228   predicted_active_site[597] 
+#HMM       kgpailvaNHqsylDvlllwlllyksngprnvviiakkellsipllgflmrllgfifidRksnaraagsleniselleegklvviFPEGtrsregellpfkkGlvrlaakak.....kgvpivPva
+#MATCH     ++p+++ +NH s++D+ ++  l+       ++ +iak e+  +p++g l++l +++f++R+ + ++a++ + i+ ++ eg+ +v+F EGt +    +lpf+  l  +a +a+      +v + P++
+#PP        789******************98.......9***************************************************************999********999999888777777777765
+#SEQ       DRPLLITSNHASWVDITVIGSLM-------PLSFIAKSEVSGWPVFGLLAKLQRTVFVNRTRRTETAQVADAIAGRMAEGDAMVLFAEGTSNDGNCVLPFRSALLGAATRAVgeegtSKVWVQPLS
+Coka_g831.t1      854    957    854    957 PF00919.21  UPF0004           Family     1    98    98    103.7   4.1e-30   1 CL0304   
+#HMM       kvaietlGCqmNevdseelasiLkkkgyelvedeeeAdvvlvnTCavrekaekkviqallelkalk......kpekkvvvlGClaqrekeellkkepevdlvlg
+#MATCH     kv++ t+GCqmN++dse+++++L+ +g+e++ed e+Ad+v++nTC++reka +kv+++l+++++ k      +++++v+v+GC+aq+e+ee+ +++p vd+v+g
+#PP        799*************************************************************99665544377***************************98
+#SEQ       KVFVRTYGCQMNVYDSERMTDVLAPEGFETTEDLEDADLVILNTCHIREKAAEKVYSELGRIRKVKeeraksGKDMMVGVAGCVAQAEGEEISRRAPIVDMVVG
+#CS        XEEEE--S-CCCCHHHHHHHHHTTTSSS----SSS--SEEEEEE--SSSSHHHHTHHHHHHHHTTS......T.--EEEEEEHHHHS-HHHHHHH-TTS-EEE-
+Coka_g831.t1     1009   1182   1008   1182 PF04055.22  Radical_SAM       Domain     2   167   167    109.0   3.2e-31   1 CL0036   
+#HMM       vvtrgCnlrCsfCarpetvrregrgrslsveeileevkelkaekgvkevilgggeplly.........pdfvellerlaklavpgiritvetngtlpd.eeklerllelg..vdrvslgleaaddekvlklmnrghtfeevlealeklreagikr...vvdrivglpGendeeleellell
+#MATCH     +v++gC   C+fC +p+   ++g + s+sv++i+ee++++ a  gv+ev+l+g+++++y         + + +ll+rla+++    r++++t++++++ ++ +++++el   + +++l++++++d+ +lk mnr+ht++++ ++l+++rea  ++     d+ivg+pGe+d+++e++++l+
+#PP        689*************9...7*******************.6778************************************7.*************88****************************.************************.8889**********************986
+#SEQ       TVQEGCDKFCTFCVVPY---TRGAEVSRSVQQIVEEAERM-AVAGVREVTLLGQNVNAYhgeavdgatWGLGRLLRRLAEIE-GLDRLRYTTSHPRDMdDDLIAAHAELKslMPYLHLPVQSGSDK-ILKAMNRRHTRDDYFRLLDRIREA-APDialSGDFIVGFPGETDQDFEDTMDLI
+#CS        EEECEESS--TTTSCCTTHHHHHHHHHHHHHHHHHHHHHHHHHTTSEEEEEESSTGGGS.........TTHHHHHHHHHHTCCCTEEEEEEECSSCH..HHHHHHHHHTT..-SEEEEEEBSSSHHHHHHHHTCTSHHHHHHHHHHHHHHCTSET...EEEEEEEBTTTSHHHHHHHHHHH
+Coka_g831.t1     1420   1623   1419   1623 PF02562.17  PhoH              Domain     2   205   205    286.6   9.1e-86   1 CL0023   
+#HMM       ikpktkeQkeyvealkkndivfaiGpaGtGKtylavalavkalkkkkvkriiltrpaveageelGflpgdleekvdpylrplydaLkdllgaekvekllekgkievaplaymRGrTlndafvilDEAQnttkeqmkmfltRlGenskvvvtGdvtqidlpkkkksGlaealevlknvegieivelkkkdvvRhplvkkivkaye
+#MATCH     i ++t +Q++y++a+++ d++f++GpaGtGKt+lava+a+++l++++v r+il+rpaveage+lGflpg++++kvdpylrp+ydaL++++ aekv++ l++g+ievapla+mRGrTl++a+v+lDEAQntt++qmkmfltRlGe+sk++vtGd++qidlp ++ksGl+eal  l++++++++++++++dvvRh+lv +iv+ay+
+#PP        789******************************************************************************************************************************************************************************************************996
+#SEQ       IVARTPTQDAYIRAMDRADLIFGTGPAGTGKTFLAVAYAAALLERGDVARLILSRPAVEAGERLGFLPGEMKDKVDPYLRPIYDALYEMMPAEKVDRGLQSGMIEVAPLAFMRGRTLSNAVVLLDEAQNTTSMQMKMFLTRLGEGSKMIVTGDPSQIDLPAGQKSGLREALGLLTDIQDVAHIRFTETDVVRHELVGRIVTAYD
+#CS        ----SHHHHHHHHHHHH-SEEEEE--TTSSTTHHHHHHHHHHHHTTS-SEEEEEE-S--TT----SS---------TTTHHHHHHHTTTS-TTCHHHHHHTTSEEEEEGGGGTT--B-SEEEEE-SGGG--HHHHHHHHTTB-TT-EEEEEE--------------THHHHHHTTT-TTEEEEE--GGG----HHHHHHHHHH-
+Coka_g831.t1     1740   1796   1738   1797 PF00571.29  CBS               Domain     3    56    57     20.7   0.00043   1 No_clan  
+#HMM       dimtr..dvvtvppdttleealelmrekgvsrlPVV.dedg..klvGivtlrDllrall
+#MATCH     d+m +  d+  v+ dt+l+ ++el+ ++g+sr+PV  +      + G+v+ +Dl+ +++
+#PP        664333377799*************8888*******52..3345***********9997
+#SEQ       DVMIPraDIDAVDLDTSLSRLMELFQKSGHSRMPVYeE--TldDPRGMVHIKDLMAFIA
+#CS        HHSBS..SCEEEETTSBHHHHHHHHHHHTSSEEEEE.ETTT..BEEEEEEHHHHHHHHH
+Coka_g831.t1     1853   1901   1848   1903 PF00571.29  CBS               Domain     7    55    57     20.8    0.0004   1 No_clan  
+#HMM       rdvvtvppdttleealelmrekgvsrl.PVVdedgklvGivtlrDllral
+#MATCH     r++++vpp+++  +++ +m   ++ ++ +V+de+g   G+v+l+Dl++ +
+#PP        6889***************65557.553499***************9976
+#SEQ       RNLLFVPPSMPATDLMAKMQADRI-QMaLVIDEYGGTDGLVSLEDLVEEV
+#CS        SSCEEEETTSBHHHHHHHHHHHTSSEE.EEEETTTBEEEEEEHHHHHHHH
+Coka_g831.t1     1920   1974   1918   1983 PF03471.18  CorC_HlyC         Domain     3    53    81     28.6   1.1e-06   1 No_clan  
+#HMM       ldegsylvdGsvpldeleeelglelpe.e...dyeTlgGlvlellgriPeegesv
+#MATCH      +eg ++ d ++pl++l   lg++l   e   d++TlgGl+   +gr+P +ge +
+#PP        579**********************99558888*******************944
+#SEQ       DGEGVWIADPRLPLEDLDTVLGTRLTGgEiseDVDTLGGLLYVSIGRVPVRGELL
+#CS        ECTTEEEEETT-BHHHHHHHHTSTTHH.C...T-SBHHHHHHHHH-S---TT-EE
+Coka_g831.t1     2203   2429   2200   2444 PF00795.23  CN_hydrolase      Family     5   230   261     76.2   2.5e-21   1 No_clan  predicted_active_site[2249,2311,2364] 
+#HMM       vQlpq......kaadleanlqklleliae.....AarkgadLivlPElfitgykeeahfleaAeaglgetlallaalarkngiavviglierel..tngklqayntavlldldgklvgkyrKlhLfp.geprpptaverelfep...........gdgipvfdtpvg.kiGaaiCyeigfpellralalkgaeilvnlserapvpksmgppqwellgraralengcfviaanqvggyeqlilwpvghSaiid
+#MATCH     vQ+++      + + +++++q+ll++ ++     A   +a+L+++PE ++++       +    +++g++++  +al +     +v+g  ++e    + ++  yn++++l  dg++ g+y+K++L+p ge+ p + +++ l              g +  v+ t+ g  +  +iCye +fp ++  +  +g  +l+n++++a++++ +gp+q++  +r ra+e+g ++i+a+++g+           Saiid
+#PP        555555555577788899***********555544444*************77.....22....345666665555544.444.44444444455577777..*************************************************9887768999999999**************998.7788999999*9**************************************...........77776
+#SEQ       VQPAIaqtdkwRPELRDEIFQTLLDMTEAplggeARVGQARLVIWPESAVPFL-----LT----QEPGALFRIGKALGA-SSE-LVTGAVRSEPgaVGSSY--YNSVYVLGSDGTVQGIYDKVRLVPfGEYVPFKPLLEMLGITnlagplegfeaGYQPRVLTTSDGfSFLPMICYEAIFPGSYA-NLENGPSFLLNVTNDAWFGQTPGPYQHFGQARLRAIETGLPLIRAANTGI-----------SAIID
+#CS        EEBB-......STSHHHHHHHHHHHHHHH.....HHHTTESEEEEETTTTTBSSSHHHHHHHHBHSSSHHHHHHHHHHHHCTEEEEEEEEEEEC..TTTEEEEEEEEEEEETTSEEEEEEE-SS--E.ECTTSCECCHHCTSCS...........-SSSEEEEETTE.EEEEEEGGGGGSHHHHHHHHHTTESEEEEBC.GCCCTCHHHHHHHHHHHHHHHHHHTSEEEEEEBEEEHCETTEEEE--EEEE-
+Coka_g831.t1     2430   2475   2429   2476 PF01381.23  HTH_3             Domain     9    54    55     30.0     4e-07   1 CL0123   
+#HMM       glsqeeLAeklGvsrstisriEnGernPsletlkklakaLgvslde
+#MATCH     g+sqe+L e+lG++ ++i+++E+G  ++  ++l+ +a  L+v+ ++
+#PP        9*****************************************9876
+#SEQ       GMSQEKLGEALGITFQQIQKYEKGTNRIGASRLQHIATILKVPVSF
+#CS        THHHHHHHHHHTSSHHHHHHHHTTSSCSBHHHHHHHHHHHTSEHHH
+Coka_g831.t1     2523   2622   2523   2622 PF00438.21  S-AdoMet_synt_N   Domain     1    99    99    123.9   3.4e-36   1 No_clan  
+#HMM       kylftSesVseGHPDkvadqisDailDailaedpearvacetlvttglvvvagevttkakv...diekivretikeigYekeelgfdaktcevlvaleeqsp
+#MATCH     +ylftSesVseGHPDkv+d+isDa++Da+l+e pearvacetl+tt+++v+age +  a++    + +++r +ik+igYe+   gf++++c+v v+l++qs+
+#PP        69*****************************************************887777555678999*********86..7****************96
+#SEQ       NYLFTSESVSEGHPDKVCDRISDAVVDAYLREMPEARVACETLATTNRIVIAGETRGPANItneYLAHLARMAIKDIGYEQ--DGFHWENCDVAVHLHAQSA
+Coka_g831.t1     2636   2752   2635   2752 PF02772.17  S-AdoMet_synt_M   Domain     2   120   120    125.3   1.5e-36   1 No_clan  
+#HMM       igAgDqgimfGYAtdeteelmPlpislahklaerlaevrkegeleylrpDaksqvtveYeeelkpvrvdtvvvstqh.deevtqeklredlkekvikkvlkeelldekktkllinptGkF
+#MATCH     +gAgDqgimfGYA++eteelmP+pi ++hk+++ lae+rk+g+ ++l pDaksqvtv+Ye ++kpv  +++v+stqh d+ +t+e++r+ ++  + +++  + ++++ +t +++nptG F
+#PP        7**********************************************************6.99**************999999******99999977776.667766.59********99
+#SEQ       EGAGDQGIMFGYACRETEELMPAPILYSHKILRLLAEARKSGKEPVLGPDAKSQVTVRYE-DGKPVAATSIVLSTQHlDPALTSEDVRKIVAPYINDALP-DGWITD-ETVWHVNPTGAF
+Coka_g831.t1     2754   2896   2754   2896 PF02773.17  S-AdoMet_synt_C   Domain     1   138   138    210.0   1.1e-62   1 No_clan  
+#HMM       iGgpagdaGltGrkiivdtYgglarhgggafsgKdptkvDrsaayaaRyvaknivaaglakkvevqlsYaigvaePvsisvdtfgtgkvsdeeleelvkkvfdlrpaaiiekldLkkpiykktaayghfgre.....elpwek
+#MATCH     iGgp+gdaGltGrkiivdtYgg+a+hgggafsgKdptkvDrsaayaaRy+akn+vaa+la+++++qlsYaigv++P+s++vd +gtg++++++le+++++v+ l+p++i e+l+L++piy++taayghfgre      ++wek
+#PP        8**********************************************************************************************************************************988877789996
+#SEQ       IGGPDGDAGLTGRKIIVDTYGGAAPHGGGAFSGKDPTKVDRSAAYAARYLAKNVVAADLADRCTIQLSYAIGVSDPLSVYVDLHGTGRCDEAKLETALRDVMGLSPRGIREHLKLNNPIYERTAAYGHFGREpdadgGFTWEK
+#CS        S-CCCCS-EETTS-TTTTTTTTSS---S---TTB-TTSHHHHHHHHHHHHHHHHHHTTSBSEEEEEEEE-CT-SS-SEEEEEETT-BST-HHHHHHHHHHH----HHHHHHHCTTTSS--CGGGSS-SSS--.....T-CCCS
+Coka_g831.t1     2940   3103   2939   3105 PF02390.18  Methyltransf_4    Family     3   168   173    118.0     3e-34   1 CL0063   predicted_active_site[3018] 
+#HMM       pvvleiGcGkGeflvalAkknPdknflGiEirvkvvakvlkkiealelkNlrilrgdalkvllelledgslekifilFPDPwfKkrhhKrRllqpellkelarvLkkgGvlelaTDveeyaeemlkvleeeplferlskeeeleeeplsvlriatkyeqkvqskgk
+#MATCH      ++le+G+G Ge+l++ A  nPd+ f+GiE  v ++ak++ ++ a++l+N+r+   da++vl + l+d+sl+  + l+PDPw+Kkrh KrR+++++ l+ +arv+k+g ++++a+D+  y  + l +++ ++ fe + ++ +    p     + t+ye+k+ ++g+
+#PP        589********************************************************999.9***********************************************************************9998876665555.45689999999998875
+#SEQ       TICLEVGFGGGEHLLHRARTNPDVGFIGIEPFVGSMAKAVTAVVAEGLQNVRLYDDDAVNVL-DWLPDASLDLAYQLYPDPWPKKRHWKRRFINEQNLDRYARVIKPGCEFRFASDIDTYIDWTLRHCRTHDAFEWTAETASDWKMPW-DGWPGTRYEAKAIREGR
+#CS        EEEEEET-TTSHHHHHHHHHSTTSEEEEEES-HHHHHHHHHHHHHCTTSSEEEEES-CCCHHHHCS-TTSEEEEEEES-----SGGGGGGSTTSHHHHHHHHHHEEEEEEEEEEESHHHHHHHHHHHHHCSTTEEESSCCCSCCTCHCHHCCCSSTTCCCCCCTTS
+Coka_g831.t1     3123   3195   3123   3195 PF02576.18  DUF150            Domain     1    73    73     81.7   3.9e-23   1 No_clan  
+#HMM       liepvveslglelvdvelskegrgrvlriyidk.eggvtlddcakvSraisalLdvedpiseeYtLEVsSPGld
+#MATCH     ++epv+e+lg++lv+ ++s ++ g +l+i++++ +g++t++dc+++Sra+s+ Ldvedpi+ +Y+LEVsSPG+d
+#PP        69*****************988.99********7777***********************************98
+#SEQ       IVEPVIEDLGYRLVRTKISAAN-GCTLQIMAERpDGTMTVEDCETISRAVSPALDVEDPINRAYHLEVSSPGID
+Coka_g831.t1     3198   3268   3198   3269 PF17384.3   DUF150_C          Domain     1    69    70     34.8   1.4e-08   1 CL0010   
+#HMM       LktaedFarflGelVkvklklpiegrkkftGkivevd..eetitlevdgkkrkkettipladidkArlvpe
+#MATCH     L++a dF+r++G++ kv+   +++grk+f+G+++  d  + ++ l  ++++ + ++ +pl di +A+lv++
+#PP        78899********************************55555666666666666666***********986
+#SEQ       LVRAGDFNRWAGHELKVEMTVMQDGRKRFRGTLLGEDsgAAKLRLPDVKEGEEDTVDLPLQDIGEAKLVLT
+Coka_g831.t1     3301   3421   3301   3421 PF08529.12  NusA_N            Domain     1   120   120    115.7   1.6e-33   1 No_clan  
+#HMM       ElleaieelakekgiskevliealeeaLlkaykkkfgedenveveiDretgeikvfakkeVveeevedpekeisleeakkidpkaevGdiveeev..edfgriaaqtakqviiqkireaere
+#MATCH     Ell++++++a+ek+i++ ++i+a+e+a++ka++ ++g++ +v++ei+++tgei++ +  +Vv e+ve+ ++ei+l++a+  +p+a +Gd++ e++   dfgriaaq+akqvi+qk+reaer+
+#PP        89***********************************9999*********************.77*************999************7778***********************96
+#SEQ       ELLQIADAVAREKSIDRMIVINAMEDAIQKAARSRYGTETEVRAEINPKTGEIRLQRLLQVV-EHVENISTEIALTDAQARNPEAGLGDFIAEPLppLDFGRIAAQSAKQVIVQKVREAERD
+#CS        .CHCCCCCCCCCS---HHHHHHHHHHHHHHHHHCCT-SSS-EEEEE-TTT--EEEEEEEEEE.SS-S-TTTEEEHHHHHCCSTT--TTBEEEEE-..-SSCCHCHHHHHHHHHHHHHHHCCH
+Coka_g831.t1     3526   3592   3526   3594 PF13184.7   KH_5              Domain     1    67    69     88.7     2e-25   1 CL0007   
+#HMM       aGertkvaVkshneniDpvGaivgkkGsrikavsseLngekidvvewseDlaefiknalaPaevlsV
+#MATCH     +G+r+k+aV s++  iDpvGa+vg++Gsr++av+ eL+gekid+++w++  a+fi nal Paev +V
+#PP        69**************************************************************999
+#SEQ       PGSRAKIAVISKDSSIDPVGACVGMRGSRVQAVVGELQGEKIDIIPWNDEAATFIVNALQPAEVAKV
+Coka_g831.t1     4206   4255   4205   4256 PF04760.16  IF2_N             Domain     2    53    54     43.8   1.6e-11   1 CL0123   
+#HMM       skirVseLAkelgvkskeviekLfkelGvmvkshsssLdeetaeliaeefgi
+#MATCH     + i+++eLA+++  ++ +vi+ L+k +G m  ++++ +d++taeliaee+g+
+#PP        679********************99.****.*******************98
+#SEQ       EAITIQELANRMAERAVDVIKLLMK-QGQM-LKINDVIDADTAELIAEEMGH
+Coka_g831.t1     4286   4441   4282   4445 PF00009.28  GTP_EFTU          Domain     6   190   195    111.7   3.2e-32   1 CL0023   
+#HMM       igiiahvDhGKtTLtdrLlyktgaiskkgekaeeervlDtlkeErergiTiksaaisleketkkylinliDtPGhvdFskevirglrvlDgavlvvdaveGvepqteevlrlalkegvplivfiNKmDrleaelkevveevkqklsrkleeklekygekgeeevpvvfgSalkgegvkellealv
+#MATCH     ++i++hvDhGKt+L+d++ ++                     + ++ giT ++ a +++  ++ ++i++iDtPGh+ Fs+   rg++ +D+++lvv+a++Gv+pqt+e + +a++ + p+iv+iNK+D+++a+ ++v +e+ ++        l +  + g  ++  v +Sal+g ++++lle++ 
+#PP        78****************93333..................334678************..****************************************************************************99987554.......55556666..466789***************97
+#SEQ       VTIMGHVDHGKTSLLDAIRKSKV------------------VTGEAGGITQHIGAYQVD--QDGHKITFIDTPGHAAFSQMRARGAKSTDIVILVVAADDGVMPQTKEAIAHAKAADAPIIVAINKIDKPGADPNRVRTELLSEE-------LVVESMGG--DIIDVEVSALNGTNLDKLLEMIL
+#CS        EEEEESTTSSHHHHHHHHHHHCTSSCHHHHHHHHHSTHCHSHHHHHHTSCSSCEEEEEETTESSEEEEEEEESSSGGGHHHHHHHHHT-SEEEEEEETTTBSTHHHHHHHHHHHHTTTEEEEEEESTCSTHHHHHHHHHHHHHHHHHHCHHHHHHHHHTTTTTEEEEEEBTTTTBTHHHHHHHHH
+Coka_g831.t1     4568   4673   4568   4673 PF11987.9   IF-2              Domain     1   106   106    121.1     2e-35   1 No_clan  
+#HMM       leelleeikekelkelnviikaDvqGslEAlkealeklsneevkvkvihagvGaitesDvklasasnaiiigFnvkvdkeakklaekegvkireyniIYkliddvk
+#MATCH     le+++ +++++  ke+++++kaDvqGs+EA+++al++l+neev  +++ +gvG itesD++lasasna i+gFnv+++k+a+++a+++g++ir+yn+IY+l+dd+k
+#PP        688999999889********************************************************************************************97
+#SEQ       LEQMMMSAQNTGRKEFPLVLKADVQGSAEAIAHALNELGNEEVGARILLSGVGGITESDITLASASNAPILGFNVRANKQAREAAARDGIEIRYYNVIYDLVDDIK
+#CS        CCCHHHCCCSCSSSCCEEEEEESSHHHHHHHHHHHHCTT-TTTEEEECEEEESSB-HHHHHHHHHSTEEEEEESSSCTHHHHHCCCCCTSEEEEESSHHHHHHHHH
+Coka_g989.t1       10    365      9    374 PF07958.12  DUF1688           Family     2   379   422    194.6   2.4e-57   1 No_clan  
+#HMM       LrsleavRerckkvlelakegklehfdvdeskleevadfvikiikrdygpklesiPphgRwrHfevggvdriaelleklkkekdelekarrlidLflvsvLlDagagkkwkykekesgekykRseGlavaslemFkaglfssdeeeklqvdaegLkkltaeklakalqvseenplvGlegRaelLkrLgealeekpevfgee..grpgnlvdyllskakkkasskkevelealwevlleglapiWpasrtkidgvslGDvWplsalakskeeeeeslvpfHkLsqWltYSLleplekllglkvegleeltgLpeYrNGGLlvDlgvltlkkealerglkkseeelpafeasdevivewRalTvalLDelaeevreklels
+#MATCH     L + + vR++++ +l+la+eg l+h  vd + l++++ +v++++k++y p+++ iPp+g wr fe+gg+dr++++ ++    +++ e   +  dL+++ + +     ++w+y+++ ++++++  +  a+a+++mF++g fss+ +++++vda++L +++  +la++lq ++++    l+   + LkrLgeal+ +p++fge   +rpg l   l+++       + ++++ ++++  le+lap+W  +  +  ++ lGD+  ++al     ++ ++++pfH  +q ++YSL+ep+ + +g++v+gle+lt+ ++     L+v  gvltlk+++ +         lp  ea  + ++e RalT+al D+lae++ + l++s
+#PP        567899******************************************.9**9.********************998877.568999999*************************************************************************************************************765569******9999655......579*******************.8999999************6...5799***********************.********************************99888.........554.55667788****************99998865
+#SEQ       LFQPQEVRRKAHMLLDLAAEGGLAHVGVDLDLLDTAVATVLETTKENY-PDFQ-IPPYGIWRGFEAGGIDRWQAMASARG-FETAEEMLAAAADLAVLGIAMTTLHPAEWRYEDRMTETAVGGTQASALAAFHMFASGSFSSEMTDPYRVDARALVSMDLIELAAGLQWDDRDDADYLKAMQRHLKRLGEALALRPDLFGEGeaTRPGLLAVQLAKDC------DGTIDAGNVLDRTLEALAPVWE-GGASSGDIWLGDAFVHTALP---GNDVHAIMPFHLAAQQMVYSLVEPFAW-AGFEVTGLEKLTAPADLAHTALFVKSGVLTLKETNGT---------LPP-EAIRDRMIELRALTIALTDKLAERLASGLGMS
+Coka_g989.t1      369    545    365    546 PF14681.7   UPRTase           Domain    23   203   207    194.7   1.2e-57   1 CL0533   
+#HMM       dfrelvkeiarllaeealsallpveevtvttplgkeysgelldeekialVpilRaGegmeealrellpsakvghlglqreeetlepveyynkLPkkiaertvillDpviaTGgsaaaaiqlLkelgvgvekIlvlsvlaseegvkrlaeefpkvkvvtaavDeeldekgyivpGlGDaGDR
+#MATCH      fr+l++ei++ll++e++++ lp+  +t++tpl+++++ +l+ + k+++ ++lRaG+g++e++ +l+psa+v h+gl+r++etl+pveyy k P++++er vi++Dp++aT +sa+aa+q+Lke+g+  ++I++l++la++egv+++ e +p+v ++ta++De+l+ekgyivpGlGDaGDR
+#PP        69******************.*******************9997.*******************************************************************************987..6**************************************************9
+#SEQ       GFRRLLREISTLLCYEVTRD-LPLVRQTIETPLAEMQAPTLAGK-KLVFASVLRAGNGLLEGMLDLVPSARVAHVGLYRDPETLQPVEYYFKAPEDLNERLVIVVDPMLATANSAIAAVQKLKERGA--NNIRFLCLLAAPEGVAKFNEMHPDVPIYTASIDEKLNEKGYIVPGLGDAGDR
+Coka_g989.t1      536    803    521    809 PF00294.25  PfkB              Family    18   295   302    164.7     3e-48   1 CL0118   predicted_active_site[767] 
+#HMM       sekl....egelvevktveksaGGagaNvAvalarlgadvafigavGdDnfGeflleelkkegvdtdyvkidedtrtglalivvdedgertivfnrgaaadltkeeleenedlleeakllyisgllsselpeavleelaeaaknggtfdpnlldplgadfkealkellaladllkpneeElealtgakl..edieealaalhklkakgaktvvvtlGkeGalvvekdgelkvpavpkvkvvDttGAGDsfvggflaallegksleealrfanavAalvvqkkga
+#MATCH     + +l      e+v +++ +  +GG+gaN+A a++r ga+v+++gavG+D f+e  le+l+++gv+ ++v+  ++ +tgla+i +d +ge++i++  g +a  + ++l   e  ++  + l i g    e+p +  +++  +a+ +g    ++ +p++     +l+++++ a+ + +n +E+ a++++ +   d+e+ +++  +     ++ v+vtlG++G+l+ ++++ +++++ pk ++vD+tGAGD+f+g++++al ++ ++e+alr ++a++al+++ + a
+#PP        55555555567889999999**************************************************9999.*****************************997...99999999999999....******************..8999999998.699**************************99*999999999776....679************************.********************************************98876
+#SEQ       VPGLgdagDRETVSGRDHQTFPGGKGANQALAAQRAGAEVRMVGAVGQDSFSELALENLRDSGVELSGVHKLPG-STGLAFIGIDPAGENQIIVASGTNARVDARWL---EGGISRQDTLMIQG----EVPLEETAKACRLARDAG--ASVFWNPAPV-PEGDLRACFEAASTVVVNTSEAIAIAQQLSipGDPESFADRMAT----SERSVIVTLGADGVLARTETNRYRFKS-PKITAVDSTGAGDAFCGAVASALDRNSPFERALREGVAAGALACTVTDA
+#CS        CSSH....TTSEEEESEEEEEEESHHHHHHHHHHHTT-EEEEEEEEESSHHHHHHHHHHHHTTEEETTEEEESSSEEEEEEEEETTTSEEEEEEEEGGGGGHHHHHHHHHHHHHGCTSEEEEESEECTTSHHHHHHHHHHHHHHTTEEEEEECCSSSHHHHHHHHHHHCTESEEEEEHHHHHHHHTSCT..HSHHHHHHHHHHHHHTTSSEEEEEEGGGEEEEEETTEEEEEEE.SSSS-SBGTTHHHHHHHHHHHHHHTTHHHHHHHHHHHHHHHHHHTSSSS
+Coka_g989.t1      829    920    828    920 PF13975.7   gag-asp_proteas   Domain     2    92    92     67.7     1e-18   1 CL0129   predicted_active_site[842] 
+#HMM       kvtingkpvkflvDTGAsstiiseelaerlglsrkpdkgkvevktangeveakrvrlesvkiggielrnveavvlege.ldelLLGldfLkr
+#MATCH     ++++ng+ v++lvDTGA+ t+++e++ae +g+  ++ + +  ++tang++ ++r+ ++ +++g+i+l++v+a+vl++  l + LLG+++L+r
+#PP        6899***********************************************************************98867999*******97
+#SEQ       EARLNGTYVNMLVDTGATVTALPESVAEDIGIFLNEADFTIPINTANGTAYGARTVIDGLRLGNIRLNDVDALVLRNRsLGKPLLGMSVLNR
+#CS        EEEETTEEEEEEEETT-SS-EEEHHHHHHTTGGGGEB..TT--EE-TTSTT-EEEEEEEEEE.EETTEEEEEEEEEES.SSSEEEEHHHHHH
+Coka_g989.t1      943   1074    940   1076 PF02878.17  PGM_PMM_I         Domain     4   136   138     87.1   8.2e-25   1 No_clan  predicted_active_site[949,1038] 
+#HMM       fgtsGlRgkvgegeltpelvlklgqaiaeylkaeakkkkvvvGrDtRvssrelaealaaglaanGvevillgllptPavsfairklkadagimitaSHnppeyngiKvflsdGgpispeveekIeaiiekeee
+#MATCH     f++++ R  ++ +e++   +++lg++i++ +++++ ++ +vvG+D R +s +++ a+++gl+++G++v+++gl+  P+++fa  +l++ a  mitaSHn  + +g+K+   +   + p+++ ++++i+ + e+
+#PP        99********9.77*********************************************************************************************************99999999877765
+#SEQ       FREYDARWLFE-KEINLMGMQALGMGIGTLIHERGVRPDIVVGHDFRSYSSTIKMAVVNGLMSAGINVHDIGLALSPMAYFAQFALDVPAVAMITASHNDNGWTGVKMGIDRPLTFGPDEMGRLKEIVLNAEF
+#CS        BBTTCEEEECCHCTBSCCHHHHHHHHHHHHCHHCSTS-EEEEEE-S-TTHHHHHHHHHHHHHCCT-CEEEEEEB-HHHHHHHHHHCCECEEEEE--TTS-TTCCCEEEEETTTCE--CHHHHHHHHHHCCT-E
+Coka_g989.t1     1092   1188   1090   1188 PF02879.17  PGM_PMM_II        Domain     3   103   103     83.4   1.5e-23   1 No_clan  
+#HMM       YiealkekvdsealkkrglkvvidplhGaggeilkellkelgvdvvelnaepdgdfptkapnpeekealkllielvkkegadlgiafDpDaDRlgvvderG
+#MATCH     Y+++l+e+++     kr++kvv+ +++G++g +++++l+ lg++v++l ae d +fp  +pnpe+ + l+ l + v + ga++g+ fD+D+DR+gvvd++G
+#PP        6666666665....899*********************************************************************************998
+#SEQ       YFKDLTERAK----LKRPIKVVAACGNGTAGAFAPKILEALGAEVIPLDAELDHTFPRYNPNPEDMKMLHALRDKVLEVGAEVGLGFDGDGDRCGVVDNEG
+#CS        HHHHGGGTS-HHHHHHHT-EEEEE-TT-TTHHHHHHHHHHTT-EEEES-----TT-TTSS----TT-TTTTHHHHGGGGG-SEEEEE-TTS-BEEEEETTE
+Coka_g989.t1     1194   1307   1192   1308 PF02880.17  PGM_PMM_III       Domain     3   113   114     59.7   2.8e-16   1 No_clan  predicted_active_site[1264] 
+#HMM       dqllallakylleeklkpgagvvktvmtsl..alervakklgiklvetkvGdkyvlekmkeegavlGgEeSghiiflde..attkDGilaallvleilaet.gkslselleellkk
+#MATCH     d+++++la+++ +  l+p+ + v +v+++    ++ v++++g+k+   k+G++y+++++ e +av+G+E+Sgh++f++     ++DG+++a+++l +l ++ +k++++l ++l+k+
+#PP        999********88..89998999******9344688*****************************************9854557***************9988******9998875
+#SEQ       DKVGVMLARDISA--LHPNSQFVVDVKSTGlfNTDPVLQANGAKTDYFKTGHSYIKRRVTELNAVVGFEKSGHYFFNKPigRGYDDGLVSAIAILDMLDRNpDKTMADLRRDLPKT
+#CS        HHHHHHHHHHHHCHCSTTTCEEEEETTS-T..HHHHHHHHTT-EEEEESSSCHHHHHHHHHTTECEEEETTCEEEETTT..BSS--HHHHHHHHHHHHHHH.TS-HHHHHHHHHHH
+Coka_g989.t1     1320   1401   1320   1403 PF00408.21  PGM_PMM_IV        Family     1    72    74     27.9     2e-06   1 No_clan  
+#HMM       linvrveekakvvaaladllkva...........sikeglkilledGrrlavRpSGTepllrvyvEak.sdeelarlaeevael
+#MATCH     +i+  v +   vva+++d ++++            + +g++++ +dG++  vR+S   p l+v+vE++ s+e+l+ + ++v+ +
+#PP        677778887..88888888776688999999999899************99***********************9998888765
+#SEQ       EIKYDVVDR--VVARFQDMKAKGetvagqaitdlITVNGVRVVSDDGTWGLVRASSNKPELVVVVESPvSEERLHAMFKAVDGV
+#CS        CCCCCHCC-TT..EECCCCCTTH...........HCCCCCCCCGCCEEEE.EEEETTCCEEEEEEEES.SHHHHHHHHHHHHHH
+Coka_g989.t1     1408   1640   1407   1648 PF01263.21  Aldose_epim       Family    62   276   301    190.0   5.9e-56   1 CL0103   predicted_active_site[1504,1634] 
+#HMM       ianGeFeldGkpyqlpqneegknplHGgarg...reWeveevkeddgvtvslvlkpdgeegypgdlevrvtytLnednelkieyeatndgkptpfnltnHtYFnlsge.sidshelqieadeylevdeeliptgelkdvkgtpfdfrqpkaigedlk....glDhayllksk....lkaviidpdkksgiklevsttepalvvytgnflk.........kylsreglaletqmlpd
+#MATCH     +a+++ ++dG+++ql  ne+g+n+lHGga+g   r+W++e+  + ++v ++lv+ +dg+ gypg++ev ++ytL++++ l+++++at+d ++tp+nlt H+YFnl g  +i +h+l+i+ad yl+vde+liptge+ +v +tp+df+++++++++       +Dh+++l+       + ++ + d   ++++ev+ttep+l+++ +++ +         +y  ++gl+le+q+ pd
+#PP        578999***********************************996.*********.**********************************.8****************************************************************879************9999998888888999999*********************************************98
+#SEQ       VAGARMTIDGREHQLDANEKGRNHLHGGAKGfskRIWQLEQSDK-ASVLLKLVS-EDGDMGYPGRVEVLLRYTLTGTGALRMKVTATTD-QTTPVNLTQHSYFNLDGSaTILDHTLEIAADSYLPVDEDLIPTGEVRKVAWTPYDFQDGRKLRRRPGeesvVFDHNFCLSDApranVEFAAALEDSLGERRMEVWTTEPGLQLFDAGGIDvavpglggkRYGPHAGLCLEAQRWPD
+#CS        ECCCEEEETTEEEEBSCSBTTTSEETBSGGG...SB-EEEEEEETTEEEEEEEEEECTCHHSSSEEEEEEEEEEETTEEEEEEEEEEESSSEEEEEEEEEEEEETSCC.TCTGGEEEEEEEEEEEEETTSGEEEEEEETTTEECCCSSSEECCSSCT....EEEEEEEESSS....SEEEEEECTTTEEEEEEEECTSSEEEEEECTTTT.........SEETTEEECCEECCECE
+Coka_g989.t1     1653   1963   1651   1965 PF00850.20  Hist_deacetyl     Domain     3   305   307    234.5   1.8e-69   1 CL0302   predicted_active_site[1785] 
+#HMM       espeRlsailealaeaeglldkleliidpreatkeellrvHseeYlelleelseelkkkeeaselelskses........................kedddtylspksleaaklaagavleavdavlkgevrsafalvrPpgHHAekdkasGFCllNnvaiaakylqkkyglkrvaivDfDvHhGnGtqeifysdpsvltlSiHryeesfyP.gtgsleeigegkgkgktvnvplekgtgdeeylkafeeillpaleefkPelivvsaGfDalkgDplgelnltaegyaeitkkllelaekvckrlvllleGGYnlealarsvtavla
+#MATCH     e p+R + ++++++e  ++ d    +++p+e+    l+rvHs++Y+++le  +e +++  +++e  +                             ++d  t++ +++++aa+++++ +l+a++ vl+ge +safal+rPpgHHA  d   G+C++Nn+a+aa+yl++ ygl+r+ai+D+D+HhGnGtq++fy++p++l+lSiH ++++ yP   g+++e+ge +g g+t n pl+ gt+ e y  a+ee++ + l  +kPe+++vs+G+D +++Dp+++++ t +++ ++ ++l+++      ++++++eGGY  +al++++ +vl+
+#PP        6688888888888886.5543....589*********************998888777663332.23....133447778899999999888876648899***************************96.**************99*********************.**********************************************************************************9.77889****************************************98....88**************99988876
+#SEQ       EIPSRAEIVVKTVRER-NVGD----VVEPEEFPIRPLQRVHSSDYVSFLEGFWELWTSAGRSKE-AF----PfvwpirslrqdvtvnhidgllgrySMDAGTPVGEHTYKAARASVDTALTAAKMVLDGE-KSAFALCRPPGHHAGFDFFGGYCFFNNAAVAAQYLRD-YGLHRIAILDVDYHHGNGTQALFYDRPDILFLSIHADPKDEYPyFLGYADETGEHAGTGFTRNWPLPLGTDWEGYAPALEEAC-RWLLVYKPEAMIVSLGMDCYQHDPISGFKFTNDDFLRLGQRLKKVGV----PTIFVMEGGYAVDALGTNCVNVLE
+#CS        CGTHHHHHHHHHHHHT.THHHHCCE.EE-----HHHHTTTS-HHHHHHHHCHHHHCHHT.TTHCCHHHCCTS........................TSSSSCHCTTTCCHHHHHHHHHHHHHHHHHHTTSSSEEEETTSS--TT-BTTB-BTTBSS-HHHHHHHHHHHCC-SS-EEEEE-SSS--HHHHHHCTT-TTEEEEEEEE-CCTSTT.SS--TT---SGGGTTSEEEEEE-TT-BHHHHHHHHHHCHHHHHCCH--SEEEEEE-STTBTTSTT-S-BB-HHHHHHHHHHHCCCHGS-.G.EEEEE-S---HHHHHHHHHHHHH
+Coka_g989.t1     2015   2243   2010   2264 PF12974.8   Phosphonate-bd    Family     8   222   243    104.8   5.2e-30   1 CL0177   
+#HMM       spaelkeayqpladyLseelGvevelvvatdyaavvealragqvDiaffgplayvqardqagv.eplatrvrpdGsasyrsviivrkdsgiqsledLkgktvafvspsStsGylvpaalLvkeagldpeddfsev.fsgshdsavlavlrgdadaaa............vsadaledlvaegpvekdelrviassppipndpvvvskelsdelkekiqdallslaet.ee
+#MATCH     s + + e+ +p+  ++++  + +v+l+ +++ a +veal++g++D a ++p+ay+++++  g+ epl+t+   d  a++++++++++  + +sl  Lkg ++a++ +++  Gy vp+a L +  g++  + fs+   +++  + ++avl+g+++a +            + a++l+d+  +g    ++l+++++sppip ++ + +k+l+delk+++++ l++l  + ++
+#PP        6778899*****************************************************8755*******755589*******************************************.8********999999*********************66666655555555588888888888889*************************************9974244
+#SEQ       SDETTRERVEPFRLAMEDIADLPVDLFLMDTMADAVEALASGRIDYARLSPSAYAAVHELCGCvEPLVTAAPDDFPARFYAILVAKRAGDPNSLTGLKGTRLAVGGKHAVTGYRVPLANL-AADGINARTHFSTLvEVQDPVEGLRAVLDGRVQASFawstlageakngYTAGTLNDYYVAGGRGFKDLEIVWRSPPIPYSAHALRKDLPDELKRRVRAGLMDLRREaPD
+#CS        -HHHHHHHHHHHHHHHHHHHSSEEEEE--SSHHHHHHHHHTTS-SEEE--HHHHHHHHHHS-E.EEEEEEEETT--SEEEEEEEEETTSS--SHHHHGG-EEEE--TT-TTTTHHHHHHTCCCCT--HHHHSSEE.EE--HHHHHHHHHTTSSSEEE............EEHHHHHHHHHH-HHHHTTEEEEEEEEEEE--EEEEETTS-HHHHHHHHHHHHH---S.HH

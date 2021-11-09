@@ -1,0 +1,227 @@
+# pfam_scan.pl,  run at Fri Dec 18 18:46:46 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Klenit.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Klenit_GAQ77858.1    633    649    632    649 PF00098.24  zf-CCHC           Domain     2    18    18     19.1     0.001   1 CL0511   
+#HMM       kCynCGepGHiardCpk
+#MATCH     +C++CGe+GH+ ++Cp+
+#PP        8***************7
+#SEQ       ACHTCGEIGHYRNQCPQ
+#CS        CTSSSSSSSSTTTTSTS
+Klenit_GAQ77858.1   1428   1551   1427   1609 PF00145.18  DNA_methylase     Domain     2   102   335     31.5   1.1e-07   1 CL0063   predicted_active_site[1520] 
+#HMM       kfidLfaGiGGfrlgleaag.........fecvaaseidkkaaktYeanfk............kvsigDitkidkk...klpediDlLvgGfPCqpfSvaGkqkgfedtrgtLffeiiriikekk
+#MATCH     ++++LfaG+G  + +l + g          +  aa e  ++ ++ ++  f+                +Di+ ++++    l    D++v+G PCq+ S aG  +g ed+r+ L  + +r++ + +
+#PP        899*****************99988855544558999999999999999999777665554433334677777777744444.4************************************98876
+#SEQ       RVLELFAGVGTATQALVRLGynigevmacEKRGAARELHRWSCAQLSLEFPgrmeeracsqlhHRLPQDIQLVSEDhllALG-PLDVVVAGWPCQGNSAAGLGRGLEDERSGLVEDLVRVLHHLQ
+#CS        EEEEES-TT-HHHHHHHHTT.........-EEEEEEE--TTTHHHHHHH-.............-SEEEES-TTTS-...GS--.-SEEEE---GGGTECTSEE--TTSGGGHHHHHHHHHHHHH-
+Klenit_GAQ77858.1   2014   2141   1978   2141 PF00078.28  RVT_1             Family    48   222   222     66.6   2.2e-18   1 CL0027   
+#HMM       grstldavedllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililsks.keelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvtl
+#MATCH                   l++ + ak+++++D+++aF++  +++++r++ af                            +++y++k++p+G+ ++ + f++++++ lr l+      +   ++DD+l++  +  ee+ +l++ v ++lke+glk +p+K+ +      +++v+yLG++l
+#PP        3.............6678999**************************8777.........................89******************************9.....89*********99888999***************************.....9*******975
+#SEQ       V-------------LEALGHAKYYSTIDIRGAFHQLVVRKEDRRKLAFWGS-------------------------TKLYCWKRCPFGARNASAWFQRAIDRTLRGLEG-----FARSFIDDVLVAGGEtLEEHMALVQRVLDRLKEAGLKCHPDKCCFG-----ADSVEYLGMWL
+#CS        H.............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESS.HHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEEE
+Klenit_GAQ77858.1   2232   2333   2230   2333 PF17917.2   RT_RNaseH         Domain     4   105   105    103.6   6.5e-30   1 CL0219   
+#HMM       kpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     ++f++ +D sk+g+g+vL+q +e+g +r+ia+ Sr+ ++ae++ys  e ellA v+ ++ +r+yl+g++ft+ +Dh++lk++l++++l+g+larwa+ Lse+
+#PP        689************************************************************************************9************98
+#SEQ       RSFKVRCDWSKKGVGGVLLQADEQGVDRVIAYGSRSCNPAESRYSSFEGELLAAVYFVRLWRNYLYGERFTLESDHRPLKWILTNNKLTGKLARWAMMLSEF
+#CS        S-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Klenit_GAQ77858.1   2464   2517   2462   2519 PF17921.2   Integrase_H2C2    Domain     3    56    58     57.4   1.1e-15   1 CL0361   
+#HMM       kslrkeilkelHdsagHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrk
+#MATCH     +++r+ +++++H++ gH+G++kt ++l+ +y+W g+ +dv+++v++Ce+C r++
+#PP        5789**********************************************9987
+#SEQ       PAEREALVRDVHEKCGHFGVKKTVSLLSPHYWWVGLAADVQRVVRQCEACDRVR
+Klenit_GAQ77858.1   2840   2886   2839   2887 PF00628.30  PHD               Domain     2    51    52     41.0   1.3e-10   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C  C++ +d+e  +++CdgC+   H+ Cl ppl    +peg+w+C+kC++
+#PP        999***.9************************99..9999********86
+#SEQ       CTRCRR-ADDEASMLLCDGCGAGWHTRCLVPPLA--AVPEGDWFCPKCQT
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Klenit_GAQ80045.1    238    295    236    297 PF00385.25  Chromo            Domain     4    47    54     31.5   1.2e-07   1 CL0049   
+#HMM       erIidhrtdkdgle..............leYlVKWkglpysentWEpeenlekcfqel
+#MATCH     e+Iid r++ d+l+              +eYl KWkg ++ +++W p+e++e+ +q l
+#PP        88999998888888889999999999999***********************998865
+#SEQ       EKIIDWRVVTDRLGadnqlgsprstkkrKEYLLKWKGQSHLHASWVPIEEVEEAAQYL
+#CS        EEEEEEEEETTEEC..............EEEEEEETTSTGGGTEEEEGGGCTSCSHHH
+Klenit_GAQ80045.1    334    382    333    384 PF00385.25  Chromo            Domain     2    52    54     53.2   2.1e-14   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideFk
+#MATCH     +V+r+id+r + + + leYlVKWk+l y+e+tWE e++++    ++i++++
+#PP        6************99.9***********************66.999***97
+#SEQ       TVDRVIDSRHNGEDN-LEYLVKWKELGYDECTWEFEDDIAAF-GDAIERYR
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHH
+Klenit_GAQ80045.1    449    729    438    730 PF00176.24  SNF2_N            Family    51   349   350    222.7   5.3e-66   1 CL0023   
+#HMM       akqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk..............mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH     a q+++  iLaDemGLGKT+q++a +  ++   e+ +        + p+L+v+P s+l++We+e++ ++++ ++ ++v++g  +              ++k++    ++ + ++dv++t+Y+++  +a        lk ++w+ +v+DEgh+lk+ +sk+++a+ +L++++r++ltGTP+qn+l +l++L++fL   +f++ + f++ + +  +   e+++ rL++ll++ mlrr kkdv k +Ppk+e i++++ls++++k+Y+             +l+r+  ++ s+ k ++ + + ++elr++c hp+l
+#PP        67888889*******************333...3333.......347**********************************9889**********9987778888999*****************999......9*************************************************************************988766...9***********************************************............2222222.2222222335577889*********998
+#SEQ       AWQQHKHVILADEMGLGKTIQTIAYVVSLK---EDGA-------SERPHLVVAPLSTLRNWEREFQVWTPQLNVIMYVGSGPARqiirqhefyfkeskKHKHQGGSEKHRHIKFDVLLTSYETVLADA------GILKGIKWDSMVVDEGHRLKSAESKLSKALHDLRSEHRILLTGTPLQNNLDELFMLMHFLDATKFSSLEAFQQEFADIGQ---EEQVVRLHKLLAPHMLRRLKKDVLKAMPPKKELIVRVELSAHQKKLYK------------AVLTRNY-EVLSGGKGQASLSNVVMELRKVCGHPYL
+#CS        HHHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH..............HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Klenit_GAQ80045.1    756    866    752    866 PF00271.32  Helicase_C        Family     5   111   111     64.7     9e-18   1 CL0023   
+#HMM       allell.kleeeggkilifvntidrlek.vklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH      l +++ kl+++g++++if+++++ l+   ++ l+ kg  + +++g+ +   r+  ++qfn   ++++ +L++t++++ Gi++  +++Vi++d ++n+++  q++ R++R g
+#PP        4556668999**************99774444.57889***********************774455669****************************************86
+#SEQ       LLDKMMpKLKAQGHRVIIFSQFTRVLDLlEDW-LNAKGWGYQRIDGSVTGATRQIRIDQFNnpeSKQFVFLLSTRAGGLGINLATADTVIIYDSDWNPHNDLQAMARAHRLG
+#CS        HHHHHH.HHHTTTSEEEEEESSHHHHHH.HHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Klenit_GAQ80045.1    996   1049    985   1053 PF06465.14  DUF1087           Domain     7    60    65     38.5   9.2e-10   1 No_clan  
+#HMM       aekevikekieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvs
+#MATCH     ae + ++ + ee+++   +YWe+LL+ ++E   + +  ++GKG+R+RKq+ Yv+
+#PP        333333444566888889********************************9997
+#SEQ       AEDARLEAELEEEKQRGREYWEELLRSRWEDAYVRQEVEMGKGRRSRKQIRYVE
+Klenit_GAQ80045.1   1102   1220   1081   1222 PF06461.12  DUF1086           Domain    20   135   138    131.6   1.7e-38   1 No_clan  
+#HMM       plPllegegkslevLGFnerqRkaflnalmRyGvgdfdskelvrelkqktedeikaYgslFlrHlaeega...dnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipgkpvl
+#MATCH     p Pllegegk l+vLGF+++qR++f+++lmRyG+ d d+ e++++l +k    ik+Y++lFl+H++ee++    + +tf DGvPkeGl++ dvl+r+av++L+ +kvkel++ p+++vl
+#PP        56****************************************************************99861114568************************************998876
+#SEQ       PPPLLEGEGKGLKVLGFSHKQRTTFVKTLMRYGFSDPDWTEFTNRLPNKPLPLIKEYAALFLSHIIEEEEgtsAGLDTFKDGVPKEGLRVSDVLTRLAVVQLIADKVKELDADPAASVL
+Klenit_GAQ87975.1   2222   2327   2194   2330 PF00078.28  RVT_1             Family    62   197   222     49.5   3.8e-13   1 CL0027   
+#HMM       lkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglk
+#MATCH      ++ +++ ++++lDl+ ++++++ +e ++ + af  +                           +y   ++p+G +++P+lf+++m+++lr+lrk     +  +++DDi +++++ +++ ++l+av++ l+++++k
+#PP        5678999**********************99998888.........................89******************************9.....99******************************9986
+#SEQ       FDDLGGSDCFSTLDLRMGYHQIRIREGDEWKLAFWGH-------------------------DDIYMPLRTPFGPKNAPALFQRLMDRVLRQLRK-----VARAFIDDISVHARGFTDHLAALRAVFQELRRHNIK
+#CS        HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--
+Klenit_GAQ87975.1   2415   2519   2415   2519 PF17917.2   RT_RNaseH         Domain     1   105   105    109.3     1e-31   1 CL0219   
+#HMM       dpskpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     dps+ ++l+tD s  g+ga+L+qr++ geer++a+aSr+ ++ae+nys +  e+lA vw ++ fr yl+g+kf+++tDh++l++l+++ +l+g  arwal L+e+
+#PP        8999**********************************************************************************99999************98
+#SEQ       DPSRDYELHTDWSAAGCGAILQQRDDAGEERVVAYASRSNNRAESNYSSYAGECLAAVWGVRYFRVYLYGRKFILYTDHRPLEWLMTSPNLTGMHARWALMLQEF
+#CS        -TTS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Klenit_GAQ87975.1   2724   2778   2722   2779 PF17921.2   Integrase_H2C2    Domain     3    57    58     58.3   5.7e-16   1 CL0361   
+#HMM       kslrkeilkelHdsagHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     +s+r  +++++Hd  gH G ++t ++lrr y+Wpgm+ +v + v+sC++C r+k+
+#PP        68999************************************************98
+#SEQ       PSERLNVVRKIHDYTGHWGEKRTAQLLRRAYWWPGMYDTVSHGVSSCPQCERTKA
+Klenit_GAQ87975.1   2796   2889   2794   2889 PF00665.27  rve               Domain     5   102   102     34.7   1.7e-08   1 CL0219   
+#HMM       gelwqvDvt.viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     g +w+ D+   +  +++ +k ++lv++  fs+++  +a+++++sa+++  +l   + +fg     +vl+Dng+e+   +f +++++l  ++++t +++p
+#PP        789******7666.667779**********************66666655555.8888888..68***********.8*******************98
+#SEQ       GYRWSLDFAgPLL-MTRTKKRFVLVIVEHFSKWCELVALPSKHSAKVAEVFLG-ILTRFGA--CAEVLTDNGKEFE-GEFDTLCQKLYLDHRTTSRYHP
+Klenit_GAQ87975.1   3057   3104   3057   3105 PF00628.30  PHD               Domain     1    51    52     38.8   6.2e-10   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     +C+vCk+  + ++ +++Cd C + +H+ Cl++ ++  e+p g wlC++C e
+#PP        5******.999**********************99..99999*******75
+#SEQ       VCQVCKS-PNRQGAMLLCDYCMDGYHMGCLELAVK--EVPAGVWLCPSCAE
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Klenit_GAQ89224.1     30     82     27     83 PF17921.2   Integrase_H2C2    Domain     5    57    58     63.4   1.5e-17   1 CL0361   
+#HMM       lrkeilkelHdsagHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     +r+++++++H++agH+G++ktl++l  +y+W g+ +dv ++v+ Ce+C r+k+
+#PP        699***********************************************996
+#SEQ       ERERLIRDVHERAGHFGVKKTLSLLAPHYWWLGLATDVAQVVRGCEACDRVKA
+Klenit_GAQ89224.1    404    450    397    451 PF00628.30  PHD               Domain     2    51    52     39.0   5.6e-10   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C  Ckk ++   ++++CdgC+   H +Cl+ pl+   +peg+w+C +C++
+#PP        999***.999************************..9999********86
+#SEQ       CTRCKK-ATGAARMLLCDGCGAGWHLECLDQPLS--AVPEGDWYCGRCRT
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Klenit_GAQ89454.1    341    464    313    465 PF00078.28  RVT_1             Family    62   221   222     61.1   1.1e-16   1 CL0027   
+#HMM       lkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGvt
+#MATCH      ++ +++ ++++lDl+ ++++++ +e ++ + a++ +                           +y   ++p+G +++P+lf+++m+++lrelr      +  +++DD+++++k+  ++  +l+ v++ l+++++k++p+K++++       e+ +LG+ 
+#PP        4567899**************************8887..........................789****************************9.....99*******************************************.....5999999985
+#SEQ       FDDLGESDCFSTLDLRMGYHQIRIREGDEWKLALGHD--------------------------DLYMPLRTPFGPKNAPALFQRLMDRVLRELRA-----FARAFIDDTIVHAKGFRAHLDALRGVFTELRRHNIKVHPKKIRIL-----FPEIPFLGHM
+#CS        HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTEE
+Klenit_GAQ89454.1    537    639    535    639 PF17917.2   RT_RNaseH         Domain     3   105   105    111.1   2.9e-32   1 CL0219   
+#HMM       skpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     +k+f+l+tD s  g+ga+L+qr++ geer++a+aSr+ ++ae+nys +  e+lA vw ++ fr yl+g++f+++tDh++l++l ++ +l+g  arwal L+e+
+#PP        79**************************************************************************************9************98
+#SEQ       RKEFELHTDWSAAGCGAILQQRDDAGEERVVAYASRSNNKAESNYSSYAGECLAAVWGVRYFRVYLYGARFILYTDHRPLEWLVTNPNLTGMHARWALMLQEF
+#CS        TS-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Klenit_GAQ89454.1    845    898    842    899 PF17921.2   Integrase_H2C2    Domain     4    57    58     55.6   4.2e-15   1 CL0361   
+#HMM       slrkeilkelHdsagHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     + r  +++e+Hd  gH G ++t ++l+r+y+W gm+k+ ++ v sC++C r+k+
+#PP        78999***********************************************98
+#SEQ       QQRDNLVREIHDFTGHWGEKRTVHLLKRTYWWAGMYKTAQDGVASCQQCDRTKA
+Klenit_GAQ89454.1   1193   1239   1192   1240 PF00628.30  PHD               Domain     2    51    52     39.0   5.7e-10   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C++Ck+    + ++++Cd C + +H+ Cl+p ++  e+p+g wlC++C++
+#PP        ******.999**********************99..99*9********97
+#SEQ       CQICKS-PGRQATMLLCDYCLEGYHMGCLEPAVK--EVPKGVWLCSSCTQ
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Klenit_GAQ92421.1    155    209    153    210 PF17921.2   Integrase_H2C2    Domain     3    57    58     38.0   1.3e-09   1 CL0361   
+#HMM       kslrkeilkelHdsagHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     ++ r  +++++H + gH+G++kt+++l  +y W +m  +v+  v+s ++C r+k+
+#PP        678999**********************************************997
+#SEQ       PDQRANLIRRVHMDIGHFGVKKTYSLLEPTYSWVSMFGQVETEVSSFVVCDRVKA
+Klenit_GAQ92421.1    446    483    445    490 PF00628.30  PHD               Domain     2    37    52     32.2   7.1e-08   1 CL0390   
+#HMM       CsvCkk..ksdeeeelvqCdgCkrwfHqkClkpplese
+#MATCH     C+vC++  ++   + +++Cd+C++  H+kCl+pp+++ 
+#PP        ******987888**********************9854
+#SEQ       CEVCHEtaANRRTGPMLLCDSCDSGWHMKCLTPPVKKP
+#CS        BTTTTS..TTSTTSCEEEETTTSCEEETTTSTSTHSHH
+Klenit_GAQ92584.1     83    206     82    266 PF00145.18  DNA_methylase     Domain     2   102   335     32.3   6.5e-08   1 CL0063   predicted_active_site[175] 
+#HMM       kfidLfaGiGGfrlgleaag.........fecvaaseidkkaaktYeanfk............kvsigDitkidkk...klpediDlLvgGfPCqpfSvaGkqkgfedtrgtLffeiiriikekk
+#MATCH     ++++LfaG+G  +  l + g          +  aa e  ++a++ ++a f+                +Di+ +  +   +l    D++v+G PCq+ S aG  +g +d+r+ L  e +r++ + +
+#PP        899*****************9998885544556899**************99988776554433334567766666755455.4*************************************9887
+#SEQ       RVLELFAGVGTATQTLVRLGytvgeviacEKRGAARELHRWAVAQLSAEFPgrigeragvqlhHRLPQDIQLVGADhllSLG-PLDVVVAGWPCQGSSAAGLGRGLDDPRSGLVGELVRVLHHLQ
+#CS        EEEEES-TT-HHHHHHHHTT.........-EEEEEEE--TTTHHHHHHH-.............-SEEEES-TTTS-...GS--.-SEEEE---GGGTECTSEE--TTSGGGHHHHHHHHHHHHH-
+Klenit_GAQ92584.1    691    815    665    816 PF00078.28  RVT_1             Family    62   220   222     58.8   5.5e-16   1 CL0027   
+#HMM       lkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililsks.keelqelleaveewlkesglkinpeKtklvlftvkseevkyLGv
+#MATCH     l++ + ak ++++D+++aF++  +++++r++ af                            +++y++k++p+G+ ++ + f++++++ lr l++     +   ++ D+l++  +  ee+ +l++ v ++l+e+glk +p+K+ +      +++v+yLG+
+#PP        56678999*************************8777.........................89******************************9.....89*********9988799****************************.....9*******8
+#SEQ       LDALGHAKFYSTIDIRGAFHQLVVKKEDRRKLAFWGS-------------------------TKLYCWKRCPFGARNASAWFQRAIDRTLRGLEE-----FARSFINDVLVAGGDtLEEHMALVQRVLNRLREMGLKCHPDKCCFG-----ADSVEYLGM
+#CS        HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESS.HHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTE
+Klenit_GAQ92584.1    908   1009    906   1009 PF17917.2   RT_RNaseH         Domain     4   105   105    105.3   1.9e-30   1 CL0219   
+#HMM       kpfqletDAskdgigavLsqreedgeerpiafaSrklsgaernystiekellAivwalkkfrhylqgkkftvitDhknlkyllskkslngrlarwaleLsey
+#MATCH     ++f++ +D sk+g+g+vL+q +e ge+r+ia+ Sr+ ++ae++ys  e ellA v+ ++ +r+yl+g++f++ +Dh++lk++l++++l+g+larwa+ Lse+
+#PP        689************************************************************************************9************98
+#SEQ       RKFKVRCDWSKKGVGGVLLQADEAGEDRVIAYESRSCNPAESRYSSFEGELLAAVYFVRLWRNYLYGEQFRLESDHRPLKWILTNTKLTGKLARWAMMLSEF
+#CS        S-EEEEEEECTEEEEEEEEEETTE..EEEEEEEEEE--HHHHTS-HHHHHHHHHHHHHHHHHHHHTS--EEEE-SS--TTTTT----.---HHHHHHHC-XX
+Klenit_GAQ92584.1   1107   1160   1105   1162 PF17921.2   Integrase_H2C2    Domain     3    56    58     59.2   3.1e-16   1 CL0361   
+#HMM       kslrkeilkelHdsagHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrk
+#MATCH     ++ r+ +++++H++ gH+G++kt ++l+ +y+W g+ +dv+++v++Ce+C r++
+#PP        57899*********************************************9987
+#SEQ       PEAREALIRDVHERCGHFGVKKTVSLLSPQYWWVGLAADVQRVVRQCEACDRVR
+Klenit_GAQ92584.1   1483   1529   1482   1530 PF00628.30  PHD               Domain     2    51    52     41.9   6.9e-11   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C  C++ +d+e  +++CdgC+   H+ Cl ppl    +peg+w+C++C+ 
+#PP        999***.9************************99..9999********85
+#SEQ       CTRCRR-ADDEASMLLCDGCGAGWHTRCLVPPLA--AVPEGDWFCPRCQA
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Klenit_GAQ92744.1      1     53      1     54 PF17921.2   Integrase_H2C2    Domain     5    57    58     42.8     4e-11   1 CL0361   
+#HMM       lrkeilkelHdsagHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     +r  +++++H++ gH G+ kt+ +l+ +y+W gm+ +v++ v   ++C r+k+
+#PP        6889**********************************************997
+#SEQ       MRASLIRRVHQDVGHYGVLKTYLLLSPTYWWVGMYGQVQHEVAGYTVCDRVKA
+Klenit_GAQ92744.1    328    372    327    375 PF00628.30  PHD               Domain     2    49    52     31.3   1.4e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekC
+#MATCH     C+vC+k ++   ++++Cd+C++  H+ Cl+pp++  + p+g+ +C++C
+#PP        ******.999**********************99..888889******
+#SEQ       CQVCHK-TTGAPKMLLCDNCDEGWHMHCLTPPVK--RMPKGNCFCPRC
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTT
+Klenit_GAQ93509.1     26     80     24     81 PF17921.2   Integrase_H2C2    Domain     3    57    58     53.1   2.5e-14   1 CL0361   
+#HMM       kslrkeilkelHdsagHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrrkp
+#MATCH     +++r  +++++H++ gH G++kt+++l  +y+W gm+ +vk  v +C++C r+k+
+#PP        578999**********************************************997
+#SEQ       PEHRVNLIRRVHQDVGHYGVKKTYSLLEPTYWWTGMYGQVKYEVAACTACDRAKA
+Klenit_GAQ93509.1     99    191     96    191 PF00665.27  rve               Domain     6   102   102     49.0   5.9e-13   1 CL0219   
+#HMM       elwqvDvtviripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH      +w vD  ++++p+++g  y+ v+i  f++++  + ++ + + ++++a+l+r +  fg   p +vl+D+g e+   +f e+l +l i++++t +g+p
+#PP        68**************************************.******************..*************.8******************998
+#SEQ       YRWGVDLCKMPVPSQDGNRYVVVMIEHFTKWVELVPIPEK-TPEHTAAALKRVLTMFGA--PAEVLTDQGDEFL-GEFDELLTRLMIDHRRTSRGHP
+Klenit_GAQ93509.1    511    557    510    558 PF00628.30  PHD               Domain     2    51    52     43.5   2.2e-11   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C+vC+k    + ++++Cd+C++  H+kCl+ppl   +kp+g+w+C++C+ 
+#PP        ******.889**********************99..888999******86
+#SEQ       CQVCHK-VSGGLNMLLCDKCDDGWHMKCLDPPLY--RKPKGDWICPRCDV
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT

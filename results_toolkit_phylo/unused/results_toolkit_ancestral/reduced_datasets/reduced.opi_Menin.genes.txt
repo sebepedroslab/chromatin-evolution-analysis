@@ -1,0 +1,9 @@
+Bilateria|Apla_XP_022108550.1
+Bilateria|Cscu_XP_023227392.1
+Bilateria|Dpul_EFX65871
+Bilateria|Spur_XP_030855109.1
+Bilateria|Tcas_XP_969971.1
+Cnidaria|Adig_XP_015758890.1
+Cnidaria|Exapal_XP_020901909.1
+Cnidaria|Nvec_NVE19573
+Cnidaria|Spis_XP_022807053_1

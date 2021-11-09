@@ -1,0 +1,7 @@
+in_gene	out_gene	branch_support	ev_type	sos
+Obazoa|Sros_EGD82056	SARHap|Ngad_EWM29084	76.0	S	0.0
+ArchaeCry|Acoe_PIA25673.1	Obazoa|Hsap_ENSP00000383333.1	86.0	S	0.0
+ArchaeCry|Acoe_PIA25673.1	CRuMs|Rigram_Gene.19821	86.0	S	0.0
+ArchaeCry|Otau_XP_022839927.1	SARHap|Aplker_99154	100.0	S	0.0
+CRuMs|Rigram_Gene.19821	Obazoa|Hsap_ENSP00000383333.1	100.0	S	0.0
+ArchaeCry|Otau_XP_022840135.1	SARHap|Plabra_CEP01278	100.0	S	0.0

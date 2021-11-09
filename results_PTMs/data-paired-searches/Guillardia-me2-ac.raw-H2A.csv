@@ -1,0 +1,4 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Gthe_96636|Histone_H2A	Gthe_96636|Histone_H2A	H2A	FALSE	MAGED GGKGG KGGKG GK	Me2	K	8				99.99	MAGEDGGKGGKGGKGGK	res
+Gthe_96636|Histone_H2A	Gthe_96636|Histone_H2A	H2A	FALSE	MAGED GGKGG KGGKG GK	Me2	K	14				99.99	MAGEDGGKGGKGGKGGK	res
+Gthe_96636|Histone_H2A	Gthe_96636|Histone_H2A	H2A	FALSE	MAGED GGKGG KGGKG GK	Me2	K	17				99.99	MAGEDGGKGGKGGKGGK	res

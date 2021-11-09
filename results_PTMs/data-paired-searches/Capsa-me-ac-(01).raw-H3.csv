@@ -1,0 +1,8 @@
+Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
+Cowc_CAOG_01816|Histone_H3	Cowc_CAOG_01816|Histone_H3	H3	FALSE	KTAPA TGGVK KPHR	Me1	K	10				49.98	KTAPATGGVKKPHR	res
+Cowc_CAOG_01816|Histone_H3	Cowc_CAOG_01816|Histone_H3	H3	FALSE	KTAPA TGGVK KPHR	Me1	K	11				93.86	KTAPATGGVKKPHR	res
+Cowc_CAOG_01816|Histone_H3	Cowc_CAOG_01816|Histone_H3	H3	FALSE	KTAPA TGGVK KPHR	Me1	K	11				49.98	KTAPATGGVKKPHR	res
+Cowc_CAOG_07177|Histone_H3	Cowc_CAOG_07177|Histone_H3	H3	FALSE	KSTGG KAPR	Me1	K	1				92.27	KSTGGKAPR	res
+Cowc_CAOG_07177|Histone_H3	Cowc_CAOG_07177|Histone_H3	H3	FALSE	EIAQD FKTDL R	Me1	K	7				100	EIAQDFKTDLR	res
+Cowc_CAOG_07177|Histone_H3	Cowc_CAOG_07177|Histone_H3	H3	FALSE	KTAVT SGGVK KPHR	Me1	K	10				96.61	KTAVTSGGVKKPHR	res
+Cowc_CAOG_07177|Histone_H3	Cowc_CAOG_07177|Histone_H3	H3	FALSE	KTAVT SGGVK KPHR	Me1	K	10				93.89	KTAVTSGGVKKPHR	res

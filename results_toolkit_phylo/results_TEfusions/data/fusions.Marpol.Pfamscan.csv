@@ -1,0 +1,127 @@
+# pfam_scan.pl,  run at Fri Jan 22 09:16:35 2021
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Marpol.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Marpol_PTQ28491     53    145     51    146 PF00855.18  PWWP              Domain     3    95    96     48.7   7.9e-13   1 CL0049   
+#HMM       pgdlvwakvkgypwWPavvvdpeevpekvlkkkekskelylVkFfgdkey...awvkekdlkpfteedeeeylekkkkkkskkkfkkAleeaeeal
+#MATCH       +lvwak ++  wWPa vv  +e+pe+ +k++e    + +Vk++g +     aw+k++dl +++ + ee+ ++      ++++fk A+ ea+ea+
+#PP        578*************************9976654...89*****97775678*************99777777766667777*********9986
+#SEQ       RHTLVWAKRDNGVWWPAKVVGVDEIPEDLKKQEEG---WTCVKYYGIDVAqafAWLKSEDLCSYDNHLEEYSKQHLPDGIKADEFKSAMTEAQEAA
+#CS        TTEEEEEEESSSEEEEEEEEECCCCCCCCHCT---SSSEEEEEETTTTEE...EEE-GGGEEE-SHHHHHHHHHTTSS-HHHHHHHHHHHHHHHHH
+Marpol_PTQ28491    304    347    303    348 PF00628.30  PHD               Domain     2    51    52     35.9   5.2e-09   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     C vC      +++l++Cd C r +H +Cl+ppl+  + p g+w+C+ Cke
+#PP        99***9....9***********************..777789******96
+#SEQ       CMVCDM----GGDLLCCDLCPRVYHLECLSPPLK--RTPPGKWICPVCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Marpol_PTQ28491    497    539    496    541 PF00628.30  PHD               Domain     2    50    52     38.8   6.4e-10   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     C++C++    ++++++Cd C r +H++Cl+pp +  + p+g w C+kC 
+#PP        ******....9*********************88..888899******6
+#SEQ       CDICQQ----DGFVILCDVCPRGYHKDCLSPPRK--RAPKGAWSCPKCG
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Marpol_PTQ28491    950    999    948   1000 PF00385.25  Chromo            Domain     3    52    54     40.9   1.4e-10   1 CL0049   
+#HMM       VerIidhrtdkdgleleYlVKWkglpysentWEp.eenlekcfqelideFk
+#MATCH     ++rI+++r+ k+    e +VKW+gl+y+++tWE   e + k+++el++++ 
+#PP        68************.******************97889***********95
+#SEQ       PQRIVAKRVGKGSV-NEVFVKWCGLSYEDCTWELtSEPVVKKSEELVQAYD
+#CS        EEEEEEEEEETTEECEEEEEEETTSTGGGTEEEE.GGGCTSCSHHHHHHHH
+Marpol_PTQ28491   1063   1339   1051   1339 PF00176.24  SNF2_N            Family    52   350   350    195.4   1.1e-57   1 CL0023   
+#HMM       kqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk..........mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpqlv
+#MATCH      + +r+ iLaDemGLGKT+ + ++++   a +++ k       ++ p L++vP s++ +W  e+  +++s ++  ++++ + +            +  +  + k++ +++v++ttY+++ +++      s+l ++ w+ +v+DEgh+lkns sk+ + ++++s s+r++ltGTP+qn+ ++++ Ll+fL+++ f +   f++ ++  ++    +++++L +l++++mlrr kkd ++++Ppkte ++ +++++v+ ++Y+    +l +k  + l++      k++s     +l+++++lr++cnhp+l+
+#PP        5788999*******************...4444444.......348************************9775555555555******99994444455678999**************999......9***************************************************************************9999...999*********************************************....5556666666665....35666.....9**************985
+#SEQ       WHRQRNVILADEMGLGKTISASSFLA---AVHHEFK-------VKAPCLVLVPLSTMPNWLAEFSLWAPSLNVIEYHGSAKARtiirehewhaIAPDGSGKKLKQVYKFNVMLTTYEMVIQDS------SQLRAIPWEVLVVDEGHRLKNSGSKLFTLLNTFSFSHRVLLTGTPLQNNFSEMFNLLNFLQPDTFPSLAAFEEKFSGLST---AEQVEELKKLVAPNMLRRLKKDSMQKIPPKTELVVPVEMNSVQSEYYK----ALLTKNYLLLRNG----AKQQS-----MLNIVMQLRKVCNHPYLI
+#CS        HHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH..........HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCCC
+Marpol_PTQ28491   1363   1476   1361   1476 PF00271.32  Helicase_C        Family     3   111   111     64.3   1.2e-17   1 CL0023   
+#HMM       leallell.kleeeggkilifvntidrlek.vklllekk.gikvavlhgelpqnereeileqfnkgesd..vLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     l  l  +l kl+++g+++lif++ ++ l+   ++l+ ++ +  + +++g+ +  er+ ++++fn+++s+  +L++t+  + Gi++  +++Vi++d ++n++  iq++ R++R+g
+#PP        55566677999***************9988889998888667889*******************655554599***************************************97
+#SEQ       LMLLHSMLgKLKADGHRVLIFSQMTKLLDIlEDYLTYQFgSEAFERVDGSVSVAERQTAIARFNQDTSRfvFLLSTRSCGLGINLATADTVIIYDSDFNPQADIQAMNRAHRIG
+#CS        HHHHHHHH.HHHTTTSEEEEEESSHHHHHH.HHHHHHHT.TSCEEEESTTSTHHHHHHHHHHHHTTSSS..EEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Marpol_PTQ28491   1658   1699   1637   1702 PF06465.14  DUF1087           Domain    21    62    65     37.5   1.8e-09   1 No_clan  
+#HMM       sedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsve
+#MATCH     +e+ + W+kLLk ++E  q+ee  aLG+GKR RK v Y++ +
+#PP        567788*******************************98765
+#SEQ       AEEENQWDKLLKSRWETMQAEEEAALGRGKRLRKAVSYIESN
+Marpol_PTQ39907   1060   1096   1042   1096 PF00385.25  Chromo            Domain    18    54    54     25.8   7.3e-06   1 CL0049   
+#HMM       leYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     ++Y+VK+k+l++ +n W  e++l+k ++++++ Fkkr
+#PP        79*********************************97
+#SEQ       KQYFVKYKNLSHIHNAWVCETELKKAAPKMLETFKKR
+#CS        EEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Marpol_PTQ39907   1243   1379    965   1413 PF00176.24  SNF2_N            Family    56   210   350     49.4   2.8e-13   1 CL0023   
+#HMM       rGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk.mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwi
+#MATCH     ++ ++ De    +T +++a++l    +ee             p+L++vP + ++ We+e+ r ++   + v++++ + +   ++++ +  +   ++++v+tt+dv + ++      ++l++ ew+ vvlDEgh+ + ++s  ++    + + +r+i
+#PP        4455555555555555555555..2222222........3458*********************999998888877766345556666678899*************999......9****************988776654443...33566666
+#SEQ       HNTLMVDESDQERTRTAVAFLL--SLIEEYG--------SFRPILVIVPLNGCQMWESELLRSAEHVYTVVYTGSTSGRsVIQRHELNPSEKPIKFQIVLTTFDVANIDH------DHLMKFEWEAVVLDEGHRSRVTKSYRHMQ---FIAPHRLI
+#CS        --EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH.HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEE
+Marpol_PTQ39907   1779   1820   1766   1824 PF06465.14  DUF1087           Domain    18    59    65     24.5   2.1e-05   1 No_clan  
+#HMM       enesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYv
+#MATCH     e  ++ +++W  +Lkd+Y   q + l++ GKG R+RK v Y 
+#PP        35567789*******************************884
+#SEQ       EDGETVKKFWSSMLKDRYTGLQDDDLTNGGKGLRSRKRVHYG
+Marpol_PTQ46597     77    120     77    122 PF00628.30  PHD               Domain     1    50    52     32.0   8.7e-08   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCk
+#MATCH     +C vC+     +++l++Cd+C   +H  Cl+ppl+    p+g+w C  C 
+#PP        699***9....9***********************..888899******6
+#SEQ       FCGVCGL----GGKLLCCDTCPAVYHLGCLDPPLK--IAPMGKWSCHICV
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTH
+Marpol_PTQ46597    127    182    125    188 PF00385.25  Chromo            Domain     4    43    54     32.4   6.5e-08   1 CL0049   
+#HMM       erIidhrtdkdgle................leYlVKWkglpysentWEpeenlekc
+#MATCH     e+I+d +++  ++                 ++YlVKW+g +y +++W  +e+l+k 
+#PP        6777777666555566667778888888899**********************986
+#SEQ       EKIVDCQMKPLKGPnrsgaeegagpssrlvKQYLVKWRGKSYLHCSWVKQEELDKA
+#CS        EEEEEEEEETTEEC................EEEEEEETTSTGGGTEEEEGGGCTSC
+Marpol_PTQ46597    222    268    221    269 PF00385.25  Chromo            Domain     2    51    54     47.0   1.8e-12   1 CL0049   
+#HMM       eVerIidhrtdkdgleleYlVKWkglpysentWEpeenlekcfqelideF
+#MATCH     +V+rI+d+r + d +  eY+VKWk+l y+e tWE e++++   q  i+++
+#PP        6**************..***********************88.8889988
+#SEQ       TVDRILDSRQNGDVK--EYFVKWKDLGYDELTWEAEDDIAPF-QAEIHKY
+#CS        EEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHH
+Marpol_PTQ46597    329    621    319    622 PF00176.24  SNF2_N            Family    50   349   350    190.0   4.7e-56   1 CL0023   
+#HMM       eakqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk.........................mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH     +a q+ + +iLaDemGLGKTvq++a+++a+   ee         +   p+Liv+P+ +l++We+e+ ++++  ++  + ygg+++                         ++    +++++   ++dv++t+ +++  ++      s lk+++w+++++DEgh+lkn++ k+ ++v+ +++++r++ltG P++n++ +l  L++fL  +++ + + f++ + +  +   e+++ +L +ll + m+rr+k+dv ++lP k+e i++++l++ ++ +Y+            k+l+r+   l+     +  + + ++elr+ c hp +
+#PP        56789999********************333..3333.......45699*********************98876..5555555557*******************9886333345666777789************999......9*************************************************************************988777...9***********************************************............333333333333332223466788999999999977
+#SEQ       FASQQEKHCILADEMGLGKTVQTIAFLAALA--EEGL-------PFPLPHLIVAPTPTLQNWEREFSTWAPHLNV--VLYGGSSEarafirdfefyypnklkglkdkskkKQMADLRQSKQERIKFDVLLTSHEMVGLDH------SILKAIKWECLIVDEGHRLKNKDLKLFQTVEAFNARQRVLLTGAPLPNNMDELLVLMHFLAANKYVSLEEFQEEFRDLHH---EEQIMKLQKLLTPHMMRRVKRDVLRELPTKKELILRVELTPLQKDYYK------------KILTRNYQVLSRPGGPQIALNNVMMELRKLCAHPFM
+#CS        HHHHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH.........................HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Marpol_PTQ46597    649    754    644    755 PF00271.32  Helicase_C        Family     6   108   111     50.4   2.5e-13   1 CL0023   
+#HMM       llell.kleeeggkilifvntidrlek.vklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtg
+#MATCH     l +++ kl+++g+++li+++++++l+   ++ll  k+  + +++g+++  +r+  +++fn     ++ +L++t+ a+ Gi++ ++++Vi++d ++n++   q++ R++
+#PP        33334799*****************88666664.556***********************76334455777776.68*****************************96
+#SEQ       LERMMaKLRVQGHRVLIYSQFTRMLDIlEEWLL-YKKWGYERIDGKINGADRQIRIDRFNapnPTKFCFLLSTQ-AGVGINLASADTVIIYDSDWNPHADLQAMARAH
+#CS        HHHHH.HHHTTTSEEEEEESSHHHHHH.HHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSS
+Marpol_PTQ46597    883    924    867    932 PF06465.14  DUF1087           Domain    15    57    65     24.8   1.7e-05   1 No_clan  
+#HMM       kieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvN
+#MATCH     ++ +  se++ +W  LLkd+ E qq e ++   KGKR+RKq  
+#PP        34457899*******************9998.5********75
+#SEQ       AARSDASERSYFWHSLLKDKVERQQLEDSED-HKGKRSRKQYS
+Marpol_PTQ46597    973   1101    967   1103 PF06461.12  DUF1086           Domain     6   135   138    169.0     5e-50   1 No_clan  
+#HMM       rrksrkkarsdkdeplPllegegkslevLGFnerqRkaflnalmRyGvgdfdskelvrelkqktedeikaYgslFlrHlaeegadnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeipgkpvl
+#MATCH     ++k r    ++++ep Pl+eg g+sl+vLGF ++qR++f+++lmRyG+gdf+++e++ +lkqk+ +eik+Yg+lFl+H+ae++ ++s+tf+DGvPkeGl++qdvlvr+avl+L+ +kv+ l+e+p++p+l
+#PP        45555666678999*********************************************************************.8999*************************************99987
+#SEQ       KKKAREDPPEERSEPHPLMEGDGRSLKVLGFTQKQRAIFVQVLMRYGLGDFTWSEFIPRLKQKSREEIKDYGTLFLSHIAEDI-SDSSTFSDGVPKEGLRIQDVLVRLAVLHLIGDKVRLLHENPQAPLL

@@ -1,0 +1,11 @@
+Bilateria|Ctel_CapteP117691
+Bilateria|Drer_ENSDARP00000119160.1
+Bilateria|Lgig_LotgiP206663
+Bilateria|Linana_g614.t1
+Bilateria|Phoaus_g13191.t1
+Cnidaria|Exapal_XP_020908538.1
+Cnidaria|Spis_XP_022780502_1
+Porifera|Emue_0010g263a
+Porifera|Lcom_lcpid10500
+Porifera|Tetwil_Twilhelma_g5048.t1
+Porifera|Tetwil_Twilhelma_g5048.t2

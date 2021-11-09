@@ -1,0 +1,679 @@
+IQ-TREE multicore version 2.1.0 for Linux 64-bit built Jul 18 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    lapis (AVX2, FMA3, 15 GB RAM)
+Command: iqtree2 -s alignments/euk.Histone.to_histdb/CC3_.l.fasta -m LG+G4 -ntmax 8 -fast -pre alignments/euk.Histone.to_histdb/CC3_.iqt
+Seed:    499113 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Nov 16 18:18:48 2020
+Kernel:  AVX+FMA - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file alignments/euk.Histone.to_histdb/CC3_.l.fasta ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 563 sequences with 244 columns, 211 distinct patterns
+134 parsimony-informative, 31 singleton sites, 79 constant sites
+                                            Gap/Ambiguity  Composition  p-value
+   1  Ihof_evm19s40_1-80                           67.21%    passed     79.92%
+   2  Sarc_Sarc4_g10288T_1-80                      67.21%    passed     94.40%
+   3  Cfra_CFRG1280T1_1-80                         67.21%    passed     98.37%
+   4  Tcas_XP_008199350.1_1-83                     65.98%    passed     96.67%
+   5  Tcas_XP_967974.1_1-83                        65.98%    passed     96.67%
+   6  Linana_g710.t1_1-83                          65.98%    passed     97.97%
+   7  Cscu_XP_023211230.1_1-83                     65.98%    passed     65.33%
+   8  Lpol_XP_013781842.1_1-83                     65.98%    passed     67.80%
+   9  Notgen_g20706.t1_1-83                        65.98%    passed     58.83%
+  10  Lpol_XP_013781220.1_1-83                     65.98%    passed     82.50%
+  11  Lgig_LotgiP238643_1-83                       65.98%    passed     98.16%
+  12  Drer_ENSDARP00000146107.1_1-83               65.98%    passed     75.39%
+  13  Drer_ENSDARP00000145775.1_1-83               65.98%    passed     75.39%
+  14  Drer_ENSDARP00000002886.5_1-83               65.98%    passed     75.39%
+  15  Hsap_ENSP00000363284.3_1-83                  65.98%    passed     90.11%
+  16  Bralan_BL02501_evm0_1-83                     65.98%    passed     98.68%
+  17  Skow_XP_002735947.1_1-83                     65.98%    passed     74.82%
+  18  Apla_XP_022085190.1_1-84                     65.57%    passed     87.60%
+  19  Spur_XP_785187.1_1-83                        65.98%    passed     87.20%
+  20  Cint_ENSCINP00000032769.1_1-83               65.98%    passed     99.95%
+  21  Nvec_NVE4158_1-83                            65.98%    passed     96.82%
+  22  Ctel_CapteP184024_1-80                       67.21%    passed     99.06%
+  23  Tetwil_Twilhelma_g5787.t1_1-84               65.57%    passed     89.53%
+  24  Emue_0016g67a_1-83                           65.98%    passed     57.90%
+  25  Emue_0016g81a_1-83                           65.98%    passed     57.90%
+  26  Spis_XP_022801833_1_1-82                     66.39%    passed     86.86%
+  27  Adig_XP_015753227.1_1-82                     66.39%    passed     67.36%
+  28  Morvir_scaffold162.g14.t1_1-83               65.98%    passed     98.66%
+  29  Tadh_wf_g2149_t1_1-57                        77.05%    passed     57.17%
+  30  Phoaus_g18039.t1_27-107                      66.80%    passed     68.41%
+  31  Exapal_XP_020914885.1_1-83                   65.98%    passed     53.64%
+  32  Helrob_HelroP75183_1-83                      65.98%    passed     75.42%
+  33  Clyhem_TCONS_00021143-protein_1-83           65.98%    passed     93.96%
+  34  Lcom_lcpid158298_1-83                        65.98%    passed     76.50%
+  35  Lcom_lcpid133101_1-83                        65.98%    passed     76.50%
+  36  Scil_scpid73688_1-83                         65.98%    passed     69.87%
+  37  Ocar_g4470.t1_1-83                           65.98%    passed     95.68%
+  38  Mlei_ML1054_g16_t1_1-83                      65.98%    passed     53.16%
+  39  Aque_Aqu2.1.37258_001_1-82                   66.39%    passed     75.03%
+  40  Cgig_EKC18754_17-85                          71.72%    passed     83.74%
+  41  Cscu_XP_023215972.1_13-96                    65.57%    passed     73.72%
+  42  Dmel_FBpp0099657_1-82                        66.39%    passed     74.34%
+  43  Emul_CDI97192.1_1-86                         64.75%    passed     25.87%
+  44  Sman_Smp_198790.1_pep_1-83                   65.98%    passed     57.89%
+  45  Recame_RECAM_02327.mRNA.1_1-79               67.62%    passed     76.53%
+  46  Gefoke_MALSP_08998.mRNA.1_1-77               68.44%    passed     40.04%
+  47  Ancsig_Gene.26153_1-82                       66.39%    failed      3.74%
+  48  Plabra_CEO94249_1-80                         67.21%    passed     69.08%
+  49  Hetalb_XP_020432381.1_1-80                   67.21%    passed     78.74%
+  50  Cavfas_EGG21379_1-79                         67.62%    passed     93.86%
+  51  Tielac_KYR01928_1-80                         67.21%    passed     60.80%
+  52  Ddis_EAL71263_1-80                           67.21%    passed     84.66%
+  53  Acas_ELR14904_1-74                           69.67%    passed     98.89%
+  54  Lcom_lcpid178424_1-76                        68.85%    passed     74.99%
+  55  Sacu_v1.1_s0002.g001262_1-89                 63.52%    passed     53.20%
+  56  Azfi_s0066.g036069_85-148                    73.77%    passed     98.59%
+  57  Marpol_PTQ31887_1-91                         62.70%    passed     93.75%
+  58  Sphfal_Sphfalx14G105200.1.p_34-100           72.54%    passed     58.39%
+  59  Ppat_Pp3c26_8280V3.1_5-97                    61.89%    passed     85.07%
+  60  Smoe_EFJ17220_1-93                           61.89%    passed     94.84%
+  61  Mpus_XP_003054988.1_1-53                     78.28%    passed     93.46%
+  62  Sbic_EER98514_32-122                         62.70%    passed     84.82%
+  63  Bdis_KQJ91588_34-126                         61.89%    passed     52.97%
+  64  Atri_ERN16538_23-89                          72.54%    passed     76.93%
+  65  Acoe_PIA28244.1_7-96                         63.11%    passed     98.55%
+  66  Atha_AT2G27470.1_1-89                        63.52%    passed     64.65%
+  67  Mgut_XP_012850173.1_12-100                   63.52%    passed     92.19%
+  68  Cocsub_XP_005648182.1_38-102                 73.36%    passed     95.68%
+  69  Cvar_XP_005847430.1_1-56                     77.05%    passed     24.73%
+  70  Otau_XP_022839473.1_1-89                     63.52%    passed     82.73%
+  71  Klenit_GAQ86387.1_63-132                     71.31%    passed     85.68%
+  72  Crei_PNW81084_3-94                           62.30%    passed     76.20%
+  73  Vcar_XP_002951737.1_1-95                     61.07%    passed     51.82%
+  74  Styinc_Gene17934_m17934_1-81                 66.80%    passed     33.35%
+  75  Manpla_Gene.53677_1-51                       79.10%    passed     48.00%
+  76  Pisp_OUM58978.1_1-61                         75.00%    passed     24.22%
+  77  Spun_KNC95865_1-82                           66.39%    passed     93.30%
+  78  Coerev_PIA14123.1_1-83                       65.98%    passed     91.98%
+  79  Morelo_OAQ26000_1-83                         65.98%    passed     26.64%
+  80  Umbram_244787_1-83                           65.98%    passed     36.02%
+  81  Rhidel_EIE86808_2-85                         65.57%    passed     28.86%
+  82  Schagg_26154_1-78                            68.03%    passed     80.34%
+  83  Aplker_56172_1-82                            66.39%    passed     99.65%
+  84  Aurlim_74473_32-111                          67.21%    passed     78.04%
+  85  Honfer_GBG32938_42-121                       67.21%    passed     79.23%
+  86  Tpse_ACI65003_1-73                           70.08%    passed     86.96%
+  87  Tpse_EED95062_70-154                         65.16%    passed     61.69%
+  88  Esil_CBN76059_1-85                           65.16%    passed     90.15%
+  89  Coka_g8673.t1_1-85                           65.16%    passed     69.25%
+  90  Aano_EGB03606_1-76                           68.85%    passed     73.91%
+  91  Ngad_EWM23659_78-159                         66.39%    passed     96.80%
+  92  Phatri_Phatr3_J43730.p1_13-94                66.39%    passed     45.02%
+  93  Bnat_JGI_V11_52476_36-119                    65.57%    passed     99.92%
+  94  Pavlsp_1037333_59-142                        65.57%    passed     58.25%
+  95  Hemkuk_17224_TR5731_c1_g1_4-88               65.16%    passed     83.15%
+  96  Vitbra_CEM09150.1_45-127                     65.98%    passed     80.88%
+  97  Jakbah_JAKBA_00330.mRNA.1_2-84               65.98%    passed     32.31%
+  98  Bden_EGF78726_72-155                         65.57%    passed     85.13%
+  99  Plamic_ANCSI_05878.mRNA.1_1-72               70.49%    passed     12.23%
+ 100  Meteor_CRO19MET_NODE_11212.p2_48-129         66.39%    passed     93.51%
+ 101  Nk52_evm35s2612_1-81                         66.80%    passed     98.90%
+ 102  Cowc_KJE90880_5-87                           65.98%    passed     72.39%
+ 103  Rigram_Gene.24389_1-81                       66.80%    passed     14.73%
+ 104  Spimul_22855_TR11273_c0_g1_33-116            65.57%    passed     21.59%
+ 105  Ehux_EOD23620_35-118                         65.57%    passed     28.63%
+ 106  Ehux_EOD25995_35-113                         67.62%    passed     94.80%
+ 107  Chrtob_KOO22593.1_36-118                     65.98%    passed     35.47%
+ 108  Pygbif_GCRY01003196.1.p1_1-80                67.21%    passed     72.65%
+ 109  Tmel_CAZ80274_1-116                          52.46%    passed     29.48%
+ 110  Ngru_EFC37840_73-155                         65.98%    passed     91.53%
+ 111  Phakir_PHAKIR_04125.mRNA.1_45-127            65.98%    passed     90.95%
+ 112  Ncra_EAA34930_85-206                         50.00%    passed     27.33%
+ 113  Spom_SPBC3D6.09.1_pep_8-90                   65.98%    passed     83.43%
+ 114  Diprot_Gene.11403_1-80                       67.21%    passed     98.01%
+ 115  Ulvmut_UM011_01141_1-92                      62.30%    passed     96.22%
+ 116  Cneo_AAW46916_28-111                         65.57%    passed     64.75%
+ 117  Ccin_EAU83629_18-101                         65.57%    passed     61.43%
+ 118  Umay_KIS68721_71-154                         65.57%    passed     91.51%
+ 119  Rirr_GBC30421_19-100                         66.39%    passed     80.20%
+ 120  Concor_KXN68540_40-123                       65.57%    passed     25.06%
+ 121  Andgod_ANDGO_02881.mRNA.1_1-80               67.21%    passed      5.68%
+ 122  Amac_KNE71367_52-134                         65.98%    passed     54.51%
+ 123  Cang_ORZ37377_18-101                         65.57%    passed     73.45%
+ 124  Ttra_KNC52651_1-80                           67.21%    passed     51.12%
+ 125  Cvel_23660.t1-p1_1-82                        66.39%    passed     59.61%
+ 126  Alblai_CCA16754_1-76                         68.85%    passed     53.83%
+ 127  Pinf_PITG_07175T0_3-77                       69.26%    passed     10.44%
+ 128  Sappar_KDO34131_1-78                         68.03%    passed     20.58%
+ 129  Caulen_g5023.t1_27-90                        73.77%    passed     71.41%
+ 130  Hduj_OQV16774.1_46-129                       65.57%    passed     12.54%
+ 131  Ramvar_GAU95479.1_38-116                     67.62%    passed     72.20%
+ 132  Gonavo_comp35953_c0_seq1_6_ORF3_122_1-77     68.44%    passed     53.32%
+ 133  Gthe_EKX47036_11-78                          72.13%    passed     50.46%
+ 134  Hduj_OQV20112.1_63-145                       65.98%    passed     23.22%
+ 135  Ramvar_GAV00550.1_36-118                     65.98%    passed     88.81%
+ 136  Tadh_P28921_1-77                             68.44%    passed     99.85%
+ 137  Mlei_ML2931_g2_t1_53-159                     56.15%    passed     79.65%
+ 138  Lpol_XP_013774818.1_64-147                   65.57%    passed     99.72%
+ 139  Helrob_HelroP85626_1-77                      68.44%    passed     99.69%
+ 140  Auraur_scaffold332.g7.t1_10-93               65.57%    passed     97.76%
+ 141  Clyhem_TCONS_00062758-protein_148-231        65.57%    passed     94.27%
+ 142  Hydvul_Sc4wPfr_384.g24893.t1_41-156          52.46%    passed     82.29%
+ 143  Apla_XP_022099243.1_39-133                   61.07%    passed     85.84%
+ 144  Lpol_XP_022242177.1_52-135                   65.57%    passed     99.99%
+ 145  Exapal_XP_020900334.1_154-243                63.11%    passed     99.39%
+ 146  Exapal_XP_020900335.1_43-133                 62.70%    passed     98.75%
+ 147  Spis_XP_022801153_1_146-243                  59.84%    passed     99.05%
+ 148  Nvec_NVE6127_141-224                         65.57%    passed     99.57%
+ 149  Adig_XP_015774604.1_154-249                  60.66%    passed     98.77%
+ 150  Notgen_g23248.t1_380-463                     65.57%    passed     99.39%
+ 151  Phoaus_g10147.t1_20-103                      65.57%    passed     99.81%
+ 152  Ctel_CapteP159684_46-129                     65.57%    passed     96.83%
+ 153  Linana_g17964.t1_129-212                     65.57%    passed     99.82%
+ 154  Spur_XP_030855718.1_50-133                   65.57%    passed     98.90%
+ 155  Spur_NP_999685.1_50-133                      65.57%    passed     98.90%
+ 156  Dpul_EFX80168_18-102                         65.16%    passed     99.75%
+ 157  Morvir_scaffold347.g9.t1_31-114              65.57%    passed     99.95%
+ 158  Lgig_LotgiP142831_1-84                       65.57%    passed     99.92%
+ 159  Drer_ENSDARP00000057253.4_47-130             65.57%    passed     99.59%
+ 160  Drer_ENSDARP00000145442.1_48-131             65.57%    passed     99.96%
+ 161  Drer_ENSDARP00000127511.1_43-126             65.57%    passed     99.96%
+ 162  Hsap_ENSP00000448250.2_50-133                65.57%    passed     99.24%
+ 163  Cint_ENSCINP00000001885.3_30-113             65.57%    passed     99.89%
+ 164  Mcir_OAC98524_10-94                          65.16%    passed     95.41%
+ 165  Rhidel_EIE81896_10-94                        65.16%    passed     95.41%
+ 166  Umbram_232832_13-97                          65.16%    passed     98.54%
+ 167  Plebac_Pbla_mRNA_2062_13-97                  65.16%    passed     97.98%
+ 168  Pbla_XP_018297865.1_13-97                    65.16%    passed     97.98%
+ 169  Pisp_OUM70260.1_9-94                         64.75%    passed     98.62%
+ 170  Rirr_GBC52372_26-109                         65.57%    passed     96.27%
+ 171  Coerev_PIA17033.1_7-90                       65.57%    passed     98.70%
+ 172  Morelo_OAQ28412_11-94                        65.57%    passed     99.74%
+ 173  Spun_KND00130_16-99                          65.57%    passed     95.67%
+ 174  Nk52_evm2s214_1-105                          56.97%    passed     95.34%
+ 175  Amobb2_AMBB2_06103.mRNA.3_15-98              65.57%    passed     93.24%
+ 176  Amobb2_AMBB2_06103.mRNA.1_15-98              65.57%    passed     93.24%
+ 177  Tcas_XP_008197712.1_52-139                   63.93%    passed     99.61%
+ 178  Tcas_XP_008197711.1_52-139                   63.93%    passed     99.61%
+ 179  Tcas_XP_969725.1_52-135                      65.57%    passed     99.57%
+ 180  Bralan_BL19234_evm17_86-169                  65.57%    passed     97.21%
+ 181  Sphfal_Sphfalx19G002900.1.p_29-112           65.57%    passed     99.69%
+ 182  Sphfal_Sphfalx19G002900.2.p_29-112           65.57%    passed     99.69%
+ 183  Sphfal_Sphfalx19G002800.2.p_29-112           65.57%    passed     99.69%
+ 184  Sphfal_Sphfalx19G002800.1.p_29-112           65.57%    passed     99.69%
+ 185  Ppat_Pp3c3_14260V3.2_150-233                 65.57%    passed     99.92%
+ 186  Marpol_PTQ27167_28-111                       65.57%    passed     99.95%
+ 187  Chabra_GBG71017_39-122                       65.57%    passed     99.86%
+ 188  Smoe_EFJ15373_27-110                         65.57%    passed     99.89%
+ 189  Vcar_XP_002949581.1_12-95                    65.57%    passed     99.84%
+ 190  Crei_PNW86267_12-95                          65.57%    passed     99.35%
+ 191  Mpus_XP_003061751.1_20-103                   65.57%    passed     99.98%
+ 192  Cvar_XP_005847098.1_1-80                     67.21%    passed     99.75%
+ 193  Ppat_Pp3c9_14800V3.10_30-113                 65.57%    passed     99.92%
+ 194  Sphfal_Sphfalx14G037400.1.p_31-114           65.57%    passed     99.92%
+ 195  Ppat_Pp3c12_3580V3.1_31-114                  65.57%    passed     99.92%
+ 196  Ppat_Pp3c15_5200V3.1_30-113                  65.57%    passed     99.92%
+ 197  Sphfal_Sphfalx13G066700.1.p_29-112           65.57%    passed     99.92%
+ 198  Marpol_PTQ27175_32-115                       65.57%    passed     99.91%
+ 199  Mgut_XP_012829444.1_15-98                    65.57%    passed     99.96%
+ 200  Mgut_XP_012848260.1_15-98                    65.57%    passed     99.96%
+ 201  Atha_AT4G14540.1_16-99                       65.57%    passed     99.98%
+ 202  Bdis_KQK21295_18-101                         65.57%    passed     99.98%
+ 203  Sbic_EER94693_18-101                         65.57%    passed     99.98%
+ 204  Sbic_EER99684_16-99                          65.57%    passed     99.89%
+ 205  Mgut_XP_012841807.1_21-104                   65.57%    passed     99.99%
+ 206  Atri_ERN17766_20-103                         65.57%    passed     99.94%
+ 207  Sacu_v1.1_s0054.g014195_36-119               65.57%    passed     99.86%
+ 208  Atha_AT5G47640.1_22-105                      65.57%    passed     99.95%
+ 209  Smoe_EFJ31867_23-106                         65.57%    passed     99.51%
+ 210  Acoe_PIA38684.1_21-104                       65.57%    passed     99.84%
+ 211  Acoe_PIA38681.1_21-104                       65.57%    passed     99.84%
+ 212  Mgut_XP_012831929.1_28-111                   65.57%    passed     99.83%
+ 213  Atri_ERN04890_90-173                         65.57%    passed     99.97%
+ 214  Atri_ERN06716_21-104                         65.57%    passed     98.35%
+ 215  Bdis_KQK05856_29-112                         65.57%    passed     99.23%
+ 216  Sbic_KXG22176_28-111                         65.57%    passed     99.26%
+ 217  Bdis_KQK10455_17-100                         65.57%    passed     99.35%
+ 218  Sbic_OQU87808_17-100                         65.57%    passed     99.19%
+ 219  Klenit_GAQ86342.1_7-90                       65.57%    passed     99.56%
+ 220  Atha_AT2G38880.11_16-99                      65.57%    passed     98.97%
+ 221  Sacu_v1.1_s0126.g021742_475-558              65.57%    passed     99.99%
+ 222  Sacu_v1.1_s0025.g009273_29-112               65.57%    passed    100.00%
+ 223  Sacu_v1.1_s0056.g014640_28-111               65.57%    passed     99.85%
+ 224  Azfi_s0003.g007945_29-112                    65.57%    passed     99.99%
+ 225  Azfi_s0095.g043581_27-110                    65.57%    passed     99.82%
+ 226  Bdis_KQK15318_18-101                         65.57%    passed     99.47%
+ 227  Cocsub_XP_005651963.1_12-95                  65.57%    passed     98.75%
+ 228  Mgut_XP_012834697.1_31-114                   65.57%    passed     99.79%
+ 229  Mgut_XP_012834698.1_31-114                   65.57%    passed     99.79%
+ 230  Azfi_s0032.g024682_49-132                    65.57%    passed     99.71%
+ 231  Atha_AT3G53340.1_24-107                      65.57%    passed     99.86%
+ 232  Atha_AT2G37060.1_25-108                      65.57%    passed    100.00%
+ 233  Otau_XP_003074932.1_7-90                     65.57%    passed     99.68%
+ 234  Phatri_Phatr3_J54067.p1_44-127               65.57%    passed     99.15%
+ 235  Tpse_EED87918_1-80                           67.21%    passed     98.67%
+ 236  Ngad_EWM28041_18-101                         65.57%    passed     99.80%
+ 237  Esil_CBN79369_9-92                           65.57%    passed     98.91%
+ 238  Aplker_81582_12-95                           65.57%    passed     98.83%
+ 239  Honfer_GBG33799_5-88                         65.57%    passed     95.55%
+ 240  Schagg_81524_2-85                            65.57%    passed     99.80%
+ 241  Mgut_XP_012834891.1_23-106                   65.57%    passed     83.91%
+ 242  Smoe_EFJ23407_23-106                         65.57%    passed     98.39%
+ 243  Sbic_EES14637_54-137                         65.57%    passed     99.92%
+ 244  Bdis_KQJ95195_39-122                         65.57%    passed     99.99%
+ 245  Atha_AT2G13570.1_4-114                       54.51%    passed     18.44%
+ 246  Caulen_g8237.t1_15-98                        65.57%    passed     98.76%
+ 247  Caulen_g8237.t2_15-98                        65.57%    passed     98.76%
+ 248  Gracho_PXF43668.1_10-93                      65.57%    passed     98.19%
+ 249  Porumb_OSX69827.1_16-98                      65.98%    passed     97.50%
+ 250  Pinf_PITG_10861T0_9-92                       65.57%    passed     88.03%
+ 251  Alblai_CCA19402_9-92                         65.57%    passed     93.34%
+ 252  Porpur_KAA8491634.1_10-92                    65.98%    passed     98.82%
+ 253  Ncra_ESA44398_34-123                         63.11%    passed     77.98%
+ 254  Tmel_CAZ84521_37-120                         65.57%    passed     92.22%
+ 255  Amac_KNE63190_74-157                         65.57%    passed     99.69%
+ 256  Amac_KNE62220_74-157                         65.57%    passed     99.69%
+ 257  Bden_EGF81752_1-94                           61.48%    passed     99.18%
+ 258  Cowc_KJE93209_14-101                         63.93%    passed     94.79%
+ 259  Emul_CDI98208.1_42-125                       65.57%    passed     98.89%
+ 260  Spun_KND01956_12-95                          65.57%    passed     99.05%
+ 261  Aurlim_59042_5-88                            65.57%    passed     84.04%
+ 262  Fabtro_Gene.24369_29-111                     65.98%    passed     90.95%
+ 263  Ulvmut_UM020_01011_9-92                      65.57%    passed     94.15%
+ 264  Plamic_ANCSI_02881.mRNA.1_26-109             65.57%    passed     88.20%
+ 265  Bdis_KQK04759_14-97                          65.57%    passed     62.69%
+ 266  Sbic_OQU78465_11-93                          65.98%    passed     26.41%
+ 267  Cavfas_EGG15179_15-98                        65.57%    passed     97.12%
+ 268  Ddis_EAL67648_43-126                         65.57%    passed     98.35%
+ 269  Hetalb_XP_020436670.1_17-99                  65.98%    passed     91.22%
+ 270  Tielac_KYQ90624_16-99                        65.57%    passed     94.74%
+ 271  Atri_ERM94322_14-97                          65.57%    passed     99.97%
+ 272  Mgut_XP_012845670.1_29-169                   42.21%    failed      0.00%
+ 273  Mgut_XP_012845671.1_36-158                   49.59%    failed      0.00%
+ 274  Mgut_XP_012853354.1_17-101                   65.16%    passed     97.04%
+ 275  Aano_EGB03978_22-105                         65.57%    passed     99.84%
+ 276  Atri_ERN16970_31-124                         61.48%    passed     99.89%
+ 277  Acoe_PIA44564.1_30-113                       65.57%    passed     86.69%
+ 278  Bdis_PNT73541_30-112                         65.98%    passed     98.60%
+ 279  Sbic_EES04176_29-111                         65.98%    passed     99.63%
+ 280  Atha_AT2G47810.1_33-129                      60.25%    passed     87.70%
+ 281  Acoe_PIA61525.1_23-117                       61.07%    passed     96.36%
+ 282  Mgut_XP_012833303.1_32-115                   65.57%    passed     99.36%
+ 283  Mgut_XP_012828059.1_42-125                   65.57%    passed     94.23%
+ 284  Mgut_XP_012842193.1_12-97                    64.75%    passed     89.31%
+ 285  Cfra_CFRG1301T1_36-119                       65.57%    passed     83.45%
+ 286  Sarc_Sarc4_g29733T_45-128                    65.57%    passed     83.45%
+ 287  Ihof_evm4s370_41-86                          81.15%    passed     61.59%
+ 288  Clim_evm12s62_23-107                         65.16%    passed     97.97%
+ 289  Hduj_OWA51709.1_29-112                       65.57%    passed     82.93%
+ 290  Ramvar_GAU98080.1_23-107                     65.16%    passed     96.21%
+ 291  Ccin_EAU82951_42-125                         65.57%    passed     99.47%
+ 292  Cneo_AAW43577_37-119                         65.98%    passed     98.22%
+ 293  Emue_0001g2657a_141-230                      63.11%    passed     97.81%
+ 294  Aque_Aqu2.1.37423_001_116-197                66.39%    passed     71.89%
+ 295  Scer_YBL021C_32-114                          65.98%    passed     99.96%
+ 296  Lcom_lcpid69078_98-180                       65.98%    passed     89.74%
+ 297  Scil_scpid61257_55-137                       65.98%    passed     89.00%
+ 298  Lcom_lcpid123763_98-159                      74.59%    passed     92.61%
+ 299  Secula_SECUL_07049.mRNA.1_10-91              66.39%    passed     97.21%
+ 300  Cscu_XP_023233843.1_10-81                    70.49%    passed     98.16%
+ 301  Skow_XP_006825371.1_6-74                     71.72%    passed     92.33%
+ 302  Ptyfla_pfl_40v0_9_20150316_1g7847.t1_18-90   70.08%    passed     98.90%
+ 303  Sman_Smp_154340.1_pep_16-72                  76.64%    passed     78.00%
+ 304  Atha_AT1G09030.1_1-81                        66.80%    passed     97.60%
+ 305  Mgut_XP_012850788.1_1-82                     66.39%    passed     98.81%
+ 306  Mgut_XP_012857060.1_31-113                   65.98%    passed     90.43%
+ 307  Tthe_EAR82306_9-91                           65.98%    passed     95.51%
+ 308  Ptet_CAK60712_20-103                         65.57%    passed     80.03%
+ 309  Ptet_CAK58122_20-103                         65.57%    passed     80.03%
+ 310  Oxytri_EJY64615_8-88                         66.80%    passed     94.16%
+ 311  Aano_EGB08797_1-87                           64.34%    passed     94.07%
+ 312  Cpar_Cpar_evm3s7567_24-85                    74.59%    passed     79.32%
+ 313  Ppat_Pp3c3_13480V3.1_29-89                   75.00%    passed     90.52%
+ 314  Gpro_KXS09592_37-120                         65.57%    passed     99.42%
+ 315  Rall_EPZ35663_3-95                           61.89%    passed     99.29%
+ 316  Umay_KIS65863_78-160                         65.98%    passed     98.02%
+ 317  Spom_SPAC23C11.08.1_pep_3-85                 65.98%    passed     99.44%
+ 318  Bdis_KQK18584_20-102                         65.98%    passed     98.13%
+ 319  Bdis_KQK18580_25-107                         65.98%    passed     98.60%
+ 320  Sbic_OQU76250_42-124                         65.98%    passed     85.14%
+ 321  Bdis_KQK01520_33-115                         65.98%    passed     84.08%
+ 322  Sbic_KXG30848_11-114                         57.38%    passed     76.49%
+ 323  Mgut_XP_012849193.1_31-114                   65.57%    passed     92.52%
+ 324  Atha_AT5G47670.1_35-136                      58.20%    passed     83.34%
+ 325  Atri_ERN19273_10-105                         60.66%    passed     86.13%
+ 326  Acoe_PIA25597.1_47-130                       65.57%    passed     64.83%
+ 327  Atha_AT1G21970.1_54-137                      65.57%    passed     97.42%
+ 328  Smoe_EFJ12145_15-103                         63.52%    passed     91.61%
+ 329  Azfi_s0293.g063460_20-101                    66.39%    passed     72.20%
+ 330  Acoe_PIA58328.1_36-119                       65.57%    passed     54.19%
+ 331  Mgut_XP_012836455.1_1-62                     74.59%    passed     55.35%
+ 332  Mgut_XP_012836454.1_9-119                    54.51%    passed     45.14%
+ 333  Mgut_XP_012839458.1_1-74                     69.67%    passed     68.13%
+ 334  Mgut_XP_012838634.1_387-469                  65.98%    passed     82.71%
+ 335  Mgut_XP_012857606.1_1-74                     69.67%    passed     76.90%
+ 336  Mgut_XP_012850798.1_1-74                     69.67%    passed     81.21%
+ 337  Mgut_XP_012848273.1_151-233                  65.98%    passed     60.40%
+ 338  Mgut_XP_012846296.1_76-157                   66.39%    passed     75.62%
+ 339  Mgut_XP_012844767.1_45-126                   66.39%    passed     75.62%
+ 340  Mgut_XP_012839450.1_9-123                    52.87%    passed     10.33%
+ 341  Mgut_XP_012842675.1_81-161                   66.80%    passed     42.93%
+ 342  Mgut_XP_012839452.1_80-163                   65.57%    passed     86.69%
+ 343  Mgut_XP_012839441.1_87-168                   66.39%    passed     72.56%
+ 344  Mgut_XP_012838126.1_86-169                   65.57%    passed     83.75%
+ 345  Mgut_XP_012838119.1_216-299                  65.57%    passed     83.75%
+ 346  Mgut_XP_012841021.1_62-145                   65.57%    passed     87.55%
+ 347  Mgut_XP_012852537.1_32-143                   54.10%    passed     13.47%
+ 348  Mgut_XP_012841019.1_15-129                   52.87%    passed     14.60%
+ 349  Mgut_XP_012841020.1_51-166                   52.46%    passed     11.40%
+ 350  Mgut_XP_012846005.1_45-128                   65.57%    passed     69.84%
+ 351  Mgut_XP_012852535.1_35-147                   53.69%    passed     10.03%
+ 352  Mgut_XP_012846941.1_13-116                   57.38%    passed     59.84%
+ 353  Mgut_XP_012833611.1_84-167                   65.57%    passed     72.54%
+ 354  Mgut_XP_012833608.1_814-875                  74.59%    passed     90.39%
+ 355  Mgut_XP_012857869.1_1-74                     69.67%    passed     72.72%
+ 356  Mgut_XP_012858173.1_42-131                   63.11%    passed     79.46%
+ 357  Mgut_XP_012858186.1_40-131                   62.30%    passed     68.11%
+ 358  Mgut_XP_012858122.1_34-123                   63.11%    passed     68.70%
+ 359  Mgut_XP_012833616.1_51-133                   65.98%    passed     53.34%
+ 360  Mgut_XP_012833609.1_20-99                    67.21%    passed     42.37%
+ 361  Mgut_XP_012857928.1_53-135                   65.98%    passed     25.92%
+ 362  Gonavo_comp29221_c0_seq1_6_ORF7_173_47-130   65.57%    passed     99.07%
+ 363  Ppat_Pp3c3_13480V3.1_116-158                 82.38%    passed     80.70%
+ 364  Coka_g9318.t1_65-147                         65.98%    passed     94.51%
+ 365  Esil_CBN79370_12-94                          65.98%    passed     98.69%
+ 366  Pavlsp_601209_3-93                           62.70%    passed     41.87%
+ 367  Vitbra_CEM03312.1_13-95                      65.98%    passed     78.77%
+ 368  Atri_ERN09883_1-65                           73.36%    passed     79.27%
+ 369  Ancsig_Gene.34621_44-129                     64.75%    passed     93.15%
+ 370  Pfal_CZT99128_1124-1205                      66.39%    passed     87.51%
+ 371  Smoe_EFJ17554_2-85                           65.57%    passed     89.42%
+ 372  Bnat_JGI_V11_66311_23-103                    66.80%    passed     84.41%
+ 373  Cang_ORZ32077_38-124                         64.34%    passed     76.92%
+ 374  Ppat_Pp3c17_470V3.1_2-115                    53.28%    passed     91.29%
+ 375  Dmel_FBpp0080827_33-115                      65.98%    passed     89.08%
+ 376  Bdis_PNT73540_37-119                         65.98%    passed     15.76%
+ 377  Sbic_OQU88166_12-94                          65.98%    passed     63.87%
+ 378  Ngru_EFC38943_70-160                         62.70%    passed     37.64%
+ 379  Ngru_EFC36079_71-161                         62.70%    passed     31.80%
+ 380  Plabra_CEP03261_9-92                         65.57%    passed     64.29%
+ 381  Mgut_XP_012848422.1_49-130                   66.39%    passed     85.51%
+ 382  Sacu_v1.1_s0126.g021744_1-53                 78.28%    passed     54.43%
+ 383  Gthe_EKX52359_1-74                           69.67%    passed     92.47%
+ 384  Bdis_KQJ95594_1-65                           73.36%    passed     82.67%
+ 385  Bdis_PNT66881_17-92                          68.85%    passed      6.69%
+ 386  Hemkuk_7437_TR2543_c0_g1_46-129              65.57%    passed     92.59%
+ 387  Bdis_KQJ95465_12-95                          65.57%    passed     31.98%
+ 388  Nutlon_comp15254_c0_seq1.p1_71-154           65.57%    passed     86.54%
+ 389  Plabra_CEP02743_26-109                       65.57%    failed      3.87%
+ 390  Sros_EGD83516_47-128                         66.39%    passed     99.29%
+ 391  Mgut_XP_012836456.1_7-68                     74.59%    passed     91.77%
+ 392  Falb_KCV72540_786-867                        66.39%    passed     14.98%
+ 393  Carmem_b599.p1_61-143                        65.98%    passed     80.01%
+ 394  Carmem_b4424.p1_77-159                       65.98%    passed     80.01%
+ 395  Carmem_b5804.p1_62-129                       72.54%    passed     66.23%
+ 396  Styinc_Gene19184_m19184_116-198              65.98%    passed     73.36%
+ 397  Styinc_Gene15750_m15750_90-172               65.98%    passed     73.36%
+ 398  Jakbah_JAKBA_01487.mRNA.1_1-58               76.23%    passed     22.97%
+ 399  Sappar_KDO29108_299-384                      64.75%    passed     82.11%
+ 400  Pavlsp_567334_1-73                           70.08%    passed     83.07%
+ 401  Chrtob_KOO25873.1_1-71                       70.90%    passed     67.95%
+ 402  Chrtob_KOO28859.1_1-71                       70.90%    passed     70.71%
+ 403  Diprot_Gene.19091_21-99                      67.62%    passed     81.28%
+ 404  Andgod_ANDGO_02546.mRNA.1_11-92              66.39%    passed     60.28%
+ 405  Glam_EDO79190_1-84                           65.57%    passed     80.71%
+ 406  Sbic_EES05602_37-116                         67.21%    passed     44.25%
+ 407  Plabra_CEO98301_23-102                       67.21%    passed     28.52%
+ 408  Bdis_PNT76054_30-98                          71.72%    passed     65.54%
+ 409  Ehux_EOD16654_23-105                         65.98%    passed     92.39%
+ 410  Ehux_EOD30474_23-105                         65.98%    passed     92.21%
+ 411  Plafun_PRP77327_34-116                       65.98%    passed     91.86%
+ 412  Acoe_PIA58329.1_34-117                       65.57%    passed     17.12%
+ 413  Sbic_EER89161_15-94                          67.21%    passed     45.06%
+ 414  Nutlon_comp2278_c0_seq1.p2_3-85              65.98%    passed     69.21%
+ 415  Cvel_7252.t1-p1_4-88                         65.16%    passed     15.07%
+ 416  Masbal_CACRSC010000027.1.p347_1-82           66.39%    failed      4.17%
+ 417  Adig_XP_015749287.1_14-64                    79.10%    failed      3.06%
+ 418  Notgen_g15812.t1_3-85                        65.98%    passed     74.77%
+ 419  Ctel_CapteP165016_7-93                       64.34%    passed     92.98%
+ 420  Lgig_LotgiP68595_1-79                        67.62%    passed     96.67%
+ 421  Cgig_EKC41979_6-88                           65.98%    passed     54.86%
+ 422  Helrob_HelroP155148_35-117                   65.98%    passed     75.90%
+ 423  Linana_g13542.t1_166-294                     47.13%    passed     89.84%
+ 424  Phoaus_g19084.t1_1-87                        64.34%    passed     97.85%
+ 425  Apla_XP_022084353.1_8-90                     65.98%    passed     70.84%
+ 426  Cscu_XP_023215829.1_8-96                     63.52%    passed     70.44%
+ 427  Cscu_XP_023215830.1_8-96                     63.52%    passed     70.44%
+ 428  Lpol_XP_013793383.1_1-82                     66.39%    passed     21.98%
+ 429  Hydvul_Sc4wPfr_910.1.g9179.t1_13-95          65.98%    passed     96.56%
+ 430  Clyhem_TCONS_00027311-protein_5-87           65.98%    passed     98.38%
+ 431  Skow_XP_002736906.1_1-82                     66.39%    passed     85.86%
+ 432  Ptyfla_pfl_40v0_9_20150316_1g9676.t1_1-82    66.39%    passed     79.58%
+ 433  Bralan_BL05055_evm0_3-84                     66.39%    passed     81.08%
+ 434  Drer_ENSDARP00000135530.1_3-85               65.98%    passed     76.45%
+ 435  Drer_ENSDARP00000153150.1_3-85               65.98%    passed     76.45%
+ 436  Hsap_ENSP00000359290.1_3-85                  65.98%    passed     84.01%
+ 437  Morvir_scaffold114.g30.t1_5-86               66.39%    passed     59.41%
+ 438  Spur_XP_798916.1_7-88                        66.39%    passed     74.46%
+ 439  Adig_XP_015773700.1_43-121                   67.62%    passed     97.01%
+ 440  Spis_XP_022788333_1_2-84                     65.98%    passed     98.63%
+ 441  Nvec_NVE17599_4-86                           65.98%    passed     92.90%
+ 442  Exapal_XP_028512889.1_1-83                   65.98%    passed     99.67%
+ 443  Scil_scpid97321_3-85                         65.98%    passed     65.42%
+ 444  Lcom_lcpid94114_3-85                         65.98%    passed     86.77%
+ 445  Ocar_g5875.t1_6-85                           67.21%    passed     94.76%
+ 446  Dmel_FBpp0080256_10-92                       65.98%    passed     69.60%
+ 447  Tcas_XP_974856.1_10-92                       65.98%    passed     73.65%
+ 448  Dpul_EFX81721_2-84                           65.98%    passed     92.86%
+ 449  Cint_ENSCINP00000032088.1_1-85               65.16%    passed     82.19%
+ 450  Mlei_ML3170_g7_t1_6-88                       65.98%    passed     37.55%
+ 451  Acoe_PIA39514.1_6-89                         65.57%    passed     88.50%
+ 452  Atri_ERN03579_6-89                           65.57%    passed     92.43%
+ 453  Acoe_PIA63450.1_6-89                         65.57%    passed     90.79%
+ 454  Mgut_XP_012832678.1_5-89                     65.16%    passed     98.89%
+ 455  Atha_AT5G23090.1_5-89                        65.16%    passed     99.45%
+ 456  Atha_AT5G08190.1_5-89                        65.16%    passed     99.75%
+ 457  Smoe_EFJ12470_3-86                           65.57%    passed     98.75%
+ 458  Ppat_Pp3c3_25870V3.6_50-133                  65.57%    passed     99.04%
+ 459  Sphfal_Sphfalx19G070700.1.p_4-87             65.57%    passed     98.96%
+ 460  Sphfal_Sphfalx19G069500.3.p_7-57             79.10%    passed     89.99%
+ 461  Sphfal_Sphfalx19G069500.2.p_4-87             65.57%    passed     98.96%
+ 462  Marpol_PTQ38119_3-86                         65.57%    passed     98.45%
+ 463  Bdis_KQJ98106_6-89                           65.57%    passed     94.97%
+ 464  Sbic_EES13767_6-89                           65.57%    passed     85.16%
+ 465  Azfi_s0009.g012007_53-136                    65.57%    passed     96.62%
+ 466  Ppat_Pp3c10_17500V3.4_17-99                  65.98%    passed     94.39%
+ 467  Chabra_GBG85969_1-69                         71.72%    passed     89.73%
+ 468  Sphfal_Sphfalx19G069500.1.p_56-105           79.51%    passed     32.06%
+ 469  Azfi_s0216.g058490_39-118                    67.21%    passed     86.72%
+ 470  Sacu_v1.1_s0145.g023017_1-69                 71.72%    passed     63.86%
+ 471  Sphfal_Sphfalx19G069500.1.p_4-56             78.28%    passed     45.73%
+ 472  Cfra_CFRG1362T1_8-88                         66.80%    passed     51.46%
+ 473  Sarc_Sarc4_g20687T_21-97                     68.44%    passed     30.26%
+ 474  Ihof_evm1s734_8-81                           69.67%    passed     94.40%
+ 475  Emue_0008g60a_7-89                           65.98%    passed     71.70%
+ 476  Tetwil_Twilhelma_g25214.t1_5-87              65.98%    passed     82.33%
+ 477  Aque_Aqu2.1.27250_001_5-87                   65.98%    passed     84.68%
+ 478  Ramvar_GAV09725.1_1-79                       67.62%    passed     95.75%
+ 479  Hduj_OQV19472.1_1-84                         65.57%    passed     99.87%
+ 480  Cang_ORZ38041_2-85                           65.57%    passed     63.19%
+ 481  Umay_KIS68587_10-93                          65.57%    passed     60.79%
+ 482  Pbla_XP_018297139.1_7-90                     65.57%    passed     94.32%
+ 483  Plebac_Pbla_mRNA_1328_7-90                   65.57%    passed     94.32%
+ 484  Mcir_OAD07277_7-90                           65.57%    passed     92.76%
+ 485  Rhidel_EIE83669_7-90                         65.57%    passed     94.63%
+ 486  Rhidel_EIE75658_7-90                         65.57%    passed     93.48%
+ 487  Umbram_230045_7-90                           65.57%    passed     92.61%
+ 488  Morelo_OAQ26895_5-88                         65.57%    passed     78.92%
+ 489  Rirr_GBC16911_11-94                          65.57%    passed     81.01%
+ 490  Spun_KND05105_8-91                           65.57%    passed     85.80%
+ 491  Amac_KNE65441_6-89                           65.57%    passed     92.69%
+ 492  Concor_KXN67083_4-87                         65.57%    passed     93.90%
+ 493  Bden_EGF84205_9-92                           65.57%    passed     58.84%
+ 494  Ccin_EAU84576_8-91                           65.57%    passed     94.12%
+ 495  Gpro_KXS20137_12-95                          65.57%    passed     96.01%
+ 496  Cpar_Cpar_evm1s4755_3-86                     65.57%    passed     80.66%
+ 497  Malcal_MALCA_02934.mRNA.1_1-62               74.59%    passed     73.80%
+ 498  Maljak_MALJA_13261.mRNA.1_1-83               65.98%    passed     90.92%
+ 499  Gefoke_MALSP_03325.mRNA.1_1-85               65.16%    passed     69.48%
+ 500  Spom_SPBC30D10.02.1_pep_2-85                 65.57%    passed     86.14%
+ 501  Tmel_CAZ84302_5-88                           65.57%    passed     92.00%
+ 502  Ncra_EAA35646_4-89                           64.75%    passed     89.42%
+ 503  Tielac_KYQ89344_1-84                         65.57%    passed     64.98%
+ 504  Ddis_EAL72169_3-86                           65.57%    passed     97.91%
+ 505  Cavfas_EGG14050_3-86                         65.57%    passed     73.66%
+ 506  Diprot_Gene.12166_8-91                       65.57%    passed     72.47%
+ 507  Gonavo_comp50404_c0_seq1_6_ORF9_158_23-106   65.57%    passed     84.83%
+ 508  Amobb2_AMBB2_03252.mRNA.1_1-84               65.57%    passed     90.96%
+ 509  Phakir_PHAKIR_07148.mRNA.1_1-81              66.80%    passed     90.70%
+ 510  Coerev_PIA17380.1_6-89                       65.57%    passed     46.02%
+ 511  Hemkuk_22479_TR7490_c0_g1_3-86               65.57%    passed     67.50%
+ 512  Fabtro_Gene.21018_10-93                      65.57%    passed     81.36%
+ 513  Klenit_GAQ78455.1_3-91                       63.52%    passed     31.27%
+ 514  Cocsub_XP_005649265.1_1-79                   67.62%    passed     76.29%
+ 515  Nk52_evm1s164_3-85                           65.98%    passed     77.05%
+ 516  Cneo_AAW43202_3-86                           65.57%    passed     90.27%
+ 517  Falb_KCV71193_1-66                           72.95%    passed     58.86%
+ 518  Crei_PNW70930_1-66                           72.95%    passed     91.62%
+ 519  Vcar_XP_002953528.1_1-66                     72.95%    passed     77.98%
+ 520  Caulen_g2026.t1_1-66                         72.95%    passed     31.74%
+ 521  Cvar_XP_005850388.1_1-79                     67.62%    passed     87.90%
+ 522  Tadh_P54139_1-84                             65.57%    passed     64.96%
+ 523  Pygbif_GCRY01003139.1.p1_1-82                66.39%    passed     96.96%
+ 524  Rall_EPZ32641_6-97                           62.30%    passed     77.84%
+ 525  Porumb_OSX73753.1_7-91                       65.16%    passed     74.83%
+ 526  Porumb_OSX73752.1_7-91                       65.16%    passed     74.83%
+ 527  Porpur_KAA8495349.1_11-94                    65.57%    passed     99.94%
+ 528  Gracho_PXF47214.1_1-80                       67.21%    passed     81.85%
+ 529  Otau_XP_003079045.1_1-88                     63.93%    passed     87.51%
+ 530  Mpus_XP_003059647.1_1-73                     70.08%    passed     94.78%
+ 531  Ngru_EFC50479_1-84                           65.57%    passed     95.04%
+ 532  Cowc_KJE90256_7-90                           65.57%    passed     34.96%
+ 533  Secula_SECUL_03353.mRNA.1_1-79               67.62%    passed     61.86%
+ 534  Recame_RECAM_00852.mRNA.1_1-82               66.39%    passed     57.37%
+ 535  Sman_Smp_149540.1_pep_24-113                 63.11%    passed     70.67%
+ 536  Emul_CDS37710.1_8-87                         67.21%    passed     83.37%
+ 537  Lcom_lcpid171498_1-54                        77.87%    failed      1.72%
+ 538  Meteor_CRO19MET_NODE_10154.p2_1-73           70.08%    passed     30.45%
+ 539  Meteor_CRO19MET_NODE_9696.p1_47-96           79.51%    passed     11.00%
+ 540  Plamic_ANCSI_02127.mRNA.1_1-79               67.62%    passed     49.86%
+ 541  Ulvmut_UM065_00081_1-81                      66.80%    passed     71.78%
+ 542  Clim_evm18s224_1-84                          65.57%    passed     32.93%
+ 543  Sros_EGD75376_1-79                           67.62%    passed     71.81%
+ 544  Scer_YDR397C_1-83                            65.98%    passed     54.50%
+ 545  Rigram_Gene.15565_9-91                       65.98%    passed     32.57%
+ 546  Ttra_KNC54897_1-84                           65.57%    passed     40.54%
+ 547  Andgod_ANDGO_01413.mRNA.1_2-84               65.98%    passed     43.32%
+ 548  Gthe_EKX42279_18-96                          67.62%    passed     87.42%
+ 549  Plabra_CEO95037_1-82                         66.39%    passed     29.72%
+ 550  Styinc_Gene10087_m10087_1-75                 69.26%    passed     89.12%
+ 551  Oxytri_EJY83941_32-115                       65.57%    passed     44.69%
+ 552  Ptet_CAK63548_35-109                         69.26%    passed     35.73%
+ 553  Ptet_CAK85656_24-101                         68.03%    passed      7.20%
+ 554  Ptet_CAK82990_1-71                           70.90%    passed     10.39%
+ 555  Tthe_EAR98480_1-79                           67.62%    passed     70.16%
+ 556  Jakbah_JAKBA_03273.mRNA.1_19-102             65.57%    failed      2.76%
+ 557  Plafun_PRP81358_29-114                       64.75%    passed     82.22%
+ 558  Oxytri_EJY69894_1-74                         69.67%    passed     12.19%
+ 559  Gpro_KXS21506_14-97                          65.57%    passed     71.32%
+ 560  Chrtob_KOO21443.1_41-125                     65.16%    passed     37.93%
+ 561  Ehux_EOD24855_7-92                           64.75%    passed     13.42%
+ 562  Perkma_EER00796_635-718                      65.57%    passed     13.21%
+ 563  Perkma_EEQ99762_317-400                      65.57%    passed     13.21%
+WARNING: 559 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                        66.10%  8 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Tcas_XP_967974.1_1-83 is identical to Tcas_XP_008199350.1_1-83 but kept for subsequent analysis
+NOTE: Drer_ENSDARP00000145775.1_1-83 is identical to Drer_ENSDARP00000146107.1_1-83 but kept for subsequent analysis
+NOTE: Emue_0016g81a_1-83 is identical to Emue_0016g67a_1-83 but kept for subsequent analysis
+NOTE: Lcom_lcpid133101_1-83 is identical to Lcom_lcpid158298_1-83 but kept for subsequent analysis
+NOTE: Spur_NP_999685.1_50-133 is identical to Spur_XP_030855718.1_50-133 but kept for subsequent analysis
+NOTE: Drer_ENSDARP00000127511.1_43-126 is identical to Drer_ENSDARP00000145442.1_48-131 but kept for subsequent analysis
+NOTE: Rhidel_EIE81896_10-94 is identical to Mcir_OAC98524_10-94 but kept for subsequent analysis
+NOTE: Pbla_XP_018297865.1_13-97 is identical to Plebac_Pbla_mRNA_2062_13-97 but kept for subsequent analysis
+NOTE: Amobb2_AMBB2_06103.mRNA.1_15-98 is identical to Amobb2_AMBB2_06103.mRNA.3_15-98 but kept for subsequent analysis
+NOTE: Tcas_XP_008197711.1_52-139 is identical to Tcas_XP_008197712.1_52-139 but kept for subsequent analysis
+NOTE: Sphfal_Sphfalx19G002900.2.p_29-112 is identical to Sphfal_Sphfalx19G002900.1.p_29-112 but kept for subsequent analysis
+NOTE: Sphfal_Sphfalx14G037400.1.p_31-114 is identical to Ppat_Pp3c9_14800V3.10_30-113 but kept for subsequent analysis
+NOTE: Mgut_XP_012848260.1_15-98 is identical to Mgut_XP_012829444.1_15-98 but kept for subsequent analysis
+NOTE: Sbic_EER94693_18-101 is identical to Bdis_KQK21295_18-101 but kept for subsequent analysis
+NOTE: Acoe_PIA38681.1_21-104 is identical to Acoe_PIA38684.1_21-104 but kept for subsequent analysis
+NOTE: Mgut_XP_012834698.1_31-114 is identical to Mgut_XP_012834697.1_31-114 but kept for subsequent analysis
+NOTE: Caulen_g8237.t2_15-98 is identical to Caulen_g8237.t1_15-98 but kept for subsequent analysis
+NOTE: Amac_KNE62220_74-157 is identical to Amac_KNE63190_74-157 but kept for subsequent analysis
+NOTE: Sarc_Sarc4_g29733T_45-128 is identical to Cfra_CFRG1301T1_36-119 but kept for subsequent analysis
+NOTE: Ptet_CAK58122_20-103 is identical to Ptet_CAK60712_20-103 but kept for subsequent analysis
+NOTE: Mgut_XP_012844767.1_45-126 is identical to Mgut_XP_012846296.1_76-157 but kept for subsequent analysis
+NOTE: Mgut_XP_012838119.1_216-299 is identical to Mgut_XP_012838126.1_86-169 but kept for subsequent analysis
+NOTE: Carmem_b4424.p1_77-159 is identical to Carmem_b599.p1_61-143 but kept for subsequent analysis
+NOTE: Styinc_Gene15750_m15750_90-172 is identical to Styinc_Gene19184_m19184_116-198 but kept for subsequent analysis
+NOTE: Cscu_XP_023215830.1_8-96 is identical to Cscu_XP_023215829.1_8-96 but kept for subsequent analysis
+NOTE: Drer_ENSDARP00000153150.1_3-85 is identical to Drer_ENSDARP00000135530.1_3-85 but kept for subsequent analysis
+NOTE: Sphfal_Sphfalx19G069500.2.p_4-87 is identical to Sphfal_Sphfalx19G070700.1.p_4-87 but kept for subsequent analysis
+NOTE: Plebac_Pbla_mRNA_1328_7-90 is identical to Pbla_XP_018297139.1_7-90 but kept for subsequent analysis
+NOTE: Porumb_OSX73752.1_7-91 is identical to Porumb_OSX73753.1_7-91 but kept for subsequent analysis
+NOTE: Perkma_EEQ99762_317-400 is identical to Perkma_EER00796_635-718 but kept for subsequent analysis
+NOTE: 6 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Drer_ENSDARP00000002886.5_1-83 (identical to Drer_ENSDARP00000146107.1_1-83) is ignored but added at the end
+NOTE: Sphfal_Sphfalx19G002800.2.p_29-112 (identical to Sphfal_Sphfalx19G002900.1.p_29-112) is ignored but added at the end
+NOTE: Sphfal_Sphfalx19G002800.1.p_29-112 (identical to Sphfal_Sphfalx19G002900.1.p_29-112) is ignored but added at the end
+NOTE: Ppat_Pp3c12_3580V3.1_31-114 (identical to Ppat_Pp3c9_14800V3.10_30-113) is ignored but added at the end
+NOTE: Ppat_Pp3c15_5200V3.1_30-113 (identical to Ppat_Pp3c9_14800V3.10_30-113) is ignored but added at the end
+NOTE: Sphfal_Sphfalx13G066700.1.p_29-112 (identical to Ppat_Pp3c9_14800V3.10_30-113) is ignored but added at the end
+Alignment was printed to alignments/euk.Histone.to_histdb/CC3_.iqt.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to alignments/euk.Histone.to_histdb/CC3_.iqt.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.157 seconds
+
+NOTE: 79 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -46914.462
+2. Current log-likelihood: -44171.207
+3. Current log-likelihood: -43940.918
+4. Current log-likelihood: -43926.405
+Optimal log-likelihood: -43926.024
+Gamma shape alpha: 1.084
+Parameters optimization took 4 rounds (3.660 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 26.346376 sec (of wall-clock time) 26.345655 sec(of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing RapidNJ tree took 0.016767 sec (of wall-clock time) 0.032735 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -44125.167
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -43549.939
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 2: -43486.655
+Finish initializing candidate tree set (4)
+Current best tree score: -43486.655 / CPU time: 15.779
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:49s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -43486.655
+Optimal log-likelihood: -43486.641
+Gamma shape alpha: 0.976
+Parameters optimization took 1 rounds (0.629 sec)
+BEST SCORE FOUND : -43486.641
+Total tree length: 247.018
+
+Total number of iterations: 2
+CPU time used for tree search: 15.785 sec (0h:0m:15s)
+Wall-clock time used for tree search: 15.786 sec (0h:0m:15s)
+Total CPU time used: 49.881 sec (0h:0m:49s)
+Total wall-clock time used: 49.737 sec (0h:0m:49s)
+
+Analysis results written to: 
+  IQ-TREE report:                alignments/euk.Histone.to_histdb/CC3_.iqt.iqtree
+  Maximum-likelihood tree:       alignments/euk.Histone.to_histdb/CC3_.iqt.treefile
+  Likelihood distances:          alignments/euk.Histone.to_histdb/CC3_.iqt.mldist
+  Screen log file:               alignments/euk.Histone.to_histdb/CC3_.iqt.log
+
+Date and Time: Mon Nov 16 18:19:38 2020

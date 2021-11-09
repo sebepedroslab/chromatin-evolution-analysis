@@ -1,0 +1,160 @@
+# pfam_scan.pl,  run at Fri Dec 18 18:52:15 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Symmic.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Symmic_Smic20731    585    744    582    758 PF00160.22  Pro_isomerase     Domain     4   142   158    138.6   2.1e-40   1 CL0475   
+#HMM       letsskGrivieLfadkaPktvenFlklvkegfYdgttFhRvikgfmvqgGdptgkts.....................agegekkdgesi......raipdEftsklkhkrGalamartgkapnsngsqFfItlkeaphldg......kytvFGrVveGmdvvekiekvet
+#MATCH     l+ts kG+i++eLf d++P t++nF++l+++gfYdg++FhRvi++fmvq G p++k++                                +       +i+dEf s+ ++ +G l+ma+tg +p+s+gsqFfI++ ++++ld       ++ vFGrVv+G+dv  ki+k+++
+#PP        7895.********************************************9998887777777665555555554433322..........023334468*****999899**********8.6******************99999999*******************9875
+#SEQ       LKTS-KGTIEVELFLDRVPRTASNFIDLAQTGFYDGVHFHRVIPNFMVQFGCPNAKDPfspyagtggppdgsfqnlatgI----------TeqrfrgGNIKDEFVSQDSNVKGSLSMANTG-QPDSGGSQFFINVRDNSFLDWfspgdsRHPVFGRVVDGYDVAVKISKAPS
+Symmic_Smic20731    808   1005    805   1005 PF00856.29  SET               Family     4   169   169     42.7   7.9e-11   1 No_clan  
+#HMM       vfAtedIpkgeficeypeeiiltkdeadksele.......................................aylfslpeatnslaftkelakasastllqklakdqkqaekedtdaalkasskaesdln.a..........skpeagafsatagysidaralksgnga..gplarflNHsCdpNcnltvqnvlrgprvavfAtrdIkkGeEltidYg
+#MATCH     ++ + ++++g++i+  ++++++++++a+ +                                          a                  + +s+   l +++++ + + +  + a l+as+   +    +          +k+++ a  ++ +++++++ ++s  g   +p+a+++NHs +pN+  +++ +++ ++v+++A+rdI+ GeElt  Y+
+#PP        5667788999999655588888888888888778899998888887444444444433333333333333331..................22233333333333333333333333333333322222241444444555455566666999999999777777777788***************..555556********************9996
+#SEQ       LRPRHPVKRGDVIFAAQPSHVIHPEDAEGRRFAgcrddrcklallvaemrawpagrtrgrfwqtaiasypslA------------------EFESLGVPLAASESALRVLDQTPEFAPLVASVRSTRASMlStlgvynnsesHKHLKFADVLWGRLVVETSNFESNCGLhvAPVADLVNHSSTPNV--EYSCNQSTGEVILTASRDISTGEELTARYN
+#CS        EEESS-B-TT-EEEEEEEGGEEEHHHHHHHHHH.......................................HHCCCEE.GG..GGS.HHHHHHHTTSSHHHHHHHHHHHHHHHHHHTHHHHHHH.TTTS.G............HCCCEEHCCCCEEEETEEEEEECGG..GTTGGGCEE-SSSSEEEEEEECTTSSEEEEEESS-B-TTEEEEE-SC
+Symmic_Smic20731   2277   2292   2276   2292 PF00098.24  zf-CCHC           Domain     2    17    18     23.5   4.1e-05   1 CL0511   
+#HMM       kCynCGepGHiardCp
+#MATCH     +C+ CG+ GH++r+Cp
+#PP        7**************9
+#SEQ       PCHACGQLGHWSRECP
+#CS        CTSSSSSSSSTTTTST
+Symmic_Smic20731   3544   3737   3539   3788 PF07727.15  RVT_2             Family    14   193   243     46.2   4.3e-12   1 CL0027   
+#HMM       kpigtkWvytkkkddl.kevkykarlvaqGfsqvagedydevfsPvirlesvrlllalaaeeewvvhhldvksaflngev...eeevyvkqPpGfeid...........neeekvyklnkslyGlkqapiaWntkiskvlkelrfersdaesGlyvrg..dgenklivglyvddllisgkdikiiedfkkelakkfk
+#MATCH     + +g ++v t+k d+    +  +ar ++ G++   +     ++sP + +    ll  +a++++wv+h  dv++afl+g+     e++y + P G+  +           n  e  +++ k  +Gl  +p+ W+ + +++l+el++++  +  Gl+      ge + + +++vdd   +g++++++  + kel +++k
+#PP        67899********999456689********9985.5555679************************************85233566******99865422222223332456788999*************************************76522589999*********9999998876..3344444444
+#SEQ       RILGSRFVLTNKGDATlEGADLRARWIIGGHRDP-DAGLYATSSPTASMLGHNLLNFVAVQNKWVIHFEDVSAAFLQGKQlprAEKIYARIPRGYPPEvveylvealggNVREDLVEITKGGFGLPESPRLWYLAYKEILQELGLHELRLAPGLFRAFtpTGEVRAMASIHVDDTRYAGDESSEV--LWKELHARLK
+Symmic_Smic25401     45    255     38    275 PF00078.28  RVT_1             Family     9   210   222     44.8   1.1e-11   1 CL0027   
+#HMM       yRpisllsvdykalnkliakrLkdvl.....ekllsenqpgfrpgrstldav...edllkalkkkkka.klllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskee......lqelleaveewlkesglkinpeKtklvlftv
+#MATCH      Rpi+l+sv yka  ++     +  l        ++   pg          v   ++ + +++  +++ +  l lDl+ ++++ ++++l++   a+ +p +++n+  +++++ +  +  +g+    +++ +g+  G++ +P+l+ l++++ l+ ++++     l   +DD++i +++k+       + +l+++v++ l  ++lki+ +K+ +v++  
+#PP        6999999999999999999945555577543344455555555552.....223544444444444444999**************************************7777.666688866899******************************755556678***********98889*999999999*********************7542
+#SEQ       ERPIGLCSVAYKAWLQMRYPLVQAWLqgyekVAPWDAAVPGVTCLS-----VsiaRVFKCEVAVATGChRATLYLDLSTFYETLSHAKLIESALALDFPASVLNIALQIYRGGR-IIDAEGNMGPISFTDRGVIAGCPAAPALSKLALYQPLKTVQEAGLCAGLDSWIDDVTIDAEDKDPqraaqkIVSLYRTVSAELGHAELKISTSKSAFVCTDR
+#CS        EEE......-THHHHCTB--..............-------HHHH................HCCHTS-.-EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHH......HHHHHHHHHHHHHHTT--BEGGG-EEE....
+Symmic_Smic25401   2500   2551   2472   2551 PF00125.25  Histone           Domain    80   131   131     30.2   4.9e-07   1 CL0012   
+#HMM       edlrisaeavlalqealEallvelfeeAnllakhaKRvTitpkDiqlArrlr
+#MATCH     e +r++ +a+ al +++E  + e++ +++ la+h KRvT+ ++D+qlA+r r
+#PP        5689999******************************************975
+#SEQ       ETMRLDTRAMAALHTVMEGVMQEIMRQSGELAEHGKRVTVYKEDLQLALRMR
+#CS        SSXEEXHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTXSEEXHHHHHHHHHHT
+Symmic_Smic25401   3492   3511   3491   3513 PF13202.7   EF-hand_5         Domain     3    22    25     19.9   0.00037   1 CL0220   
+#HMM       dtFqaiDlNgDGkIskeELk
+#MATCH     d+F+ +D++g+G+I++eE++
+#PP        68*****************7
+#SEQ       DLFSRLDADGSGTITREEFE
+#CS        HHHHHH-SS-SSCE-HHHHH
+Symmic_Smic25401   3628   3648   3627   3650 PF13202.7   EF-hand_5         Domain     3    23    25     19.9   0.00036   1 CL0220   
+#HMM       dtFqaiDlNgDGkIskeELkt
+#MATCH     d+F+ +D++g+G+I++eE+++
+#PP        68*****************75
+#SEQ       DLFSRLDADGSGTITREEFEK
+#CS        HHHHHH-SS-SSCE-HHHHHH
+Symmic_Smic25788    478    493    477    494 PF00098.24  zf-CCHC           Domain     2    17    18     27.2   2.7e-06   1 CL0511   
+#HMM       kCynCGepGHiardCp
+#MATCH     +C+nCG+ GH+ardCp
+#PP        7**************9
+#SEQ       VCHNCGGKGHWARDCP
+#CS        CTSSSSSSSSTTTTST
+Symmic_Smic25788   1946   2175   1939   2182 PF07727.15  RVT_2             Family    13   236   243     86.5     2e-24   1 CL0027   
+#HMM       rkpigtkWvytkkkddlkevkykarlvaqGfsqvagedyd.evfsPvirlesvrlllalaaeeewvvhhldvksaflngeveeevyvkqPpGfeidneeekvyklnkslyGlkqapiaWntkiskvlkelrfersdaesGlyvrgdgenkl...ivgl.yvddllisgkdikiiedfkkelakkfklkdlgdis....eflGievaqeaggikls.qadylskvvkkfeltdan
+#MATCH      + i  +Wv t+k      +  +arlva+ f        d   +s  + +e+++++l+ aa+    +  ld+++afl +++ +   +  P  f  ++ e     l k+lyGl+ a+  W++ +s+++ +l++++s++e  l+      nk+   i++l yvddll+++++ + +e + + la+ +k+k  g+++    eflG  +  + + i l  + +y+ +v   f+ td  
+#PP        68899********9....67779********998888888799*****************************************************************************************************999999533466667*******************************999755557**************972569**********99965
+#SEQ       CRVIKSRWVLTQKA----PGLVRARLVAKDFAHGRPSALDlGLSSNTASVEALKMILSRAAKGRMKMWGLDISTAFLFANIVQPTVIELPGNFSLETGETAYLVLHKALYGLRSASLSWQRHLSRIMVDLGLRPSPLEPTLFSGWVELNKIwvyIIALaYVDDLLVASSEQSGVEYVHQSLAALLKVKVTGKLEdgqlEFLGRLIRLDGNNIALGvKPEYVRSVFSAFGWTDKD
+Symmic_Smic25788   2841   2866   2841   2866 PF10283.10  zf-CCHH           Domain     1    26    26     32.4   6.6e-08   1 No_clan  
+#HMM       rppCkYGknCYRkNpqHfaefsHPed
+#MATCH     rp+C +G +C+R NpqHf + sHP+d
+#PP        9***********************97
+#SEQ       RPSCAFGNSCRRSNPQHFLDESHPTD
+Symmic_Smic25788   2917   3069   2911   3070 PF10021.10  DUF2263           Family     7   146   147     38.1   1.9e-09   1 CL0223   
+#HMM       ilergeylnskgekvdlreaveaavkgtklyspkeaaseseeeeeatkievteestleaarrlvkeekgkkvavLNfASaknpGGGflnG.akAQEEsLarsSaLyaslleaeefYeah...rkkk.............splysda.viYSpdVpvfr
+#MATCH     +++++ y    ++kv l+ +v++ ++gt++ + +ea     ++++  ++ v +e+t   a     +++g++vav+  ASa +p GGf++G  +A EE+++ +S+L  sl +a  + ++       +              ++  ++ +i Sp V+vfr
+#PP        667777777.45568887.68**********998899999999**********99976665544.4469******************985278****************99433332223330..133334445555544444444577777777777
+#SEQ       VCQARGYWL-GNSKVALQ-QVDNLLQGTRILTIEEAGGALASNSRPPRLAVARETTALDAALAR-STRGERVAVIGAASAYHPCGGFRTGgRHALEEAMCVQSTLSVSLQRAVWLSRHGgveV--QiperlkadgrkgwFCYIPERgAILSPLVEVFR
+#CS        HHHHTEEEXTTSXEEE-CCHHHHHHHT-EEE-H..........HHHHHHEEESS-HHHHHHHHHCC..SSSEEEEEE--SSSCCCCCGCT.TTSHHHHHHHHBSHHHHHTTGHHHHHHH...HHH-.............STT--S-.EEEEEEEEEEE
+Symmic_Smic2990     158    285    158    285 PF00856.29  SET               Family     1   169   169     30.9   3.3e-07   1 No_clan  
+#HMM       GrGvfAtedIpkgeficeypeeiiltkdeadksele..............aylfslpeatnslaftkelakasastllqklakdqkqaekedtdaalkasskaesdlnaskpeagafsatagysidaralksgngagplarflN.HsCdpNcnltvqnv...lrgprvavfAtrdIkkGeEltidYg
+#MATCH     GrG+fA + +pkg+++  y     lt  e  ++e +              a l++ p                                                     +  +g++++   y++d+r   +gn+a    rf+N  s +++c   ++nv   + g   ++++tr++++G+El  +Yg
+#PP        99**************5454.346777777777777777777876654432222222....................................................2234455588899**************....****87779999..55555579999999******************8
+#SEQ       GRGLFAARALPKGTVLPPYG-GQQLTYREVGLREFSegmtytwcplrngaAMLEMSP----------------------------------------------------QELIEGPRAQQLAYCVDSRIASEGNPA----RFVNgASSSDQC--ALVNVkmcELGQVGYFRTTRPVPAGTELITSYG
+#CS        SCEEEESS-B-TT-EEEEEEEGGEEEHHHHHHHHHH..............HHCCCEE.GG..GGS.HHHHHHHTTSSHHHHHHHHHHHHHHHHHHTHHHHHHH.TTTSG..HCCCEEHCCCCEEEETEEEEEECGGGTTGGGCE.E-SSSSEEEEEEEC...TTSSEEEEEESS-B-TTEEEEE-SC
+Symmic_Smic2990    1211   1335   1194   1355 PF00078.28  RVT_1             Family   103   210   222     43.6   2.4e-11   1 CL0027   
+#HMM       nliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra...........kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft........v
+#MATCH       ++s+ls+ +++v+  + + ++ +   g++qG+  SP lf ++m+ +l+e  +++            +   l+++DD ++ + + ++l + ++++++ l+++gl++n +K++l++ t        v
+#PP        56889**********99976.9*******************************************87777889*****************************************95.4466666551
+#SEQ       FALQSLLSNVTATVQSPWGS-SQVPLRSGIKQGASESPQLFAFIMEVALMEAGEEFgwhrmqrvlpeLEHSDLLFMDDGVLWAVNCTDLARKVTEFSRVLQRYGLSLNLKKCHLYC-TpacpsphlV
+#CS        .....................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T.................TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE............
+Symmic_Smic2990    3290   3330   3287   3332 PF00226.32  DnaJ              Domain    15    54    63     43.8   2.1e-11   1 CL0392   
+#HMM       deIkkaYrklalkyHPDknpkdp.eaeekFkeineAyevLs
+#MATCH     +e++kaYr+lal yHPDknp+dp  a++ F++++eAye L 
+#PP        79*********************88899**********995
+#SEQ       AEVRKAYRRLALVYHPDKNPEDPeAAADTFRRLAEAYEALA
+#CS        HHHHHHHHHHHHHCSTTTSCTHH.HHHHHHHHHHHHHHHHT
+Symmic_Smic30364   2138   2356   2130   2367 PF07727.15  RVT_2             Family    14   225   243     51.4   1.1e-13   1 CL0027   
+#HMM       kpigtkWvytkkkddlkevkykarlvaqGfsqvagedydevfsPvirlesvrlllalaaeeewvvhhldvksaflng...eveeevyvkqPpGf..eidneeekvyklnkslyGlkqapiaWntkiskvlkelrfersdaesGl..yvrgdgenk.l..ivglyvddllisgkdik.iiedfkkelakkfklkdlgdis.eflGievaqeaggiklsqadylsk
+#MATCH     + ++++Wv t k+     +  kar+v+ G+ q ++   +  +sP +   + +l+   a+  +w   + dv +afl++   ++   v+ k+ p     +  +++  +++ k+ yGl  ap  W++ ++k+l  l++ + ++e     +v+ +g    l  i++ +vdd++i+g++   +  ++ +++ + ++ +   ++s ++ G+ ++     i + q +y ++
+#PP        66789*******9....999**********.6788999999**********************************9633367888***99886511567799***********************************99997653389988765435458999********98764256677777777777777766663456676666666666666666665
+#SEQ       RLMSMRWVLTYKE----SGAAKARIVIVGY-QDPDLATLVSSSPTMSRRTRQLVYQQATLRKWKTLKADVRAAFLQTaptQISRCVFAKPVPELarAMHLQDGEAVQIAKACYGLVNAPAEWYRDVNKTLVSLGMTQLKTEPCAwrFVKWKGGVPqLmgIIAAHVDDFVIAGDEQDaEWTEIVNRFHQSYRWSPWEVVSyNHCGVMIKEGHREIIMDQSKYCAQ
+Symmic_Smic30364   2941   3001   2940   3004 PF00536.31  SAM_1             Domain     2    61    64     30.5   3.7e-07   1 CL0003   
+#HMM       kwsvedVgeWLesiglgqYadlFrageidgdaLlllteddLek.lgvtllGHrkkIlyaIq
+#MATCH     +w+ved++ WL+ +g g+++++F++  +dg+ Ll+l +d   + lgvt +  ++ + +a++
+#PP        7**********************99999************6666*****988877777665
+#SEQ       SWTVEDISVWLHWLGIGEHVEAFASRNVDGRLLLQLGADSAWAeLGVTDPAQQRVLDSAVE
+#CS        CTTHSSHHHHHHHTTSGGGHHHHHTTTSSHHHHTTSCHHHHHH.TTTTSHHHHHHHHHHHH
+Symmic_Smic30364   3038   3100   3037   3100 PF00498.27  FHA               Family     2    69    69     35.7   8.4e-09   1 CL0357   
+#HMM       tiGRs.sdcdivlddpsiSrkHalikfdkgsgkvyleDlgSknGtfvNgqrigkgepveLksgdvielG
+#MATCH     t GR+  ++ ivl++  +Sr+H+li +d + g++ l+D+gS+ Gtf+    ++   + +L ++ +i+lG
+#PP        569**999*********************9.****************...7776..9999999999998
+#SEQ       TGGRHcASNGIVLSENYVSRRHFLILRDRS-GQYLLQDVGSTTGTFL---MVRE--ELPLDHQMIIQLG
+#CS        EEESS.TTSSEETTSTTSTSSEEEEEEETTCEEEEEEEESSSSSEEETTEEESTTSEEEESTTEEEEET
+Symmic_Smic30364   3136   3202   3134   3202 PF00498.27  FHA               Family     3    69    69     23.6     5e-05   1 CL0357   
+#HMM       iGRssdcdivlddpsiSrkHalikfdkgsgkvyleDlgSknGtfv....NgqrigkgepveLksgdvielG
+#MATCH     iGR+  + +++ dp+iS  H+ ++  ++  ++ l D  S+n t++    +gq+ ++   + L+ gd +++G
+#PP        9**********************99888.8***************66656666665...*******99887
+#SEQ       IGREAGNGLCIRDPQISAFHCKVRPVPD-HGFILDDEYSTNRTWLrlaaDGQPSRR---YVLRIGDLFKVG
+#CS        EESSTTSSEETTSTTSTSSEEEEEEETTCEEEEEEEESSSSSEEE....TTEEESTTSEEEESTTEEEEET
+Symmic_Smic30364   3359   3403   3358   3403 PF13920.7   zf-C3HC4_3        Domain     2    50    50     43.7   1.9e-11   1 CL0229   
+#HMM       eeeCviCldrprnvvllpCgHlvlCeeCaekllkrkkkCpiCrqpiekv
+#MATCH     e++C+iC+d+  +vvl+pCgH +lC  Ca+ +      Cp+Cr  i++v
+#PP        789*****************************....*******999875
+#SEQ       EDLCKICYDAVIDVVLYPCGHYMLCRWCAQMV----SDCPVCRYVITDV
+#CS        GSB-TTTSSSBS-EEETTEEEEEE-HHHHHHHHHTT-B-TTT--B--EE
+Symmic_Smic33578    638    856    630    868 PF07727.15  RVT_2             Family    14   225   243     52.5   4.9e-14   1 CL0027   
+#HMM       kpigtkWvytkkkddlkevkykarlvaqGfsqvagedydevfsPvirlesvrlllalaaeeewvvhhldvksaflng...eveeevyvkqPpGf..eidneeekvyklnkslyGlkqapiaWntkiskvlkelrfersdaesGl..yvrgdgenk.l..ivglyvddllisgkdik.iiedfkkelakkfklkdlgdis.eflGievaqeaggiklsqadylsk
+#MATCH     + ++++Wv t k+     +  kar+v+ G+ q ++   +  +sP +   + +l+   a+  +w   + dv +afl++   ++   v+ k+ p     +  +++  +++ k+ yGl  ap  W++ ++k+l  l++ + ++e     +v+ +g    l  i++ +vdd++i+g++   +  ++ +++ + ++ +   ++s ++ G+ ++     i + q +y ++
+#PP        66789*******9....999**********.6788999999**********************************9633367888***99886511567799***********************************99997653389988765435458999********98764256677777777777777776663466777766666666666666665
+#SEQ       RLMSMRWVLTYKE----SGAAKARIVIVGY-QDPDLATLVSSSPTMSRRTRQLVYQQATLRKWKTLKADVRAAFLQTaptQISRCVFAKPVPELarAMHLQDGEAVQIAKACYGLVNAPAEWYRDVNKTLVSLGMTQLKTEPCAwrFVKWKGGVPqLmgIIAAHVDDFVIAGDEQDaEWTEIVNRFHQSYRWSPWEVVSyNHCGVMIKEGHREIIMDQSKYCAQ
+Symmic_Smic33578   1260   1365   1256   1366 PF03171.21  2OG-FeII_Oxy      Domain     5   100   101     42.2   9.1e-11   1 CL0029   
+#HMM       lvlnyypph...pdpev....ilglgahtdaslltillqddvgglevfkd...gkwlrvppvdnslivnkGdallflsngryksvlHrVlpvneger.....Rvsiayfie
+#MATCH     +++ny p +   +        ++++ ahtd++ +til +    gl+v kd    kw +vp v+n +++n Gd +  ++n +  s+lHrV +  +g+      R+++a+f++
+#PP        55666.4443330...24445899************99998.9****87765566***********************************666666668999******985
+#SEQ       RSNNY-PDQagmT---EipagSIRCSAHTDYGTVTILRSGG-PGLQVSKDkenPKWHDVPFVENGFVINLGDLMRRWTNDKWSSTLHRVINPPTGKAaswgrRLALAFFHN
+#CS        EEEEEE-SS...S---E.......EEEEEESSSEEEEEEESTCTTTEEEE...TEECCG...TTEEEECE-CCCCCCCCSSS.S--EEE-.-ECCCS.....EEEEEEEE-
+Symmic_Smic33578   1411   1481   1406   1488 PF13621.7   Cupin_8           Domain   153   238   254     47.9   1.5e-12   1 CL0029   
+#HMM       NlycvvrGrKeftLfpPsdapnlyeaslsptedgtvvswvdveepdderfprlrdakkalevtlnaGevLylPalWfHeVkslaee
+#MATCH      + +++ G+K++tL+p s+++ l ++              d+ +pd+++fpr+ +a  + +vt+ +Ge Ly Pa W+H+  +l e+
+#PP        57899*****************99766.............99**************.9*********************9888.33
+#SEQ       SWQVQLVGKKRWTLCPNSESQLLHTEL-------------DTYNPDYSKFPRFAQA-ACGQVTVSPGELLYYPAYWWHHTLQL-ES

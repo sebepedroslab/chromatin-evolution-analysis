@@ -1,0 +1,823 @@
+# pfam_scan.pl,  run at Fri Dec 18 14:45:15 2020
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: results_TEfusions/data/fusions.Morvir.fasta
+#     cpu number specified: 1
+#        searching against: /users/asebe/xgraubove/data/pfam//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: on
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> <predicted_active_site_residues>
+
+Morvir_scaffold102.g15.t1    290    358    288    372 PF00385.25  Chromo            Domain     3    43    54     32.7   5.2e-08   1 CL0049   
+#HMM       VerIidhrtdkdgle............................leYlVKWkglpysentWEpeenlekc
+#MATCH     +e+++dhr+ + + +                            ++Yl+KWk++++ +ntWE+e+ le++
+#PP        6888888877777777788888888888888888888888888***********************987
+#SEQ       IEKVLDHRIGRPEHTgaittvyadesedlqrlgepdpekeeteYQYLIKWKSWSHLHNTWESEKSLEEQ
+#CS        EEEEEEEEEETTEEC............................EEEEEEETTSTGGGTEEEEGGGCTSC
+Morvir_scaffold102.g15.t1    407    461    406    461 PF00385.25  Chromo            Domain     2    54    54     62.8   2.1e-17   1 CL0049   
+#HMM       eVerIidhrtdkdgle..leYlVKWkglpysentWEpeenlekcfqelideFkkr
+#MATCH     +VerIi+h++ +d++   + Y++KW+glpyse++WE+ +++++ +q lide+ +r
+#PP        7********99999999***********************************876
+#SEQ       KVERIIAHQYTDDNKAayPDYFCKWQGLPYSECSWEDGALIARFSQSLIDEYLNR
+#CS        EEEEEEEEEEETTEEC..EEEEEEETTSTGGGTEEEEGGGCTSCSHHHHHHHHHH
+Morvir_scaffold102.g15.t1    512    620    458    650 PF00176.24  SNF2_N            Family    50   167   350     73.7   1.1e-20   1 CL0023   
+#HMM       eakqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkkmkkkntk.vapklladydvvittYdvlsreaelq
+#MATCH     +a ++++  iLaDemGLGKT+q+++++    +  +        ++l+gp+++vvP s++  W++e++ ++++ ++ v++++ +++++ ++ +   ++   +++v++ttY++l +++ l+
+#PP        667788899*******************...43444.......4578********************************9998876655555156678889***********9988444
+#SEQ       HAWCKNNSVILADEMGLGKTIQTISFVS---TLFHT-------HELYGPYIVVVPLSTMASWQKEFQLWAPNLNIIVYIGDVNSRTRLQEYEwCHKNRRLKFNVILTTYEMLLKDKFLV
+#CS        HHHHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHHHCCC---.----TTT-SSEEEEEHHHHHHTT...
+Morvir_scaffold102.g15.t1    886   1121    882   1121 PF00078.28  RVT_1             Family     3   222   222    133.7   6.7e-39   1 CL0027   
+#HMM       Kkg....pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft.............v.kseevkyLGvtl
+#MATCH     K g    +g+yR i l+++ +k+ ++++  r+++     +s++q+ f+pgr+t da+   + l +++++ +k+ +++++Dl+ka+d+vp eel++++ + +v +k ++l+k+++++  ++vr     +  + +k gl qGs+lSP+lf ++m++l  e+rk+a      ++aDDi++  k+++e++e le+ +  l++ g+k++ +Kt+ ++++             v k++ +kyLG t+
+#PP        3.258889**********************99997..89********************98888888888999**************************************************77777*********************************74..66789*****************************************999*********998758*********875
+#SEQ       K-GdaqeCGNYRGIKLMCHTMKLWERVLDARMREE--VEISPEQYSFMPGRGTTDALfalRILMEKHREGQKELHCVFVDLEKAYDRVPREELWHCMRTSRVAEKYVRLVKDMYKDSATAVRSAAGMTDWFRVKVGLHQGSALSPFLFAIVMDRLTDEVRKEA--PWSMLFADDIVLCNKTRNEAEEELEEWRYALERRGMKVSRAKTEYLVVNgreddkicmqgadVmKAKDFKYLGSTV
+#CS        -TT.....S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...................ESSEEETTEEE
+Morvir_scaffold102.g15.t1   1280   1444   1260   1445 PF00176.24  SNF2_N            Family   171   349   350    131.3   3.3e-38   1 CL0023   
+#HMM       svlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalksssksk.ekilelllelrqacnhpql
+#MATCH     + l  + w  +++DE+h+lkn +s ++ ++ ++ t+ r+++tGTP+qnsl++l++L++f+++e+f++++ f+ ++++     +++g ++L+  l++++lrr+kkdvek+lP k+e+i+++++s+v++++Y+            ++l+++ a+l+++ k + + +l+++ el+++cnh +l
+#PP        6789999***********************************************************88888766544...3579***********************************************............999999********999777**************987
+#SEQ       ELLGGIYWASLIVDEAHRLKNDDSLLYRTLVDFHTNFRLLITGTPLQNSLKELWSLVHFIMPEKFTSWDEFELQYST---TDMKDGYQKLHRELEPYLLRRVKKDVEKSLPAKVEQILRVEMSAVQKQYYK------------WILTKNYAELSKGLKGNtSGFLNIVVELKKCCNHASL
+#CS        TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HH.HSHCCHHHHHHHHHH-CCC
+Morvir_scaffold102.g15.t1   1468   1579   1465   1579 PF00271.32  Helicase_C        Family     4   111   111     69.7   2.5e-19   1 CL0023   
+#HMM       eallell.kleeeggkilifvntidrlek.vklllekkgikvavlhgelpqnereeileqfn.kgesd..vLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH       l +ll  l+e+g+++l+f++ +++l+  +++l  +k++ + +l+g++  + r+++l+ fn +g+ d  +L++t++++ G+++  +++Vi+fd ++n+++  q++ R++R+g
+#PP        55677777889****************9988888.5667***********************867777669****************************************97
+#SEQ       VLLDKLLtRLKERGSRVLVFSQMVRMLDViADYL-AQKHFMFQRLDGSIRGDIRKQALDHFNaDGSMDfcFLLSTRAGGLGVNLATADTVIIFDSDWNPQNDLQAMARAHRIG
+#CS        HHHHHHH.HHHTTTSEEEEEESSHHHHHH.HHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH.TTSSS..EEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Morvir_scaffold102.g15.t1   1808   1893   1807   1893 PF18375.2   CDH1_2_SANT_HL1   Domain     2    91    91    108.9   1.5e-31   1 No_clan  
+#HMM       gFtdaeiRrFvksykkfsaplkrleaiagdAeLqEkplsdLkklgellkerCeealeeekeekeeeeeekeekkkrergpslklggvsvn
+#MATCH     gF d+eiRrF+ksykkf+ p +rl+aia+dAeLqEk+ +dL +l++ll+  C++a++e+ +ek  ++ + ++kk   rg++lkl+gv+vn
+#PP        8**********************************************************.9999*******999...9***********9
+#SEQ       GFVDSEIRRFIKSYKKFARPCTRLDAIAADAELQEKSRADLERLSDLLHTGCQQAVKEY-QEKLLKDATFDGKK---RGATLKLSGVTVN
+Morvir_scaffold10.g67.t1     673    875    665    905 PF00078.28  RVT_1             Family     6   209   222    122.9   1.4e-35   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++  k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD++++++  + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..689*********************8888888999999*****************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDNMQFGFMPGRGTIDAIfilRQMQEKYLGKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSCEILDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold10.g67.t1     889    934    888    935 PF00628.30  PHD               Domain     2    51    52     29.3   5.9e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold10.g67.t1    1152   1227   1131   1232 PF02046.16  COX6A             Family    25   107   112     47.5   2.1e-12   1 No_clan  
+#HMM       kereavkeHaeettdlwrklslyvaipalilaainaynlekeHaeHvehlkeleerteYeYqnirtknffwGdGdktlFwNdk
+#MATCH      + ++v+eHa  t+  w+ +s +va p+++      y ++++  +  +h++  + ++ Y++ +ir+k+f+wGdGdk+lF+ ++
+#PP        567899*********************985......555555554.57899999*************************9875
+#SEQ       DKAKTVEEHARTTSYNWKMISAFVAAPGVA------YLVYDNFFA-GKHEEAFPSDIAYPHLKIRNKPFPWGDGDKSLFHSPH
+Morvir_scaffold119.g44.t1     73    160     70    163 PF00665.27  rve               Domain     7    95   102     44.4   1.6e-11   1 CL0219   
+#HMM       lwqvDvt.viripdggg.kayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvs
+#MATCH     + q D + v++++++++   yll++id+fsr+++++ + ++ + +++ ++le  +    +  p+r+++D+g+e+ + +++  l++ +i+  
+#PP        5566777666666666569**********************.**********88887777..**********************9999865
+#SEQ       QFQADLVdVMSLKRYNDgYKYLLTMIDVFSRYAWVVPLQSK-TGKDLKHALEGVFNAGRK--PRRLQTDQGKEFLNATVQHYLQDQKITFF
+Morvir_scaffold119.g44.t1    314    353    314    355 PF00385.25  Chromo            Domain     1    41    54     33.8   2.3e-08   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenle
+#MATCH     y +e++i+++++ +++  + lVKWkg+p s n+W ++++++
+#PP        679*************.7779******************98
+#SEQ       YRIEKVIKRKKVGKRQ-MYLLVKWKGYPNSFNSWVNQKDIQ
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCT
+Morvir_scaffold122.g10.t1    501    752    493    754 PF00078.28  RVT_1             Family     5   220   222    107.2   8.7e-31   1 CL0027   
+#HMM       g.pgsyRpisllsvdykalnkliakrLkdvl..ekllsenqpgfr.pgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra.........kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft...................v.kseevkyLGv
+#MATCH     + +++yRpi++l+++ k+l  ++++    +l  + ll+++q g r + r+t d++   + + + +k+ k++ +++ +D kka+d vp+++l+++l+ +++ +++++++++ + + ++ ++ nge  +++ +k+g+ qG  lSPllf +++ +l+  lr+             v++l+++DD+ ++++s+ el++l+ +++   +++g+k+  +K+k v ++                   + +++ +kyLG+
+#PP        2779**************************9*999********8725799********8888888***********************************************************88********************************999*******9999**********************************************8889*************99986379********8
+#SEQ       SiASNYRPIACLPILWKILTGILSDKVHGHLleNDLLPDEQKGCRrDSRGTKDQLlidKAIIRNCKRAKRNLHMAYIDYKKAYDMVPHSWLIETLKMVGIASNIRETLEKSMFNWKTELTANGEPLGEIEIKRGIFQGDSLSPLLFVIVLIPLSLVLRNTKlgytfsksdVTVNHLLFMDDLKLYARSERELNSLVHTLRIVSEDCGMKFGYDKCKTVFLNkgkigkasviempdgekirEvEESGYKYLGI
+#CS        T..S-EEE......-THHHHCTB--...........-------HH.HH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T...............TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.........................ESSEEETTE
+Morvir_scaffold122.g10.t1   1358   1408   1358   1409 PF00628.30  PHD               Domain     1    50    52     43.4   2.3e-11   1 CL0390   
+#HMM       rCsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpeg...ewlCekCk
+#MATCH     +C +C+k  + ++++++Cd+C++wfH +C++++ ++ +++++   ew+C++Ck
+#PP        69.****.999***********************98888777889*******8
+#SEQ       YC-ICNK-PHGNRFMICCDKCEEWFHGDCVGITITRGREMDKndeEWICPRCK
+#CS        SBTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSS...TBSSTTTH
+Morvir_scaffold131.g36.t1     73    159     70    162 PF00665.27  rve               Domain     7    94   102     40.2   3.4e-10   1 CL0219   
+#HMM       lwqvDvt.viripdggg.kayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirv
+#MATCH     + q D + v++++++++   yll+ id+fsr+++++ ++++ + +++ ++le  +    +  p+r+++D+g+e+ + +++  l++ +i+ 
+#PP        5566777666666666569**********************.**********88887777..**********************999975
+#SEQ       QFQADLVdVMSLKRYNDgYKYLLTKIDVFSRYAWVVPLKSK-TGKDLKHALEGVFNAGRK--PRRLQTDQGKEFLNATVQHYLQDQKITF
+Morvir_scaffold131.g36.t1    314    353    314    355 PF00385.25  Chromo            Domain     1    41    54     31.2   1.6e-07   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenle
+#MATCH     y +e++i+++++ +++  + lVKWkg+p s n W ++++++
+#PP        679*************.7779*****************998
+#SEQ       YRIEKVIKRKKVGKRQ-MYLLVKWKGYPNSFNRWVNQKDIQ
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCT
+Morvir_scaffold154.g16.t2    538    740    530    770 PF00078.28  RVT_1             Family     6   209   222    124.3     5e-36   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++  k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD+++++++ + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..789*********************8888888999999*****************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDDMQFGFMPGRGTIDAIfilRQMQEKYLGKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSCETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold154.g16.t2    754    799    753    800 PF00628.30  PHD               Domain     2    51    52     28.9   7.7e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold154.g16.t2    918   1011    918   1011 PF08066.13  PMC2NT            Domain     1    92    92     49.7   4.6e-13   1 No_clan  
+#HMM       veatkaanaLp..aeDldfyrsldpefaksldeqserllslinsllklaaskseisas.sklededdveekfksvvdvvDsllEkadtcLDeltg
+#MATCH     ve+t+ an ++  a+D++f +s+ pe+++ + e++ ++ + i ++l++    ++++++ ++  +  d+eekf+++v+++D llE++d +LDe++g
+#PP        6899*******************.***********************99999999887667788888999**********************987
+#SEQ       VECTQKANGIAssADDYEFWSSY-PEYNQFCMEEAGKIRRKIVEILHHECVPCRWKDTkESPLSTGDIEEKFEQLVEANDALLERVDLMLDEAAG
+Morvir_scaffold154.g16.t2   1149   1314   1147   1315 PF01612.21  DNA_pol_A_exo1    Domain     3   175   176    157.6   2.5e-46   1 CL0219   
+#HMM       ivtdeeeleelieelknakvvavDtEttsldlisatlvlaliqlgekeeayiidpleledavalealkrlledenitkvghnakfDlevlardfgielenlfdtmlaaavldyershsLasLaekylgdveldkeeqiakwqkarplleeqllYAaeDadvllrlfkkLtkel
+#MATCH      +++ e+l+el   lk+ k++a+D E +s+++  + + ++l+q++++e +y++d++el+++  l++l++ ++d+ni kv+h+a++D+ +l+rdfg ++ nlfdt  aa++l++ r +sLa L+ ky++ +  dk++q a+w+  rp +ee+++YA+eD+++ll++ +k+++el
+#PP        68999***************************..***************************..****************************************************.************.*************.***************************997
+#SEQ       FIDTVEGLNELSTTLKKQKEFAIDLEAHSYRS--FLGFVCLMQISTRESDYLVDTIELRKD--LQILNESFTDPNILKVMHGADMDIGWLQRDFGLYIVNLFDTGQAARILGLGR-FSLAFLLYKYCN-ISADKQYQLADWR-MRPIPEEMIKYAREDTHYLLYIKDKMRNEL
+#CS        EEHSHHHHHHHHHHHTTSSEEEEEEEEE-SSSTTSSEEEEEEEEECSSEEEEEECTTTTTT-HGHHHHHHHT-TTSEEEESSHHHHHHHHHHHHTS--SSEEEHHHHHHHTTHSTTSSHHHHHHHHHSB---GHCCTTSSTTTSSS-HHHHHHHHHHHHHTHHHHHHHHHHHH
+Morvir_scaffold154.g16.t2   1365   1432   1365   1432 PF00570.24  HRDC              Domain     1    68    68     53.7   1.5e-14   1 CL0426   
+#HMM       qlallkaLrewReelAreedvppyvilsdktLreiAeklPtsleeLlkiegvgkrkvekygeeileai
+#MATCH     ql+++k L++wR+++Areed++++++l+++++++i+e lP+ ++   +++   +  v++  +ei++++
+#PP        79**************************************************************9976
+#SEQ       QLQCFKLLYAWRDQVAREEDESTGYVLPNHMILSISEILPREPQGIIACCNPVPPIVKQRTQEIHALV
+#CS        HHHHHHHHHHHHHHHHHHHTS-HHHHS-HHHHHHHHHH---SHHHHHTSTTT-HHHHHHHHHHHHHHH
+Morvir_scaffold156.g27.t1    232    477    231    477 PF00078.28  RVT_1             Family     2   222   222    151.9   1.8e-44   1 CL0027   
+#HMM       pKkg...pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskee......lqelleaveewlkesglkinpeKtklvlft..................v.kseevkyLGvtl
+#MATCH     pKk+   ++syRp+sll+v  k++++l+ +r++++ e +l+++q gfrpgrs  d+v   ++  +++ +kk +  ++++Dl+ a+d+v+++ l  kl +    ++++++i +++s+r+f+v+v  ++s+ r+ ++g+pqGsv++Pllfnl++++++  ++k+      + YaDDi + + +k+       l++ ++++++++k+++lk+n +Kt   +f+                     +++ kyLGvtl
+#PP        66667999****************************************************9999999********************************999999******************99999********************************95......99************999**********************************************99998753789999****996
+#SEQ       PKKPpnaASSYRPVSLLCVPSKLYERLLYNRIQPITETILPKEQAGFRPGRSSQDQVvllTEDIEYAFDKKLKAGVVFVDLSAAYDTVWHRGLTLKLLRTIPSKEMVRVIMTMISQRRFHVHVGAKKSRCRTLTNGVPQGSVIAPLLFNLYTHDIPTTISKK------YIYADDIALKTCHKTFdviertLSRDMDIISKYFKNWRLKLNITKTVSSVFHlvnrradyelnvsisgmrLpFEKTPKYLGVTL
+#CS        E-TT....S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHH......HHHHHHHHHHHHHHTT--BEGGG-EEE........................ESSEEETTEEE
+Morvir_scaffold156.g27.t1   1325   1789   1325   1789 PF12054.9   DUF3535           Family     1   442   442    282.6   7.3e-84   1 No_clan  
+#HMM       VWekLvreasleallsaacphlsswlcLamtPigvpldpslllkpsgqlksssekkkkkkeeeakskrksskkkaeaagekasasshnvdkeyiggdeslvgee....nviraRiaaakaLGlllsyl.....peespldcyekvLlghLnsksalqrlvaalvieewakedkkekksevstlpetlqeklleiLeeeepvyYdElassltrlrsecqdllatlrsvgklpklavvvqgeaekaftleqaeklvttdyekllkslslkqkllaekqLeerrrrlqaaieeakeeqealhvrvqaalAgAlvalkelPkKLnpvikpLMeSiKkEeneeLQqrsAkalakLielcvdrkpcpndKIvkNLctflcsDtsetPefslnakk..........................kkegIltlkkeedkadaa.da...............................aeeeeeakeariqrrGAelaLetlakkFgasLfekvPkLwel
+#MATCH     VW+k v+ ++ ++ll+a+ ++  +w++L+++P  +p+dp+l+ +  ++                           e+++e  + +++n+ ++++gg    v+++      i+aR+aa++a+G ll  l     ++++ l  ++   l++++s+sa++rlv a+++ +w    +        +++etl++kl++iL+   +++YdEl+++ +++++++q+l+ +++++gk     v+   ++ +++tl+ a+++++++ye+   +l+ + +  a      +r+ l ++i+++++e ++++ rv++ +A+  +alk lP+KLnpvi+pLM++iK+Een+ +Q ++A++l +L+ +cv+rkpcpn KIvkNL +flc+D+s +P+++  +++                          k +gIltl+++e++++++ ++                               +  +e++ke  +qr G e+a +++a+  +++L++k+P Lw++
+#PP        9******************************************992222..........................2223445666789999999999988888888878*************999999999965555899999999**********************98884.......48**************..99************************998864....4444556.99****************9999998877777....5689******************************************************************************************************9883335555556666777777888999999999********888887633223444445556666777777777777777775677777777*******************************85
+#SEQ       VWMKSVQGSQINYLLTAVHSLAPAWFTLMVYPTDLPIDPALFSTDYQTF--------------------------ESHAEMGQGETANQSGSFLGGCAPGVPPSvredSGIKARLAASRAIGPLLMRLytdcpQDSDALAAIFHGVLQLISSSSATHRLVGAMILLSWGDTGN-------APCSETLKKKLHQILS--DQIVYDELVPFHQKMQADVQNLIMVFQEEGKD----VSMGIQP-GCYTLDVAQEIAGSKYEEESIKLTVEGQTNA----RLKRSFLINTINQLRKEYQKHNSRVLCTVAATTIALKVLPDKLNPVIRPLMDGIKREENTAMQFQAAQYLGRLLVQCVERKPCPNTKIVKNLSSFLCCDPSIIPRITDDEDTngtnsnphdhtnimtdkneiglctpnKVYGILTLSRKEKETARSlKRgrlvrassknsaaslgfndeplqnsntdtksELDDEASKELGLQRIGGEIAVRQIAEFTKETLPQKLPVLWDI
+Morvir_scaffold156.g27.t1   2017   2296   2002   2318 PF00176.24  SNF2_N            Family    55   331   350    186.2   6.6e-55   1 CL0023   
+#HMM       vrGGiLaDemGLGKTvqvlalilaqrakeekdkek.krkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkkmkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpie............aqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskske
+#MATCH        GiL+D+mGLGKT+q++++++  + +++k+ e+  ++d    p L+v+P +l  +W+ e++++++++ lr l+y g+    + ++  ++  l+ ++ v+ +Yd++++++      + + +v+w++ +lDEgh +kns++k++ +++k+++++r+il+GTPiqn++ +l++L++fL ++ +g+ + f   + +pi             +     ++ L+  + +++lrr+k+dv ++lPpk+ +  +++l++ ++  Y r        +l +++++ + ++++  +sk+
+#PP        567*******************9666555544444588888999**********************************7....566777888999*************999......89******************************************************************************9***999984333333445677777779***********************************777777777777777777777776554443
+#SEQ       KLHGILCDDMGLGKTLQSICIMAGDHVMRTKKYEEtGNEDCKPLPSLVVCPPTLTGHWCYEVKKFCNKQDLRALHYYGS----PGERARLQSELKRFNLVVASYDIVRNDS------EFFLSVHWNYCILDEGHIIKNSKTKLSYVIKKIKANHRVILSGTPIQNNVLELWALFDFLLPGFLGTEKQFTAKYGKPILqsrdakssskeqEAGVLAMEALHRQVLPFVLRRMKEDVLQDLPPKIIQDFYCDLTPIQALQYLRKVCNHPSLVLTSSHPEYQRTMNDLHQSKS
+#CS        T--EEE---TTS-HHHHHHHHHH...HHHHTS---........S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHHHCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHC............HCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHH
+Morvir_scaffold156.g27.t1   2333   2438   2324   2438 PF00271.32  Helicase_C        Family    11   111   111     66.1   3.1e-18   1 CL0023   
+#HMM       kleeeggkilifvntidrlek..vklllekk...gikvavlhgelpqnereeileqfn.kgesd.vLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     ++ ++++++lif++ +++l+    +ll  k     +++++l+g++p+ +r +i+++fn + ++d +L++t v++ G++++++++Vi+++ ++n+t+  q+++R++R+g
+#PP        467899*************88855555..334689***********************778999888***************************************97
+#SEQ       SQVVSQHRALIFCQLRSMLDIveNDLL--KAvmpTVTYLRLDGSTPAGSRHHIVQRFNdDPSIDvLLLTTHVGGLGLNLTGADTVIFVEHDWNPTKDLQAMDRAHRIG
+#CS        HHHTTTSEEEEEESSHHHHHH..HHHHHHHT...TSCEEEESTTSTHHHHHHHHHHHH.TTSSS.EEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Morvir_scaffold156.g27.t5    232    477    231    477 PF00078.28  RVT_1             Family     2   222   222    151.9   1.9e-44   1 CL0027   
+#HMM       pKkg...pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskee......lqelleaveewlkesglkinpeKtklvlft..................v.kseevkyLGvtl
+#MATCH     pKk+   ++syRp+sll+v  k++++l+ +r++++ e +l+++q gfrpgrs  d+v   ++  +++ +kk +  ++++Dl+ a+d+v+++ l  kl +    ++++++i +++s+r+f+v+v  ++s+ r+ ++g+pqGsv++Pllfnl++++++  ++k+      + YaDDi + + +k+       l++ ++++++++k+++lk+n +Kt   +f+                     +++ kyLGvtl
+#PP        66667999****************************************************9999999********************************999999******************99999********************************95......99************999**********************************************99998753789999****996
+#SEQ       PKKPpnaASSYRPVSLLCVPSKLYERLLYNRIQPITETILPKEQAGFRPGRSSQDQVvllTEDIEYAFDKKLKAGVVFVDLSAAYDTVWHRGLTLKLLRTIPSKEMVRVIMTMISQRRFHVHVGAKKSRCRTLTNGVPQGSVIAPLLFNLYTHDIPTTISKK------YIYADDIALKTCHKTFdviertLSRDMDIISKYFKNWRLKLNITKTVSSVFHlvnrradyelnvsisgmrLpFEKTPKYLGVTL
+#CS        E-TT....S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHH......HHHHHHHHHHHHHHTT--BEGGG-EEE........................ESSEEETTEEE
+Morvir_scaffold156.g27.t5   1325   1789   1325   1789 PF12054.9   DUF3535           Family     1   442   442    282.5   7.4e-84   1 No_clan  
+#HMM       VWekLvreasleallsaacphlsswlcLamtPigvpldpslllkpsgqlksssekkkkkkeeeakskrksskkkaeaagekasasshnvdkeyiggdeslvgee....nviraRiaaakaLGlllsyl.....peespldcyekvLlghLnsksalqrlvaalvieewakedkkekksevstlpetlqeklleiLeeeepvyYdElassltrlrsecqdllatlrsvgklpklavvvqgeaekaftleqaeklvttdyekllkslslkqkllaekqLeerrrrlqaaieeakeeqealhvrvqaalAgAlvalkelPkKLnpvikpLMeSiKkEeneeLQqrsAkalakLielcvdrkpcpndKIvkNLctflcsDtsetPefslnakk..........................kkegIltlkkeedkadaa.da...............................aeeeeeakeariqrrGAelaLetlakkFgasLfekvPkLwel
+#MATCH     VW+k v+ ++ ++ll+a+ ++  +w++L+++P  +p+dp+l+ +  ++                           e+++e  + +++n+ ++++gg    v+++      i+aR+aa++a+G ll  l     ++++ l  ++   l++++s+sa++rlv a+++ +w    +        +++etl++kl++iL+   +++YdEl+++ +++++++q+l+ +++++gk     v+   ++ +++tl+ a+++++++ye+   +l+ + +  a      +r+ l ++i+++++e ++++ rv++ +A+  +alk lP+KLnpvi+pLM++iK+Een+ +Q ++A++l +L+ +cv+rkpcpn KIvkNL +flc+D+s +P+++  +++                          k +gIltl+++e++++++ ++                               +  +e++ke  +qr G e+a +++a+  +++L++k+P Lw++
+#PP        9******************************************992222..........................2223445666789999999999988888888878*************999999999965555899999999**********************98884.......48**************..99************************998864....4444556.99****************9999998877777....5689******************************************************************************************************9883335555556666777777888999999999********888887633223444445556666777777777777777775677777777*******************************85
+#SEQ       VWMKSVQGSQINYLLTAVHSLAPAWFTLMVYPTDLPIDPALFSTDYQTF--------------------------ESHAEMGQGETANQSGSFLGGCAPGVPPSvredSGIKARLAASRAIGPLLMRLytdcpQDSDALAAIFHGVLQLISSSSATHRLVGAMILLSWGDTGN-------APCSETLKKKLHQILS--DQIVYDELVPFHQKMQADVQNLIMVFQEEGKD----VSMGIQP-GCYTLDVAQEIAGSKYEEESIKLTVEGQTNA----RLKRSFLINTINQLRKEYQKHNSRVLCTVAATTIALKVLPDKLNPVIRPLMDGIKREENTAMQFQAAQYLGRLLVQCVERKPCPNTKIVKNLSSFLCCDPSIIPRITDDEDTngtnsnphdhtnimtdkneiglctpnKVYGILTLSRKEKETARSlKRgrlvrassknsaaslgfndeplqnsntdtksELDDEASKELGLQRIGGEIAVRQIAEFTKETLPQKLPVLWDI
+Morvir_scaffold156.g27.t5   2148   2319   2146   2341 PF00176.24  SNF2_N            Family   172   331   350    107.5   5.8e-31   1 CL0023   
+#HMM       vlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpie............aqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskske
+#MATCH     ++ +v+w++ +lDEgh +kns++k++ +++k+++++r+il+GTPiqn++ +l++L++fL ++ +g+ + f   + +pi             +     ++ L+  + +++lrr+k+dv ++lPpk+ +  +++l++ ++  Y r        +l +++++ + ++++  +sk+
+#PP        6889***************************************************************************9***999984333333445677777779***********************************777777777777777777777776554443
+#SEQ       KVXSVHWNYCILDEGHIIKNSKTKLSYVIKKIKANHRVILSGTPIQNNVLELWALFDFLLPGFLGTEKQFTAKYGKPILqsrdakssskeqEAGVLAMEALHRQVLPFVLRRMKEDVLQDLPPKIIQDFYCDLTPIQALQYLRKVCNHPSLVLTSSHPEYQRTMNDLHQSKS
+#CS        TSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHC............HCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHH
+Morvir_scaffold156.g27.t5   2356   2461   2347   2461 PF00271.32  Helicase_C        Family    11   111   111     66.1   3.2e-18   1 CL0023   
+#HMM       kleeeggkilifvntidrlek..vklllekk...gikvavlhgelpqnereeileqfn.kgesd.vLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     ++ ++++++lif++ +++l+    +ll  k     +++++l+g++p+ +r +i+++fn + ++d +L++t v++ G++++++++Vi+++ ++n+t+  q+++R++R+g
+#PP        467899*************88855555..334689***********************778999888***************************************97
+#SEQ       SQVVSQHRALIFCQLRSMLDIveNDLL--KAvmpTVTYLRLDGSTPAGSRHHIVQRFNdDPSIDvLLLTTHVGGLGLNLTGADTVIFVEHDWNPTKDLQAMDRAHRIG
+#CS        HHHTTTSEEEEEESSHHHHHH..HHHHHHHT...TSCEEEESTTSTHHHHHHHHHHHH.TTSSS.EEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Morvir_scaffold177.g17.t1    670    872    662    902 PF00078.28  RVT_1             Family     6   209   222    126.1   1.4e-36   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++ +k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD+++++++ + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..689*********************8888888999********************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDNMQFGFMPGRGTIDAIfilRQMQEKYLAKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSCETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold177.g17.t1    886    931    885    932 PF00628.30  PHD               Domain     2    51    52     29.2   6.3e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold177.g17.t1   1170   1207   1167   1207 PF00400.33  WD40              Repeat     4    38    38     17.3    0.0066   1 CL0186   
+#HMM       lrtltGH.ssvtslafspdgaw........lasGsdDgtvriWd
+#MATCH     + +l GH + v+s+       w        l+s+s+D+++++W+
+#PP        67788**999****5......55555557789***********5
+#SEQ       VSVLMGHeKEVSSVE------WnidrqeacLLSASWDHSIKLWS
+#CS        EEEEESS.SSEEEEEEETTSSE........EEEEETTSEEEEEE
+Morvir_scaffold17.g141.t1      6    187      1    188 PF00176.24  SNF2_N            Family   147   349   350    138.6     2e-40   1 CL0023   
+#HMM       ladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpieaqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpql
+#MATCH      a+++v++t+Y+ +s ++      ++l++++w  +v+DE+h+lkn++sk  +++s++  +++++ltGTP+qn+le+l+ Ll+fL ++ f +++ f   +++ ++   e+++++L+++l + mlrr k dv k +P k+e i+++++s++++k+Y+            ++l+++   l+++ +    +l++++el+++cnhp l
+#PP        6789***********999......8*************************************************************************999888...9***********************************************............55555555555555333669*************987
+#SEQ       PAKFHVLLTSYELVSIDS------NTLQSLDWAVLVVDEAHRLKNNQSKFFKVLSQYTLDYKLLLTGTPLQNNLEELFHLLNFLAPDEFHDRNGFLAEFEDIAK---EDQIKKLHEILGSHMLRRLKHDVLKGIPSKSEFIVRVDMSPEQKKYYK------------FILTKNFEGLNAKGSVPVSLLNIMMELKKCCNHPFL
+#CS        TT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHCHCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CCC
+Morvir_scaffold17.g141.t1    214    327    213    327 PF00271.32  Helicase_C        Family     2   111   111     69.6   2.7e-19   1 CL0023   
+#HMM       kleallell.kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn...kgesdvLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     kl+ l ++l kl++e++++lif++ +++l+ ++ + e +g k+ +l+g+ +   r++ +++fn   ++++ +L++t++++ Gi++  +++V+++d ++n+++ iq+  R++R+g
+#PP        667777888899*****************8755555777************************87778888*****************************************97
+#SEQ       KLLLLEKMLtKLKAEKHRVLIFSQMTRMLDLLEDFFEGHGWKYERLDGSVTGHVRQACIDRFNapgSDTFAFLLSTRAGGLGINLATADTVFIYDSDWNPHNDIQAFSRAHRIG
+#CS        HHHHHHHHH.HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH...TTSSSEEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Morvir_scaffold17.g141.t1    443    500    441    502 PF06465.14  DUF1087           Domain     3    63    65     79.2   1.8e-22   1 No_clan  
+#HMM       eeeeaekevikekieenesedpdYWekLLkdhYEqqqeeelraLGKGKRvRKqvNYvsvee
+#MATCH     e+ee e ev+k+  e +e+ dp+YWekLL++hYEq+qe  + +LGKGKR R+qvNY++ ++
+#PP        789999999999..6.99***************************************9876
+#SEQ       EKEETEIEVLKQ--E-AEKPDPEYWEKLLRHHYEQEQEYIASTLGKGKRTRRQVNYTDSGI
+Morvir_scaffold17.g141.t1    541    666    532    670 PF06461.12  DUF1086           Domain     9   130   138    134.5   2.1e-39   1 No_clan  
+#HMM       srkkarsdkdeplPllegegkslevLGFnerqRkaflnalmRyGv..gdf...dskelvrelkqktedeikaYgslFlrHlaeegadnsetfaDGvPkeGlsrqdvlvriavlsLvkkkvkeleeip
+#MATCH     + k+ r +kde  Pll++++++++v GFn rqR+ fl a+mR+G+  +df   ++k+ +++l+ kte+ ++aY+s+FlrHl+e+gad+s  ++DGvP+eG++r +vl ri+++sL+++kv+e+  ++
+#PP        233333.566555********************************9966622268******************************************************************998765
+#SEQ       KVKRGR-NKDELPPLLAKVAGHIQVYGFNPRQRRSFLSAVMRFGLppKDFklaKTKWCIHNLRGKTEKAFQAYTSMFLRHLCEPGADKSIGYSDGVPREGVNRMQVLSRIGIMSLIRRKVEEYATVN
+Morvir_scaffold17.g141.t1    968   1088    967   1088 PF08074.12  CHDCT2            Domain     2   126   126    177.9   8.5e-53   1 No_clan  
+#HMM       yeiWhrrhDyWllagvvlhGyarwqDilndprfsiinepfkeesekgnfleiknkflarrfklleqalvieeqlrraaklnl.qeeeenvgalaqrfaelellaeahqhlskeslagnknanavlh
+#MATCH     ++iW+r hDyWll gvv hGy+rwqDi+ndprf  in+pf+++s     l++knkf+arrfklleqal++eeqlrraa ++l q++ ++++al+ rfaele+lae+hqhlskeslagnk+anavlh
+#PP        68****************************************99.....89*****************************998999**************************************98
+#SEQ       DNIWWRYHDYWLLSGVVCHGYGRWQDIQNDPRFDAINKPFQRMS-----LDYKNKFIARRFKLLEQALIVEEQLRRAALMTLkQDNTHPAMALQSRFAELECLAESHQHLSKESLAGNKPANAVLH
+Morvir_scaffold1.g18.t2       48    175     45    178 PF00171.23  Aldedh            Family     5   131   462     97.2   7.6e-28   1 CL0099   
+#HMM       es.etievinPatgeviakvpaataedvdaavaaAkeafkawaklpaeeRaeilrkaadlleerkeelaeletletGkplaearaeveeaidvlryyaelaeklegevlpssegklalvrrePlGvvg
+#MATCH     e+ e+i +i+Pa+g++i+k+ +++ e+v +av++Akeaf  w++ +a+e+a+i+++aa+ +++r +e+a++e+l+tGk+++e+  +ve a+++l+y+a++   + g+++p s++++a++r+eP+Gv++
+#PP        34377999*******************************************************************************************************99*************96
+#SEQ       EQhEEIFNIEPASGKTIGKIFSSGPEEVARAVESAKEAFMIWSEFSASEKAQIMMRAAQKIRQRDKEIARIEVLDTGKTFSESCIDVEAACECLEYFAGMTYMMIGQHIPLSSSTFAYTRKEPIGVCS
+#CS        SS.SEEEEEETTTCEEEEEEE-B-HHHHHHHHHHHHHHHHHHTTS-HHHHHHHHHHHHHHHHHTHHHHHHHHHHHH---HHHHHHHHHHHHHHHHHHHHHHHHHSEEEEEECTTEEEEEEEEE-SEEE
+Morvir_scaffold1.g18.t2      805   1007    797   1037 PF00078.28  RVT_1             Family     6   209   222    125.8   1.8e-36   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++ +k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD+++++++ + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..689*********************8888888999********************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDNMQFGFMPGRGTIDAIfilRQMQEKYLAKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSCETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold1.g18.t2     1021   1066   1020   1067 PF00628.30  PHD               Domain     2    51    52     29.0   7.4e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold1.g18.t2     1257   1587   1255   1587 PF00171.23  Aldedh            Family   133   462   462    425.9  1.5e-127   1 CL0099   predicted_active_site[1270,1358,1572][1358,1392] 
+#HMM       ItPWNfPlllaawklapalaaGNtvvlKpaeetpltalllaelleeaglPkgvlnvvtgkgsevgealvehpevdkvsftGstevgrkiakaaaknlkrvtlElGGknpliVledaDldkaveaivkgafgnaGQvCiaasrllvqesiydefveklveaakklkvgdpldedtdvGPliskkqlekvekyveeakeegaklllGge...reeaglekgyfvePtvlanvtpdmriaqeEiFGPVlsvikfkdeeeaieiaNdteyGLaagvftkdleraervaerleaGnvyiNdsttgdaealpfgGvkqSglGreggkegleeytevktv
+#MATCH     I +WNfP+l +awk+ pal +GN++++Kp++ tplt++++ae+l +aglP+gvln+v+g g+e+g+ l+++pe+ kvsftGs  +g+ki+ka+a ++k+vtlElGGk+pli+++d+Dld+av++++ + + ++G+vC++a r+++++ i+++f++k+v+ +k+l+vgdp+d  t++G+lis+++l+kv ++v++ak+ega++l+Gge     ++  ++g++++P+v++++t++m+i++eE FGP++s+++f deee+ie+aNdt+yGL++gvft+dl++a+rv+++l+aG++ iN+++ + ++  pfgG+k+Sg+Gre+g ++l++yt++k+v
+#PP        899********************************************************.***************************************************************************************************************************************************9876788899*************************************************************************************99.**************************97
+#SEQ       IGAWNFPFLNIAWKVGPALCCGNSMIYKPSPITPLTSVIFAEMLVDAGLPSGVLNIVQG-GAETGNLLCKNPEISKVSFTGSGVTGEKIMKACAPDIKKVTLELGGKSPLIIFADCDLDNAVNGALVANYATQGEVCSNAARVYIEKPIFNAFRDKVVQIVKALRVGDPMDARTHIGALISEEHLNKVLGFVQQAKQEGANILYGGErlkPPNPAIANGFYMSPCVMDHCTEEMTIVKEEHFGPIMSLLPFTDEEEVIELANDTPYGLSGGVFTRDLNKAHRVVAKLQAGSCFINTYNMFPVQV-PFGGYKKSGIGRENGLQVLDHYTQTKSV
+#CS        EE-SSSCCHHHHHHHHHHHHTT-EEEEEE-TTSHHHHHHHHHHHHHTTS-TTSEEE--SSTCCHHHHHHH-TTESEEEEES-HHHHHHHHHHHHCTTSEEEEEE---EEEEE-TTSHHHHHHHHHHHHHHGGGGTSTTSEEEEEEEHHHHHHHHHHHHHHHHT--BS-TTSTT-SB---SSHHHHHHHHHHHHHHHHTTSEEEE-TT...E.SB-SSSTTEE--EEEES-TTTSHHHHS---SSEEEEEEESSHHHHHHHHHSSSEESEEEEE-SBHHHHHHHHHHS-SSEEEESSSST--TTTSEB--CGGGEES-BSHHHHHHHTEEEEEE
+Morvir_scaffold208.g24.t1     17     60     16     61 PF07496.16  zf-CW             Domain     2    47    48     43.8   1.9e-11   1 No_clan  
+#HMM       wVqCd..kClKWRrlpkevekselipekWvCsmnpsdpkynsCdapee
+#MATCH     wVqC+  kC KWR++ ++  + +l + +W+C+mn+ d +y++C++p+e
+#PP        ****************88..5666.56********.***********9
+#SEQ       WVQCEntKCMKWRKVLDN--EIDL-DTNWFCHMNK-DREYSTCSVPQE
+Morvir_scaffold208.g24.t1     77    172     75    176 PF00855.18  PWWP              Domain     3    92    96     49.2   5.4e-13   1 CL0049   
+#HMM       pgdlvwakvkgypwWPavvvdpeevpekvlkkkekskelylVkFfgdkey.awvkekdlkpfteedeeey.....lekkkkkkskkkfkkAleeae
+#MATCH      g+lvwak++++p WPa++++++  +e+ +   + + e y+V+F+g+ +   w+ +k ++++ e++  ++     l+++kkkk ++++k A ee++
+#PP        69****************************999998999*******88879***********9865333300111445555555557777777765
+#SEQ       EGELVWAKMHSFPKWPAIITPDPTNGEHCELDADGDIEYYHVEFYGKPHMhLWLRSKYIEYYGEGNGPSKkelltLKCMKKKKIQESLKVAQEEIR
+#CS        TTEEEEEEESSSEEEEEEEEECCCCCCCCHCT---SSSEEEEEETTTTEE.EEE-GGGEEE-SHHHHHHH.....HHTTSS-HHHHHHHHHHHHHH
+Morvir_scaffold208.g24.t1    709    828    708    844 PF14529.7   Exo_endo_phos_2   Domain     2   101   119     41.2   1.3e-10   1 CL0530   
+#HMM       liisvYippss....slenlestleklleslksp.kiiiaGDfNakhplWgstdtdt........sargeeLieflnehelsll....nllksg.ptykssnt..sstiDltltsdplav
+#MATCH     +ii vY p s+    +++++ + l++++++++++  +ii+GDfNak  ++ +++++         ++rge+L+ef+ +++l +     n+ k+    ++s+++  ++ iD +l++++ + 
+#PP        799********99999999*************998999999***********87776*************************88555533333334455555567899999999987655
+#SEQ       TIIQVYAPTSTsteeEIDDFYELLQTTIDEAPRQnMLIIGGDFNAKVGEYTHNTNTIgrfglgevNERGEKLVEFCIDNSLAITntkfNHHKRRrYIWISPDQntKNQIDYILVNQRRSS
+Morvir_scaffold208.g24.t1    936   1066    924   1067 PF00078.28  RVT_1             Family   114   221   222     76.7   1.8e-21   1 CL0027   
+#HMM       fsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra........kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft..............v.kseevkyLGvt
+#MATCH     ++++v++e s+ ++++kg++qG+ lSP+ fnl+++ ++r    ++          ++ lrYaDDi +++ks e+l ell++v ++ ke gl+in +Ktk++ ++                +   +kyLG +
+#PP        57899***99****************************99888888*********************************************************9**9999999988763799999999976
+#SEQ       AAIKVENELSEWFKIEKGVRQGCLLSPVCFNLYTEYIMRASVDHHvtgttincRRINNLRYADDIALIAKSAEALRELLSIVNDTSKEFGLQINTKKTKVMRIGkerketkvtcegktIeQVAHFKYLGTI
+#CS        ..........TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T..............TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE....................ESSEEETTEE
+Morvir_scaffold209.g16.t1    512    729    510    756 PF00078.28  RVT_1             Family     3   207   222    145.8   1.4e-42   1 CL0027   
+#HMM       Kkg....pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra.....kgvtl.lrYaDDililskskeelqelleaveewlkesglkinpeKtklvl
+#MATCH     Kkg    +++yR i+lls+ +k++ k++ +r+k  ++ +l+e+q+gfr+gr+t+da+   ++l +++++k+   ++ ++D+k+aFd+v+ ++l++ l +++v++k +n+ik ++ +++++v+++++ ++ +++k g++qG++lSP+lfn+f++ ++ e++        +++ + +rYaDD++++s+  e+l    +++ee ++++glkin +K+ +++
+#PP        45558999****************************************************9999999999999*****************************************************99**************************999998755789995554449***************************************9985
+#SEQ       KKGdkliMSNYRAIALLSIPGKIFLKILLERMKAKVDRKLKESQYGFRSGRGTVDAIfvvRQLIEKAREKNIPLHFNFIDFKSAFDTVWRNALWKMLLKIGVQPKYVNIIKYIYDNTKCAVSIENTLTGWFAVKVGVRQGCILSPTLFNIFLEFVMDEISMLQefhltQDLSIdVRYADDTTLISTLLEKLGFSTQELEEACRKWGLKINTSKCNVIS
+#CS        -TT.....S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T...........TE.EECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.
+Morvir_scaffold209.g16.t1    955    998    955    998 PF00097.26  zf-C3HC4          Domain     1    41    41     29.9   3.8e-07   1 CL0229   
+#HMM       CpiCleeakepnelleCkHsfCskCirkilks....rkkvkCPlC
+#MATCH     C+iCl+ ++ p+ +++C+H+fC++C+ +  ++     +  kCP+C
+#PP        ************.******************9988777888****
+#SEQ       CAICLDLLCSPV-STKCNHQFCRDCMNQAFSKgsknGNGIKCPMC
+#CS        -SST-S--SS-EEETTTSEEESCHHHHHHHHC....TSSBSTTTT
+Morvir_scaffold209.g16.t1   2232   2310   2224   2310 PF00533.27  BRCT              Family    10    79    79     30.5   3.6e-07   1 CL0459   
+#HMM       kfvi.tgtfdnfnreeleelikelGGkvtkev.skktthlivgep.......esrtlkllqalklnipivneewlldci
+#MATCH     +fv+ +++++  +  + + l++  GGk+t+e+  + tthli+ ++       ++ t k++ a+ ++i++v+++w+ +c+
+#PP        79994555555555555***********99996678*****777777*******************************7
+#SEQ       SFVFtPSRLNKQQMLYCKALAERVGGKFTPEFkEDATTHLIMPTDenmfihrDAYTYKYMMAIVSGIWVVSFKWVIACL
+#CS        EEEE.EESTSSHHHHHHHHHHHHTTCEEESSE.STTSSEEEESSS.......HSHHHHHHHHHHTTSEEEECHHHHHHH
+Morvir_scaffold217.g1.t1     104    351    103    353 PF00078.28  RVT_1             Family     2   220   222    133.8   6.2e-39   1 CL0027   
+#HMM       pKkg....pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra......kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft...............v.kseevkyLGv
+#MATCH     pKk+    ++  R+isl+s+  k+l ++i  r + + ++ + ++q+gf +  +t  a+   ++l +   +++   +l ++D +kaFd+v+++ ll+ l+++ ++ k i+l+++++ ++++ vr++++  k++ +k+g++qG+v SP lfn++ + ++r ++ +       + v+ +rYaDD+++++ s+e+lqell+++ +  k+ gl+in++Kt  + +                  + e ++yLG 
+#PP        566669999999************************************************98888887899999**************************************************99967********************************988******************************************************999*********9999763799******96
+#SEQ       PKKPgateCELHRTISLMSHVTKILMRVIMARARRFTRPEIGKEQFGFVQDSGTRNAIfimRMLSERSIEMQHDLYLCFIDYSKAFDKVKHRSLLEILQDLDIDGKDIRLLRNLYWEQTAGVRIQNQVEKFSSIKRGVRQGCVFSPDLFNIYSEMIMRAIDGKGdysiggYTVNNIRYADDTTLIAHSPEKLQELLDTIIDESKSKGLTINQKKTFCMAISkrshidctlkiegnpIkQVEAFNYLGS
+#CS        E-TT.....S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T............TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....................ESSEEETTE
+Morvir_scaffold217.g1.t1     528    569    524    569 PF00567.25  TUDOR             Domain    81   122   122     28.4   1.3e-06   1 CL0049   
+#HMM       qkveVlfiDyGntetvpvsdlrelpseleelppqaikcrLag
+#MATCH      ++e++f+DyGn+e ++ ++l+elp+e++ lp q+ ++ L+g
+#PP        5789********************************999986
+#SEQ       ANAEIFFLDYGNSEHTSKDRLCELPEEFKVLPAQCCQAVLSG
+#CS        TEEEEEETTTSBEEEEEGGGEEE--GGGCSS-BSSEEEEETT
+Morvir_scaffold217.g1.t1     677    799    675    800 PF00567.25  TUDOR             Domain     3   121   122     93.3   1.1e-26   1 CL0049   
+#HMM       edktievvvsaiespskfyiqpkeqskkleklteelqeyyaskkk..aellapavgegcvavfsedgkwyRAki..teslddqkveVlfiDyGntetvpvsdlrelpseleelppqaikcrLa
+#MATCH      d++i++ vs+++sp  fy+q ++++++le l + l+++y++ ++   +l+  + g  c+a++sed++wyR+ +  t+ +++++v+V+f+D+Gn e + v+++r l +e++e+p+q + c+L 
+#PP        589**********************************************************************************************************************96
+#SEQ       IDEYIDICVSHYVSPDLFYCQLEKNTAELEALSQRLNDFYTATDDgeLVLKDIHEGMSCCALYSEDQTWYRGVVtdTSLVEKGRVTVHFLDFGNKELTGVQNVRLLKPEFLEFPIQGVMCQLD
+#CS        CCGEEEEEEEEEEETTEEEEEEGGHHHHHHHHHHHHHHHHTSSCC..TCSSS--TT-EEEEEETTTTEEEEEEE..EEECTTTEEEEEETTTSBEEEEEGGGEEE--GGGCSS-BSSEEEEET
+Morvir_scaffold217.g1.t1     901   1018    897   1018 PF00567.25  TUDOR             Domain     6   122   122     98.3   3.1e-28   1 CL0049   
+#HMM       tievvvsaiespskfyiqpkeqskkleklteelqeyyaskkk..aellapavgegcvavfsedgkwyRAkiteslddqkveVlfiDyGntetvpvsdlrelpseleelppqaikcrLag
+#MATCH     + +v+v +  +p  fy++ +e+s  l++++e+++ yy++kkk  a +++p++g  c++++ ed+ +yRAk+  s+d + ++V++iDyGnte vp+  + +l +e+ ++p qai+c+L g
+#PP        67899******************************************************************.*********************************************86
+#SEQ       KKKVFVAYTIHPHLFYCHLSENSDILDNIMEDINMYYNAKKKstAGSFNPQPGTVCCCRYNEDNMFYRAKV-ISRDGNFLKVFYIDYGNTELVPLLSVFPLAEEFVKYPGQAIQCQLDG
+#CS        EEEEEEEEEEETTEEEEEEGGHHHHHHHHHHHHHHHHTSSCC..TCSSS--TT-EEEEEETTTTEEEEEEEEEECTTTEEEEEETTTSBEEEEEGGGEEE--GGGCSS-BSSEEEEETT
+Morvir_scaffold21.g164.t3      5     68      2     69 PF00567.25  TUDOR             Domain    58   121   122     60.6   1.5e-16   1 CL0049   
+#HMM       gcvavfsedgkwyRAkiteslddqkveVlfiDyGntetvpvsdlrelpseleelppqaikcrLa
+#MATCH      c+a+fsed +wyRA +t ++d++ v+Vl++D+Gn+et+++s++r lp+  +++  qa+++rL+
+#PP        69**********************************************999999********97
+#SEQ       VCAARFSEDRQWYRALVTHVNDEKTVTVLYVDFGNVETLHFSQIRKLPDTWLSVAKQAMEVRLK
+#CS        EEEEEETTTTEEEEEEEEEECTTTEEEEEETTTSBEEEEEGGGEEE--GGGCSS-BSSEEEEET
+Morvir_scaffold21.g164.t3    179    299    176    300 PF00567.25  TUDOR             Domain     5   121   122     63.7   1.6e-17   1 CL0049   
+#HMM       ktievvvsaiespskfyiqpkeqskkleklteelqeyyaskkk.....aellapavgegcvavfsedgkwyRAkiteslddqkveVlfiDyGntetvpvsdlrelpseleelppqaikcrLa
+#MATCH     +t ++v +++++++++++++ke++  ++ +++el+e   +k++       + + +++++c+a+f+ed+ wyRA+i +  ++q+v++ +iD+Gn  tv+v d+r   +   ++p q+ k rL+
+#PP        67789999*****************************999999988877788899***********************************************9665544.448888888886
+#SEQ       QTLNIVGVYVDDNGHIVVHQKEAEDTVSAIMRELNEKDGKKSEelpgpTDTHELTINQMCIAKFAEDESWYRATILDIINKQLVKIEYIDFGNQDTVAVGDIRLEVPLS-NIPKQSLKLRLH
+#CS        GEEEEEEEEEEETTEEEEEEGGHHHHHHHHHHHHHHHHTSSCC.....TCSSS--TT-EEEEEETTTTEEEEEEEEEECTTTEEEEEETTTSBEEEEEGGGEEE--GGGCSS-BSSEEEEET
+Morvir_scaffold21.g164.t3    475    558    457    558 PF00078.28  RVT_1             Family   159   221   222     30.2   3.1e-07   1 CL0027   
+#HMM       kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft....................v.kseevkyLGvt
+#MATCH      ++++l Y+DD+ +++k+  el+ ll++v+++  + g+++  +K+  ++f+                      ++ ++kyLG++
+#PP        479***************************************************************99875379999*****85
+#SEQ       RKINHLFYMDDLKLYAKDDGELEGLLKTVKAFSDDIGMEFGLDKCAKATFKrgkldktqnidldegtvikeLeQEGTYKYLGIN
+#CS        ...TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE..........................ESSEEETTEE
+Morvir_scaffold21.g38.t1      37    298     33    301 PF00078.28  RVT_1             Family     5   219   222    109.6   1.6e-31   1 CL0027   
+#HMM       g.....pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra............kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft.........................v..kseevkyLG
+#MATCH     +     p++ R isl sv+yk++ + i++r+ + + ++ls  q +f+pgr+  d +   ++ l   k+  ++ ++l++D+ +a+ sv++ee+ r+l ++ +p+    +i++++ ++sf v +  + s+++++++g++ G +lS ++f +++n++l++  ++a              + + +YaDDi +++ + + l e+++a e  ++++gl+++ +K+ l++                           v  ++e +kyLG
+#PP        4555568999********************************************99***7777777999999**************************************************99999*********************************99*********999999*********************************************8668888888888888888888777766245777777777
+#SEQ       NfqqqdPTTLRDISLSSVIYKIFLRCIIQRILPTIAPQLSFWQRAFMPGRNRQDLIfclKTTLGDFKHLSTKIHILFIDFADAYGSVEHEEIKRTLREYDIPDDYCAIIEDIYDNPSFQVICGDTLSQKITITRGTKTGDPLSVIIFLMIINKVLQPAYNHAlttltienekkiRPLPIQAYADDIALIAYDYNMLIEMIQASEPLFSRAGLNVKTSKCALFYERrsgnnwykgkndrkptlkvqgekikVykRNEGYKYLG
+#CS        T......S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T..................TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE................................ESSEEETT
+Morvir_scaffold21.g38.t1     770   1044    761   1067 PF00176.24  SNF2_N            Family    54   319   350    167.3   3.9e-49   1 CL0023   
+#HMM       svrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkkmkkkntkvapklladydvvittYdvlsreaelqkkrsvlk..qvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepf.gekqtfdkllqrpie............aqaekgrsrLlqllqrlmlrrakkdv..............ekn.lPpkteeiiflklskverksYnrllevlrkkalakllkrs
+#MATCH     +  GGiL DemGLGKT+qv+a++    +            +l + +Liv P sl+ +We+e+++++++ ++r ++++++k    k++k++++++++ +v++ttY ++ + +      s+++    +w+ ++lDEgh++kn  +k+++ ++ + +++  il+GTPiqn+l +l++L++f+  +++ g+ +tf+  + +pie               +  ++ L+ l+++ +lrr+k+dv              ++  l +k   i+++ ls+ + ++Y+   ++l+++ ++ l +++
+#PP        568*********************3332...........2345679*************************999999865....667789*****************9777...455666511567*****************************************************9987615699***********999999888875555667788999999999999999998888877766555422349999999***************...777777777666654
+#SEQ       KEIGGILGDEMGLGKTIQVIAFLSGMFD-----------AHLIKTVLIVMPVSLISNWEKEFKKWAPGIRVREFHGTSKK----KREKNLNRVQTKSGVILTTYGMVVSSS---GLLSTFEgeTFSWDIIILDEGHKIKNPSTKTSKCIKAIPANYHFILSGTPIQNNLGELWALIDFVTSGKLlGSSRTFHAKFLNPIErarqkdatayekLMGNTLSESLRCLIEPHLLRRTKEDVkdsltlrednkvnqSRTvLTKKDDLILWIYLSPIQIRMYK---TFLCTQHVKELMESK
+#CS        TT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHHHCCC-------TTT-SSEEEEEHHHHHHTT......TTSS..SSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTT.SSCHHHHHHCHHHHC............HCCCCCHHHHHHHTTTTEE---CCCC..............TSS.SSSEEEEEEEEE--HHHHHHHH............CHHCHH
+Morvir_scaffold21.g38.t1    1132   1169   1129   1169 PF00271.32  Helicase_C        Family    74   111   111     25.3   1.5e-05   1 CL0023   
+#HMM       dvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     +v+++Gi++  ++ Vi+fd+ +n+ s  q++ R++R+g
+#PP        6899********************************97
+#SEQ       KVGGEGINVAAADRVIIFDPSWNPGSDDQAVNRAHRIG
+#CS        GGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Morvir_scaffold21.g38.t1    2351   2458   2350   2458 PF10263.10  SprT-like         Domain     2   114   114     96.1   1.1e-27   1 CL0126   
+#HMM       eelfktlddavfggqaaggvkiiwskrlnttaGranlkratvrhhasIeLseklldsrsedrllntLaHElcHlalfvisgvrnnpHGaeFkawaakvekalaaarleittkh
+#MATCH     + lf +l++avf+gq   +++i+w++rl++taG ++++++++++ha IeLsek++d   ++ +++tLaHElcH+a+++i++  +++HG+ +k w +kv++ +  ++++i+t+h
+#PP        5689***********99****************************************..**********************.8****************999..9*****998
+#SEQ       NVLFCNLNKAVFKGQLPNDLEIKWNSRLTKTAGLCYYTKKNNERHAFIELSEKVCDC--SEHVRDTLAHELCHAATWIINN-IKDGHGKVWKDWVRKVSNQF--PEIHISTYH
+#CS        HHHHHHHHHHHSTTT.TTT-EEEEESS--S-SEEEEE--..----EEEEEEHHHHTTS-HHHHHHHHHHHHHHHHHHHTT-.-SSTT-HHHHHHHHHHHHH...H-----SSS
+Morvir_scaffold21.g38.t2      37    298     33    301 PF00078.28  RVT_1             Family     5   219   222    109.6   1.6e-31   1 CL0027   
+#HMM       g.....pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra............kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft.........................v..kseevkyLG
+#MATCH     +     p++ R isl sv+yk++ + i++r+ + + ++ls  q +f+pgr+  d +   ++ l   k+  ++ ++l++D+ +a+ sv++ee+ r+l ++ +p+    +i++++ ++sf v +  + s+++++++g++ G +lS ++f +++n++l++  ++a              + + +YaDDi +++ + + l e+++a e  ++++gl+++ +K+ l++                           v  ++e +kyLG
+#PP        4555568999********************************************99***7777777999999**************************************************99999*********************************99*********999999*********************************************8668888888888888888888777766245777777777
+#SEQ       NfqqqdPTTLRDISLSSVIYKIFLRCIIQRILPTIAPQLSFWQRAFMPGRNRQDLIfclKTTLGDFKHLSTKIHILFIDFADAYGSVEHEEIKRTLREYDIPDDYCAIIEDIYDNPSFQVICGDTLSQKITITRGTKTGDPLSVIIFLMIINKVLQPAYNHAlttltienekkiRPLPIQAYADDIALIAYDYNMLIEMIQASEPLFSRAGLNVKTSKCALFYERrsgnnwykgkndrkptlkvqgekikVykRNEGYKYLG
+#CS        T......S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T..................TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE................................ESSEEETT
+Morvir_scaffold21.g38.t2     770   1044    761   1067 PF00176.24  SNF2_N            Family    54   319   350    167.3   3.9e-49   1 CL0023   
+#HMM       svrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkkmkkkntkvapklladydvvittYdvlsreaelqkkrsvlk..qvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepf.gekqtfdkllqrpie............aqaekgrsrLlqllqrlmlrrakkdv..............ekn.lPpkteeiiflklskverksYnrllevlrkkalakllkrs
+#MATCH     +  GGiL DemGLGKT+qv+a++    +            +l + +Liv P sl+ +We+e+++++++ ++r ++++++k    k++k++++++++ +v++ttY ++ + +      s+++    +w+ ++lDEgh++kn  +k+++ ++ + +++  il+GTPiqn+l +l++L++f+  +++ g+ +tf+  + +pie               +  ++ L+ l+++ +lrr+k+dv              ++  l +k   i+++ ls+ + ++Y+   ++l+++ ++ l +++
+#PP        568*********************3332...........2345679*************************999999865....667789*****************9777...455666511567*****************************************************9987615699***********999999888875555667788999999999999999998888877766555422349999999***************...777777777666654
+#SEQ       KEIGGILGDEMGLGKTIQVIAFLSGMFD-----------AHLIKTVLIVMPVSLISNWEKEFKKWAPGIRVREFHGTSKK----KREKNLNRVQTKSGVILTTYGMVVSSS---GLLSTFEgeTFSWDIIILDEGHKIKNPSTKTSKCIKAIPANYHFILSGTPIQNNLGELWALIDFVTSGKLlGSSRTFHAKFLNPIErarqkdatayekLMGNTLSESLRCLIEPHLLRRTKEDVkdsltlrednkvnqSRTvLTKKDDLILWIYLSPIQIRMYK---TFLCTQHVKELMESK
+#CS        TT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHHHCCC-------TTT-SSEEEEEHHHHHHTT......TTSS..SSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTT.SSCHHHHHHCHHHHC............HCCCCCHHHHHHHTTTTEE---CCCC..............TSS.SSSEEEEEEEEE--HHHHHHHH............CHHCHH
+Morvir_scaffold21.g38.t2    1095   1207   1094   1207 PF00271.32  Helicase_C        Family     2   111   111     71.6   6.5e-20   1 CL0023   
+#HMM       kleallell.kleeeggkilifvntidrlek.vklllekkgikvavlhgel.pqnereeileqfn.kgesd.vLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     kl+ ll+l+ kl ++g++ilif++++++l+  +++l  +k++++++++g+  +++er+e ++ f  +++++ +L +t+v+++Gi++  ++ Vi+fd+ +n+ s  q++ R++R+g
+#PP        7888999988999****************9988888..7789*******86267899*******86788889*****************************************97
+#SEQ       KLKVLLRLItKLIKDGHRILIFSQYRKMLDLiARIL--RKKFNYLRIDGTVnSHQERQELIDLFTrDKSFHiFLFTTKVGGEGINVAAADRVIIFDPSWNPGSDDQAVNRAHRIG
+#CS        HHHHHHHHH.HHHTTTSEEEEEESSHHHHHH.HHHHHHHTTSCEEEESTTS.THHHHHHHHHHHH.TTSSS.EEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Morvir_scaffold21.g38.t2    2389   2496   2388   2496 PF10263.10  SprT-like         Domain     2   114   114     96.1   1.2e-27   1 CL0126   
+#HMM       eelfktlddavfggqaaggvkiiwskrlnttaGranlkratvrhhasIeLseklldsrsedrllntLaHElcHlalfvisgvrnnpHGaeFkawaakvekalaaarleittkh
+#MATCH     + lf +l++avf+gq   +++i+w++rl++taG ++++++++++ha IeLsek++d   ++ +++tLaHElcH+a+++i++  +++HG+ +k w +kv++ +  ++++i+t+h
+#PP        5689***********99****************************************..**********************.8****************999..9*****998
+#SEQ       NVLFCNLNKAVFKGQLPNDLEIKWNSRLTKTAGLCYYTKKNNERHAFIELSEKVCDC--SEHVRDTLAHELCHAATWIINN-IKDGHGKVWKDWVRKVSNQF--PEIHISTYH
+#CS        HHHHHHHHHHHSTTT.TTT-EEEEESS--S-SEEEEE--..----EEEEEEHHHHTTS-HHHHHHHHHHHHHHHHHHHTT-.-SSTT-HHHHHHHHHHHHH...H-----SSS
+Morvir_scaffold233.g32.t2    465    667    457    699 PF00078.28  RVT_1             Family     6   209   222    125.0     3e-36   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++  k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD+++++++ + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..689*********************8888888999999*****************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDNMQFGFMPGRGTIDAIfilRQMQEKYLGKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSCETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold233.g32.t2    681    726    680    727 PF00628.30  PHD               Domain     2    51    52     29.7   4.5e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold233.g32.t2    859   1005    859   1006 PF00071.23  Ras               Domain     1   161   162    153.6   3.4e-45   1 CL0023   
+#HMM       klvlvGdsavGKtslllrfvkdkFkeeyesTigvdfytkeievdgkevkleiwDTAGqeefkslrslyyrdaegillvyditsresfenvkkwveeikrvaeenvpivLvGnKvDleekravsteegeelakelglkfletSAktnenveeafeellreil
+#MATCH     k +++Gd +vGK++ll++f+++kF  +  +Tigv+f t+ +ev g+++kl+iwDTAGqe+f++++++yyr+a g+l+vydit+r++++++++w+++ ++ ++               ++r v++ee++++a+e+gl fle+SAkt  nveeaf e +++i 
+#PP        89************************************************************************************************99995..............67999***********************************9986
+#SEQ       KYIIIGDMGVGKSCLLHQFTEKKFMADCPHTIGVEFGTRIVEVAGQKIKLQIWDTAGQERFRAVTRSYYRGAAGALMVYDITRRSTYNHLSSWLTDARNLTNP--------------NTRDVTYEEAKQFADENGLLFLEASAKTGDNVEEAFLETAKKIF
+#CS        EEEEEESTTSSHHHHHHHHHHSSCSSSCTTTSSEEEEEEEEEETTEEEEEEEEEETTSGGGHHHHHHHHTTESEEEEEEETTBHHHHHTHHHHHHHHHHHSTTTSEEEEEEETTTGGGG-SS-HHHHHHHHHHHTSEEEEEBTTTTTTHHHHHHHHHHHHH
+Morvir_scaffold238.g19.t1    438    691    430    691 PF00078.28  RVT_1             Family     6   221   222    106.5   1.4e-30   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvl..ekllsenqpgfrpgr.stldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrv.nge...eskgryekkglpqGsvlSPllfnlfmnellrelrkra.......kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft...................v..kseevkyLGvt
+#MATCH     p++yRpi +ls+ yk+l +++ +r  ++l  ++ll+ +q g r+g  ++ d++   ++ll+ +   k++  ++ +D kkaFdsvp++++lr l   kv ++li+ +k  +s+ ++++++ +++       + +k+g+ qG  lSPllf + + +l+ el++         k++ +l Y+DD+ ++ k+ +el+ ll++v+ + ++ g+++  +K+  ++f+                   +  ++e +kyLGv+
+#PP        79******************************************974688999**977777777889999****************************************99999988854441133467789***************************9889************************************************************************999735799999****96
+#SEQ       PKNYRPITCLSTTYKILTSILTDRTYKHLeeNNLLPLEQKGCRRGSyGCKDQLlinKMLLENCIGSKRNMSCAWIDYKKAFDSVPHNWILRSLDLSKVSPILIKFLKFNMSQWTTNLHLfHENgaiICNNIRIKRGIFQGDSLSPLLFCISLIPLSLELNSSQygykignKKISHLFYMDDLKVYGKNDSELEGLLKIVKGFSNDIGMEFGLSKCAKATFKkgrlasstsvqldndteikNleQEEVYKYLGVN
+#CS        .S-EEE......-THHHHCTB--...........-------HHHH.................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.............................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T.............TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE..........................ESSEEETTEE
+Morvir_scaffold238.g19.t1   1118   1391   1084   1393 PF00176.24  SNF2_N            Family    50   348   350    187.9   2.1e-55   1 CL0023   
+#HMM       eakqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkkmkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfge.kqtfdkllqrpie.....aqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpq
+#MATCH     +++++  +GiLaD mGLGKT q++a+++   +  e         +++gp+ i+vP+s++d+W +eie +++    + +++++ +  +++ +     + ++ d+++t+Y +  +    ++ r+ + +++ +++vlDEgh++kn +s  ++ +++L+++++++ltGTP+qn+l +l++Ll+f+++++f++ ++  + l++ + +     a + ++++ + +++++++lrr k+dv ++lP+k+e++i+++ +++++++Y++ll+           + ++++ k++s       ++l+elr+a +hp 
+#PP        678999**********************...4222........34579***********************9988777777765..55556888999*************994...458*********************************************************************78899999999999999999999***********************************************3332...........23333444333....23466889999999985
+#SEQ       TLHKNGMNGILADQMGLGKTAQAIAFLA---YLIE--------SNIRGPHAIIVPSSTADNWIREIEMWAPTVFYEYYTGMQTE--RSQLRAEILGMETKPDIIVTSYATAIS---TPEDRNFFRKLNCHYLVLDEGHMVKNVKSLRYQHLQSLKAKRKLLLTGTPLQNNLVELISLLNFVMPNIFEQrFDGMRLLFSSDKKtgslsAYESEKIEDIKKVMKPFILRRLKEDVLQELPKKIEHVIYCDVTDKQMQLYEKLLN-----------SLKNVTGKDKS----SGANILMELRKAACHPL
+#CS        HHHHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHHHCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSS.CHHHHHHCHHHHC.....HCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CC
+Morvir_scaffold238.g19.t1   1411   1509   1400   1509 PF00271.32  Helicase_C        Family    15   111   111     57.0   2.2e-15   1 CL0023   
+#HMM       eggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn.kgesd.vLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH      g+++l+f++++ +l+ v+ +l+ +g+k+++l+g++  +er+  ++ fn + e+  +L++t+++++Gi+++++++V+  dl++n+ + +q+ +R++R+g
+#PP        5789***********9999999***************************75677789****************************************87
+#SEQ       AGRRCLVFSQFTMMLDIVEPFLSDQGYKYLRLDGQTAVSERQSLIDTFNdDPEILvFLLSTRAGGMGINLTSADTVVLHDLDFNPYNDKQAEDRCHRVG
+#CS        TTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH.TTSSS.EEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Morvir_scaffold238.g19.t2    438    691    430    691 PF00078.28  RVT_1             Family     6   221   222    106.5   1.4e-30   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvl..ekllsenqpgfrpgr.stldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrv.nge...eskgryekkglpqGsvlSPllfnlfmnellrelrkra.......kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft...................v..kseevkyLGvt
+#MATCH     p++yRpi +ls+ yk+l +++ +r  ++l  ++ll+ +q g r+g  ++ d++   ++ll+ +   k++  ++ +D kkaFdsvp++++lr l   kv ++li+ +k  +s+ ++++++ +++       + +k+g+ qG  lSPllf + + +l+ el++         k++ +l Y+DD+ ++ k+ +el+ ll++v+ + ++ g+++  +K+  ++f+                   +  ++e +kyLGv+
+#PP        79******************************************974688999**977777777889999****************************************99999988854441133467789***************************9889************************************************************************999735799999****96
+#SEQ       PKNYRPITCLSTTYKILTSILTDRTYKHLeeNNLLPLEQKGCRRGSyGCKDQLlinKMLLENCIGSKRNMSCAWIDYKKAFDSVPHNWILRSLDLSKVSPILIKFLKFNMSQWTTNLHLfHENgaiICNNIRIKRGIFQGDSLSPLLFCISLIPLSLELNSSQygykignKKISHLFYMDDLKVYGKNDSELEGLLKIVKGFSNDIGMEFGLSKCAKATFKkgrlasstsvqldndteikNleQEEVYKYLGVN
+#CS        .S-EEE......-THHHHCTB--...........-------HHHH.................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.............................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T.............TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE..........................ESSEEETTEE
+Morvir_scaffold238.g19.t2   1118   1391   1084   1393 PF00176.24  SNF2_N            Family    50   348   350    187.9     2e-55   1 CL0023   
+#HMM       eakqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkkmkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfge.kqtfdkllqrpie.....aqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalkssskskekilelllelrqacnhpq
+#MATCH     +++++  +GiLaD mGLGKT q++a+++   +  e         +++gp+ i+vP+s++d+W +eie +++    + +++++ +  +++ +     + ++ d+++t+Y +  +    ++ r+ + +++ +++vlDEgh++kn +s  ++ +++L+++++++ltGTP+qn+l +l++Ll+f+++++f++ ++  + l++ + +     a + ++++ + +++++++lrr k+dv ++lP+k+e++i+++ +++++++Y++ll+           + ++++ k++s       ++l+elr+a +hp 
+#PP        678999**********************...4222........34579***********************9988777777765..55556888999*************994...458*********************************************************************78899999999999999999999***********************************************3332...........23333444333....23466889999999985
+#SEQ       TLHKNGMNGILADQMGLGKTAQAIAFLA---YLIE--------SNIRGPHAIIVPSSTADNWIREIEMWAPTVFYEYYTGMQTE--RSQLRAEILGMETKPDIIVTSYATAIS---TPEDRNFFRKLNCHYLVLDEGHMVKNVKSLRYQHLQSLKAKRKLLLTGTPLQNNLVELISLLNFVMPNIFEQrFDGMRLLFSSDKKtgslsAYESEKIEDIKKVMKPFILRRLKEDVLQELPKKIEHVIYCDVTDKQMQLYEKLLN-----------SLKNVTGKDKS----SGANILMELRKAACHPL
+#CS        HHHHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHHHCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSS.CHHHHHHCHHHHC.....HCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH-CC
+Morvir_scaffold238.g19.t2   1428   1488   1399   1488 PF00271.32  Helicase_C        Family    53   111   111     31.2   2.2e-07   1 CL0023   
+#HMM       nereeileqfn.kgesd.vLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH      +++  ++ fn + e+  +L++t+++++Gi+++++++V+  dl++n+ + +q+ +R++R+g
+#PP        5778999***965667789****************************************87
+#SEQ       TQKQSLIDTFNdDPEILvFLLSTRAGGMGINLTSADTVVLHDLDFNPYNDKQAEDRCHRVG
+#CS        HHHHHHHHHHH.TTSSS.EEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Morvir_scaffold240.g28.t1    160    280    157    282 PF00567.25  TUDOR             Domain     4   120   122     42.8   4.6e-11   1 CL0049   
+#HMM       dktievvvsaie.spskfyi.....qpkeqskkleklteelqeyyaskkk.aellapavgegcvavfsedgkwyRAkiteslddqkveVlfiDyGntetvpvsdlrelpseleelppqaikcrL
+#MATCH     +k+i+v vs    + ++f++           ++ +kl e ++++  ++k+ +   + +++  ++a++++++ + R+ ++++ +d++v ++f+D+G+  t ++s+l +lp+e+ e+ + a +c+L
+#PP        5677777776665899****774433...44555555555555555555545589999999**************************************************************9
+#SEQ       AKKIKVGVSSSLsNVGTFWCvpcglD---IRTEQNKLSEIVRSCIFTQKEvSSVTKVEKDRLYCAFAKSENLYLRGFVENEMPDNQVQLRFVDTGTQGTFSLSKLTHLPTEFYEIEYIAYHCCL
+#CS        CGEEEEEEEEEE.ETTEEEE.....EEGGHHHHHHHHHHHHHHHHTSSCC.TCSSS--TT-EEEEEETTTTEEEEEEEEEECTTTEEEEEETTTSBEEEEEGGGEEE--GGGCSS-BSSEEEEE
+Morvir_scaffold240.g28.t1    734    989    730    991 PF00078.28  RVT_1             Family     5   219   222    104.4   6.1e-30   1 CL0027   
+#HMM       g.....pgsyRpisllsvdykalnkliakrLkdvl..ekllsenqpgfrpg.rstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra.........kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft....................v.kseevkyLG
+#MATCH     +     p++yRpi +l+   k+l  +i++ +  +l  +k l+++q g  ++ ++t+d +   +++lk++kkk+++  +  +D kka+d +p+ +++++l+++++++++ +li++ + + ++ + + +e+ ++ ++k+g+ qG  lSPllf +++ +l++ lr+           +++++l+++DD+ +++ s+++l++l+++v+ + ++ g+++  eK+ ++ +                       + e +kyLG
+#PP        4456789**********************999999*99*********988735677777*********************************************************99999999988889*******************************9977999****************************************************997667787777777777777765425777777777
+#SEQ       KskgnvPNNYRPITCLPLVWKILTGIISEEMYSYLddKKYLHNEQKGCSKNaKGTHDLLfidRMILKEVKKKQRNLFVGWIDYKKAYDMIPHTWIMECLKSLGINENICKLIEKSMGSWRVELICGNESLGEVPIKRGIFQGDSLSPLLFVICLIPLSHILRNMEqgyhfekdqQKINHLLFMDDLKLYAGSQKALDSLVQTVRIFSNDIGMQFGIEKCAVLRMYkgvlkdfsgiklpddceikgLkEGEGYKYLG
+#CS        T......S-EEE......-THHHHCTB--...........-------HHHH.................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T...............TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE..........................ESSEEETT
+Morvir_scaffold263.g3.t2     471    673    463    704 PF00078.28  RVT_1             Family     6   209   222    125.2   2.8e-36   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++  k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD+++++++ + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..789*********************8888888999999*****************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDDMQFGFMPGRGTIDAIfilRQMQEKYLGKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSCETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold263.g3.t2     687    732    686    733 PF00628.30  PHD               Domain     2    51    52     29.5   4.9e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold263.g3.t2     900    922    900    922 PF10584.10  Proteasome_A_N    Family     1    23    23     48.6   4.5e-13   1 CL0052   
+#HMM       YDrslttFSPdGRLfQVEYAmkA
+#MATCH     YD+ +t+FSP+GRLfQVEYAm+A
+#PP        **********************9
+#SEQ       YDTRTTIFSPEGRLFQVEYAMEA
+Morvir_scaffold263.g3.t2     925   1066    923   1083 PF00227.27  Proteasome        Domain     3   147   190    155.9   8.1e-46   1 CL0052   
+#HMM       kGttvvGikgkdgvvlaadkratagskllskstveKifkiddhigvafaGlaaDartlvrraraeaqlyrlrygrpipverlvarvaaklqaytqrsgrrpfgvslliagvdeeggpeLyqidpsGsyieekpavaiGsgseaak
+#MATCH     +++t++Gi ++dgv+laa++r+t  +kll++   eKi+k++d i++++aG ++Da++l++ +r +aq+y l+y++pip+e+lv+++++++q+ytq +g+rpfgvsll++g+d++ g++Lyq dpsG+y ++k a++iG++s +  
+#PP        799********************..******999*************************************************************************************************8.*****9997765
+#SEQ       HAGTCLGILANDGVLLAAERRNT--NKLLDDIFSEKIYKLHDDIACSVAGITSDANVLTQELRLNAQRYLLQYQEPIPCEQLVSNLCDLKQRYTQIGGFRPFGVSLLYMGWDRRLGYQLYQSDPSGNYSGWK-ATCIGNNSVFFV
+#CS        HS-EEEEEEETTEEEEEEEECEEETTEEEESSSSTSEEEEETTEEEEEEESHHHHHHHHHHHHHHHHHHHHHHSSGTCHHHHHHHHHHHHHHHHHHHTTTTTSEEEEEEEEETTTEEEEEEEETTSEEEEESSEEEESTTHHHHH
+Morvir_scaffold2848.g1.t1      8    156      2    187 PF00078.28  RVT_1             Family    65   219   222     88.4     5e-25   1 CL0027   
+#HMM       kkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvnge..eskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLG
+#MATCH     k+k+ +++++Dl+kaFd+ p ++++  l +++v ++li++++++++++   vrvn +  +  g ++  g+ qGsvlS llf  +++ l+re+rk +     l+YaDD++++s++ + l + le+ ++ l+  gl++n+ Ktk+++      + + LG
+#PP        46789*************************************************76656778899999**************************87..56799*****************************************4......444444
+#SEQ       KNKKLYFAFVDLEKAFDRAPRQFVWWALRKLGVSEWLIKVVQAMYRNANSQVRVNSSytKNCGVAVGVGVHQGSVLSSLLFICALEALSREFRKGC--PEKLLYADDLVLFSETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMV------NGRNLG
+#CS        HTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET...........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETT
+Morvir_scaffold2848.g1.t1    166    211    165    212 PF00628.30  PHD               Domain     2    51    52     31.5   1.2e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C+kC+e
+#PP        ******..789*********************9966665..6******86
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTESN--HFSCKKCTE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold2.g47.t1        2     65      1     76 PF01813.18  ATP-synt_D        Family     3    68   196     66.8   2.3e-18   1 No_clan  
+#HMM       irlkkrlklaqrghslLkkKrdaLilefreilkelkelreeleeelkeayfslaea.faaggeedie
+#MATCH     + +k rlk+a++ghslLkkK+daL+l+fr+ilk + e++  ++e++k+a+fslaea faag   d++
+#PP        679*****************************************************77666...444
+#SEQ       AIMKGRLKGAEKGHSLLKKKSDALTLRFRKILKTIIETKVLMGEVMKDAAFSLAEAyFAAG---DFS
+#CS        HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH.HSTSHHHHHH
+Morvir_scaffold2.g47.t1      594    796    586    827 PF00078.28  RVT_1             Family     6   209   222    124.9   3.2e-36   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++  k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD+++++++ + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..789*********************8888888999999*****************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDDMQFGFMPGRGTIDAIfilRQMQEKYLGKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSCETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold2.g47.t1      810    855    809    856 PF00628.30  PHD               Domain     2    51    52     29.4   5.5e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold2.g47.t1     1073   1196   1063   1197 PF01813.18  ATP-synt_D        Family    71   195   196    170.2   4.7e-50   1 No_clan  
+#HMM       vlesvklakvlkvevkeenvaGVkvpvfeleeeksdstelygllrtgeqldeareafrellellvelasletslrlLdeeikktnrRvNaLekvvIPrleetikyIkseLdEqereeffrlkkik
+#MATCH     +le+v++a  +kv+++ +nvaGV++pvfe + ++ +++el+gl+r+g+q++++ ++f+++++llvelasl+ts+++Lde+ik+tnrRvNa+e+v+IPr+ +ti+yI+seLdE+ereef+rlkki+
+#PP        567888888.9*****************************************************************************************************************9
+#SEQ       ILENVDKAW-TKVRTRRDNVAGVRLPVFEPYADGANTYELTGLARGGQQVNNCSQTFQKAVRLLVELASLQTSFVTLDEAIKMTNRRVNAIEHVIIPRISRTISYITSELDEMEREEFYRLKKIQ
+#CS        HS.SS-..TSS-SEEEEEEETTSEEEEEEE-..S.SSTSSSSSSSSSSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Morvir_scaffold32.g2.t1      284    531    283    534 PF00078.28  RVT_1             Family     2   219   222    139.8   9.1e-41   1 CL0027   
+#HMM       pKkg....pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra......kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft................v.kseevkyLG
+#MATCH     pK++    ++  R+isl+s+ +k++ k++ +r+k  ++  +s++q ++ +g++t  a+   +++++ + + +k  +l ++D +kaFd+v+++el++ l+++ ++ k ++li++++ ++ +++rv+ge sk + +k+g++qG+vlSP lfnl+ + +lr +++         +++ lrYaDD++++++s+ +lq++l++v+   ++ gl+in +Kt+ +++                 v   ++++yLG
+#PP        566666667789*************************************************999999999*********************************************************99*********************************88****9999**********************************************9999********9999985489999***99
+#SEQ       PKRPgateCELHRTISLMSHMMKLILKILLNRMKIKIRHEISQEQNAYIEGKGTRNAIfiiRMMAERAVEVQKDLYLCFIDYSKAFDKVRHHELFKMLKDLEIDGKDLQLIQNLYWEQMAAIRVDGEMSKWSSIKRGVRQGCVLSPDLFNLYSEIILRGIKNMPgvkiggVNINNLRYADDTVLIAESEVDLQNILNKVVLESEKKGLQINIKKTECMVISkksvspkctltingefVkNVKKFTYLG
+#CS        E-TT.....S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T............TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE......................ESSEEETT
+Morvir_scaffold32.g2.t1      704    792    687    804 PF13589.7   HATPase_c_3       Domain    37   125   137     50.4   2.2e-13   1 CL0025   
+#HMM       vieDdGkGmskeelknalklatsdkeakskskvlGkkGiGlklAslslgkkltviskkegkssaltldidviekee.ekvlkeltlqeie
+#MATCH      + DdG Gm++ e+ +++++++s k+ +++s+++G++G Glk+ s+++gk++++++kk g +s+l+l+++++e+e+  +v+  l+++ ++
+#PP        679***********************.68*******************************************998877777778777665
+#SEQ       NFLDDGCGMDPVEVSQVIQFGRSMKR-QTGSDQIGQYGNGLKSGSMRIGKDMILFTKKGGFLSCLFLSRTFHEREDiHEVIVPLPSWHLD
+Morvir_scaffold32.g2.t1      987   1099    973   1099 PF17942.2   Morc6_S5          Family    27   139   139     64.4   1.1e-17   1 CL0329   
+#HMM       vekhkiakdlklkekitykpqvakkkeaevevtiGfvkeakkvdvqGfnvYhknRLikpfwkvvaqa..sskgrgvvGvleanf..iePahdkqdFertklyqrlearLkemlkeYW
+#MATCH      ++ k++ +lk k  i+ + ++  k+ +++  t+Gf  + ++    G+ +Y  nRLi+ ++kv+ q   + +  gvvGv+++ +  +eP+h+kqdF ++k+y++l + +++ + +YW
+#PP        5555666666655555544444..5888999*****..56666699*******************997678999********984459*****************************
+#SEQ       AQEAKMNAELKRKIAIEKRKSL--KEPKQLVFTFGF--NVDRRTCDGMFIYNCNRLIRMYEKVGPQLdgGVRCAGVVGVVDVPYlvLEPTHNKQDFADAKEYKHLLKSMADHMLQYW
+Morvir_scaffold32.g2.t1     1143   1187   1141   1188 PF07496.16  zf-CW             Domain     3    47    48     47.9     1e-12   1 No_clan  
+#HMM       VqCdkClKWRrlpkev.ekselipekWvCsmnpsdpkynsCdapee
+#MATCH     VqCd Cl+WR+l+ +  ++s ++pe+WvC+mn+ dp+++sC+ pe+
+#PP        9****************999999**********.***********8
+#SEQ       VQCDICLRWRQLQFSRrNPSLEVPEDWVCAMNT-DPSFQSCNKPEQ
+Morvir_scaffold390.g6.t3      16     68     16     68 PF14604.7   SH3_9             Domain     1    49    49     30.6   2.4e-07   1 CL0010   
+#HMM       Alypyepredd.ELsLqrGDvitviee..sedgWlegsl..tgrtGlvPanyve
+#MATCH     Alypy+ +  d E+sL++GDv +v +      gWl g++  tg +G +P n+ve
+#PP        89****.55555************9887677*******667***********97
+#SEQ       ALYPYT-KAIDsEISLNVGDVCYVPKPilNPKGWLTGKNlrTGEYGRFPGNFVE
+Morvir_scaffold390.g6.t3     161    211    160    222 PF00536.31  SAM_1             Domain     2    52    64     27.4   3.4e-06   1 CL0003   
+#HMM       kwsvedVgeWLesiglgqYadlFrageidgdaLlllteddLeklgvtllGH
+#MATCH     +w+ + V eWL   +  +Y+dlF+++ ++g++L +l ++ L+k+g++   H
+#PP        79*********************************************9888
+#SEQ       NWNTKNVLEWLACARIFKYIDLFEENCVNGKTLIELRSESLQKIGIKYQAH
+#CS        CTTHSSHHHHHHHTTSGGGHHHHHTTTSSHHHHTTSCHHHHHHTTTTSHHH
+Morvir_scaffold390.g6.t3     249    299    249    301 PF00130.23  C1_1              Domain     1    51    53     32.4   6.4e-08   1 CL0006   
+#HMM       HhwvhrnfkqptfCkhCgeflwgkekqglkCswCkllvHkkChekvpkecg
+#MATCH     H++ +++f  p +C+ C ++l+g+ +qg+ C+ C+l +H  C++  ++ c+
+#PP        9********************99*********************9999997
+#SEQ       HKYNEHTFTAPEYCSFCYKLLFGLVRQGYVCQGCGLQCHRYCASSNQNGCR
+#CS        --EEEE--SS--B-TTT-SB--SSSS-EEEETTT--EE-CCCCTTS-SBTT
+Morvir_scaffold390.g6.t3     361    469    348    473 PF00620.28  RhoGAP            Domain    43   149   152     37.8   1.6e-09   1 CL0409   
+#HMM       avds..dleeedvhavaslLKrfLrelpepLltkelyeelieaaksedeeerlealkellekLPkenrdtLryLlehLkrvaenskenkMtaknLaivfaPtLlrpkse
+#MATCH      ++   + e+ d+  +a++LK+ L +l epL++ e+y++++++  +++     +++ + ++ L +++ +++  LlehL+r+ +  +++k  ++ L+ vf   ++rpk++
+#PP        4444568999*******************************763333333334566666679********************************************975
+#SEQ       PKVTlkEKEQSDPRCLANVLKLCLGDLVEPLIPCEMYDDFLSLPVKDEFASLGKKILKNVNILTEPEKSLMVRLLEHLRRLVSEFSDDKGYIDRLSRVFNTLIFRPKDK
+#CS        GGCT..TTTTSCHHHHHHHHHHHHHHSSSTTTTGGHHHHHHHHHTSSSHHHHHHHHHHHHTTS-HHHHHHHHHHHHHHHHHHHTHHHH---HHHHHHHHHHHHHT-TSS
+Morvir_scaffold390.g6.t3     513    586    513    586 PF00017.25  SH2               Domain     1    77    77     53.7   1.6e-14   1 CL0541   
+#HMM       WyhgkisrkeaerlLleekkdGtFLvReSeskpGdytlsvvedgkvkhykiqstengkyyiteeekfsslaeLvehY
+#MATCH     Wy+g+i+r++  ++++    dGtFLvR+S  +pG+ytl+++ +g++k ++i +++ +    te + f+s+++L+ ++
+#PP        **************999.************.8*********************9995.99999999********996
+#SEQ       WYFGDITRDNGSEAMKG-TVDGTFLVRKSA-EPGEYTLTLRMGGNNKLIRITHRDGK-CGFTETHPFDSVPQLIAYF
+#CS        TBESSSHHHHHHHHHHTTSSTTEEEEEEESSSTTEEEEEEEETTEEEEEEEEEETTSEEEEETTEEESSHHHHHHHH
+Morvir_scaffold390.g6.t3     785    922    783    924 PF14529.7   Exo_endo_phos_2   Domain     3   117   119     27.5   2.3e-06   1 CL0530   
+#HMM       iisvYippss....slenlestleklleslkspkiiiaGDfNakh.plWgs...tdtdt........sargeeLieflnehelsll....nllksg.ptykssnt..sstiDltltsdplavs...klekeeedlgSDHrp
+#MATCH     ++s+Y p  +    + e + s+l ++++++++ ++ii+GDfNa+   +W                  +++g  L++f++e++ls++    ++++s  +t+k +++   + +D +l+++  ++    ++ +   d++ DHr 
+#PP        688899888877766777788999999999988**********963456552223...1445778889****************99999988777756666666654588********99999999888888999999986
+#SEQ       LVSAYAPTMQrsqeEKELFYSQLMNAIKTNSDDHLIILGDFNARVgCDWTLwpkV---LgkhgvgrmNSNGLMLLDFCTENDLSVMgsmfQMKNSLkTTWKHPRSkhWHQLDHVLANHLARQCidvVKVNLSADCFTDHRL
+Morvir_scaffold390.g6.t3    1186   1451   1185   1454 PF00078.28  RVT_1             Family     3   219   222    140.7   4.9e-41   1 CL0027   
+#HMM       Kkg....pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra..............................kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft...........v.kseevkyLG
+#MATCH     Kkg    +g+yR isllsv +k l  +i +rL+ +++k+++e+q g+r+gr+t+d +   +++ ++ ++++++ +++++D+ kaFd+v+ + l++ l+++++p+kl++lik ++++  +++ v+g  sk + ++ g++qG++l+P+lf ++   ll    k++                              + +  ++YaDDi ++s+s+e lqell+a  + +k+ gl+in+ Kt++++++               +++kyLG
+#PP        44448899****************************************************88888889**********************************************************99************************999877777777888*********************99998889999******************************************999*****99987637********9
+#SEQ       KKGdrsqCGNYRGISLLSVVGKFLADMILQRLTVLARKIYPESQQGYREGRGTIDGIftvRQVMEKSREQHRNLYIAFIDFTKAFDTVNRQLLFSILEKIGCPPKLLKLIKLLYTNVNARLIVDGVLSKLFEYTSGVKQGCKLAPTLFGIYAAVLLLVAFKEIkhsrsilirfrtdgkffdlrrlkasskvmyEFIREAQYADDIALMSDSPEGLQELLDAYNAAAKRFGLRINAGKTEVLCMGpeviffvdeipLkNVDRFKYLG
+#CS        -TT.....S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T....................................TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.................ESSEEETT
+Morvir_scaffold390.g6.t3    1727   1784   1727   1796 PF00017.25  SH2               Domain     1    60    77     34.3     2e-08   1 CL0541   
+#HMM       WyhgkisrkeaerlLleekkdGtFLvReSeskpGdytlsvvedgkvkhykiqstengkyy
+#MATCH     W +g+i++++  +lL   k+dGtFLvR +e++ +++++s+v+ + + h  +++   + y+
+#PP        99******776666666.***********************9998888777765554.55
+#SEQ       WMMGQITKEQTRQLLDG-KPDGTFLVRCRETTSNSFAISLVYVSYFLHSAFKQPLGS-YF
+#CS        TBESSSHHHHHHHHHHTTSSTTEEEEEEESSSTTEEEEEEEETTEEEEEEEEEETTSEEE
+Morvir_scaffold39.g109.t1     74    159     69    162 PF00665.27  rve               Domain     8    94   102     40.9     2e-10   1 CL0219   
+#HMM       wqvDvt.virip.dgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirv
+#MATCH      q D + vi+++ d++g  yll++id+fsr+++++ ++++ + + + ++le  +    +  p+r+++D+g+e  + ++++ l++ +i  
+#PP        55666655544415566***********************.**********88877777..***********************99976
+#SEQ       FQADLVdVISLSrDNNGYKYLLTMIDVFSRYAWVVPLKTK-TGKELKHALEGVFNTGRK--PRRLQTDQGKELLNATVQRYLQDQQIAF
+Morvir_scaffold39.g109.t1    314    353    314    355 PF00385.25  Chromo            Domain     1    41    54     33.8   2.3e-08   1 CL0049   
+#HMM       yeVerIidhrtdkdgleleYlVKWkglpysentWEpeenle
+#MATCH     y +e++i+++++ +++  + lVKWkg+p s n+W ++++++
+#PP        679*************.7779******************98
+#SEQ       YRIEKVIKRKKVGKRQ-MYLLVKWKGYPNSFNSWVNQKDIQ
+#CS        EEEEEEEEEEEETTEECEEEEEEETTSTGGGTEEEEGGGCT
+Morvir_scaffold434.g2.t1      13     81     12     85 PF00575.24  S1                Domain     2    70    75     46.2   4.4e-12   1 CL0021   
+#HMM       pekgevveGeVtrvtkfGafVelg..ngvegfvpaselsrdahvedpdevikvGdevkvkvlkvdkdkrri
+#MATCH     p++++vv+ +V ++ ++Ga+V+l+   ++eg++ +selsr+ +++++++ i+vG+   v+v++vd++k+ i
+#PP        899**********************99**************.*************************98.4
+#SEQ       PQVEDVVMVNVRSIAEMGAYVQLLeyKHIEGMILLSELSRR-RIRSINKLIRVGKNECVVVIRVDEEKG-I
+#CS        STTTCEEEEEEEEEETTEEEEEET..TTEEEEEEGGGSSSSCEESCHHCCEETTEEEEEEEEEEETTTTEE
+Morvir_scaffold434.g2.t1     798   1000    790   1030 PF00078.28  RVT_1             Family     6   209   222    124.5   4.3e-36   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++  k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD+++++++ + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..789*********************8888888999999*****************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDDMQFGFMPGRGTIDAIfilRQMQEKYLGKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSCETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold434.g2.t1    1014   1059   1013   1060 PF00628.30  PHD               Domain     2    51    52     29.1   6.8e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold434.g2.t1    1298   1410   1298   1411 PF07541.13  EIF_2_alpha       Family     1   113   114    110.8   3.8e-32   1 No_clan  
+#HMM       lyeevawplakkygs...lydaFkaaitdedvldeldvpeevkkaLveqikrrltpqpvkiradievtcfaydGieaIkeaLraaee.steekeeevpvkiklvaaPlYvitvqtld
+#MATCH     ly+++aw + +ky++    y+aFk+a+ +++++d++++++ +k+aL+ +i+rrltpq+vk+r diev c++y+Gi+a+k+aL+++ + st e     p+ki+l+a+P Yv+t++tl+
+#PP        79***********99999*****************************************************************888877666....******************986
+#SEQ       LYQKTAWYFDEKYKTtggSYEAFKHAVGEPTIFDDCGLDDVTKEALLVDIRRRLTPQAVKVRSDIEVACYGYEGIDAVKQALKEGLKlSTPE----LPIKINLIAPPVYVVTTTTLE
+#CS        HHHCTHHHHTTTTS-...HHHHHHHHHSTTHHHHHTTS-TTTHHHHHHCTHHHHHHT-EEEEEEEEEEE-STTHHHHHHHHHHHHST.S..TSSSEEEEEEEESSSSEEEEEEEES.
+Morvir_scaffold44.g6.t2       60    205     58    272 PF13621.7   Cupin_8           Domain     3   172   254     36.4   4.9e-09   1 CL0029   
+#HMM       effreyvakskPviitgalkdwpalqkwtddeylleylkek..agdvkvsveetpdgeadsldendelkfvepeeeemtfeefldelearrdtrsetylylqnanlaeefpelk.adsdlpfateafgke..peavnlWlGnsasvsslHkDhyeNlycvvrGrKeftLfpPsda
+#MATCH     +ff+ yv k+kP++i+g +++ +a+ +w++     ey+++    +d+ v+ve t+       +e     + +++++ m+f++fl+ +++++       +yl      + +pe+  +d  lp + ++ + +   e   lW +   + s+lH D  + + cv+rG+ e+ +f+  d 
+#PP        799*************************96.....67766633344445554444.......11.....23568899***********984.......5544.....566666515688887777776443478999******************************99987665
+#SEQ       DFFSHYVDKQKPLVIRGGARNSRAFMRWNE-----EYMMNLpgLNDTLVAVELTK-------KE-----NRSQKTQDMHFKDFLSVYKNKN-------IYLV-----DVMPEILrKDIVLPSPLRCSETSnmLEDLGLWYSSGFTASTLHGDDQDDIRCVLRGKQEYLVFDFRDH
+Morvir_scaffold44.g6.t2      226    433    187    434 PF00078.28  RVT_1             Family    50   220   222     85.8     3e-24   1 CL0027   
+#HMM       stldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrv...nge.eskgryekkglpqGsvlSPllfnlfmnellrelrkra.........kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft....................v.kseevkyLGv
+#MATCH     +t +++   +++lk++k+++++ + + lD kkaFds+p+++ll+ l+  kvp++l+n ik++ ++  +++++   n++ ++ ++++kkg+ qG  lS +lf l +n+l+++l+k            + t+  ++DD+ ++s + ++l++ l++v ++ ++  +++  +K+  + ++                      + +++kyLG+
+#PP        4556667899999999*******************************************999888777666632344467899*******************************99********99***********************************************999*********99999999876379999999997
+#SEQ       GTTEQLllnKNILKEVKRTRRNLYTVWLDYKKAFDSIPHKWLLHALELAKVPEHLRNAIKNLTESWYTRLHLqgtNETiTTDRIKIKKGIYQGDSLSTILFVLSLNPLSHMLQKTKgyaygktknHQHTHNFFVDDLKLFSGNLNNLKHQLNIVTSFSRDISMNFGTDKCAYLQINkgkmvesnqhlevnglkiapLaTDDQYKYLGI
+#CS        ...............HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.............................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T...............TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE..........................ESSEEETTE
+Morvir_scaffold44.g6.t2      842    904    758    907 PF13621.7   Cupin_8           Domain   189   251   254     54.8   1.2e-14   1 CL0029   
+#HMM       vswvdveepdderfprlrdakkalevtlnaGevLylPalWfHeVksla.eeplsiavnyWydms
+#MATCH      s+vdv+++d+e+fprl++  k + +tl++G++Ly P  W+H+++s+  +++ +ia+n W+++ 
+#PP        589*****************.**************************995566********976
+#SEQ       KSRVDVDRVDFEKFPRLSEI-KFYSATLEEGDCLYTPYRWLHQIRSYPdKSQQCIAFNIWFNHV
+Morvir_scaffold56.g37.t3       3    235      3    271 PF03097.19  BRO1              Domain     1   230   386    243.8   2.6e-72   1 No_clan  
+#HMM       llsiplKkteeevdlkkpLknyIsetygsqdpekfeddlaelnklRqdavrksankdsesglelllkYyaqLellelrfpi.eeqsikveFtWydaf......ssskkvsqsslafEkasvLFniaalysqlaasqnrstdeglkrackyfqqAAgvfqylkenflhapteeesedlseetlkaLeklmlAqAqecflekaikdnkkdsliaKlaaqvaelYeealealkkselide
+#MATCH     +l+ p+Kk+++ v++ kpL+nyI++t++++  ++ +d+lae+++lR++av +s ++ +e++l++l++Yy+qL+++e ++pi e+q i+++FtWydaf          k+s +s+a+Ek++vLFnia+l+sqla+ qn s+deglk+a+kyfqqA+g+f+ylk++   + ++ +++dls ++l+ L+ +m+A+Aq cf++ka+ dn+k ++iaKlaaq+ +lY+ea++ +++s +++ 
+#PP        5889*****66.****************9*********************987765.7***********************7666.8**********9999974.578*******************************************************98888888999***************************99**************************87766555
+#SEQ       FLQAPFKKSQS-VEVIKPLSNYIKNTFSKEILDDNKDALAEFSQLRTNAVVRSLDR-HETSLDVLQRYYDQLCVMEVKLPIaEDQ-IRINFTWYDAFdkgglfG-VAKYSMNSVAYEKCCVLFNIASLCSQLAKTQNISSDEGLKTAAKYFQQASGIFAYLKDSSYPQLQTLPTPDLSVDCLSSLSVIMHAEAQDCFYQKAVADNMKGAIIAKLAAQAGDLYQEAVRQASSSLVKTM
+#CS        XXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.....XXXX.XXXXXXXXXXXXXXXXXXXXXXX.XXX.XXXXXXXXXXX......XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX..XXX.XXXXXXXXXXXXXXXXXXXXXXXXXXX....XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.......
+Morvir_scaffold56.g37.t3     774    976    766   1006 PF00078.28  RVT_1             Family     6   209   222    125.7   1.9e-36   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++ +k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD+++++++ + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..689*********************8888888999********************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDNMQFGFMPGRGTIDAIfilRQMQEKYLAKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSCETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold56.g37.t3     990   1035    989   1036 PF00628.30  PHD               Domain     2    51    52     28.9   7.7e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold56.g37.t3    1228   1369   1209   1369 PF03097.19  BRO1              Domain   237   386   386    109.4   1.7e-31   1 No_clan  
+#HMM       ldksWiklvqvKashfkAlaqyrqalqaeekekyGeeiarlqkAlellkealkskkaeelledlkglkdvveeklkeaekDNdlIYheevPsesslpeikkaslvkaipleeekeveaseesgkdlFakLvPlsvheaasayserkaklv
+#MATCH      d +W+ ++++K+ +f+ la+y+q+l a+ek  yGe++arlqkA++l+      +k +  ++++k++ d+++++ +ea+kDN++IY+++vP+ ++l+++ +a+++k++pl     + + +++++dlF +LvP++v +a   y+ +k+++v
+#PP        5789*******************************************8888...4556679*************************************************.....34455779********************9999876
+#SEQ       RDLDWLPTLTAKQGYFAGLAEYHQGLLAKEKGSYGEAVARLQKAEKLASGS---SKPGVFTSEMKATVDKISRAAAEAKKDNEFIYLDRVPQPEALTAVGRAAIAKPTPL-----PAQFSAKFTDLFCRLVPIAVNQAVATYDCKKSEVV
+#CS        XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX...........XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXHHHHHHHHHHHHHHHHH
+Morvir_scaffold56.g37.t3    1404   1518   1403   1543 PF13949.7   ALIX_LYPXL_bnd    Domain     2   116   295    133.4   9.9e-39   1 No_clan  
+#HMM       lPpsllekaeevrsegglqrlekllqdlqelkerneeiLdeieklLdeEesedeqlrakygtrWtrqpSseltaelraelkkyreileeAsesDkivrqklqenkedlelLsgpe
+#MATCH     +P+s+lek++ev+++gg+++l++++qdl+el++rn+eiLde+ +++deE++ed++++++++ +W+r+pS +lta+lrael kyr+il++A+++D++v+qk++en+  l++L+++e
+#PP        7**************************************************************************************************************9864
+#SEQ       VPQSVLEKSAEVKNQGGHDQLDQMMQDLPELLQRNREILDETLRMMDEEQDEDNKMKERFKDKWNRTPSGTLTAQLRAELMKYRGILDNAVQADQVVKQKYNENRRGLDILCKSE
+Morvir_scaffold5.g135.t1     679    881    671    911 PF00078.28  RVT_1             Family     6   209   222    124.3   4.9e-36   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++  k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD+++++++ + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..689*********************8888888999999*****************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDNMQFGFMPGRGTIDAIfilRQMQEKYLGKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSCETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold5.g135.t1     895    940    894    941 PF00628.30  PHD               Domain     2    51    52     29.2   6.5e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold5.g135.t1    1095   1121   1085   1122 PF00400.33  WD40              Repeat    12    37    38     16.3     0.013   1 CL0186   
+#HMM       s.vtslafspdgawlasGsdDgtvriW
+#MATCH     + v++++fsp  ++l+++s+D++vr W
+#PP        359************************
+#SEQ       DtVSCMRFSPKVNFLIASSWDNNVRCW
+#CS        S.EEEEEEETTSSEEEEEETTSEEEEE
+Morvir_scaffold5.g135.t1    1136   1166   1125   1166 PF00400.33  WD40              Repeat     9    38    38     16.3     0.013   1 CL0186   
+#HMM       GH.ssvtslafspdgawlasGsdDgtvriWd
+#MATCH      H +++ s+++++dg+ ++++s D+t + Wd
+#PP        68889*************************9
+#SEQ       SHtKPILSCCWHDDGTKVFTASADNTAKAWD
+#CS        SS.SSEEEEEEETTSSEEEEEETTSEEEEEE
+Morvir_scaffold5.g135.t1    1177   1209   1170   1209 PF00400.33  WD40              Repeat     9    38    38     15.9     0.018   1 CL0186   
+#HMM       GH.ssv.tsla.fspdgawlasGsdDgtvriWd
+#MATCH      H  +v t+    sp  + l++Gs+D+t+++Wd
+#PP        576668544446677777799***********9
+#SEQ       QHdAPVkTCHWiQSPTYSCLMTGSWDKTLKFWD
+#CS        SS.SSE.EEEE.EETTSSEEEEEETTSEEEEEE
+Morvir_scaffold5.g135.t1    1308   1352   1304   1352 PF00400.33  WD40              Repeat     7    38    38     12.5      0.21   1 CL0186   
+#HMM       ltGH.ss............vtslafspdgawlas.GsdDgtvriWd
+#MATCH     ++ H s+            v+++af+p +  la+ Gs Dg+  +Wd
+#PP        666665555566666777799***********96267.*******9
+#SEQ       FKCHrSDvstagsnqdifaVNDIAFHPQHGTLATvGS-DGKFSFWD
+#CS        EESS.SS............EEEEEEETTSSEEEE.EETTSEEEEEE
+Morvir_scaffold707.g4.t2       6     88      6    119 PF03643.16  Vps26             Family     1    82   275     69.7     2e-19   1 CL0135   
+#HMM       fkttidieikldneeerktvdvktekgkkeklkvyedgeslsGvvtirlkd.skkvehqGikveliGqiellydkgnsvdfis
+#MATCH     f++++ ++i l+  ++rk+v++k+++gk ekl++y+dge++sG+vt++lk  +kk+ehqGik+e+iGqie + dk+  v+ i+
+#PP        789999********************************************99**********************996665544
+#SEQ       FGQSAGVDIDLTGADKRKQVEMKNDHGKREKLFLYYDGETVSGQVTVNLKVpGKKLEHQGIKIEFIGQIEKWIDKVIDVKRIN
+#CS        TTTSEEEEEEETTTTTS-EEEEE-GGG-EEEEEEE-TT--EEEEEEEEESS.T--EEESEEEEEEEEEEEETTTGGGEEEEEE
+Morvir_scaffold707.g4.t2     537    739    529    770 PF00078.28  RVT_1             Family     6   209   222    125.0   3.2e-36   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++  k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD+++++++ + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..789*********************8888888999999*****************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDDMQFGFMPGRGTIDAIfilRQMQEKYLGKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSCETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold707.g4.t2     753    798    752    799 PF00628.30  PHD               Domain     2    51    52     29.4   5.5e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold707.g4.t2     986   1194    973   1194 PF03643.16  Vps26             Family    67   275   275    341.6  2.4e-102   1 CL0135   
+#HMM       qiellydkgnsvdfislvkdlakpGelqesksfpfefkklekryesYkGknvklrYvlrvtvvRklkditkekdlivhefttaPevnksvklevGiedclhiefeyskskyhLkdvivGkiyfllvrikiksmelslikrestGlaenvakdsetiakyeimDGasvrgesiPirlflsgydltPtlrdvnkkfsvkyylnlvlvdedd
+#MATCH     q ellyd+gn+++f+slvk+lakpGel ++ +++fef ++ek+yesY+G+nv+lrY+lrvt+vR+l di++e+d++vh+++t+Pe+n+s+k+evGiedclhiefey+kskyhLkd ivGkiyfllvrikik mel++ikre++G+++n+++++etiakyeimDGa+vrgesiPirlflsgy+ltPt++d+nkkfsv+y+lnlvlvde+d
+#PP        6799***********************************************************************************************************************************************************************************************************97
+#SEQ       QKELLYDRGNHHEFTSLVKELAKPGELMSKTTYDFEFVNVEKPYESYTGTNVRLRYFLRVTIVRRLADISEEMDIAVHTLSTYPEMNNSIKMEVGIEDCLHIEFEYNKSKYHLKDGIVGKIYFLLVRIKIKDMELAIIKREISGSGQNTCTENETIAKYEIMDGAPVRGESIPIRLFLSGYELTPTMKDINKKFSVRYFLNLVLVDEED
+#CS        EEEETTTGGGEEEEEEEEEEEE-SEEESS-EEEEEEETS----S--EE-SSEEEEEEEEEEEE-SSS-EEEEEEEEE---B---S----EEEEEEETTTEEEEEEES-SEEETT-EEEEEEEEEEE-S-EEEEEEEEEEEEEESSTTCEEEEEEEEEEEEEEES---TT-EEEEEEEGGGG-----EEEETTTEEEEEEEEEEEEETTS
+Morvir_scaffold76.g69.t2     314    593    305    594 PF00176.24  SNF2_N            Family    54   349   350    183.5   4.5e-54   1 CL0023   
+#HMM       svrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkkmkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpie............aqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllevlrkkalakllkrseaalksssksk.ekilelllelrqacnhpql
+#MATCH     + +G iLaDemGLGKT+q+++li+++ ++          ++l + +L++ P sl+++W+ e+++++ + +lr++  ++       +++   k l+ y v++++Y++  r        s++++++ + v++DE+h+lkns+ k+++a+s+L+  +r++ltGTPiqn+ +++y+L ++ +++++g++q+f++ +q pie             + + ++++L +  + + lrr+ +  ++ lPp++e+++f k+++ ++++Y             +ll+++ + +  ss+ + +k l ++  lr+ cn p l
+#PP        789*********************7777555555.....56999******************************99994......778899*****************888......9**************************************************************************************99987778888999************99999999**********************............6666666666666667778899***********9865
+#SEQ       QGKGAILADEMGLGKTIQCITLIWTLLKQGMYGG-----KPLVKNVLVITPGSLVKNWVAEFKKWLGPERLRIFPVDST------WKVGEFKRLQSYPVMVISYEMFLRYI------SEVQKIDFELVICDEAHRLKNSAIKTSTALSSLRIPRRILLTGTPIQNDIQEFYTLADLANPGILGTYQSFKNVFQGPIErsqqpnctedekVTGQRRAEELKHTTSLFFLRRTAEINKAFLPPRVEYVVFAKMNNLQKRLYR------------SLLSSRAVRTCLSSQYNgSKHLVYISLLRKLCNDPCL
+#CS        TT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHHHCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHC............HCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH............CHHCHH..HHHHHH-HH.HSHCCHHHHHHHHHH-CCC
+Morvir_scaffold76.g69.t2    1333   1583   1331   1584 PF00078.28  RVT_1             Family     3   221   222    128.6   2.4e-37   1 CL0027   
+#HMM       Kkg....pgsyRpisllsvdykalnkliakrLkdvl..ekllsenqpgfrpgrstldav.....edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskee......lqelleaveewlkesglkin..peKtklvlft...................v.kseevkyLGvt
+#MATCH     Kkg    p++yRpisll+ + k+++k+i+ + + +l  +k+l ++q+gfr++ st +++     ++l+ +  +k+  + ++ +Dl+kaFd++++e ll+k++ +++ +++i + ks+l++r fsv+v +e s+    ++g+pqGs+l+Pllf l++n++++ ++     + ll+YaDD+ +++++k+       l++   ++ ew+ +++l+i+  ++Ktk +lf+                     + ++v yLG++
+#PP        66667789**********************888888*******************999999985555555..88999**************************************************9997799999**************************9.....69*******98888887666999999999**********9999985579*******************9999998537999999*9986
+#SEQ       KKGsktePKNYRPISLLPLISKIIEKVIHTQTQLFLndNKILYKYQSGFRKHYSTNTCLsyltdKVLNGF--EKGLMTGMILIDLQKAFDTIDHEILLEKMQCLGFAESTILWYKSYLTNRFFSVNVCNEFSSLGRLSCGVPQGSILGPLLFLLYVNDMPQAVS-----CDLLLYADDTCLIFTEKDTkkieeqLNKDFHSLCEWFIDNKLSIHfgEDKTKSILFGshkklkksnnleityedikIkQYSKVAYLGCI
+#CS        -TT.....S-EEE......-THHHHCTB--...........-------HHHH..................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHH......HHHHHHHHHHHHHHTT--BE..GGG-EEE.........................ESSEEETTEE
+Morvir_scaffold7.g45.t2      431    571    430    572 PF14529.7   Exo_endo_phos_2   Domain     2   118   119     29.2   6.9e-07   1 CL0530   
+#HMM       liisvYippss....slenlestleklleslksp.kiiiaGDfNakhplWgstdtdt.........sargeeLieflnehelsll....nllk.sgptykssnt..sstiDltltsdplavs...klekeeedlgSDHrpi
+#MATCH     +ii +Y p ++    + +++ ++l+k +es+++   +i++GD+Nak    +++++++         +++ge Lie+++e++l +     ++++  + t+ s+n+  ++ iD ++ + ++++s   +    + d g DH+ +
+#PP        58999*9999999999999999*********9999*************999988888*************************9657766444424588888888889***************99989999999*****987
+#SEQ       TIIQIYSPTNDadeeEKDDFYEQLQKEIESTPKHdMLIVMGDANAKVGCNNKNHEKVlgkeglgvmNENGERLIELCEENDLVIGgtcfKHKNiHKYTWTSPNNrdKNQIDHFIINGRYRRSladVRAMRGADAGTDHNLV
+Morvir_scaffold7.g45.t2      872   1122    872   1123 PF00078.28  RVT_1             Family     1   221   222    139.9   8.6e-41   1 CL0027   
+#HMM       ipKkg....pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra.........kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft.............v.kseevkyLGvt
+#MATCH     +pKkg    +++ R islls+ +k++ +++ +r+++ +e++l ++q ++r+g++t++++   +++++++ + + + ++ ++D++kaFds++ e+l++ l+ ++vp+ +i++ik+++++ s +v  ng++s+ + +++g++qG+v+S +lf ++++ ++r+  ++          +++  l YaDDi +ls++++++qe  e++ ++++++glkin +Ktk++ ++             v   ++++yLG +
+#PP        699999********************************************************9999998888888*********************************************99999*************************************988*********9***********************************************99999999999988764799999999965
+#SEQ       VPKKGdltkCDNSRGISLLSIPGKVFGRVVLERIRKGAEEKLRNEQAAYRKGHGTAEQIfilRNIVEQCIEWQASLYINFIDFRKAFDSIDREKLWKILKFYGVPDLFIEIIKEMYRESSSCVINNGQTSEWFSVNTGVRQGCVMSGFLFIITVDWVMRKATTAKktgirwkftTQLEDLDYADDIALLSSKHQHMQEKTEKLCKYAESVGLKINTDKTKVLRLNhkenrpieikgrtVeDVDTFTYLGAI
+#CS        EE-TT.....S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T...............TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...................ESSEEETTEE
+Morvir_scaffold7.g45.t2     1286   1382   1267   1383 PF13892.7   DBINO             Domain    36   132   134    126.0   1.2e-36   1 CL0023   
+#HMM       kkvaklcarearrkasktskatkdlqlrakrlvremllfwkknekeereerkraekealekakkeeekreakRqqrkLnFLitQTELYshFigkklk
+#MATCH       v + c +e+r++a++++k++k++  ra+rlv+e+ll+wkk++k e+e+rk+aekeale+++ +ee+re +RqqrkLnFLitQTELY+hF+g+k+k
+#PP        568899*****************************************************************************************97
+#SEQ       NEVGHHCLKEIRKEAMRSQKISKEMIPRARRLVKEVLLYWKKFDKVEKEHRKKAEKEALEQRRLDEEMREMRRQQRKLNFLITQTELYAHFMGRKMK
+Morvir_scaffold7.g45.t2     1504   1795   1461   1800 PF00176.24  SNF2_N            Family    48   345   350    214.2   2.1e-63   1 CL0023   
+#HMM       saeakqsvrGGiLaDemGLGKTvqvlalilaqrakeekdkekkrkdtlagptLivvPaslldqWeneierhvsssalrvlvyggqkk......mkkkntkvapklladydvvittYdvlsreaelqkkrsvlkqvewkrvvlDEghtlknstskaaeavskLstsnrwiltGTPiqnsledlygLlkfLreepfgekqtfdkllqrpie.......aqaekgrsrLlqllqrlmlrrakkdveknlPpkteeiiflklskverksYnrllev.lrkkalakllkrseaalkssskskekilelllelrqacn
+#MATCH      a ++++  +GiLaDemGLGKTvq++a+++   +  e        + + gp+L+v+Pas+l++W++e  r+v++ ++  + ++ + +       ++++++v  k  a ++v+it+Y+ + +++        +++++w+++vlDE++ +k+s s   ++++ ++ +nr++ltGTPiqns+++l++Ll+f+++  f++++ f+++++++ie       + ++++ srL+ +l+++mlrr+kkdve +l +k+e    ++ls+ +r +Y+ ++++ ++++ +a+++++s+a+lks+s     +++l+++ r+ ++
+#PP        4678999***********************...54444.......45679**************************999988887778999997888899999*****************999......89***********************************************************************************99999************************************************988652688999999999999999998....78888888888777
+#SEQ       LADLYEQGINGILADEMGLGKTVQSIAFLA---YLAEV-------HDIWGPFLVVAPASTLHNWQQESSRFVPEFKVLPYWGNPSDRkslrkfWNQRQNFVNTKESAPFHVLITSYQLVVQDV------RYFQRIKWQYLVLDEAQAIKSSSSVRWKILLGFNCRNRLLLTGTPIQNSMAELWALLHFIMPTLFDSHEEFNEWFSKDIEghaenktNLDQNQLSRLHMILKPFMLRRVKKDVENELSDKIEIKFVCRLSSRQRFLYQAIKNKiSIEDLVASSTSSSNATLKSTS----TLMNLVMQFRKRWC
+#CS        .HHHHHTT--EEE---TTS-HHHHHHHHHH...HHHHTS---.......S-EEEEE-CCHHHHHHHHHHHH-TTS-EEE--SSTCHH......HCCC-------TTT-SSEEEEEHHHHHHTT......TTSSSSSBSEEEECSCCGCGSTTSHHHHHHHHS-BSBEEEE-SSSSSSTCHHHHHHHHCC-TTTTSSCHHHHHHCHHHHC.......HCCCCCHHHHHHHTTTTEE---CCCCTSSSSSEEEEEEEEE--HHHHHHHH.............CHHCHH..HHHHHH-HHHSHCCHHHHHHHHHH
+Morvir_scaffold7.g45.t2     2282   2531   2273   2532 PF00078.28  RVT_1             Family     6   220   222    107.6   6.3e-31   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvl..ekllsenqpgfrpg.rstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkra.........kgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft...................v.kseevkyLGv
+#MATCH      ++yRpis+l+   k+l  +ia+ L ++l  +++l+++q g r++ r+t d++   +++ + +k+++++  ++ +D kka+d vp++++++ l+  +v  ++i  +k+ +s+ ++ ++  ge+ +   + +g+ qG  lSPllf ++m ++   l++            ++++l ++DD+ ++ k+++e++ ll++ve   k+ g+++  +K+ +++++                   + +se +kyLG+
+#PP        689****************************9*********9975389********8888888999999*****************************************************99********************************9889********************************************************999*************999876379999999996
+#SEQ       VDNYRPISCLPLMWKLLTGIIADELYKFLdeNEKLPPEQKGCRKKsRGTKDQLlidKMIIQDCKSRHTNLAMAWVDYKKAYDMVPHSWIIESLELAQVSGNVISFVKKTMSSWKTELTSAGEKLGSVNIRRGIFQGDSLSPLLFVICMMPITDVLKQTKagyilkggdLKINHLFFMDDLKVYGKNEKEIDGLLSSVEMISKDIGMEFGIKKCGVLVLKrgkvcktegiklpsnekvsEvTSEGYKYLGI
+#CS        .S-EEE......-THHHHCTB--...........-------HHHH.................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T...............TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.........................ESSEEETTE
+Morvir_scaffold7.g45.t2     3217   3329   3216   3329 PF00271.32  Helicase_C        Family     2   111   111     63.1   2.8e-17   1 CL0023   
+#HMM       kleallell.kleeeggkilifvntidrlekvklllekkgikvavlhgelpqnereeileqfn.kgesd.vLiatdvaerGidipkvnlVinfdlprnvtsyiqriGRtgRag
+#MATCH     kl+ l ell  l++ g+++li+++ +++++ ++ +   +++k+ +l+g+ + ++r++++++f+ + ++  +L++t++++ Gi+++ +++Vi++d ++n+t  +q+++R++R g
+#PP        7888999988999****************87555556669**********************964555569****************************************86
+#SEQ       KLKVLDELLtRLKAGGHRVLIYSQMTRMIDILEEFMVYRKYKYMRLDGSSKISDRRDMVSDFQtRTDIFvFLLSTRAGGLGINLTAADTVIFYDSDWNPTVDQQAMDRAHRLG
+#CS        HHHHHHHHH.HHHTTTSEEEEEESSHHHHHHHHHHHHHTTSCEEEESTTSTHHHHHHHHHHHH.TTSSS.EEEESGGGTSSSTSTTEEEEEESSCSSSHHHHHHHHTTSSSTT
+Morvir_scaffold81.g59.t1     584    819    579    819 PF00078.28  RVT_1             Family     5   222   222    133.9   5.9e-39   1 CL0027   
+#HMM       g....pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft..............v.kseevkyLGvtl
+#MATCH     g    + +yR i lls+ +k+ +++i +r ++     +s++q+ f p++st da+   ++ ++++++ +++ +++++Dl+kaFd+vp ee+++++ + +v +k ++ i++++++ ++ vr+   +++ + +k gl qGs+lSPllf ++m+ l  e+rk+a      ++aDDi+++ ++k +++e le  ++ l++ glk++ +Kt+ ++++                + e++kyLG t+
+#PP        24777889********************99997..77*********************7777777999999**************************************************77778*********************************75..56679******************************************99*********9988648*********886
+#SEQ       GdvqsCPNYRGIKLLSHTMKVWERVIDQRVREE--IEISPEQFSFVPKKSTTDAIfalRTTAEKYREGQQELHCVFIDLEKAFDRVPREEIWYCMRRKGVSEKYVRCIQEMYRECRTEVRCAAGRTEAFSVKVGLHQGSALSPLLFAVVMDVLTDEVRKEA--PWNMMFADDIVLMNTGKGQAEEELEGWRNALEKRGLKVSRAKTEYLCINkkrdlppikighddLpEVENFKYLGSTI
+#CS        T.....S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE....................ESSEEETTEEE
+Morvir_scaffold81.g59.t1    1059   1140   1058   1141 PF00439.26  Bromodomain       Domain     2    83    84     80.9   5.3e-23   1 No_clan  
+#HMM       ekilsellehklaepFlepvdpeefpdyyavikkPldLstIkkklesnkYksladfeadlkllfsNarkyngegsviyelae
+#MATCH     +++l  +++h +a pF +pvd++ +pdyy++ik+P+dL+t+ ++l+s+ Y++ + f ad++++f N+r+yng++++++ +a+
+#PP        678888999**********************************************************************997
+#SEQ       KQVLIAVKNHASAWPFVKPVDKTDVPDYYEIIKYPMDLKTMSERLKSGYYTTKKLFAADMCRIFANCRTYNGPDTEYFRCAN
+#CS        HHHHHHBHTTTCGGGGCSTT-GCCSTTHHHH.SS---HHHHHHHHHTT--SSHHHHHHHHHHHHHHHHHHSHTTSHHHHHHH
+Morvir_scaffold81.g60.t1      42    294     42    294 PF06466.12  PCAF_N            Domain     1   250   250    368.3    2e-110   1 No_clan  
+#HMM       riaqrkqqvlslprekKleklavyssCkaee.CkCngWkn.kesat.sekkeekqelanlsdacrsCeHkLesHvshLenaseeelnrllemvvdvenlfvsvekeedadtkqvyfylfkllrkcilsmtkpvvegllgkPPFekpsiakavtnfvlykfshlkqkelqimvelakmllkclnhwkletpsarkqrakaeeasaYkinytrwlvfChvPafcdslpsyettlvFGrtllkavfkvlrkqlldk
+#MATCH     ri+q k qv+s+p+ kKlekl+vyssCk+ e CkC+gWkn ++++t +++ + + +la+l+d crsC+H+L++HvshL+n+s +eln+ll+mvvdvenlf++v++eed+d+k+vyf+lf+llrkci++ +kp+veg+lg+PPFe+ +i+++v nfv ykf+hl++kelqim el+km+++clnhwkletp+ar+qr+ +e+ s+Ykinyt+wl+fChvP fcdsl+++e t++FG+++lk++f+ +++qlldk
+#PP        89*************************98766*******988777778999********************************************************************************************************************************************************************************************************97
+#SEQ       RIQQNKLQVKSYPHLKKLEKLGVYSSCKKGEdCKCSGWKNpNPPPTpNTRIDISLPLASLEDLCRSCNHSLRDHVSHLDNSSTDELNYLLSMVVDVENLFMCVRREEDQDNKHVYFHLFRLLRKCIIQVSKPSVEGQLGTPPFEQLNIEQGVKNFVHYKFGHLPPKELQIMSELSKMFIRCLNHWKLETPTARRQRIPTEDISTYKINYTKWLCFCHVPLFCDSLQRHEVTTIFGQNMLKSIFSLMKQQLLDK
+Morvir_scaffold81.g60.t1     521    598    497    600 PF00583.26  Acetyltransf_1    Family    32   114   117     31.7   1.5e-07   1 CL0257   predicted_active_site[549] 
+#HMM       aegllvaeedgeliGfisllkipdekggvayieslaVspeyrgkGlGsaLlealeerareegi.kki.vlaveedndaairlYek
+#MATCH        +l+  +dg++iG i++++ p   ++ ++i ++a+s++ + kG+G++++++l ++  ++g+ + + ++     ++ ai++++k
+#PP        3344555699************99..9**********************************994444333.....6788888866
+#SEQ       KHKTLALIKDGRPIGGICFRMFPS--QNFTEIVFCAISSNEQVKGYGTHMMNHLKDYHIRQGVlNFLtYA-----DEFAIGYFKK
+#CS        TEEEEEEEETTEEEEEEEEEEEETTSTTEEEEEEEEESGGGTTSSHHHHHHHHHHHHHHHTTC.SEE.EEEEETTEHHHHHHHHH
+Morvir_scaffold81.g60.t1     686    843    652    843 PF03184.20  DDE_1             Family    19   175   175     41.2   1.3e-10   1 CL0219   
+#HMM       kplvigkaksprafkngektkkkldveyksnrkawltssifeeWL.kvfdkrle..aekrkilLlldssrshetvel.leselqniklvflPassasllqPldqgvvselKarYrrqllqalleeqnrlsk..eqkkltlldalkfikkAwnavsketiksaf
+#MATCH     +p++i+k  +     ++ k + + ++ ++ ++ + +t +++ +     f+kr     ++ k+lL++d ++sh  +e+ +  +  ++++ ++  +++ llq ld  v + +K+r +  +  ++  ++ +     +  +       k+ + Aw++v+ e i s+f
+#PP        4555554322.....25556899******************99888******999999*******************88888899*************************************9888877764456667777888****************998
+#SEQ       PPMIIFKNLK-----KASKGTYPPGMVIEGSKGGTMTRDMMLNKYnGLFKKRPGcfFKQTKSLLIMDTAKSHMGDEVgSAFQNLETDVKYIDGEMTPLLQFLDTHVNKSFKDRLKDTWADWMNCGEVEYTRtgKRRRASYEMVAKWAQEAWKEVPNEMIVSGF
+Morvir_scaffold92.g50.t2     280    482    272    513 PF00078.28  RVT_1             Family     6   209   222    124.3   5.1e-36   1 CL0027   
+#HMM       pgsyRpisllsvdykalnkliakrLkdvlekllsenqpgfrpgrstldav...edllkalkkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlft
+#MATCH      ++yR + l+   +k++++++ k+++   e ++++ q+gf+pgr+t+da+   +++++++  k+k+ +++++Dl+kaFd+vp e ++  l +++v ++li+++++++++++ +vrvn + ++ + +  g+ qGsv+SPllf  +++ l+re+rk +     l+YaDD++++s++ + l + le+ ++ l+  gl++n+ Ktk+++ +
+#PP        579********************5554..689*********************8888888999999*****************************************************88*********************************87..45689*****************************************654
+#SEQ       RDNYRGLKLMDQVLKVVERVMEKQIRI--EINIDNMQFGFMPGRGTIDAIfilRQMQEKYLGKNKKLYFAFVDLEKAFDRVPREVVWWALRKLGVSEWLIKVVQAMYRNAKSRVRVNSSYTESFGVGVGVHQGSVISPLLFICVLEALSREFRKGC--PEELLYADDLVLSSETLDGLLAKLETWKKGLEGKGLRVNMGKTKVMVSG
+#CS        .S-EEE......-THHHHCTB--.........-------HHHH................HCCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE...
+Morvir_scaffold92.g50.t2     496    541    495    542 PF00628.30  PHD               Domain     2    51    52     29.6   4.9e-07   1 CL0390   
+#HMM       CsvCkkksdeeeelvqCdgCkrwfHqkClkppleseekpegewlCekCke
+#MATCH     CsvC+k    +++ ++C +Ck+w+H+ C +++ + +e    ++ C++Cke
+#PP        ******..789*********************9966665..6******96
+#SEQ       CSVCGK--GVGSNSIYCGTCKHWVHKRCSGIKGKLTETN--RFSCKRCKE
+#CS        BTTTTSTTSTTSCEEEETTTSCEEETTTSTSTHSHHSHHSSTBSSTTTHT
+Morvir_scaffold92.g50.t2     761    921    759    928 PF09243.11  Rsm22             Family     3   161   287    110.7   7.2e-32   1 CL0063   
+#HMM       esiaYalarlpakyavlkrvLkelaervpeflPrsildigegpgtalwaaseiweeeleevlvidaseellaiskelarhipelkea.alrrsvilelee.aiessydLviisyvLleLedkeeRekliknlWakaskilvivEeGtpaGyrlvleaReal
+#MATCH     e++a+++ r++a y v  rvL e+++r pef+P+ +ld+g+g gta+waa+ iw + ++e+  +d s++++   + l+r +++   + ++ + ++ ++++ + + +yd+vi +y+L eL   ++R+++i++lW+k++++lvi+E+G  +G+++ l+aR+ +
+#PP        6789**************************************************************************9888776551455666655544144589****************************************************987
+#SEQ       ETAAFVASRIQACYGVTLRVLSEIKKREPEFAPKTLLDFGSGLGTATWAANSIWGDSIKEYQCVDISDDMNRANQFLLRGSENESVTpKIPGIFFSKFLPfSHRIKYDIVIAAYTLSELPLFKQRKTVIDALWRKTNHFLVIIEPGNNEGFEISLQARDHV
+Morvir_scaffold92.g50.t2     954   1077    946   1077 PF09243.11  Rsm22             Family   168   287   287     75.3   4.4e-21   1 CL0063   
+#HMM       fhivAPCPHelvCPlvate..kdwChFsqrvaRlslhrlvkgsrslnyedekysYlvlkkerepraka..fapRvvrptlvrakkvlidlCsedenlqrlvvtKrrkGelykaArk.aeWGDawp
+#MATCH     +h+  PCPH++ C +      + +C+F q+v+ +  +  ++  ++l++  e++s +vl+ ++ + +k    +pR+++p ++r+++v+++lC e++n++r+++ K ++ e+yk  r+ ++WGD++p
+#PP        6999**********987766689*********998888888.68999999*********988876665558*******************************************98479***986
+#SEQ       GHVFSPCPHDSNCARSEVDfrHHPCNFDQKVELSICQKNTH-LKKLSFAYERFSHIVLRMGESSIEKKdrAWPRLLKPVKKRKGHVICELCCENGNIERHILSKAKDKEVYKGVRHcSKWGDQLP
