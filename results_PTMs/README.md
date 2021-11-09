@@ -1,25 +1,20 @@
 # Data folders
 
-* `data`: original data and ubiquitin searches. These files will be parsed from the corresponding Excel files.
-* `data-paired-searches`: data from paired searches of acetylation with mono/di/trimethylation (three files per species). These files are parsed via `sqlite3` (see `scripts` folder).
+Data & data folders:
 
-# Retrieve predicted peptides from prokaryotes
+* **`consensus_modifications_perseq.xlsx`**: summary of homologous PTM positions in eukaryotes (parsed from ProteomeDiscoverer SQL datasets).
+* **`species_list_2021-02-10.txt`**: list of eukaryotic species covered in this analysis.
+* `data-paired-searches`: peptide and PTM data from paired searches of acetylation with mono/di/trimethylation (three files per species). These files are parsed via `sqlite3` (see `scripts` folder).
+* `data-coverage`: per-position and per-sequence coverage data for the paired searches.
 
-Get sequences:
+Scripts:
 
 ```bash
-conda activate base
-# select species
-i="Methanobrevibacter cuticularis"
-i="Nitrososphaera viennensis"
+# create heatmaps and summary tables with per-species and per-position counts of PTM evidence
+Rscript s01_plot_hPTM_tables_2020-10-08.R
+Rscript s02_plot_ubi_tables_2021-03-08.R
 
-# get sequences
-mkdir -p ~/histonome-ops/data/Proteomes_proteomics_identification-2021/fasta_named/
-mkdir -p ~/histonome-ops/data/Proteomes_proteomics_identification-2021/fasta/
-j=$(echo $i | sed "s/ /_/" )
-bioawk -c fastx '{ print $1,$2,$4 }' ~/histonome-ops/data/sequences/seq_Archaea.fasta | grep -w "${i}" | awk '{ print ">'${j}'_"$1"\n"$2 }' >  ~/histonome-ops/data/Proteomes_proteomics_identification-2021/fasta/${j}.fasta
-
-# tag histones manually
-bioawk -c fastx '{ print $1 }' ..//results_histones_phylo/archaeal_Ntails/arc.Histone.seqs.fasta| fgrep -f - ~/histonome-ops/data/Proteomes_proteomics_identification-2021/fasta/${j}.fasta
-nano  ~/histonome-ops/data/Proteomes_proteomics_identification-2021/fasta/${j}.fasta # add "|Histone" tag manually
+# create summaries of per-sequence and per-position proteomics coverage data
+Rscript s20_get_coverage_2021-05-10.R
+Rscript s21_get_coverage_per_pos_2021-05-11.R
 ```
