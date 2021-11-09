@@ -4,8 +4,9 @@ Data & data folders:
 
 * **`consensus_modifications_perseq.xlsx`**: summary of homologous PTM positions in eukaryotes (parsed from ProteomeDiscoverer SQL datasets).
 * **`species_list_2021-02-10.txt`**: list of eukaryotic species covered in this analysis.
-* `data-paired-searches`: peptide and PTM data from paired searches of acetylation with mono/di/trimethylation (three files per species). These files are parsed via `sqlite3` (see `scripts` folder).
-* `data-coverage`: per-position and per-sequence coverage data for the paired searches.
+* `data-paired-searches/`: peptide and PTM data from paired searches of acetylation with mono/di/trimethylation (three files per species). These files are parsed via `sqlite3` (see `scripts` folder).
+* `data-coverage/`: per-position and per-sequence coverage data for the paired searches.
+* `data-archaea/`: alignments of archaeal histones for four species (see readme inside).
 
 Scripts:
 
