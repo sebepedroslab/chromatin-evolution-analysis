@@ -1,6 +1,0 @@
-Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
-Gefoke_MALSP_10153.mRNA.1|Histone_H2A	Gefoke_MALSP_10153.mRNA.1|Histone_H2A	H2A	FALSE	sGRTP kkSEG kSkSR	Ace	K	6				100	[M].sGRTPkkSEGkSkSR.[S]	res
-Gefoke_MALSP_10153.mRNA.1|Histone_H2A	Gefoke_MALSP_10153.mRNA.1|Histone_H2A	H2A	FALSE	SGRTP kkSEG kSkSR	Ace	K	6				100	[M].SGRTPkkSEGkSkSR.[S]	res
-Gefoke_MALSP_10153.mRNA.1|Histone_H2A	Gefoke_MALSP_10153.mRNA.1|Histone_H2A	H2A	FALSE	sGRTP kKSEG kSkSR	Ace	K	6				99.5	[M].sGRTPkKSEGkSkSR.[S]	res
-Gefoke_MALSP_10153.mRNA.1|Histone_H2A	Gefoke_MALSP_10153.mRNA.1|Histone_H2A	H2A	FALSE	sGRTP kkSEG kSkSR	Ace	K	6				100	[M].sGRTPkkSEGkSkSR.[S]	res
-Gefoke_MALSP_10153.mRNA.1|Histone_H2A	Gefoke_MALSP_10153.mRNA.1|Histone_H2A	H2A	FALSE	sGRTP kkSEG kSkSR	Ace	K	6				100	[M].sGRTPkkSEGkSkSR.[S]	res

@@ -1,3 +1,0 @@
-Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
-Gefoke_MALSP_09193.mRNA.1|Histone_H2AZ	Gefoke_MALSP_09193.mRNA.1|Histone_H2AZ	H2AZ	FALSE	tQSkk PSkkP QTR	Ace	K	5				100	[M].tQSkkPSkkPQTR.[S]	res
-Gefoke_MALSP_09193.mRNA.1|Histone_H2AZ	Gefoke_MALSP_09193.mRNA.1|Histone_H2AZ	H2AZ	FALSE	tQSKK PSkkP QTR	Ace	K	8				100	[M].tQSKKPSkkPQTR.[S]	res

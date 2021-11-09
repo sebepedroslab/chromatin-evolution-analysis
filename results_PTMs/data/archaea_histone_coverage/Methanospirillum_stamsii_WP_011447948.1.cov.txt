@@ -1,6 +1,0 @@
-#Methanospirillum_stamsii_WP_011447948.1
-MADLPIAAVVRIAKKNGAERVGSDAAAALVAKAEDYIANLTREANRLAQHAGRKTIKEEDVKMAAENA
-#sample1
-MADLPIAAVVRIV-------------------------------------------------------
-#sample2
---------------------------------------------------------------------

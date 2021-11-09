@@ -1,1 +1,0 @@
-SELECT TargetProteinsUniqueSequenceID, SequencesinProtein, PositionsinProtein FROM TargetProteinsTargetPsms;

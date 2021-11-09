@@ -1,7 +1,0 @@
-Methanosarcina_spelaei_PAV14247.1|Histone
-Methanosarcina_spelaei_WP_095642992.1|Histone
-Methanospirillum_stamsii_WP_011447948.1
-Methanospirillum_stamsii_WP_109939510.1|Histone
-Methanospirillum_stamsii_WP_109939834.1|Histone
-Methanospirillum_stamsii_WP_109940533.1|Histone
-Methanospirillum_stamsii_WP_109941938.1|Histone
