@@ -10,7 +10,7 @@ The data and code are structured as follows:
 
 2. **Evolutionary analysis of the chromatin enzymatic machinery and readers**: see `results_toolkit_phylo` folder. Identification of orthologous groups in chromatin modification-related enzyme families from selected eukaryotic species, analyses of their prokaryotic homology, fusions with transposon-associated domains, and more. This folder also includes detailed instructions on how to get all the genomic data used in this study.
 
-![imatge](https://user-images.githubusercontent.com/11460546/140972069-0ffeed7b-fc5a-40c2-a9f5-f39e9b5d937e.png)
+![imatge](https://user-images.githubusercontent.com/11460546/140972108-709e020a-a61c-4e3d-a0bc-0fc0c05b6b0f.png)
 
 3. **hPTM conservation**: see `results_PTMs` folder. Includes consensus alignments and our database of histone post-translational modifications with homologous positions in each canonical histone. Here we analyse proteomics data from *Proteome Discoverer* to identify homologous PTMs.
 
