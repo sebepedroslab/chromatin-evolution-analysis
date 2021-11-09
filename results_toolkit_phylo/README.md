@@ -1,6 +1,6 @@
-# hPTM read-out toolkit
+# Chromatin machinery toolkit
 
-Run these commands from the present folder.
+Unless otherwise indicated, you can run all these commands from the present folder. All `qsub` calls are bash scripts that can be run run locally, if needed.
 
 ## Pfam database
 
@@ -18,14 +18,6 @@ cd ../../
 ```
 
 ## Taxon sampling
-
-### Eukaryota
-
-Ad-hoc database:
-
-```bash
-/users/asebe/xgraubove/histonome-ops/data/sequences/seq_Eukaryota.fasta
-```
 
 ### Bacteria, Archaea, Viruses
 
@@ -82,6 +74,10 @@ gzip ${db}.taxa.csv
 makeblastdb -dbtype prot -parse_seqids -in ${db}
 ```
 
+### Eukaryota
+
+Ad-hoc database, see Supplementary Material for data sources.
+
 ## Gene family analyses
 
 Format input databases:
@@ -102,51 +98,46 @@ bash s01_hmmsearches_v07_2020-06-23.sh <gene family> <comma-separated list of hm
 
 # specifically, for each taxon set:
 # euk
-while read -a i ; do bash s01_hmmsearches_v08_2020-11-12.sh ${i[2]} ${i[3]} ${i[5]} ${i[6]} ~/histonome-ops/data/sequences/seq_Eukaryota.fasta Y euk /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_Nov20/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20/ ${i[4]} ; done < ../data/gene_families_hmm.csv
+while read -a i ; do bash s01_hmmsearches_v08_2020-11-12.sh ${i[2]} ${i[3]} ${i[5]} ${i[6]} <data_folder>/seq_Eukaryota.fasta Y euk alignments/ searches/ ${i[4]} ; done < ../data/gene_families_hmm.csv
 # vir
-while read -a i ; do bash s01_hmmsearches_v08_2020-11-12.sh ${i[2]} ${i[3]} ${i[5]} ${i[6]} ~/histonome-ops/data/sequences/seq_Virus.fasta N vir /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_Nov20/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20/ ${i[4]} ; done < ../data/gene_families_hmm.csv
+while read -a i ; do bash s01_hmmsearches_v08_2020-11-12.sh ${i[2]} ${i[3]} ${i[5]} ${i[6]} <data_folder>/seq_Virus.fasta N vir alignments/ searches/ ${i[4]} ; done < ../data/gene_families_hmm.csv
 # arc
-while read -a i ; do bash s01_hmmsearches_v08_2020-11-12.sh ${i[2]} ${i[3]} ${i[5]} ${i[6]} ~/histonome-ops/data/sequences/seq_Archaea.fasta N arc /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_Nov20/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20/ ${i[4]} ; done < ../data/gene_families_hmm.csv
+while read -a i ; do bash s01_hmmsearches_v08_2020-11-12.sh ${i[2]} ${i[3]} ${i[5]} ${i[6]} <data_folder>/seq_Archaea.fasta N arc alignments/ searches/ ${i[4]} ; done < ../data/gene_families_hmm.csv
 # bac
-while read -a i ; do bash s01_hmmsearches_v08_2020-11-12.sh ${i[2]} ${i[3]} ${i[5]} ${i[6]} ~/histonome-ops/data/sequences/seq_Bacteria.fasta N bac /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_Nov20/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20/ ${i[4]} ; done < ../data/gene_families_hmm.csv
+while read -a i ; do bash s01_hmmsearches_v08_2020-11-12.sh ${i[2]} ${i[3]} ${i[5]} ${i[6]} <data_folder>/seq_Bacteria.fasta N bac alignments/ searches/ ${i[4]} ; done < ../data/gene_families_hmm.csv
 
 # for bacterial, archaeal and viral histones, launch pfamscan searches:
-qsub -N pf.virhis qsub_pfamscan.sh ../../results-phylogenies/searches_Nov20/vir.Histone.seqs.fasta  /users/asebe/xgraubove/data/pfam/ 4
-qsub -N pf.bachis qsub_pfamscan.sh ../../results-phylogenies/searches_Nov20/bac.Histone.seqs.fasta  /users/asebe/xgraubove/data/pfam/ 4
-qsub -N pf.archis qsub_pfamscan.sh ../../results-phylogenies/searches_Nov20/arc.Histone.seqs.fasta  /users/asebe/xgraubove/data/pfam/ 4
+qsub -N pf.virhis qsub_pfamscan.sh searches/vir.Histone.seqs.fasta  <pfam_folder> 4
+qsub -N pf.bachis qsub_pfamscan.sh searches/bac.Histone.seqs.fasta  <pfam_folder> 4
+qsub -N pf.archis qsub_pfamscan.sh searches/arc.Histone.seqs.fasta  <pfam_folder> 4
 ```
 
-**WARNING**:
-
-* Kill jobs for WD40, zf-C2H2 and Kelch, and launch dedicated diamond searches using human seeds for selected proteins instead:
+For WD40, zf-C2H2 and Kelch domains, and launch dedicated *diamond* searches using human seeds for selected proteins instead:
 
 ```bash
-diamond blastp -d ~/histonome-ops/data/sequences/seq_Eukaryota.fasta  -q seed_fasta/list_Kelch_human.fasta -o list_Kelch_human.diamond.csv --more-sensitive  -k 1000 --quiet
-diamond blastp -d ~/histonome-ops/data/sequences/seq_Eukaryota.fasta  -q seed_fasta/list_WD40_human.fasta -o list_WD40_human.diamond.csv --more-sensitive  -k 1000 --quiet
-diamond blastp -d ~/histonome-ops/data/sequences/seq_Eukaryota.fasta  -q seed_fasta/list_C2H2_human.fasta -o list_C2H2_human.diamond.csv --more-sensitive  -k 1000 --quiet
-diamond blastp -d ~/histonome-ops/data/sequences/seq_Eukaryota.fasta  -q seed_fasta/list_PCRing.fasta -o list_PCRing.diamond.csv --more-sensitive  -k 1000 --quiet
+diamond blastp -d <data_folder>/seq_Eukaryota.fasta  -q seed_fasta/list_Kelch_human.fasta -o list_Kelch_human.diamond.csv --more-sensitive  -k 1000 --quiet
+diamond blastp -d <data_folder>/seq_Eukaryota.fasta  -q seed_fasta/list_WD40_human.fasta -o list_WD40_human.diamond.csv --more-sensitive  -k 1000 --quiet
+diamond blastp -d <data_folder>/seq_Eukaryota.fasta  -q seed_fasta/list_C2H2_human.fasta -o list_C2H2_human.diamond.csv --more-sensitive  -k 1000 --quiet
+diamond blastp -d <data_folder>/seq_Eukaryota.fasta  -q seed_fasta/list_PCRing.fasta -o list_PCRing.diamond.csv --more-sensitive  -k 1000 --quiet
 # separate by seed protein and launch independent trees with qsub
-# while read i ; do awk '$11 < 1e-10' list_Kelch_human.diamond.csv | grep -w $i  | cut -f2 | sort -u > list_Kelch_seqs.$i.txt ; done < list_Kelch_human.txt
-# for RINGs:
 awk '$11 < 1e-10' seed_fasta/list_PCRing.diamond.csv | cut -f2 | sort | uniq -c | sort -n| awk '$1 > 1 { print $2 }'| sort > seed_fasta/list_PCRing.seqs.txt
 xargs faidx -d ' ' ../../data/sequences/seq_Eukaryota.fasta < seed_fasta/list_PCRing.seqs.txt > seed_fasta/list_PCRing.seqs.fasta
-# now copy these output files
 ```
 
 Once all this work is done, pull the necessary data into the repository:
 
 ```bash
 # add data to gene_counts/ folder:
-for s in euk arc bac vir ; do while read -a i ; do cat ${s}.${i[2]}.genes.list | sed "s/$/\t${i[2]}/" ; done < ../../histonome-analysis/data/gene_families_hmm.csv  > /users/asebe/xgraubove/histonome-ops/histonome-analysis/results_toolkit_phylo/gene_counts/${s}_genecounts.csv ; done
+for s in euk arc bac vir ; do while read -a i ; do cat ${s}.${i[2]}.genes.list | sed "s/$/\t${i[2]}/" ; done < ../../histonome-analysis/data/gene_families_hmm.csv  > gene_counts/${s}_genecounts.csv ; done
 
 # add data to gene_trees/
-cp /nfs/users2/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_Nov20/*treefile /users/asebe/xgraubove/histonome-ops/histonome-analysis/results_toolkit_phylo/gene_trees
+cp alignments/*treefile gene_trees/
 
 # add gene sequences to gene_sequences/
-cp /nfs/users2/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_Nov20/*.seqs.fasta /users/asebe/xgraubove/histonome-ops/histonome-analysis/results_toolkit_phylo/gene_sequences
+cp alignments/*.seqs.fasta gene_sequences/
 
 # add architectures to architectures.csv
-cat /nfs/users2/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20/euk.*.seqs.pfamscan_archs.csv | sort -u > /users/asebe/xgraubove/histonome-ops/histonome-analysis/results_toolkit_phylo/architectures.csv
+cat searches/euk.*.seqs.pfamscan_archs.csv | sort -u > architectures.csv
 ```
 
 For the eukaryotic dataset, call orthologous groups from phylogenies using species overlap (results in `results_evol`):
@@ -262,11 +253,6 @@ Rscript s05a_gene_counts_hmm-euk_2020-10-29.R
 
 # for non-eukaryotes:
 Rscript s05b_gene_counts_hmm-noneuk_2020-10-29.R
-# WARNING:
-# bacteria NCBI taxonomy is huge: subset it to the genes present in our searches (it doesn't matter if other species go missing, because for counting purposes these are pulled from the general taoxnomy file)
-# fgrep -w -f <(cut -f1 gene_counts/bac_genecounts.csv ) <(zcat /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.taxa.csv.gz) > ../data/seq_Bacteria.taxa.csv && gzip ../data/seq_Bacteria.taxa.csv
-# alternatively: copy it manually from cluster! can't be included in the repository
-# HERE: /users/asebe/xgraubove/histonome-ops/data/sequences/seq_Bacteria.taxa.csv.gz
 
 # correlation of histone presence with other enzymes, in non-euks
 s05c_histone_correlation_noneuk_2021-03-25.R
@@ -334,22 +320,12 @@ In parallel, launch TE phylogenies:
 
 ```bash
 # launch phylogenies (takes a while...)
-while read -a i ; do bash s01_hmmsearches_v08_2020-12-21-DOMAINS.sh ${i[2]} ${i[3]} ${i[5]} ${i[6]} ~/histonome-ops/data/sequences/seq_Eukaryota.fasta Y euk /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_TEs_Dec20/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_TEs_Dec20/ ${i[4]} ; done < ../data/transposon_search_hmm.csv
+while read -a i ; do bash s01_hmmsearches_v08_2020-12-21-DOMAINS.sh ${i[2]} ${i[3]} ${i[5]} ${i[6]} <data_folder>/seq_Eukaryota.fasta Y euk alignments_TEs_Dec20/ searches_TEs_Dec20/ ${i[4]} ; done < ../data/transposon_search_hmm.csv
 
 # find TE clusters
 mkdir -p gene_trees_TE/
-cp  /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_TEs_Dec20/euk*treefile gene_trees_TE/
+cp alignments_TEs_Dec20/euk*treefile gene_trees_TE/
 for i in gene_trees_TE/*treefile ; do python s02_parse_phylogeny_2020-11-30.py -i $i -o gene_trees_TE/ -r human_gene_names.csv  -refsps Hsap -itermidroot 10 -min_transfer_support 50 -cut_gene_names 100 -ogprefix $(basename $i | cut -f2,3 -d '.'). -p $(basename $i | sed "s/.seqs.iqtree.treefile/.possom/") ; done
-
-# # dedicated domain-specific phylogenies for Chromo, SNF and PHD domains
-# # THIS IS DEPRECATED
-# bash s01_hmmsearches_v08_2020-12-21-DOMAINS.sh Chromo Chromo,Chromo_shadow 1.1 2 ~/histonome-ops/data/sequences/seq_Eukaryota.fasta Y cor /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_TEs_Dec20/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_TEs_Dec20/ GA
-# bash s01_hmmsearches_v08_2020-12-21-DOMAINS.sh PHD PHD,PHD_2,PHD_3,PHD_4 1.1 2 ~/histonome-ops/data/sequences/seq_Eukaryota.fasta Y cor /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_TEs_Dec20/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_TEs_Dec20/ GA
-# bash s01_hmmsearches_v08_2020-12-21-DOMAINS.sh SNF2_N SNF2_N 1.1 2 ~/histonome-ops/data/sequences/seq_Eukaryota.fasta Y cor /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_TEs_Dec20/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_TEs_Dec20/ GA
-# find OGs
-# mkdir -p gene_trees_TEcore/
-# cp  /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_TEs_Dec20/cor*treefile gene_trees_TEcore/
-# for i in gene_trees_TEcore/cor*treefile ; do python s02_parse_phylogeny_2020-11-30.py -i $i -o gene_trees_TEcore/ -r human_gene_names.csv  -refsps Hsap -itermidroot 10 -min_transfer_support 50 -cut_gene_names 100 -ogprefix $(basename $i | cut -f2,3 -d '.'). -p $(basename $i | sed "s/.seqs.iqtree.treefile/.possom/") ; done
 ```
 
 Finally, analyse candidate TE fusions:
@@ -364,37 +340,6 @@ Finally, analyse candidate TE fusions:
 ```bash
 Rscript s12_TEannot_2021-01-19.R
 ```
-
-Align `DUF1087` with Dfam hits:
-
-```bash
-# grep -w "DUF1087" results_TEfusions/gene_fusion_evidence.csv | cut -f1 > results_TEfusions/fusions_DUF1087.seqs_euks.list
-grep -w "DUF1087" results_TEfusions/gene_fusion_evidence.csv | cut -f2 > results_TEfusions/fusions_DUF1087.seqs_dfam.list
-cat results_TEfusions/data/fusions.*.seqs.fasta | bioawk -c fastx '$1,$2'| grep "DUF1087" | awk '{print ">"$1"\n"$2 } ' > results_TEfusions/fusions_DUF1087.seqs_euks.fasta
-bioawk -c fastx '{ print $1 }' results_TEfusions/fusions_DUF1087.seqs_euks.fasta| cut -f1 -d '|' | sed "s/\d+-\d+//" | sort -u > results_TEfusions/fusions_DUF1087.seqs_euks.list
-# get dfam blast hits
-tblastn -db /home/xavi/dades/Dfam_clean.fasta -query results_TEfusions/fusions_DUF1087.seqs_euks.fasta -out  results_TEfusions/fusions_DUF1087.tblastn_dfam.csv -outfmt 6 -num_threads 8 -max_target_seqs 10
-cut -f2 results_TEfusions/fusions_DUF1087.tblastn_dfam.csv | sort -u > results_TEfusions/fusions_DUF1087.tblastn_dfam.list
-xargs faidx -d ' ' /home/xavi/dades/Dfam_clean.fasta < results_TEfusions/fusions_DUF1087.tblastn_dfam.list > results_TEfusions/fusions_DUF1087.tblastn_dfam.fasta
-# get ORFs from dfam
-getorf results_TEfusions/fusions_DUF1087.tblastn_dfam.fasta -outseq results_TEfusions/fusions_DUF1087.orf_dfam.fasta
-sed "s/ \[/_/" results_TEfusions/fusions_DUF1087.orf_dfam.fasta | tr -d ' ]' | sed "s/(REVERSESENSE)//" > results_TEfusions/fusions_DUF1087.orf_dfam.fasta.2 && mv results_TEfusions/fusions_DUF1087.orf_dfam.fasta.2 results_TEfusions/fusions_DUF1087.orf_dfam.fasta
-# reblst on ORGs
-makeblastdb -dbtype prot -parse_seqids -in results_TEfusions/fusions_DUF1087.orf_dfam.fasta
-blastp -db results_TEfusions/fusions_DUF1087.orf_dfam.fasta -query results_TEfusions/fusions_DUF1087.seqs_euks.fasta -out  results_TEfusions/fusions_DUF1087.orf_dfam.csv -outfmt 6 -num_threads 8 -max_target_seqs 10
-cut -f2 results_TEfusions/fusions_DUF1087.orf_dfam.csv > results_TEfusions/fusions_DUF1087.orf_dfam.list
-xargs faidx -d ' ' results_TEfusions/fusions_DUF1087.orf_dfam.fasta < results_TEfusions/fusions_DUF1087.orf_dfam.list > results_TEfusions/fusions_DUF1087.orf_dfam_filt.fasta
-
-# concatenate
-cat results_TEfusions/fusions_DUF1087.seqs_euks.fasta results_TEfusions/fusions_DUF1087.orf_dfam_filt.fasta > results_TEfusions/fusions_DUF1087.seqs_eukdfam.fasta
-
-# launch tree
-bash qsub_alignment-single.sh results_TEfusions/fusions_DUF1087.seqs_eukdfam.fasta 10
-```
-
-Currently missing information:
-
-* Identify signals of purifying selection in the TE domain that might indicate domestication (`dN/dS`), as in SETMAR.
 
 ## Viral toolkit analysis
 
@@ -411,8 +356,8 @@ Rscript s22_viral_annotation-phylogeny_2021-01-15.R # this is a bit slow because
 ```bash
 # get non-eukaryotic pfam architectures
 i=vir
-cat /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20/vir.*.seqs.fasta | bioawk -c fastx '{ print $1,$2 }' | sort -u | awk '{ print ">'$i'_"$1"\n"$2 }' > gene_sequences/noneuk_vir.fasta
-qsub -pe smp 12 -N noneuk_vir.fasta qsub_pfamscan.sh gene_sequences/noneuk_vir.fasta /users/asebe/xgraubove/data/pfam
+cat searches/vir.*.seqs.fasta | bioawk -c fastx '{ print $1,$2 }' | sort -u | awk '{ print ">'$i'_"$1"\n"$2 }' > gene_sequences/noneuk_vir.fasta
+qsub -pe smp 12 -N noneuk_vir.fasta qsub_pfamscan.sh gene_sequences/noneuk_vir.fasta <pfam_folder>
 ```
 
 3. Parse annotations of viral homologs:
@@ -438,36 +383,6 @@ bash s41_preeuk_search_famcentric_2021-03-21.sh
 Rscript s42_preeuk_annotation_famcentric-phylogeny_2021-03-22.R
 ```
 
-## Archaeal toolkit analysis
-
-WARNING: This may end up being useless.
-
-1. Concatenate all hits and launch phylogenies of homology groups with eukaryotic and archaeal sequences:
-
-```bash
-# launch phylogenies with archaeal sequences (single-run tree)
-bash s31_archaeal_search_2021-03-18.sh
-Rscript s32_archaeal_annotation-phylogeny_2021-03-18.R
-```
-
-2. Archaea Pfam domain architectures:
-
-```bash
-# get non-eukaryotic pfam architectures
-cat /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_Nov20/arc.*.seqs.fasta | bioawk -c fastx '{ print $1,$2 }' | sort -u | awk '{ print ">arc_"$1"\n"$2 }' > gene_sequences/noneuk_arc.fasta
-qsub -pe smp 12 -N noneuk_arc.fasta qsub_pfamscan.sh gene_sequences/noneuk_arc.fasta /users/asebe/xgraubove/data/pfam
-```
-
-3. Parse annotations of archaeal homologs:
-
-```bash
-
-### ADAPT:
-Rscript s33_archaeal_annotation-post_2021-03-18.R
-```
-
-The end.
-
 ```python
         ~+ the end +~
 
@@ -482,17 +397,3 @@ The end.
         O      *        '       .
 ```
 
-## New?
-
-Joint analysis of histones and ribosomal proteins?
-
-```bash
-# all together
-bash s01_hmmsearches_v08_2020-11-12.sh histplus Ribosomal_S6e,Histone,CBFD_NFYB_HMF,CENP-T_C 1.1 10  ~/histonome-ops/data/sequences/seq_Eukaryota.fasta N euk /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_HistRib_Abr21/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_HistRib_Abr21/ 0.001
-bash s01_hmmsearches_v08_2020-11-12.sh histplus Ribosomal_S6e,Histone,CBFD_NFYB_HMF,CENP-T_C 1.1 10  ~/histonome-ops/data/sequences/seq_Archaea.fasta N arc /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_HistRib_Abr21/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_HistRib_Abr21/ 0.001
-
-# ribosomal s6e
-bash s01_hmmsearches_v08_2020-11-12.sh Ribosomal_S6e  Ribosomal_S6e 1.1 10  ~/histonome-ops/data/sequences/seq_Archaea.fasta N arc /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_HistRib_Abr21/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_HistRib_Abr21/ 0.001
-bash s01_hmmsearches_v08_2020-11-12.sh Ribosomal_S6e Ribosomal_S6e 1.1 10  ~/histonome-ops/data/sequences/seq_Eukaryota.fasta N euk /users/asebe/xgraubove/histonome-ops/results-phylogenies/alignments_HistRib_Abr21/ /users/asebe/xgraubove/histonome-ops/results-phylogenies/searches_HistRib_Abr21/ 0.001
-
-```
