@@ -1,5 +1,0 @@
-in_gene	out_gene	branch_support	ev_type	sos
-ArchaeCry|Gonavo_g19725.t1	Obazoa|Hduj_OQV22200.1	1.0	S	0.0
-ArchaeCry|Gonavo_g19725.t1	Obazoa|Linana_g4258.t1	1.0	S	0.0
-ArchaeCry|Gonavo_g19725.t1	Ancyromonadida|Plamic_ANCSI_05699.mRNA.1	1.0	S	0.0
-Ancyromonadida|Plamic_ANCSI_05699.mRNA.1	Obazoa|Linana_g4258.t1	89.0	S	0.0

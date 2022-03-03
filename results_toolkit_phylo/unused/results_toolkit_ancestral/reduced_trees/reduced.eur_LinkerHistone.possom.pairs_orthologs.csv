@@ -1,7 +1,0 @@
-in_gene	out_gene	branch_support	ev_type	sos
-ArchaeCry|Mpus_XP_003064715.1	Metamonada|Carmem_6448.p1	63.0	S	0.0
-ArchaeCry|Mpus_XP_003064715.1	Obazoa|Dmel_FBpp0085248	63.0	S	0.0
-ArchaeCry|Mpus_XP_003064715.1	SARHap|Pavlsp_904603	63.0	S	0.0
-SARHap|Pavlsp_904603	Metamonada|Carmem_6448.p1	22.0	S	0.0
-SARHap|Pavlsp_904603	Obazoa|Dmel_FBpp0085248	22.0	S	0.0
-Metamonada|Carmem_6448.p1	Obazoa|Dmel_FBpp0085248	100.0	S	0.0

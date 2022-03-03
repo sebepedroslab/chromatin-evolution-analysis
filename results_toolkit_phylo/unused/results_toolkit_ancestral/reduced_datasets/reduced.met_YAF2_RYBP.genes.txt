@@ -1,7 +1,0 @@
-Bilateria|Drer_ENSDARP00000112899.1
-Bilateria|Lpol_XP_013787606.1
-Bilateria|Tcas_XP_974738.1
-Cnidaria|Exapal_XP_020901697.1
-Cnidaria|Morvir_scaffold19.g97.t1
-Cnidaria|Spis_XP_022791495_1
-Placozoa|Tadh_P7760
