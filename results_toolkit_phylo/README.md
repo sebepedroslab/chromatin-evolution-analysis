@@ -299,7 +299,7 @@ cut -f1 results_TEfusions/architectures_with_TEs.csv | sort -u  > results_TEfusi
 
 # align TEs with candidate sequences (go back to main directory)
 cat gene_sequences/*.fasta | bioawk -c fastx '{ print $1,$2 }' | fgrep -w -f results_TEfusions/architectures_with_TEs.genes.txt | sort -u | awk '{ print ">"$1"\n"$2 }' > results_TEfusions//all_hits.fasta
-tblastn -db /home/xavi/dades/Dfam_clean.fasta -query results_TEfusions//all_hits.fasta -out  results_TEfusions//all_hits.Dfam.tblastn.csv -outfmt 6 -num_threads 8 -max_target_seqs 10
+tblastn -db Dfam_clean.fasta -query results_TEfusions//all_hits.fasta -out  results_TEfusions//all_hits.Dfam.tblastn.csv -outfmt 6 -num_threads 8 -max_target_seqs 10
 ```
 
 Second, validate structure of fusion genes. This consists of various steps:
