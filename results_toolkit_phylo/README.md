@@ -163,32 +163,32 @@ Ancestral reconstruction with **Count**:
 Rscript s03_ancestral_reconstruction-prepare.R
 
 # # one gamma cat
-# java -cp ~/Programes/Count/Count.jar  ca.umontreal.iro.evolution.genecontent.ML -opt_rounds 100 -gain_k 1 -loss_k 1 -uniform_duplication true  data/species_tree.newick data/pfam_domain_counts.train.csv > data/pfam_domain_counts.rates.r100.g1.txt
+# java -cp Count.jar  ca.umontreal.iro.evolution.genecontent.ML -opt_rounds 100 -gain_k 1 -loss_k 1 -uniform_duplication true  data/species_tree.newick data/pfam_domain_counts.train.csv > data/pfam_domain_counts.rates.r100.g1.txt
 # # two gamma cats
-# java -cp ~/Programes/Count/Count.jar  ca.umontreal.iro.evolution.genecontent.ML -opt_rounds 100 -gain_k 2 -loss_k 2 -uniform_duplication true  data/species_tree.newick data/pfam_domain_counts.train.csv data/pfam_domain_counts.rates.r100.txt > data/pfam_domain_counts.rates.r100.g2.txt
+# java -cp Count.jar  ca.umontreal.iro.evolution.genecontent.ML -opt_rounds 100 -gain_k 2 -loss_k 2 -uniform_duplication true  data/species_tree.newick data/pfam_domain_counts.train.csv data/pfam_domain_counts.rates.r100.txt > data/pfam_domain_counts.rates.r100.g2.txt
 
 ### gamma categories for gain, loss, length and transfer (transfer seems important because it emulates "errors")
 ### THIS IS SLOW AS HELL, RERUN WITH CARE
 # start without gamma cats
-java -cp ~/Programes/Count/Count.jar  ca.umontreal.iro.evolution.genecontent.ML -opt_rounds 100 -uniform_duplication true  data/species_tree.newick data/pfam_domain_counts.train.csv > data/pfam_domain_counts.rates.G0.txt
+java -cp Count.jar  ca.umontreal.iro.evolution.genecontent.ML -opt_rounds 100 -uniform_duplication true  data/species_tree.newick data/pfam_domain_counts.train.csv > data/pfam_domain_counts.rates.G0.txt
 # add one gamma cat everywhere
-java -cp ~/Programes/Count/Count.jar  ca.umontreal.iro.evolution.genecontent.ML -opt_rounds 100 -gain_k 1 -loss_k 1 -transfer_k 1 -length_k 1 -uniform_duplication true  data/species_tree.newick data/pfam_domain_counts.train.csv data/pfam_domain_counts.rates.G0.txt > data/pfam_domain_counts.rates.G1.txt
+java -cp Count.jar  ca.umontreal.iro.evolution.genecontent.ML -opt_rounds 100 -gain_k 1 -loss_k 1 -transfer_k 1 -length_k 1 -uniform_duplication true  data/species_tree.newick data/pfam_domain_counts.train.csv data/pfam_domain_counts.rates.G0.txt > data/pfam_domain_counts.rates.G1.txt
 # two gamma cats
-java -cp ~/Programes/Count/Count.jar  ca.umontreal.iro.evolution.genecontent.ML -opt_rounds 100 -gain_k 2 -loss_k 2 -transfer_k 2 -length_k 2 -uniform_duplication true  data/species_tree.newick data/pfam_domain_counts.train.csv data/pfam_domain_counts.rates.G1.txt > data/pfam_domain_counts.rates.G2.txt
+java -cp Count.jar  ca.umontreal.iro.evolution.genecontent.ML -opt_rounds 100 -gain_k 2 -loss_k 2 -transfer_k 2 -length_k 2 -uniform_duplication true  data/species_tree.newick data/pfam_domain_counts.train.csv data/pfam_domain_counts.rates.G1.txt > data/pfam_domain_counts.rates.G2.txt
 ```
 
 2. Run posterior probability analysis:
 
 ```bash
-java -cp ~/Programes/Count/Count.jar  ca.umontreal.iro.evolution.genecontent.Posteriors -max_paralogs 10000 data/species_tree.newick orthogroups_euk.ancestral.counts.csv data/pfam_domain_counts.rates.G2.txt  > orthogroups_euk.ancestral.posteriors.csv
+java -cp Count.jar  ca.umontreal.iro.evolution.genecontent.Posteriors -max_paralogs 10000 data/species_tree.newick orthogroups_euk.ancestral.counts.csv data/pfam_domain_counts.rates.G2.txt  > orthogroups_euk.ancestral.posteriors.csv
 
 # based on presence only? This would require training based on pres/abs, not counts, so NO
-# java -cp ~/Programes/Count/Count.jar  ca.umontreal.iro.evolution.genecontent.Posteriors -max_paralogs 10000 data/species_tree.newick orthogroups_euk.ancestral.presence.csv data/pfam_domain_counts.rates.G2.txt  > orthogroups_euk.ancestral.presence_posteriors.csv
+# java -cp Count.jar  ca.umontreal.iro.evolution.genecontent.Posteriors -max_paralogs 10000 data/species_tree.newick orthogroups_euk.ancestral.presence.csv data/pfam_domain_counts.rates.G2.txt  > orthogroups_euk.ancestral.presence_posteriors.csv
 
 # in addition, run Wagner parsimony with various gain/loss ratios (classical Wagner)
 # If g>1, scattered distributions are explained by multiple losses (more presence at LECA)
 # If g<1, there'll be multiple gains (i.e., lateral transfers, less presence at LECA)
-java -cp ~/Programes/Count/Count.jar ca.umontreal.iro.evolution.genecontent.AsymmetricWagner -gain 5 -max_paralogs 10000 data/species_tree.newick orthogroups_euk.ancestral.counts.csv > orthogroups_euk.ancestral.wagner_g5.csv
+java -cp Count.jar ca.umontreal.iro.evolution.genecontent.AsymmetricWagner -gain 5 -max_paralogs 10000 data/species_tree.newick orthogroups_euk.ancestral.counts.csv > orthogroups_euk.ancestral.wagner_g5.csv
 # grep FAMILY  presence lines
 grep "# FAMILY" orthogroups_euk.ancestral.wagner_g5.csv > orthogroups_euk.ancestral.wagner_g5_pres.csv
 
