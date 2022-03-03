@@ -1,4 +1,0 @@
-Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
-Tpse_XP_002290419|Histone_H2A	Tpse_XP_002290419|Histone_H2A	H2A	FALSE	SGKGK GGR	Me1	K	3				94.87	SGKGKGGR	res
-Tpse_XP_002290419|Histone_H2A	Tpse_XP_002290419|Histone_H2A	H2A	FALSE	GKGGR GEKKQ TSSSA KAGLQ FPVGR	Me1	K	9				93.94	GKGGRGEKKQTSSSAKAGLQFPVGR	res
-Tpse_XP_002290419|Histone_H2A	Tpse_XP_002290419|Histone_H2A	H2A	FALSE	GKGGR GEKKQ TSSSA KAGLQ FPVGR	Me1	K	9				91.95	GKGGRGEKKQTSSSAKAGLQFPVGR	res

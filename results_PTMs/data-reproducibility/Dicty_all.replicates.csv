@@ -1,0 +1,1612 @@
+MasterProteinAccessions,Modifications_best_positions,hex(FoundinSamples),hex(FoundinFractions),PsmCount,Confidence,AnnotatedSequence
+,"1×Trimethyl [K]; 2×Propionyl [K19; K34]; 1×Propionyl + Methyl [K5]; 1×Acetyl [K4]; 3×Phospho [S3; S9; T11]; 3×PhosphoJoin [S3; S9; T11]","","",4,1,
+,"2×Trimethyl [K19; K34]; 2×Propionyl [K4; K35]; 3×Acetyl [K5; K14; K17]; 7×Phospho [S24; S25; S26; S27; S28; S29; S31]; 7×PhosphoJoin [S24; S25; S26; S27; S28; S29; S31]","","",2,1,
+Ddis_XP_629921,"1×Propionyl [K1(100)]",0400000001,04000000010400000001,6,3,[R].KFEAPR.[H]
+,"1×Propionyl [K]; 1×Phenylisocyanate [N-Term]; Dimethyl [K]; Acetyl [K]; 1×Trimethyl [K]","","",36,1,
+,"2×Trimethyl [K10; K21]; 1×PhosphoJoin [S4]; 2×Propionyl [K1; K8]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K9; K22]; 1×Phospho [S4]","","",2,1,
+,"2×Crotonyl [K20; K25]; 2×Trimethyl [K2; K3]; 4×PhosphoJoin [T4; T9; S24; S27]; 1×Propionyl [K30]; 2×Propionyl + Methyl [K10; K15]; 4×Phospho [T4; T9; S24; S27]","","",2,1,
+Ddis_XP_635459,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K3(100); K7(100); K12(100); K13(100)]",0400000001,00000000010400000001,2,3,[R].SDKSSSKDSGSKKDQQTPR.[K]
+,"2×Crotonyl [K17; K18]; 12×PhosphoJoin [T/S]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K12; K31]; 2×Acetyl [K1; K11]; 12×Phospho [T/S]","","",12,1,
+,"1×Crotonyl [K27]; 1×Trimethyl [K29]; 1×Dimethyl [K17]; 10×Phospho [S2; S3; S4; S5; S6; S7; S10; T11; S12; S13]; 10×PhosphoJoin [S2; S3; S4; S5; S6; S7; S10; T11; S12; S13]","","",2,1,
+,"4×Trimethyl [K16; K17; K18; K31]; 2×PhosphoJoin [S20; S21]; 2×Dimethyl [K29; K30]; 3×Acetyl [K7; K8; K9]; 2×Phospho [S20; S21]","","",4,1,
+,"3×Trimethyl [K13; K17; K19]; 1×Phospho [T8]; 1×PhosphoJoin [T8]","","",4,1,
+,"1×PhosphoJoin [S]; 3×Propionyl [K15; K16; K18]; 2×Dimethyl [K1; K2]; 1×Phospho [S]","","",14,1,
+,"1×Crotonyl [K20]; 2×Trimethyl [K1; K23]; 6×PhosphoJoin [S2; T4; S8; S15; S21; S22]; 1×Phenylisocyanate [N-Term]; 2×Acetyl [K16; K18]; 6×Phospho [S2; T4; S8; S15; S21; S22]","","",2,1,
+,"2×Crotonyl [K27; K32]; 1×Trimethyl [K18]; 1×PhosphoJoin [T3]; 1×Propionyl [K13]; 2×Acetyl [K6; K12]; 1×Phospho [T3]","","",2,1,
+,"1×Trimethyl [K9]; 1×Propionyl + Methyl [K3]; 9×Phospho [T1; S2; S5; S6; S8; S10; S11; T14; T31]; 9×PhosphoJoin [T1; S2; S5; S6; S8; S10; S11; T14; T31]","","",2,1,
+,"1×Crotonyl [K17]; 3×Trimethyl [K11; K12; K]; 1×Propionyl [K4]; 1×Propionyl + Methyl [K]; 2×Phospho [S6; S10]; 2×PhosphoJoin [S6; S10]","","",4,1,
+,"Trimethyl [K]; 4×PhosphoJoin [T7; T8; T12; T24]; 1×Propionyl [K14]; Dimethyl [K]; 1×Propionyl + Methyl [K40]; 4×Phospho [T7; T8; T12; T24]","","",4,1,
+,"1×Crotonyl [K29]; 1×Trimethyl [K1]; 1×PhosphoJoin [S/T]; 2×Propionyl [K7; K19]; 1×Dimethyl [K22]; 1×Phospho [T/S]","","",4,1,
+,"1×Trimethyl [K20]; 2×PhosphoJoin [S6; S9]; 1×Propionyl [K27]; 2×Propionyl + Methyl [K1; K2]; 2×Dimethyl [K25; K29]; 2×Phospho [S6; S9]","","",2,1,
+,"1×Phenylisocyanate [N-Term]","","",2,1,
+Ddis_XP_645463,"3×Propionyl [K3(100); K6(100); K7(100)]",0300000001,03000000010300000001,4,2,[R].ALKVAKKR.[L]
+Ddis_XP_645463,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K6(100); K7(100)]",0400000001,04000000010400000001,8,3,[R].ALKVAKKR.[L]
+,"2×Trimethyl [K4; K8]; 2×Dimethyl [K1; K17]; 1×Phospho [S16]; 1×PhosphoJoin [S16]","","",6,1,
+Ddis_XP_646786,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K1(100); K4(100); K6(100); K11(100)]",0300000001,00000000010300000001,4,2,[R].KGTKAKPTTTKR.[S]
+Ddis_XP_628948,"2×Propionyl [K13(100); K17(100)]",0300000001,03000000010000000001,2,2,[R].TANANASNSNQSKTPAKR.[T]
+Ddis_XP_628948,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K13(100); K17(100)]",0400000001,03000000010400000001,6,3,[R].TANANASNSNQSKTPAKR.[T]
+Ddis_XP_628948,"1×Trimethyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,4,3,[R].TANANASNSNQSKTPAKR.[T]
+Ddis_XP_640703,"3×Propionyl [K1(100); K3(100); K9(100)]",0400000001,03000000010400000001,4,3,[R].KAKVSSTAKR.[A]
+Ddis_XP_640703,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K3(100); K9(100)]",0400000001,04000000010300000001,4,3,[R].KAKVSSTAKR.[A]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl + Methyl [K9(100)]; 2×Propionyl [K1(100); K3(100)]","","",2,1,
+Ddis_XP_635997,"1×Propionyl [K6(100)]",0400000001,04000000010400000001,4,3,[R].GASQNKSNDDDDNNNNQDE.[-]
+Ddis_XP_635997,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0400000001,04000000010000000001,6,3,[R].GASQNKSNDDDDNNNNQDE.[-]
+,"2×Trimethyl [K1; K11]; 4×PhosphoJoin [T13; T25; T29; T30]; 3×Propionyl [K15; K35; K40]; 3×Propionyl + Methyl [K19; K21; K26]; 4×Phospho [T13; T25; T29; T30]","","",2,1,
+,"1×Crotonyl [K9]; 2×Acetyl [K]","","",8,1,
+Ddis_XP_640076,"1×Crotonyl [K]; 2×Trimethyl [K8; K]",0300000001,00000000010300000001,6,2,[K].KSKSKETKKVEPTPTTTTQR.[T]
+,"1×Trimethyl [K6]; 1×PhosphoJoin [S7]; 1×Propionyl + Methyl [K1]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K15; K16]; 1×Phospho [S7]","","",2,1,
+,"1×Trimethyl [K6]; 1×Propionyl [K7]; 1×Propionyl + Methyl [K1]; 1×Phenylisocyanate [N-Term]; 1×Phospho [S4]; 1×PhosphoJoin [S4]","","",2,1,
+,"1×Crotonyl [K19]; 2×Trimethyl [K4; K]; 1×Propionyl [K17]; 1×Propionyl + Methyl [K9]; 1×Acetyl [K]","","",4,1,
+Ddis_XP_629837,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K6(100)]",0300000001,03000000010300000001,6,2,[R].KAGAAKGR.[K]
+,"1×Trimethyl [K]; 1×Propionyl + Methyl [K13]; 1×Phenylisocyanate [N-Term]; Dimethyl [K]; 2×Phospho [S5; S7]; 2×PhosphoJoin [S5; S7]; 1×Acetyl [K]","","",6,1,
+,"1×Crotonyl [K]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K1; K31]; 4×Phospho [S7; S8; S9; S10]; 4×PhosphoJoin [S7; S8; S9; S10]","","",4,1,
+,"1×Trimethyl [K19]; 2×Propionyl + Methyl [K19(100); K]; 1×Dimethyl [K3]; 1×Phospho [S15]","","",2,1,
+,"1×Trimethyl [K13]; 2×Propionyl [K16; K19]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]; 1×Acetyl [K9]","","",4,1,
+,"1×Crotonyl [K19]; 2×PhosphoJoin [S11; S12]; 1×Propionyl [K26]; 2×Propionyl + Methyl [K9; K15]; 1×Phenylisocyanate [N-Term]; 2×Phospho [S11; S12]","","",2,1,
+CON_000193593,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].GGSGGSYGGGGSGGGYGGGSGSR.[G]
+,"2×Trimethyl [K14; K20]; 1×PhosphoJoin [T/S]; 2×Acetyl [K5; K9]; 1×Phospho [T/S]","","",6,1,
+Ddis_XP_637684|Histone_H2B,"5×Propionyl [K4(100); K7(100); K8(100); K11(100); K/V]",0400000001,04000000010400000001,4,3,[M].VFVKGQKKATKGSTQSGEEK.[T]
+,"2×Trimethyl [K]; 1×Phenylisocyanate [N-Term]; 2×Acetyl [K11; K15]; 3×Phospho [S1; S2; S30]; 3×PhosphoJoin [S1; S2; S30]","","",4,1,
+Ddis_XP_636431,"1×Propionyl [K9(100)]",0400000001,03000000010400000001,4,3,[R].TVTTSSNNKPTR.[F]
+Ddis_XP_636431,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K9(100)]",0400000001,03000000010400000001,4,3,[R].TVTTSSNNKPTR.[F]
+Ddis_XP_637684|Histone_H2B,"Propionyl [K]; 1×Propionyl + Methyl [K30]; Acetyl [K]",0400000001,04000000010000000001,4,3,[K].ATKGSTQSGEEKTASTTPKVTKTPTEGGEKKR.[K]
+,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K19(100); K22(100); K30(100); K31(100)]","","",2,1,
+Ddis_XP_637684|Histone_H2B,"1×Trimethyl [K]; 1×PhosphoJoin [T/S]; Propionyl [K]; 1×Phospho [S/T]; 1×Propionyl + Methyl [K30]; 1×Acetyl [K3]",0400000001,03000000010400000001,10,3,[K].ATKGSTQSGEEKTASTTPKVTKTPTEGGEKKR.[K]
+,"1×Crotonyl [K12]; 1×Trimethyl [K3]; Propionyl [K]; 1×Phospho [S/T]; 1×PhosphoJoin [T/S]; 1×Propionyl + Methyl [K3]; 1×Dimethyl [K19]","","",22,1,
+,"1×Crotonyl [K12]; 2×Trimethyl [K3; K]; 2×Propionyl [K19; K22]; 1×Propionyl + Methyl [K]; 1×Phospho [S/T]; 1×PhosphoJoin [S/T]","","",14,1,
+,"3×Propionyl [K22; K30; K31]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K3]; 1×Acetyl [K12]; 1×Phospho [S/T]; 1×PhosphoJoin [T/S]","","",6,1,
+,"1×Trimethyl [K12]; 1×PhosphoJoin [S/T]; 3×Propionyl [K22; K30; K31]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K3]; 1×Phospho [T/S]","","",4,1,
+,"1×Trimethyl [K31]; 2×PhosphoJoin [S/T]; 1×Propionyl [K22]; 1×Propionyl + Methyl [K30]; 1×Phenylisocyanate [N-Term]; 2×Phospho [T/S]","","",4,1,
+Ddis_XP_637684|Histone_H2B,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]",0400000001,04000000010000000001,2,3,[K].ATKGSTQSGEEKTASTTPKVTKTPTEGGEKKR.[K]
+,"1×Crotonyl [K3]; 1×Trimethyl [K31]; 1×Propionyl [K22]; 3×Propionyl + Methyl [K12; K19; K30]; 1×Phospho [S/T]; 1×PhosphoJoin [S/T]","","",24,1,
+,"3×Trimethyl [K3; K19; K31]; 2×Propionyl + Methyl [K22; K30]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T/S]; 1×PhosphoJoin [T/S]","","",20,1,
+Ddis_XP_637684|Histone_H2B,"1×Trimethyl [K22]; 3×Propionyl [K3; K30; K31]; 1×Propionyl + Methyl [K19]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T/S]; 1×PhosphoJoin [S/T]",0300000001,00000000010300000001,6,2,[K].ATKGSTQSGEEKTASTTPKVTKTPTEGGEKKR.[K]
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,10,3,[R].VNNGEQQVATSEER.[Q]
+Ddis_XP_645331,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,8,3,[R].NNNNQQQQGGQQQQQQQHR.[N]
+,"2×Trimethyl [K17; K]; 1×Propionyl + Methyl [K18]; 1×Acetyl [K]; 3×Phospho [S13; S14; S15]; 3×PhosphoJoin [S13; S14; S15]","","",4,1,
+,"1×Trimethyl [K17]; 1×PhosphoJoin [S]; 3×Dimethyl [K2; K4; K5]; 1×Phospho [S]","","",6,1,
+,"1×Phenylisocyanate [N-Term]","","",4,1,
+,"3×Trimethyl [K4; K12; K13]; 1×Propionyl [K11]; 1×Dimethyl [K1]; 1×Phospho [S2]; 1×PhosphoJoin [S2]","","",2,1,
+"Ddis_XP_629115; Ddis_XP_643631","Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]",0300000001,00000000010300000001,4,2,[KR].KEKKNR.[DL]
+"Ddis_XP_629115; Ddis_XP_643631","1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K3(100); K4(100)]",0300000001,03000000010000000001,2,2,[KR].KEKKNR.[DL]
+,"1×Crotonyl [K]; 1×Phenylisocyanate [N-Term]; 4×Acetyl [K8; K12; K13; K15]; 3×Phospho [T3; S7; S17]; 3×PhosphoJoin [T3; S7; S17]","","",4,1,
+,"1×Trimethyl [K12]; 3×Propionyl [K5; K24; K25]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K4]","","",24,1,
+Ddis_XP_646233,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].TVTQTTTTSSINNR.[I]
+,"4×Propionyl [N-Term; K15; K17; K18]; 1×Dimethyl [K9]; 1×Acetyl [K4]","","",2,1,
+,"2×Trimethyl [K17; K]; 2×Propionyl [N-Term; K15]; 1×Propionyl + Methyl [K18]; 1×Dimethyl [K]","","",4,1,
+Ddis_XP_641587|Histone_H2A,"1×Trimethyl [K]; Propionyl [K]; Acetyl [K]; 1×Propionyl + Methyl [K4]",0300000001,03000000010300000001,8,2,[M].SETKPASSKPAAAAKPKK.[V]
+,"1×Propionyl [K14]; 1×Propionyl + Methyl [K2]; 3×Dimethyl [K6; K9; K16]","","",6,1,
+Ddis_XP_647166,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].LAADVGTGSAR.[Q]
+,"Propionyl [K]; 1×Propionyl + Methyl [K8]; 1×Acetyl [K7]","","",4,1,
+Ddis_XP_638965,"1×Phenylisocyanate [N-Term]; 5×Propionyl [K2(100); K5(100); K7(100); K8(100); K12(100)]",0400000001,00000000010400000001,2,3,[R].SKTLKVKKTQEK.[-]
+,"1×Crotonyl [K]; 1×Propionyl + Methyl [K14]; 1×Dimethyl [K16]; 1×Acetyl [K2]","","",4,1,
+,"3×Crotonyl [K16; K30; K]; 2×Trimethyl [K4; K34]; 1×PhosphoJoin [S6]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Phospho [S6]","","",4,1,
+Ddis_XP_641862,"1×Propionyl [K6(100)]",0400000001,04000000010400000001,4,3,[R].AYEEEKAR.[L]
+Ddis_XP_641862,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0300000001,03000000010000000001,4,2,[R].AYEEEKAR.[L]
+Ddis_XP_637926,"2×Propionyl [K1(100); K2(100)]",0400000001,04000000010400000001,4,3,[R].KKTIVSSESR.[A]
+Ddis_XP_637926,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K2(100)]",0400000001,04000000010400000001,4,3,[R].KKTIVSSESR.[A]
+Ddis_XP_641818,"2×Propionyl [K2(100); K3(100)]",0400000001,00000000010400000001,2,3,[R].TKKENEEQER.[L]
+Ddis_XP_638424,"1×Dimethyl [K7]; 1×PhosphoJoin [S2(100)]; 1×Propionyl + Methyl [K5]; 1×Phospho [S2]",0300000001,03000000010000000001,2,2,[K].KSNNKKK.[E]
+,"2×Trimethyl [K1; K12]; 1×Dimethyl [K33]; 3×Acetyl [K13; K16; K28]; 5×Phospho [S2; S3; S4; S5; S30]; 5×PhosphoJoin [S2; S3; S4; S5; S30]","","",2,1,
+,"1×Crotonyl [K20]; 4×Trimethyl [K8; K9; K10; K16]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K21; K31]; 6×Phospho [S12; T14; T23; T24; T25; T26]; 6×PhosphoJoin [S12; T14; T23; T24; T25; T26]","","",2,1,
+,"3×Crotonyl [K8; K9; K20]; 2×Trimethyl [K10; K16]; 5×PhosphoJoin [T14; T23; T24; T25; T26]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K1; K21; K31]; 5×Phospho [T14; T23; T24; T25; T26]","","",2,1,
+Ddis_XP_644082,"3×Propionyl [K5(100); K8(100); K11(100)]",0400000001,00000000010400000001,2,3,[R].SSGGKDNKSQKR.[F]
+Ddis_XP_644082,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K5(100); K8(100); K11(100)]",0400000001,03000000010400000001,4,3,[R].SSGGKDNKSQKR.[F]
+,"1×Trimethyl [K3]; 3×Propionyl [K5; K11; K13]; 1×Propionyl + Methyl [K6]; 1×Dimethyl [K15]; 1×Phospho [T7]; 1×PhosphoJoin [T7]","","",12,1,
+Ddis_XP_635459,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].NQDNNNNDSQQQQQQQQRR.[Q]
+,"1×Crotonyl [K2]; 1×Propionyl + Methyl [K]; Dimethyl [K]; 2×Phospho [T4; T5]; 1×Acetyl [K7]; 2×PhosphoJoin [T4; T5]","","",8,1,
+,"2×Propionyl [K5; K6]; Propionyl + Methyl [K]; 1×Acetyl [K]; 1×Phospho [S3]; 1×PhosphoJoin [S3]","","",6,1,
+Ddis_XP_646541,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K3(100); K17(100)]",0400000001,04000000010400000001,4,3,[R].KSKGSSSSSSSSSSSTKR.[R]
+Ddis_XP_644247,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].AVFPSIVGR.[Q]
+,"1×Acetyl [K3(100)]; 3×Propionyl [K7(100); K11(100); K]","","",4,1,
+Ddis_XP_646584,"1×Propionyl + Methyl [K4]; 3×Dimethyl [K1; K7; K13]; 1×Phospho [S9]; 1×PhosphoJoin [S9]",0300000001,03000000010000000001,2,2,[K].KDSKDSKDSKDSK.[D]
+,"1×Crotonyl [K11]; 4×Propionyl [K1; K3; K4; K7]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K14]","","",2,1,
+Ddis_XP_640309,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].QLEQQNINASQR.[D]
+Ddis_XP_637573,"2×PhosphoJoin [T4; T5]; 2×Dimethyl [K11; K12]; 1×Acetyl [K2]; 2×Phospho [T4; T5]",0300000001,00000000010300000001,2,2,[K].TKSTTTTTTNKK.[S]
+,"2×Crotonyl [K1; K2]; 2×Propionyl [K3; K5]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K6]","","",2,1,
+Ddis_XP_642298,"3×Propionyl [K2(100); K4(100); K5(100)]",0400000001,03000000010400000001,4,3,[R].QKSKKNAR.[K]
+Ddis_XP_642298,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]",0300000001,03000000010000000001,2,2,[R].QKSKKNAR.[K]
+Ddis_XP_642298,"1×Phenylisocyanate [N-Term]; 1×Propionyl + Methyl [K4(100)]; 2×Propionyl [K2(100); K5(100)]",0300000001,00000000010300000001,2,2,[R].QKSKKNAR.[K]
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K4(100); K8(100); K12(100)]",0400000001,03000000010400000001,4,3,[K].TGGKVGGKVGAKR.[H]
+Ddis_XP_641632,"1×Propionyl [K8(100)]",0400000001,03000000010400000001,4,3,[R].LADEEEEKR.[A]
+Ddis_XP_643120,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].IYNTNVDGR.[R]
+Ddis_XP_641984,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K8(100)]",0300000001,03000000010300000001,4,2,[R].IAREKEEKR.[I]
+Ddis_XP_644762,"2×Propionyl [K1(100); K3(100)]",0400000001,04000000010300000001,4,3,[R].KPKVGR.[A]
+Ddis_XP_645978,"1×Phenylisocyanate [N-Term]; 1×Dimethyl [K8]; 1×Crotonyl [K1(100)]",0300000001,00000000010300000001,2,2,[K].KGAAAPSK.[K]
+Ddis_XP_629921,"1×Propionyl [K1(100)]",0300000001,03000000010000000001,2,2,[R].KSITTQTGR.[A]
+Ddis_XP_629921,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0300000001,03000000010000000001,2,2,[R].KSITTQTGR.[A]
+Ddis_XP_638211,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K6(100)]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]",0400000001,00000000010400000001,2,3,[K].ESSSKKR.[K]
+Ddis_XP_640998,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K7(100); K8(100)]",0400000001,04000000010000000001,2,3,[R].SVKVSSKK.[V]
+Ddis_XP_638995,"1×Propionyl [K1(100)]",0400000001,04000000010400000001,8,3,[R].KAHFTASSGER.[R]
+Ddis_XP_638995,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0400000001,04000000010400000001,6,3,[R].KAHFTASSGER.[R]
+Ddis_XP_638950,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,4,2,[R].ENNSNNNNNSR.[D]
+Ddis_XP_635459,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].RQQQQQQQER.[D]
+Ddis_XP_647262,"2×Propionyl [K2(100); K8(100)]",0400000001,04000000010400000001,4,3,[R].TKVTDQQKQQQR.[E]
+Ddis_XP_647262,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K8(100)]",0400000001,04000000010000000001,2,3,[R].TKVTDQQKQQQR.[E]
+,"2×Trimethyl [K31; K33]; 4×PhosphoJoin [S9; S13; S21; S32]; 1×Dimethyl [K25]; 1×Acetyl [K5]; 4×Phospho [S9; S13; S21; S32]","","",4,1,
+Ddis_XP_641984,"2×Propionyl [K7(100); K8(100)]",0400000001,04000000010300000001,4,3,[R].IREEEEKKR.[A]
+Ddis_XP_640068,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].TTTSSSTPTSSPLR.[S]
+,"1×Trimethyl [K5]; 2×Phospho [T1; T12]; 2×PhosphoJoin [T1; T12]","","",6,1,
+,"1×Propionyl [K9]; 1×Propionyl + Methyl [K3]; 1×Dimethyl [K7]","","",2,1,
+Ddis_XP_640870,"2×Propionyl [K8(100); K12(100)]",0400000001,04000000010400000001,4,3,[R].SSLAAATKTVAKTPTR.[S]
+Ddis_XP_640870,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K8(100); K12(100)]",0400000001,00000000010400000001,2,3,[R].SSLAAATKTVAKTPTR.[S]
+,"2×Propionyl [K8(100); K10(100)]","","",4,1,
+Ddis_XP_637859,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].GQYRTER.[S]
+Ddis_XP_647200,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].NNENQDSSNR.[I]
+"Ddis_XP_636030; Ddis_XP_644247","1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[K].AGFAGDDAPR.[A]
+Ddis_XP_635871,"1×Propionyl [K9(100)]",0400000001,04000000010400000001,4,3,[R].LTNDFDTNKR.[T]
+Ddis_XP_635871,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K9(100)]",0400000001,04000000010400000001,4,3,[R].LTNDFDTNKR.[T]
+,"2×PhosphoJoin [S9; S13]; 1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]; 2×Phospho [S9; S13]","","",2,1,
+Ddis_XP_638767,"1×Trimethyl [K]; Propionyl [K]; Propionyl + Methyl [K]; 1×Dimethyl [K37]",0400000001,04000000010000000001,12,3,[R].NTKDVKAATTTTNTDATTNTAAASTAAAPATKTSKPKRER.[R]
+Ddis_XP_638767,"1×Trimethyl [K35]; 2×PhosphoJoin [T9; T10]; Propionyl [K]; Propionyl + Methyl [K]; 2×Phospho [T9; T10]; 1×Dimethyl [K32]",0400000001,00000000010400000001,4,3,[R].NTKDVKAATTTTNTDATTNTAAASTAAAPATKTSKPKRER.[R]
+Ddis_XP_638767,"1×Crotonyl [K6]; 2×PhosphoJoin [T2; T9]; Propionyl [K]; 1×Propionyl + Methyl [K35]; 1×Acetyl [K32]; 2×Phospho [T2; T9]",0400000001,00000000010400000001,4,3,[R].NTKDVKAATTTTNTDATTNTAAASTAAAPATKTSKPKRER.[R]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Acetyl [K6(100)]; 1×Propionyl [K1(100)]",0400000001,04000000010400000001,6,3,[R].KSTGAKVPR.[K]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","2×Propionyl [K1(100); K6(100)]",0400000001,04000000010400000001,8,3,[R].KSTGAKVPR.[K]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Trimethyl [K6]; 1×PhosphoJoin [S2]; 1×Phospho [S2]",0300000001,03000000010000000001,2,2,[R].KSTGAKVPR.[K]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Phenylisocyanate [N-Term]; 2×Acetyl [K1(100); K6(100)]",0400000001,04000000010300000001,4,3,[R].KSTGAKVPR.[K]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Phenylisocyanate [N-Term]; 1×Acetyl [K6(100)]; 1×Propionyl [K1(100)]",0300000001,03000000010000000001,2,2,[R].KSTGAKVPR.[K]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Trimethyl [K1]; 1×Propionyl [K6]; 1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].KSTGAKVPR.[K]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K6(100)]; 1×Propionyl + Methyl [K1]; 1×Acetyl [K6]",0400000001,04000000010300000001,8,3,[R].KSTGAKVPR.[K]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Phenylisocyanate [N-Term]; 1×Propionyl + Methyl [K1(100)]; 1×Propionyl [K6(100)]",0300000001,03000000010000000001,2,2,[R].KSTGAKVPR.[K]
+Ddis_XP_638995,"1×Propionyl [K2(100)]",0300000001,03000000010300000001,6,2,[R].TKYNVR.[S]
+Ddis_XP_635459,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,10,3,[R].NQDNNNNDSQQQQQQQQR.[R]
+Ddis_XP_638099,"1×Dimethyl [K6]; 1×Phospho [S2]; 1×Acetyl [K1(100)]; 1×PhosphoJoin [S2(100)]",0300000001,03000000010000000001,2,2,[K].KSDIEK.[E]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Propionyl [K2(100)]",0400000001,00000000010400000001,2,3,[R].TKQTAR.[K]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Phenylisocyanate [N-Term]; 1×Dimethyl [K2]",0300000001,03000000010000000001,2,2,[R].TKQTAR.[K]
+Ddis_XP_636859,"1×Propionyl [K18(100)]",0400000001,04000000010000000001,2,3,[R].VNNGEQQVATSEERQNTKR.[D]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K18(100)]","","",8,1,
+,"2×PhosphoJoin [T4; T5]; 1×Propionyl + Methyl [K7]; Dimethyl [K]; 1×Acetyl [K7]; 2×Phospho [T4; T5]","","",4,1,
+,"1×Crotonyl [K21]; 1×Trimethyl [K]; Propionyl [K]; 1×Acetyl [K]; 9×Phospho [S18; S19; S20; T22; T24; T25; T27; T29; T31]; 9×PhosphoJoin [S18; S19; S20; T22; T24; T25; T27; T29; T31]; 1×Dimethyl [K12]","","",6,1,
+,"1×Crotonyl [K21]; 2×Trimethyl [K11; K12]; 3×Propionyl [K26; K30; K34]; 9×Phospho [S18; S19; S20; T22; T24; T25; T27; T29; T31]; 9×PhosphoJoin [S18; S19; S20; T22; T24; T25; T27; T29; T31]","","",2,1,
+,"4×Propionyl [K1(100); K4(100); K6(100); K7(100)]","","",4,1,
+,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K1(100); K4(100); K6(100); K7(100)]","","",2,1,
+Ddis_XP_638211,"1×PhosphoJoin [S2]; 1×Propionyl [K9]; 2×Dimethyl [K1; K10]; 1×Phospho [S2]",0300000001,00000000010300000001,2,2,[K].KSSKKSSSKK.[E]
+"Ddis_XP_629115; Ddis_XP_629388","3×Crotonyl [K1; K3; K6]; 1×Propionyl [K5]",0300000001,03000000010000000001,2,2,[K].KSKSKK.[TS]
+Ddis_XP_644082,"Propionyl [K]; 1×Propionyl + Methyl [K5]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K8]",0300000001,03000000010300000001,6,2,[R].SSGGKDNKSQK.[R]
+Ddis_XP_635456,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].SSNTTSSSSGGGGGGGR.[K]
+Ddis_XP_637400,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].SGNSNVNANGHNR.[L]
+,"1×Phenylisocyanate [N-Term]","","",4,1,
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Propionyl [N-Term]; 1×Propionyl + Methyl [K4(100)]",0300000001,03000000010000000001,2,2,[M].ARTKQTAR.[K]
+,"1×Trimethyl [K10]; 2×Propionyl [K5; K12]","","",2,1,
+Ddis_XP_639127,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].DNNEQHDQQN.[-]
+,"1×Propionyl [K3]; 3×Dimethyl [K4; K6; K7]; 1×Phospho [S5]; 1×PhosphoJoin [S5]","","",6,1,
+,"1×Crotonyl [K4]; 1×PhosphoJoin [S1]; 1×Acetyl [K12]; 1×Phospho [S1]","","",6,1,
+,"1×Crotonyl [K2]; 1×PhosphoJoin [S1]; 1×Phenylisocyanate [N-Term]; 1×Phospho [S1]","","",2,1,
+Ddis_XP_646781,"1×Trimethyl [K]; 4×PhosphoJoin [S4; S8; T14; S15]; 1×Acetyl [K]; 4×Phospho [S4; S8; T14; S15]",0300000001,03000000010000000001,4,2,[K].KELSNNNSNNNNTTSKPLIIK.[K]
+Ddis_XP_635459,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].QQQQQQQER.[D]
+Ddis_XP_639227,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].NQEQGQNR.[D]
+Ddis_XP_647630,"1×Propionyl [K10(100)]",0400000001,04000000010400000001,4,3,[R].NATGNSELEKR.[K]
+Ddis_XP_647630,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K10(100)]",0400000001,04000000010400000001,4,3,[R].NATGNSELEKR.[K]
+Ddis_XP_644439,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].SRPSPR.[G]
+,"1×Trimethyl [K]; Propionyl [K]; 1×Phenylisocyanate [N-Term]; Acetyl [K]; 7×Phospho [S4; S7; S10; T11; S12; S14; S15]; 7×PhosphoJoin [S4; S7; S10; T11; S12; S14; S15]; 1×Dimethyl [K]; 1×Propionyl + Methyl [K]","","",16,1,
+Ddis_XP_640998,"1×Propionyl [K7(100)]",0300000001,00000000010300000001,2,2,[R].ELPATDKR.[K]
+Ddis_XP_642484,"2×Propionyl [K1(100); K7(100)]",0300000001,00000000010300000001,2,2,[R].KVNVNQKR.[Y]
+Ddis_XP_642484,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K7(100)]",0300000001,03000000010000000001,2,2,[R].KVNVNQKR.[Y]
+Ddis_XP_640380,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].GGESGSTSSR.[D]
+Ddis_XP_643199,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].AEREQQQR.[L]
+Ddis_XP_635459,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0400000001,04000000010400000001,4,3,[R].SDRNSDKNNNNDGGGSGSSR.[S]
+Ddis_XP_645463,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].DDIANINR.[K]
+,"1×Crotonyl [K3]; 2×Propionyl [K1; K]; 1×Acetyl [K]; 1×Phospho [S2]; 1×PhosphoJoin [S2]","","",6,1,
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K4(100); K7(100); K8(100)]","","",2,1,
+Ddis_XP_638767,"3×Propionyl [K2(100); K7(100); K9(100)]",0300000001,00000000010300000001,2,2,[R].EKSTESKPKR.[T]
+Ddis_XP_638767,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K2(100); K7(100); K9(100)]",0400000001,00000000010400000001,2,3,[R].EKSTESKPKR.[T]
+Ddis_XP_635352|Histone_H3,"1×Propionyl + Methyl [K1]; 3×Phospho [T3; T4; S8]; 3×PhosphoJoin [T3; T4; S8]",0300000001,03000000010000000001,2,2,[K].KVTTPTRSK.[Q]
+Ddis_XP_002649182,"1×Phenylisocyanate [N-Term]",0400000001,04000000010300000001,4,3,[R].INANASTFNSSR.[N]
+Ddis_XP_641984,"1×Propionyl [K6(100)]",0400000001,04000000010400000001,4,3,[K].IIDDEKAR.[L]
+Ddis_XP_641984,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0400000001,03000000010400000001,4,3,[K].IIDDEKAR.[L]
+Ddis_XP_635999,"2×Propionyl [K6(100); K6(100)]",0400000001,04000000010400000001,4,3,[M].SSNYSKTSHTPR.[R]
+Ddis_XP_636859,"2×Propionyl [K3(100); K7(100)]",0300000001,00000000010300000001,2,2,[R].DSKSYPKHQPR.[T]
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K7(100)]",0400000001,03000000010400000001,4,3,[R].DSKSYPKHQPR.[T]
+Ddis_XP_635871,"2×Propionyl [K2(100); K5(100)]",0300000001,03000000010000000001,2,2,[R].TKTIKR.[A]
+Ddis_XP_637926,"3×Propionyl [K1(100); K2(100); K5(100)]",0300000001,03000000010000000001,2,2,[R].KKVAKR.[L]
+Ddis_XP_637926,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K2(100); K5(100)]",0300000001,03000000010300000001,4,2,[R].KKVAKR.[L]
+Ddis_XP_629007,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].QNGGQPR.[Q]
+Ddis_XP_638424,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K8(100)]",0400000001,04000000010400000001,4,3,[R].GGSGGAGKGGSR.[A]
+Ddis_XP_638424,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0400000001,04000000010400000001,4,3,[R].GGSGGAGKGGSR.[A]
+Ddis_XP_639159,"2×Acetyl [K1(100); K4(100)]",0300000001,00000000010300000001,2,2,[K].KETKPR.[N]
+Ddis_XP_636431,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,00000000010400000001,4,3,[R].NNHAKNR.[I]
+Ddis_XP_638099,"2×Propionyl [K5(100); K5(100)]",0300000001,00000000010300000001,2,2,[M].APPNKSSNR.[N]
+Ddis_XP_643275,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,8,3,[R].ENSSQSSNGGGGGGSGENGTR.[K]
+Ddis_XP_638611,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0300000001,03000000010300000001,4,2,[R].GHSGQKAR.[A]
+Ddis_XP_640594,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].GGRGGQVSTR.[G]
+Ddis_XP_642043,"1×Propionyl [K3(100)]",0400000001,03000000010400000001,4,3,[R].ATKSNQTDFER.[F]
+Ddis_XP_642043,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,04000000010400000001,4,3,[R].ATKSNQTDFER.[F]
+CON_Trypsin,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[K].LSSPATLNSR.[V]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K19(100)]","","",6,1,
+,"2×Trimethyl [K]; 1×Dimethyl [K10]; 1×Phospho [S9]; 2×Acetyl [K]; 1×PhosphoJoin [S9]","","",8,1,
+Ddis_XP_628885,"2×Propionyl [K1(100); K11(100)]",0400000001,04000000010000000001,2,3,[R].KSSGADYSGNKSTN.[-]
+Ddis_XP_628885,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K11(100)]",0300000001,00000000010300000001,2,2,[R].KSSGADYSGNKSTN.[-]
+CON_002203273,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].GGSGGGGGGSSGGRGSGGGSSGGSIGGR.[G]
+Ddis_XP_641862,"1×Propionyl [K8(100)]",0300000001,00000000010300000001,2,2,[R].IRAYEEEKAR.[L]
+Ddis_XP_641862,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0300000001,03000000010300000001,4,2,[R].IRAYEEEKAR.[L]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]","","",2,1,
+Ddis_XP_635871,"2×Propionyl [K4(100); K7(100)]",0300000001,03000000010000000001,2,2,[R].VRTKTIKR.[A]
+Ddis_XP_635871,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K7(100)]",0300000001,03000000010000000001,2,2,[R].VRTKTIKR.[A]
+Ddis_XP_636859,"3×Propionyl [K3(100); K9(100); K11(100)]",0400000001,00000000010400000001,2,3,[R].SPKLGGQSKPKR.[V]
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K9(100); K11(100)]",0400000001,00000000010400000001,2,3,[R].SPKLGGQSKPKR.[V]
+,"1×Crotonyl [K5]; 1×Propionyl [K]; 1×Dimethyl [K1]; 1×Acetyl [K]","","",4,1,
+,"1×Crotonyl [K16]; 1×Trimethyl [K10]; 1×Propionyl [K17]; 1×Propionyl + Methyl [K14]","","",2,1,
+Ddis_XP_642762,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K24(100)]",0400000001,04000000010400000001,6,3,[R].RNNNNNNNNNNINNNNNNSNNNDKR.[G]
+Ddis_XP_641568,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].QQQQQQQQQQQQQQQQER.[Q]
+Ddis_XP_629681,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,03000000010300000001,4,2,[R].SDRDKSDRDSR.[S]
+,"2×Crotonyl [K4; K5]; 3×Propionyl [K7; K12; K17]; 1×Phenylisocyanate [N-Term]; 5×Phospho [S13; T15; T16; T18; T19]; 5×PhosphoJoin [S13; T15; T16; T18; T19]","","",2,1,
+Ddis_XP_638709,"2×Propionyl [K3(100); K6(100)]",0400000001,04000000010400000001,6,3,[R].LGKGEKEDSSR.[L]
+Ddis_XP_638709,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K6(100)]",0400000001,03000000010400000001,4,3,[R].LGKGEKEDSSR.[L]
+Ddis_XP_637356,"3×Propionyl [K2(100); K7(100); ]",0400000001,04000000010400000001,4,3,[M].GKQTASKR.[Q]
+Ddis_XP_644424,"1×Propionyl [K2(100)]",0300000001,00000000010300000001,2,2,[R].GKTPEEIR.[K]
+Ddis_XP_641195,"1×Propionyl [K3(100)]",0300000001,03000000010300000001,4,2,[K].LEKSPR.[T]
+Ddis_XP_640236,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K5(100)]",0400000001,04000000010300000001,4,3,[R].GVGKKGR.[A]
+Ddis_XP_641429,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].GTGHSSSINR.[W]
+Ddis_XP_641319,"3×Propionyl [K1(100); K3(100); K4(100)]",0400000001,04000000010400000001,6,3,[R].KTKKVER.[N]
+Ddis_XP_641319,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]",0300000001,03000000010300000001,8,2,[R].KTKKVER.[N]
+,"1×Phenylisocyanate [N-Term]","","",4,1,
+Ddis_XP_640698,"1×Propionyl [K6(100)]",0400000001,04000000010400000001,8,3,[R].IGTEIKR.[Y]
+Ddis_XP_640698,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0300000001,00000000010300000001,2,2,[R].IGTEIKR.[Y]
+Ddis_XP_636859,"1×Propionyl [K4(100)]",0400000001,00000000010400000001,2,3,[R].EVVKQR.[D]
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,04000000010300000001,4,3,[R].EVVKQR.[D]
+Ddis_XP_646786,"1×Crotonyl [K]; 1×Propionyl [K]; 1×Dimethyl [K6]; 1×Acetyl [K3]",0300000001,03000000010000000001,4,2,[K].KKKEEK.[E]
+Ddis_XP_637655,"1×Propionyl [K5(100)]",0400000001,00000000010400000001,2,3,[R].TATGKGLPR.[-]
+Ddis_XP_637655,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,00000000010300000001,2,2,[R].TATGKGLPR.[-]
+Ddis_XP_636121,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].QGEHLHSTSR.[S]
+Ddis_XP_638307,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0300000001,03000000010000000001,2,2,[K].KSVATQEISA.[-]
+Ddis_XP_642484,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,03000000010000000001,2,2,[R].SNPLKNLR.[A]
+,"1×Propionyl [K5(100)]","","",4,1,
+Ddis_XP_644192,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,04000000010300000001,4,3,[R].LRGTKNISE.[-]
+,"2×Trimethyl [K]; 1×Acetyl [K]; 3×Phospho [S3; S6; T13]; 3×PhosphoJoin [S3; S6; T13]","","",12,1,
+,"2×Propionyl [K7; K14]; 1×Propionyl + Methyl [K1]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K15]; 3×Phospho [S6; T8; S11]; 3×PhosphoJoin [S6; T8; S11]","","",2,1,
+Ddis_XP_646938,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0300000001,03000000010000000001,2,2,[R].GKPVSGR.[V]
+Ddis_XP_636526,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,03000000010400000001,4,3,[R].SDRDKTSSSSSSSNNNSSSSTR.[G]
+,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]","","",12,1,
+Ddis_XP_629347,"1×Propionyl [K3(100)]",0400000001,03000000010400000001,4,3,[R].ASKTQAVVGPNAR.[R]
+Ddis_XP_629347,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,03000000010400000001,4,3,[R].ASKTQAVVGPNAR.[R]
+Ddis_XP_629009,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K8(100); K27(100)]",0400000001,03000000010400000001,4,3,[R].NGNNNNNKNNNNNNNNNNNNNNNNNNKR.[K]
+,"6×Propionyl [K2(100); K3(100); K6(100); K7(100); K10(100); K11(100)]","","",2,1,
+Ddis_XP_643631,"1×Phenylisocyanate [N-Term]; 6×Propionyl [K2(100); K3(100); K6(100); K7(100); K10(100); K11(100)]",0400000001,04000000010400000001,4,3,[R].LKKAGKKTAKK.[-]
+Ddis_XP_635128,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].SNVSQVAIQPR.[F]
+,"1×Trimethyl [K]; 1×Propionyl + Methyl [K]; 1×Dimethyl [K12]; 1×Phospho [S1]; 1×PhosphoJoin [S1]","","",4,1,
+Ddis_XP_637684|Histone_H2B,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].DIQVAVR.[I]
+,"2×Propionyl [K18; K21]; 1×Propionyl + Methyl [K17]; 1×Phenylisocyanate [N-Term]; 2×Acetyl [K4; K5]; 2×Phospho [S16; S19]; 2×PhosphoJoin [S16; S19]","","",2,1,
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K6(100); K7(100); K10(100)]","","",8,1,
+,"1×Phenylisocyanate [N-Term]; 1×Dimethyl [K3]; 1×PhosphoJoin [S1(100)]; 1×Phospho [S1]","","",4,1,
+Ddis_XP_637684|Histone_H2B,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]",0300000001,03000000010300000001,8,2,[K].VTKTPTEGGEKKR.[K]
+Ddis_XP_637684|Histone_H2B,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K11(100); K12(100)]",0400000001,04000000010000000001,2,3,[K].VTKTPTEGGEKKR.[K]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K21(100); K22(100)]","","",4,1,
+,"1×Crotonyl [K]; 1×Trimethyl [K]; 2×Propionyl [K7; K8]; 3×Acetyl [K1; K11; K]; 1×Phospho [T6]; 1×PhosphoJoin [T6]","","",8,1,
+Ddis_XP_643218,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].GPQQGQQQGQQQQR.[G]
+,"1×Trimethyl [K4]; 3×Dimethyl [K1; K2; K11]; 2×Phospho [S6; S10]; 2×PhosphoJoin [S6(100); S10(100)]","","",4,1,
+Ddis_XP_637320,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].NGEEQER.[F]
+Ddis_XP_629681,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0300000001,03000000010000000001,2,2,[R].ESRGDSKSNR.[S]
+Ddis_XP_642406,"1×Propionyl [K7(100)]",0400000001,04000000010000000001,2,3,[K].EDNIEQKR.[A]
+Ddis_XP_641792,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].NAQHEEGSEEEEAR.[L]
+Ddis_XP_636140,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].GGGGGGEYNDHR.[F]
+Ddis_XP_641787,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].QQDNENGGGSGGGGTTTTTTTTTGENDPRR.[L]
+,"1×PhosphoJoin [S/T]; 1×Dimethyl [K9]; 1×Acetyl [K2]; 1×Phospho [S/T]","","",4,1,
+Ddis_XP_638995,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K6(100); K8(100)]",0400000001,04000000010000000001,2,3,[R].TVAADKGK.[V]
+Ddis_XP_643923,"1×Propionyl [K1]",0400000001,00000000010400000001,2,3,[K].KDYEKESR.[K]
+Ddis_XP_629921,"1×Dimethyl [K8]; 1×PhosphoJoin [T6(100)]; 1×Phospho [T6]",0300000001,00000000010300000001,2,2,[R].KLPRKTHK.[G]
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]",0300000001,03000000010000000001,6,2,[R].HKKTQK.[E]
+,"1×Crotonyl [K2]; 2×Propionyl [K32; K35]; 3×Propionyl + Methyl [K15; K25; K28]; 1×Acetyl [K1]; 8×Phospho [T17; T18; S19; T20; T21; T22; T24; S29]; 8×PhosphoJoin [T17; T18; S19; T20; T21; T22; T24; S29]","","",2,1,
+,"1×Crotonyl [K2]; 1×Trimethyl [K35]; 4×Propionyl + Methyl [K15; K25; K28; K32]; 1×Acetyl [K1]; 8×Phospho [T17; T18; S19; T20; T21; T22; T24; S29]; 8×PhosphoJoin [T17; T18; S19; T20; T21; T22; T24; S29]","","",2,1,
+,"4×Propionyl [K2(100); K4(100); K11(100); ]","","",2,1,
+Ddis_XP_644762,"2×Propionyl [K2(100); K2(100)]",0400000001,04000000010400000001,44,3,[M].GKVHGGLNR.[A]
+Ddis_XP_644762,"1×Propionyl [N-Term]; 1×Propionyl + Methyl [K2(100)]",0300000001,03000000010300000001,4,2,[M].GKVHGGLNR.[A]
+Ddis_XP_643598,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].HVNNEAR.[I]
+Ddis_XP_640582,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0300000001,00000000010300000001,4,2,[R].AREHNAAKR.[L]
+Ddis_XP_641298,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0300000001,03000000010000000001,2,2,[R].GRPKTNGSR.[S]
+Ddis_XP_642566,"1×Propionyl [K5(100)]",0400000001,04000000010400000001,10,3,[R].AILAKR.[Q]
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,04000000010300000001,6,3,[R].AILAKR.[Q]
+Ddis_XP_629876,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].TIGIAVDTRR.[V]
+Ddis_XP_642958|Histone_H4,"1×Crotonyl [K11]; 1×Propionyl + Methyl [K7]; 1×Dimethyl [K3]",0300000001,00000000010300000001,2,2,[R].GGKTGGKVGGK.[V]
+,"2×Propionyl [K15; K16]; 3×Propionyl + Methyl [K1; K12; K18]; 1×Dimethyl [K14]; 1×Acetyl [K4]; 1×Phospho [T/S]; 1×PhosphoJoin [S/T]","","",4,1,
+,"4×Propionyl [K14; K15; K16; K18]; 1×Propionyl + Methyl [K4]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K1; K12]; 1×Phospho [S/T]; 1×PhosphoJoin [T/S]","","",4,1,
+Ddis_XP_644913,"3×Propionyl [K3(100); K4(100); K7(100)]",0400000001,03000000010400000001,4,3,[R].GPKKHLKR.[L]
+Ddis_XP_644913,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K4(100); K7(100)]",0300000001,00000000010300000001,2,2,[R].GPKKHLKR.[L]
+,"3×Propionyl [K1(100); K9(100); K16(100)]","","",2,1,
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K9(100); K16(100)]","","",4,1,
+Ddis_XP_638923,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K6(100)]",0300000001,03000000010000000001,2,2,[R].VSKDGKESIR.[G]
+Ddis_XP_628967,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].GAGGAPQR.[G]
+Ddis_XP_001733039,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K5(100)]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]",0300000001,00000000010300000001,6,2,[R].NALKKQNR.[A]
+,"1×Phenylisocyanate [N-Term]","","",4,1,
+Ddis_XP_645287,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].RGGDDDDDDDGSPVRR.[T]
+,"2×Propionyl [K2(100); K3(100)]","","",4,3,
+Ddis_XP_002649158,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].QQQQQQQQQQQQQGSGYNSHYNR.[E]
+,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]","","",6,1,
+Ddis_XP_646442,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0400000001,03000000010400000001,4,3,[R].GGGGGNKR.[I]
+Ddis_XP_629099,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].VNTLITPR.[G]
+Ddis_XP_628967,"2×Propionyl [K12(100); K12(100)]",0400000001,03000000010400000001,4,3,[M].ADTTTAAQADQKPTR.[A]
+,"1×Phospho [T]; 1×Propionyl [K12(100)]; 1×PhosphoJoin [T]","","",20,1,
+Ddis_XP_640523,"1×Propionyl [K3(100)]",0400000001,04000000010400000001,6,3,[R].LNKLAEER.[V]
+Ddis_XP_640523,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,04000000010400000001,4,3,[R].LNKLAEER.[V]
+,"1×Crotonyl [K]; 2×Propionyl [K7; K10]; 1×Dimethyl [K20]; 1×Acetyl [K]","","",4,1,
+,"2×Propionyl [K2(100); K3(100)]","","",2,2,
+Ddis_XP_643218,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].GPQQQGQQQGNPQQQQR.[G]
+Ddis_XP_629406,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K9(100)]",0400000001,03000000010400000001,4,3,[R].NQQQQQQQKSNR.[Y]
+,"1×Crotonyl [K6]; 1×PhosphoJoin [S5]; 2×Propionyl [K2; K3]; 1×Dimethyl [K7]; 1×Phospho [S5]","","",2,1,
+Ddis_XP_640615,"1×Phenylisocyanate [N-Term]; 1×Propionyl + Methyl [K5(100)]",0300000001,03000000010000000001,4,2,[M].NVGVKVR.[E]
+,"2×Trimethyl [K5; K11]; 1×PhosphoJoin [S6]; 1×Propionyl [K14]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K8]; 1×Phospho [S6]","","",4,1,
+Ddis_XP_638995,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0300000001,03000000010300000001,4,2,[R].KALLER.[K]
+Ddis_XP_635697,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,00000000010400000001,2,3,[R].DTHKQR.[V]
+,"1×Dimethyl [K5]; 1×PhosphoJoin [S3(100)]; 1×Phospho [S3]","","",8,1,
+,"2×Propionyl [K4(100); K4(100)]","","",4,1,
+Ddis_XP_642958|Histone_H4,"4×Acetyl [K3(100); K7(100); K11(100); K15(100)]",0400000001,04000000010400000001,4,3,[R].GGKTGGKVGGKVGAKR.[H]
+,"3×Propionyl [K7(100); K11(100); K15(100)]","","",2,1,
+Ddis_XP_642958|Histone_H4,"3×Acetyl [K7(100); K11(100); K15(100)]; 1×Propionyl [K3(100)]",0400000001,04000000010400000001,4,3,[R].GGKTGGKVGGKVGAKR.[H]
+Ddis_XP_642958|Histone_H4,"2×Acetyl [K11(100); K15(100)]; 2×Propionyl [K3(100); K7(100)]",0400000001,03000000010400000001,4,3,[R].GGKTGGKVGGKVGAKR.[H]
+Ddis_XP_642958|Histone_H4,"1×Acetyl [K11(100)]; 3×Propionyl [K3(100); K7(100); K15(100)]",0400000001,04000000010400000001,6,3,[R].GGKTGGKVGGKVGAKR.[H]
+,"1×Crotonyl [K3]; 2×Propionyl [K7; K11]; 1×Acetyl [K15(100)]","","",2,1,
+Ddis_XP_642958|Histone_H4,"4×Propionyl [K3(100); K7(100); K11(100); K15(100)]",0400000001,04000000010400000001,8,3,[R].GGKTGGKVGGKVGAKR.[H]
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]; 4×Acetyl [K3(100); K7(100); K11(100); K15(100)]",0400000001,04000000010400000001,8,3,[R].GGKTGGKVGGKVGAKR.[H]
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]; 3×Acetyl [K3(100); K7(100); K11(100)]; 1×Propionyl [K15(100)]",0400000001,04000000010400000001,6,3,[R].GGKTGGKVGGKVGAKR.[H]
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]; 2×Acetyl [K3(100); K7(100)]; 2×Propionyl [K11(100); K15(100)]",0400000001,04000000010400000001,12,3,[R].GGKTGGKVGGKVGAKR.[H]
+Ddis_XP_642958|Histone_H4,"2×Trimethyl [K11; K15]; 2×Propionyl [K3; K7]; 1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].GGKTGGKVGGKVGAKR.[H]
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K3(100)]; 3×Propionyl [K7(100); K11(100); K15(100)]",0400000001,04000000010400000001,8,3,[R].GGKTGGKVGGKVGAKR.[H]
+,"2×Trimethyl [K7; K15]; 1×Propionyl [K3]; 1×Propionyl + Methyl [K11]; 1×Phenylisocyanate [N-Term]","","",2,1,
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K3(100); K7(100); K11(100); K15(100)]",0400000001,03000000010400000001,10,3,[R].GGKTGGKVGGKVGAKR.[H]
+,"1×Crotonyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 2×Propionyl [K11(100); K15(100)]","","",8,1,
+,"1×Trimethyl [K12]; 3×Propionyl [K4; K5; K15]; 1×Propionyl + Methyl [K7]; 1×Dimethyl [K14]; 2×Phospho [S6; S9]; 2×PhosphoJoin [S6; S9]","","",2,1,
+Ddis_XP_640068,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].STSSTTTTSSSTPNR.[L]
+,"1×Crotonyl [K20]; Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Trimethyl [K]; Acetyl [K]; 1×Dimethyl [K]","","",16,1,
+Ddis_XP_639980,"3×Propionyl [K1(100); K8(100); K14(100)]",0400000001,03000000010400000001,6,3,[R].KNPPSEPKDTSGPKR.[K]
+Ddis_XP_639980,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K8(100); K14(100)]",0400000001,04000000010400000001,8,3,[R].KNPPSEPKDTSGPKR.[K]
+Ddis_XP_643058,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0300000001,00000000010300000001,2,2,[R].SHLKHNR.[K]
+Ddis_XP_638024,"2×Propionyl [K3(100); K7(100)]",0400000001,00000000010400000001,2,3,[R].YLKTVHKR.[F]
+Ddis_XP_638024,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K7(100)]",0400000001,03000000010400000001,4,3,[R].YLKTVHKR.[F]
+Ddis_XP_639372,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,03000000010000000001,2,2,[R].DRSDKNENTR.[T]
+,"1×Crotonyl [K]; 1×Propionyl [K9]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K2]","","",20,1,
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]","","",2,1,
+Ddis_XP_647549,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[K].SATTNTTR.[D]
+Ddis_XP_640582,"1×Propionyl [K2(100)]",0400000001,04000000010400000001,4,3,[R].EKLIQDQAQAR.[R]
+Ddis_XP_640582,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0400000001,04000000010000000001,2,3,[R].EKLIQDQAQAR.[R]
+Ddis_XP_635459,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,04000000010400000001,4,3,[R].NSDKNNNNDGGGSGSSR.[S]
+,"2×Trimethyl [K16; K18]; 4×PhosphoJoin [S7; S9; S11; S13]; 2×Propionyl + Methyl [K14; K15]; 1×Phenylisocyanate [N-Term]; 2×Acetyl [K1; K2]; 4×Phospho [S7; S9; S11; S13]","","",2,1,
+Ddis_XP_638467,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[KR].ASSSGPSTTGR.[A]
+Ddis_XP_638024,"2×Propionyl [K2(100); K2(100)]",0400000001,04000000010400000001,4,3,[M].TKGTFSFGR.[R]
+Ddis_XP_635956,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K5(100)]",0300000001,03000000010300000001,4,2,[R].LKDGKDVIDAR.[D]
+Ddis_XP_641787,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].QQDNENGGGSGGGGTTTTTTTTTGENDPR.[R]
+CON_Trypsin,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].VATVSLPR.[S]
+Ddis_XP_644524,"2×Propionyl [K4(100); K7(100)]",0400000001,04000000010400000001,4,3,[R].QNEKQQKSDLER.[L]
+Ddis_XP_644524,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K7(100)]",0400000001,04000000010400000001,4,3,[R].QNEKQQKSDLER.[L]
+Ddis_XP_644524,"1×Trimethyl [K4]; 1×Phenylisocyanate [N-Term]; 1×Propionyl + Methyl [K]",0300000001,00000000010300000001,2,2,[R].QNEKQQKSDLER.[L]
+,"Propionyl [S]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]","","",8,1,
+Ddis_XP_640944,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].NNQPDQNNNEDENNTNLNSNNNNR.[T]
+Ddis_XP_640582,"3×Propionyl [K2(100); K4(100); K7(100)]",0300000001,00000000010300000001,2,2,[R].NKNKSIKDR.[R]
+Ddis_XP_640582,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K2(100); K4(100); K7(100)]",0300000001,00000000010300000001,2,2,[R].NKNKSIKDR.[R]
+,"1×PhosphoJoin [S8]; 1×Dimethyl [K2]; 1×Acetyl [K5]; 1×Phospho [S8]","","",2,1,
+,"1×Propionyl [K4(100)]","","",4,1,
+Ddis_XP_644913,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0300000001,03000000010300000001,4,2,[R].RGEKIETVA.[-]
+Ddis_XP_637684|Histone_H2B,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]",0300000001,00000000010300000001,8,2,[K].TASTTPKVTKTPTEGGEKKR.[K]
+,"Trimethyl [K]; 1×PhosphoJoin [T/S]; Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Dimethyl [K]; 1×Phospho [T/S]","","",20,1,
+Ddis_XP_637684|Histone_H2B,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]",0300000001,00000000010300000001,8,2,[K].TASTTPKVTKTPTEGGEKKR.[K]
+Ddis_XP_635459,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].NDIRNQDNNNNDSQQQQQQQQR.[R]
+Ddis_XP_636778,"1×Propionyl [K3(100)]",0400000001,00000000010400000001,2,3,[R].VSKTATNFPQR.[V]
+Ddis_XP_636778,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,04000000010400000001,8,3,[R].VSKTATNFPQR.[V]
+Ddis_XP_642749,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0300000001,03000000010000000001,2,2,[R].EKSTNGGSAAR.[S]
+Ddis_XP_629681,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,04000000010400000001,4,3,[R].GDSKSNR.[S]
+Ddis_XP_635459,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].GNQDNINNR.[D]
+Ddis_XP_638995,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].NTNVSSSR.[R]
+Ddis_XP_643120,"1×Propionyl [K6(100)]",0400000001,04000000010400000001,4,3,[R].AGELSKDEVER.[L]
+Ddis_XP_643120,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0400000001,04000000010400000001,4,3,[R].AGELSKDEVER.[L]
+Ddis_XP_629601,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,8,3,[R].GNAGGLTHHR.[I]
+Ddis_XP_642533,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].SNPSSATNSPR.[A]
+,"1×Propionyl + Methyl [K10]; 2×Dimethyl [K9; K]; 2×Phospho [T5; S7]; 2×PhosphoJoin [T5; S7]","","",14,1,
+,"2×Crotonyl [K8; K16]; 1×PhosphoJoin [T5]; 2×Propionyl [K1; K18]; 1×Propionyl + Methyl [K10]; 1×Dimethyl [K4]; 1×Phospho [T5]","","",2,1,
+"Ddis_XP_636270; Ddis_XP_646584","1×Crotonyl [K12]; 1×Propionyl [K3]; 1×Dimethyl [K6]; 1×Phospho [S14]; 1×PhosphoJoin [S14]",0300000001,00000000010300000001,2,2,[K].DSKDSKDSKDSKDSK.[D]
+Ddis_XP_635648,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K5(100)]",0300000001,03000000010000000001,2,2,[R].KTPAKSNLR.[N]
+CON_002203273,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].GSGGGSSGGSIGGR.[G]
+Ddis_XP_643417,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].TTTTTTTTSSNNNNYNNNNNNNNNNNNNNNNNNR.[L]
+,"1×Propionyl [K4(100)]","","",6,3,
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]","","",8,2,
+Ddis_XP_637684|Histone_H2B,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].QTLHSR.[D]
+Ddis_XP_644439,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].SPHGTSGDYNDGSQSPSSR.[R]
+Ddis_XP_643631,"1×Propionyl [K6(100)]",0400000001,04000000010400000001,6,3,[R].AGLYTKPQTSR.[K]
+Ddis_XP_643631,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0400000001,04000000010400000001,4,3,[R].AGLYTKPQTSR.[K]
+Ddis_XP_629261,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].TRGGTTAQSTPPPPPPSR.[T]
+Ddis_XP_638071,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].SDSQAPTSEER.[G]
+Ddis_XP_640577,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K6(100); K14(100); K17(100)]",0400000001,00000000010400000001,2,3,[R].SNIIPKDSEEQQQKSNKR.[K]
+Ddis_XP_641456,"1×Propionyl [K5(100)]",0400000001,03000000010400000001,4,3,[R].SEGIKFQR.[S]
+Ddis_XP_641456,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,04000000010000000001,2,3,[R].SEGIKFQR.[S]
+,"1×PhosphoJoin [S3]; 1×Propionyl [K12]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; Dimethyl [K]; 1×Phospho [S3]; 1×Acetyl [K]","","",10,1,
+,"2×Propionyl [K8; K12]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K2; K6; K13]; 1×Phospho [S3]; 1×PhosphoJoin [S3]","","",6,1,
+Ddis_XP_643377,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].QSANNTTIGGGGGNNHNGVNSENGR.[I]
+,"3×PhosphoJoin [S1; S3; T18]; 1×Propionyl [K19]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K2]; 3×Phospho [S1; S3; T18]","","",2,1,
+Ddis_XP_629942,"1×Trimethyl [K]; Propionyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Dimethyl [K9; K]",0400000001,03000000010400000001,14,3,[R].AANAKPKSKKSTKK.[A]
+Ddis_XP_629942,"Propionyl [K]; 1×Propionyl + Methyl [K7; K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K9; K]",0300000001,00000000010300000001,4,2,[R].AANAKPKSKKSTKK.[A]
+Ddis_XP_629942,"5×Propionyl [K5; K7; K10; K13; K14]; 1×Propionyl + Methyl [K9]; 1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].AANAKPKSKKSTKK.[A]
+,"1×Crotonyl [K]; 1×Trimethyl [K]; 1×Propionyl [K7]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T1]; 1×PhosphoJoin [T1(100)]","","",4,1,
+,"1×Crotonyl [K9]; 2×PhosphoJoin [T]; 1×Dimethyl [K11]; 1×Acetyl [K]; 2×Phospho [T]","","",8,1,
+Ddis_XP_644762,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]",0400000001,04000000010400000001,8,3,[R].NATPKKDKEEKR.[K]
+Ddis_XP_644762,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K5(100); K6(100); K8(100); K11(100)]",0400000001,04000000010400000001,6,3,[R].NATPKKDKEEKR.[K]
+,"2×Propionyl [K4; K21]; 2×Acetyl [K7; K11]","","",2,1,
+Ddis_XP_637428,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0400000001,03000000010400000001,4,3,[R].SNNYHGKGR.[R]
+Ddis_XP_636775,"2×Propionyl [K4(100); K5(100)]",0400000001,04000000010400000001,16,3,[R].IAIKKR.[FL]
+Ddis_XP_636775,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K5(100)]",0300000001,03000000010300000001,8,2,[R].IAIKKR.[FL]
+,"2×Propionyl [K14; K18]; 1×Acetyl [K22(100)]; 1×Phospho [S6]; 1×PhosphoJoin [S6]","","",2,1,
+,"2×Trimethyl [K10; K22]; 1×PhosphoJoin [S]; 2×Propionyl [N-Term; K18]; 1×Dimethyl [K14]; 1×Phospho [S]","","",8,1,
+Ddis_XP_642958|Histone_H4,"1×Crotonyl [K10]; 1×Trimethyl [K22]; 2×Propionyl [K14; K18]; 2×Phospho [S/T]; 2×PhosphoJoin [S/T]",0300000001,00000000010300000001,4,2,[-].MSSAQSRGGKTGGKVGGKVGAKR.[H]
+Ddis_XP_644192,"2×Propionyl [K1(100); K3(100)]",0300000001,03000000010300000001,4,2,[R].KGKAGSVFGAHTHHR.[K]
+Ddis_XP_644192,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K3(100)]",0400000001,04000000010400000001,8,3,[R].KGKAGSVFGAHTHHR.[K]
+Ddis_XP_644913,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].VETGNQGIPYVHTDDGR.[T]
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,00000000010300000001,2,2,[R].RGGVKR.[I]
+"Ddis_XP_637521; Ddis_XP_641298","1×Phenylisocyanate [N-Term]; 1×Dimethyl [K6]",0300000001,00000000010300000001,2,2,[KR].RGRPSK.[IV]
+Ddis_XP_002649158,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].ENLHQR.[R]
+Ddis_XP_638123,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].GTVTDTHR.[V]
+,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]; 2×Propionyl [K6(100); K7(100)]","","",6,1,
+Ddis_XP_641984,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].NTNVQGGEAR.[G]
+,"1×Propionyl [K]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]","","",6,1,
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K7(100); K8(100)]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]","","",6,1,
+Ddis_XP_641726,"2×Propionyl [K3(100); K4(100)]",0400000001,04000000010400000001,4,3,[R].FLKKTGR.[V]
+Ddis_XP_641726,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K4(100)]",0300000001,03000000010300000001,4,2,[R].FLKKTGR.[V]
+Ddis_XP_645463,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].VAAIRDVIR.[E]
+Ddis_XP_644913,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].VTRVETGNQGIPYVHTDDGR.[T]
+,"1×Trimethyl [K]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]; 1×Propionyl [K17(100)]","","",8,1,
+Ddis_XP_642958|Histone_H4,"1×Propionyl [N-Term]; 4×Acetyl [K9(100); K13(100); K17(100); K21(100)]",0300000001,00000000010300000001,2,2,[M].SSAQSRGGKTGGKVGGKVGAKR.[H]
+Ddis_XP_642958|Histone_H4,"3×Acetyl [K9(100); K13(100); K21(100)]; 2×Propionyl [K17(100); K/S]",0400000001,03000000010400000001,4,3,[M].SSAQSRGGKTGGKVGGKVGAKR.[H]
+,"3×Propionyl [K9(100); K17(100); K/S]; 2×Acetyl [K13(100); K21(100)]","","",6,1,
+Ddis_XP_642958|Histone_H4,"4×Propionyl [K13(100); K17(100); K21(100); K/S]; 1×Acetyl [K9(100)]",0300000001,03000000010300000001,6,2,[M].SSAQSRGGKTGGKVGGKVGAKR.[H]
+Ddis_XP_642958|Histone_H4,"5×Propionyl [K9(100); K13(100); K17(100); K21(100); ]",0400000001,04000000010400000001,6,3,[M].SSAQSRGGKTGGKVGGKVGAKR.[H]
+Ddis_XP_642958|Histone_H4,"1×Propionyl + Methyl [K9(100)]; 4×Propionyl [K13(100); K17(100); K21(100); K]",0400000001,03000000010400000001,6,3,[M].SSAQSRGGKTGGKVGGKVGAKR.[H]
+Ddis_XP_644082,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K5(100); K6(100)]",0300000001,00000000010300000001,2,2,[R].VSKQKKR.[E]
+Ddis_XP_629349,"1×Phenylisocyanate [N-Term]",0400000001,04000000010300000001,4,3,[R].TREEVNHVR.[Q]
+,"1×Crotonyl [K6]; 2×Propionyl [K16; K19]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K14; K22; K28]; 1×Phospho [T/S]; 1×PhosphoJoin [S/T]","","",6,1,
+Ddis_XP_646448,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K8(100); K19(100)]",0400000001,04000000010300000001,6,3,[R].GGGGGENKSDQQNSSGGGKR.[A]
+Ddis_XP_638266,"1×Propionyl [K8(100)]",0400000001,04000000010400000001,4,3,[R].FNNTDSPKTFQR.[R]
+Ddis_XP_638266,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0400000001,04000000010400000001,4,3,[R].FNNTDSPKTFQR.[R]
+,"1×Crotonyl [K]; 2×PhosphoJoin [S3; S4]; 1×Propionyl [K1]; 1×Propionyl + Methyl [K9]; 2×Dimethyl [K10; K]; 2×Phospho [S3; S4]","","",28,1,
+,"1×Phenylisocyanate [N-Term]","","",6,1,
+,"2×Trimethyl [K3; K7]; 2×Dimethyl [K1; K11]; 1×Phospho [S9]; 1×PhosphoJoin [S9]","","",18,1,
+Ddis_XP_643417,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].TTTTTTTTR.[T]
+"","1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K3(100); K5(100)]",0300000001,03000000010000000001,2,2,[K].KEKNKR.[K]
+Ddis_XP_646481,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K4(100)]",0300000001,00000000010300000001,2,2,[R].IKNKTER.[K]
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K8(100)]",0400000001,04000000010300000001,4,3,[K].VGGKVGAKR.[H]
+Ddis_XP_636109,"1×Trimethyl [K6]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K9]",0300000001,00000000010300000001,2,2,[R].IASHSKSQK.[K]
+,"1×Crotonyl [K7]; 2×Acetyl [K11; K]","","",26,1,
+Ddis_XP_636881,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K6(100); K7(100)]",0400000001,00000000010400000001,2,3,[R].QQTESKKTR.[Q]
+,"1×Acetyl [K]; 1×Propionyl + Methyl [K]; Propionyl [K]","","",10,1,
+,"3×Trimethyl [K14; K19; K22]; 1×Dimethyl [K5]; 3×Phospho [T/S]; 3×PhosphoJoin [T/S]","","",4,1,
+,"1×PhosphoJoin [T/S]; 2×Dimethyl [K6; K9]; 2×Acetyl [K1; K5]; 1×Phospho [T/S]","","",8,1,
+Ddis_XP_643969,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,4,3,[R].SGVNQPR.[S]
+,"1×Crotonyl [K3]; 1×Trimethyl [K29]; 1×Propionyl [K34]","","",2,1,
+Ddis_XP_638767,"3×Propionyl [K29(100); K32(100); K34(100)]",0400000001,00000000010400000001,2,3,[K].DVKAATTTTNTDATTNTAAASTAAAPATKTSKPKR.[E]
+,"2×Trimethyl [K12; K16]; 6×PhosphoJoin [S15; T18; T19; T21; T22; T23]; 2×Propionyl + Methyl [K6; K9]; 1×Acetyl [K3]; 6×Phospho [S15; T18; T19; T21; T22; T23]","","",2,1,
+Ddis_XP_643592,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].TNGGPTSSNGPNTPNR.[N]
+Ddis_XP_640597,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K7(100); K10(100)]",0400000001,04000000010400000001,4,3,[R].AQKSSGKETKR.[I]
+Ddis_XP_644924,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K19(100)]",0400000001,04000000010000000001,2,3,[R].NNNNNSNSSNNNNTSTTIKR.[N]
+Ddis_XP_645463,"3×Propionyl [K6(100); K9(100); ]",0400000001,03000000010400000001,4,3,[M].SSAATKPVKR.[S]
+Ddis_XP_640870,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K10]",0400000001,04000000010400000001,8,3,[R].KSPSTTASKKKAKVTASR.[S]
+Ddis_XP_002649155,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].TYQPSVLVR.[K]
+,"1×Crotonyl [K1]; 2×Trimethyl [K3; K11]; 2×PhosphoJoin [S2; T4]; 1×Propionyl [K13]; 2×Phospho [S2; T4]","","",2,1,
+,"1×PhosphoJoin [S5]; 1×Propionyl [K4]; 1×Dimethyl [K12]; 1×Phospho [S5]","","",2,1,
+Ddis_XP_644762,"3×Propionyl [K2(100); K12(100); ]",0300000001,03000000010000000001,2,2,[M].GKVHGGLNRAGKVR.[N]
+Ddis_XP_647136,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].QSPSSSPNVAR.[K]
+Ddis_XP_642657,"1×Propionyl [K9(100)]",0400000001,04000000010400000001,4,3,[R].SAAEDDLIKSGR.[K]
+Ddis_XP_642657,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K9(100)]",0400000001,04000000010400000001,4,3,[R].SAAEDDLIKSGR.[K]
+Ddis_XP_637684|Histone_H2B,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,04000000010300000001,4,3,[K].SNEKGDR.[K]
+,"1×Crotonyl [K13]; 1×Trimethyl [K3]; 1×Propionyl + Methyl [K6]; 1×Dimethyl [K17]; 1×Phospho [T]; 1×PhosphoJoin [T]","","",4,1,
+Ddis_XP_645662,"3×Propionyl [K1(100); K2(100); K5(100)]",0300000001,03000000010000000001,2,2,[R].KKWSKGR.[S]
+Ddis_XP_645662,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K2(100); K5(100)]",0300000001,03000000010000000001,2,2,[R].KKWSKGR.[S]
+Ddis_XP_629872,"Propionyl [K]; 1×Propionyl + Methyl [K6]; 1×Acetyl [K5]",0300000001,03000000010300000001,6,2,[R].RLQKKKSAK.[-]
+Ddis_XP_629872,"2×Propionyl [K6; K9]; 1×Propionyl + Methyl [K4]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K5]",0300000001,00000000010300000001,2,2,[R].RLQKKKSAK.[-]
+Ddis_XP_646371,"1×Propionyl + Methyl [K]; 1×Acetyl [K]; 2×Propionyl [K9(100); K10(100)]",0400000001,04000000010000000001,6,3,[R].VSVGEGEDKKEYR.[I]
+Ddis_XP_646371,"1×Propionyl [K]; 1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,4,2,[R].VSVGEGEDKKEYR.[I]
+Ddis_XP_646371,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K9(100); K10(100)]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]",0400000001,04000000010400000001,8,3,[R].VSVGEGEDKKEYR.[I]
+Ddis_XP_642429,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K9(100)]",0400000001,04000000010400000001,6,3,[R].VASIKASYKAR.[L]
+Ddis_XP_638123,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0300000001,00000000010300000001,2,2,[R].DGTKQR.[D]
+Ddis_XP_638211,"1×Propionyl [K4(100)]",0400000001,04000000010400000001,4,3,[R].IGAKLISR.[A]
+Ddis_XP_638211,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,04000000010400000001,4,3,[R].IGAKLISR.[A]
+Ddis_XP_636431,"2×Propionyl [K18(100); K19(100)]",0400000001,00000000010400000001,4,3,[R].TNTHNNNNNNNNNNNTTKKFISSPR.[V]
+Ddis_XP_636431,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K18(100); K19(100)]",0400000001,00000000010400000001,4,3,[R].TNTHNNNNNNNNNNNTTKKFISSPR.[V]
+,"1×Propionyl [K19]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T]; 1×PhosphoJoin [T]","","",4,1,
+,"1×Crotonyl [K6]; 2×Propionyl [K5; K7]","","",2,1,
+Ddis_XP_629388,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K5(100); K6(100); K7(100)]",0400000001,00000000010400000001,2,3,[R].ASVEKKKR.[K]
+Ddis_XP_641354,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].THQSNSFTNR.[I]
+Ddis_XP_646371,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K7(100)]",0300000001,03000000010300000001,4,2,[R].KFGSSEK.[-]
+Ddis_XP_638307,"1×Propionyl [K5(100)]",0400000001,04000000010400000001,4,3,[R].TGQAKIFGTSQGR.[W]
+Ddis_XP_638307,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,04000000010400000001,4,3,[R].TGQAKIFGTSQGR.[W]
+Ddis_XP_638011,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0400000001,04000000010400000001,4,3,[R].AIEDSIVKR.[S]
+Ddis_XP_638090,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K6(100); K15(100)]",0300000001,00000000010300000001,2,2,[R].QRKHVKYLENQQEEKR.[I]
+Ddis_XP_636431,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]; 2×Propionyl [K18(100); K19(100)]",0400000001,00000000010400000001,12,3,[R].TNTHNNNNNNNNNNNTTKK.[F]
+Ddis_XP_638512,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].QGPQHLNQQQNQNQQNQQQNFR.[G]
+Ddis_XP_628995,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].NNGQSDAALNR.[L]
+,"3×Propionyl [K4(100); K6(100); K14(100)]","","",4,1,
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K4(100); K6(100); K14(100)]","","",10,1,
+Ddis_XP_629261,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].GGTTAQSTPPPPPPSR.[T]
+Ddis_XP_646481,"3×Propionyl [K1(100); K6(100); K8(100)]",0400000001,04000000010000000001,2,3,[R].KVTTEKDKINESNQR.[I]
+Ddis_XP_646481,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K6(100); K8(100)]",0400000001,04000000010400000001,6,3,[R].KVTTEKDKINESNQR.[I]
+Ddis_XP_640703,"1×Propionyl [K9(100)]",0400000001,04000000010400000001,4,3,[R].NSFDAQADKIR.[A]
+Ddis_XP_640703,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K9(100)]",0400000001,04000000010400000001,4,3,[R].NSFDAQADKIR.[A]
+,"1×Crotonyl [K20]; 2×Trimethyl [K1; K21]; 1×Propionyl [K16]; 1×Phenylisocyanate [N-Term]","","",2,1,
+,"1×Crotonyl [K2]; 1×Propionyl [K8]; 1×Propionyl + Methyl [K6]; 1×Phenylisocyanate [N-Term]","","",8,1,
+Ddis_XP_636288,"1×Propionyl [K2(100)]",0300000001,03000000010000000001,2,2,[K].IKSLPR.[V]
+"","1×Propionyl [K5(100)]",0300000001,03000000010000000001,2,2,[K].LSPLKR.[G]
+Ddis_XP_641984,"3×Propionyl [K2(100); K8(100); K9(100)]",0300000001,00000000010300000001,2,2,[R].LKSIENSKKR.[A]
+Ddis_XP_641984,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K2(100); K8(100); K9(100)]",0300000001,03000000010300000001,4,2,[R].LKSIENSKKR.[A]
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[K].RVNNGEQQVATSEER.[Q]
+Ddis_XP_628890,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].NSYTHGQDVR.[K]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]","","",4,1,
+Ddis_XP_637859,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].TGASGDFDPSFNR.[G]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K6(100)]","","",2,1,
+,"1×Crotonyl [K18]; 2×Trimethyl [K7; K22]; 3×PhosphoJoin [S10; S16; S19]; 1×Dimethyl [K3]; 3×Phospho [S10; S16; S19]","","",2,1,
+Ddis_XP_641726,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].GGDGVATYRR.[V]
+Ddis_XP_629115,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K5(100)]",0300000001,03000000010000000001,2,2,[R].SGKSKQQQQNNNR.[G]
+Ddis_XP_645978,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[K].STNYSQAR.[Y]
+Ddis_XP_635871,"4×Propionyl [K3(100); K6(100); K7(100); K10(100)]",0300000001,03000000010300000001,4,2,[R].YNKNTKKSNK.[-]
+Ddis_XP_635871,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K3(100); K6(100); K7(100); K10(100)]",0300000001,00000000010300000001,2,2,[R].YNKNTKKSNK.[-]
+Ddis_XP_638767,"1×Propionyl [K26]; 1×Propionyl + Methyl [K31]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K29]",0400000001,00000000010400000001,2,3,[K].AATTTTNTDATTNTAAASTAAAPATKTSKPKRER.[R]
+Ddis_XP_637684|Histone_H2B,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]",0400000001,03000000010400000001,6,3,[K].GSTQSGEEKTASTTPKVTKTPTEGGEKKR.[K]
+,"1×Crotonyl [K16]; 1×Trimethyl [K9]; 1×PhosphoJoin [T10]; 3×Propionyl [K19; K27; K28]; 1×Phospho [T10]","","",2,1,
+Ddis_XP_637684|Histone_H2B,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Acetyl [K27(93)]; 1×Propionyl + Methyl [K28(93)]",0400000001,04000000010400000001,8,3,[K].GSTQSGEEKTASTTPKVTKTPTEGGEKKR.[K]
+,"1×Crotonyl [K27]; 1×Trimethyl [K28]; 2×Propionyl [K9; K16]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T18]; 1×PhosphoJoin [T18]","","",2,1,
+Ddis_XP_635277,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].IGRIEDVTPIPTDSTRR.[K]
+Ddis_XP_638011,"1×Acetyl [K2]; 2×Phospho [S1; T3]; 2×PhosphoJoin [S1(100); T3(100)]",0300000001,03000000010000000001,2,2,[K].SKTIMPNNNNNNKSK.[E]
+,"2×Trimethyl [K7; K19]; 1×Propionyl [K14]; 1×Propionyl + Methyl [K5]; 1×Acetyl [K22]","","",2,1,
+Ddis_XP_636241,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,04000000010400000001,4,3,[R].SNSVKVHNTR.[E]
+Ddis_XP_001134557,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].IQNNNNNNNNNNNDR.[A]
+,"1×Propionyl [K3(100)]","","",2,3,
+Ddis_XP_637656|Histone_H2A,"Propionyl [K]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]",0400000001,03000000010400000001,10,3,[M].TESETTSKKVNKR.[V]
+Ddis_XP_640928,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].FNNQNRNNTNNTR.[Y]
+,"1×Crotonyl [K22]; 2×Trimethyl [K9; K23]; 1×PhosphoJoin [S4]; 2×Propionyl + Methyl [K1; K2]; 1×Phospho [S4]","","",2,1,
+Ddis_XP_637181,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].QNEYTR.[M]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Propionyl [K1(100)]",0300000001,03000000010300000001,4,2,[KR].KLPFQR.[L]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0300000001,00000000010300000001,4,2,[KR].KLPFQR.[L]
+,"1×Crotonyl [K31]; 1×Propionyl [K]; 5×Propionyl + Methyl [K26; K28; K30; K]; 1×Phenylisocyanate [N-Term]; 7×Phospho [T8; T9; T10; T11; T13; T14; T15]; 7×PhosphoJoin [T8; T9; T10; T11; T13; T14; T15]","","",6,1,
+,"9×PhosphoJoin [T14; T15; T17; T21; T25; T30; T32; T33; S34]; 1×Propionyl [K1]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K6; K7; K8]; 3×Acetyl [K18; K19; K35]; 9×Phospho [T14; T15; T17; T21; T25; T30; T32; T33; S34]","","",2,1,
+Ddis_XP_638090,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K4(100); K13(100)]",0400000001,04000000010300000001,6,3,[R].KHVKYLENQQEEKR.[I]
+Ddis_XP_641862,"1×Propionyl [K8(100)]",0400000001,04000000010400000001,4,3,[R].LALEEVNKR.[I]
+Ddis_XP_641862,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0400000001,04000000010400000001,4,3,[R].LALEEVNKR.[I]
+,"2×Propionyl [K2(100); K2(100)]","","",4,1,
+,"1×Propionyl [K22]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K2; K5; K6]; 3×Phospho [S1; T4; T10]; 3×PhosphoJoin [S1; T4; T10]","","",2,1,
+Ddis_XP_646184,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].GYHPNENQYH.[-]
+,"1×Propionyl [K9]; 1×Propionyl + Methyl [K5]; 3×Acetyl [K1; K2; K12]","","",4,1,
+,"1×Crotonyl [K19]; 1×Trimethyl [K9]; 1×Propionyl [K2]; 1×Dimethyl [K15]; 3×Phospho [S6; S13; S16]; 3×PhosphoJoin [S6; S13; S16]","","",2,1,
+Ddis_XP_641041,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K10(100)]",0400000001,04000000010400000001,4,3,[R].EAKHAESDQKR.[K]
+Ddis_XP_636775,"1×Propionyl [K6(100)]",0300000001,03000000010000000001,2,2,[R].FSVDDKYSR.[E]
+Ddis_XP_636775,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0400000001,04000000010400000001,6,3,[R].FSVDDKYSR.[E]
+,"1×Trimethyl [K5]; 1×Propionyl [K9]; 2×Propionyl + Methyl [K10; K14]; 1×Dimethyl [K15]","","",2,1,
+,"1×Crotonyl [K11]; 1×Trimethyl [K7]; 2×Propionyl [N-Term; K3]; 1×Acetyl [K15]","","",2,1,
+,"1×Crotonyl [K15]; 3×Propionyl [N-Term; K7; K11]; 1×Acetyl [K3(100)]","","",2,1,
+,"4×Trimethyl [K3; K4; K15; K16]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K7]; 2×Phospho [T1; S10]; 2×PhosphoJoin [T1; S10]","","",4,1,
+Ddis_XP_637722,"1×Acetyl [K]; 1×Crotonyl [K]",0300000001,00000000010300000001,4,2,[R].AYGGSKCAKCVR.[N]
+Ddis_XP_637722,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Crotonyl [K]",0300000001,03000000010000000001,4,2,[R].AYGGSKCAKCVR.[N]
+Ddis_XP_642566,"1×Propionyl [K1(100)]",0400000001,04000000010400000001,4,3,[R].KTWGGNTLSGPAR.[A]
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0400000001,04000000010400000001,4,3,[R].KTWGGNTLSGPAR.[A]
+Ddis_XP_642484,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,03000000010000000001,2,2,[R].AGAGKAR.[N]
+Ddis_XP_640178,"2×Propionyl [K3(100); K4(100)]",0400000001,03000000010400000001,4,3,[R].SAKKAAAR.[K]
+Ddis_XP_640178,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K4(100)]",0400000001,04000000010400000001,4,3,[R].SAKKAAAR.[K]
+Ddis_XP_642751,"2×Propionyl [K5(100); K12(100)]",0400000001,04000000010400000001,4,3,[R].TQGTKLASDGLKGR.[V]
+Ddis_XP_642751,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K12(100)]",0400000001,04000000010400000001,4,3,[R].TQGTKLASDGLKGR.[V]
+Ddis_XP_645130,"1×Phenylisocyanate [N-Term]",0400000001,04000000010300000001,4,3,[R].ELWLTHPR.[N]
+Ddis_XP_002649122,"1×Propionyl [K3(100)]",0300000001,03000000010000000001,2,2,[R].RTKLGI.[-]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]","","",2,1,
+Ddis_XP_642566,"1×Propionyl [K3(100)]",0400000001,04000000010000000001,2,3,[R].LLKIAEAR.[A]
+,"2×Crotonyl [K7; K11]; 1×Dimethyl [K9]; 1×Acetyl [K1]","","",2,1,
+,"1×Crotonyl [K]; 3×Trimethyl [K1; K17; K20]; 2×Propionyl [K23; K29]; 1×Propionyl + Methyl [K5]; 1×Phenylisocyanate [N-Term]","","",6,1,
+,"1×Crotonyl [K]; 1×Trimethyl [K1]; 4×Propionyl + Methyl [K5; K20; K23; K29]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K17]","","",4,1,
+Ddis_XP_638746,"1×Propionyl + Methyl [K]; Acetyl [K]; Propionyl [S]",0300000001,03000000010300000001,8,2,[M].SAVAPQKNVVQTHGKKR.[T]
+Ddis_XP_638746,"1×Propionyl + Methyl [K]; 1×Acetyl [K]; Propionyl [K]",0400000001,03000000010400000001,12,3,[M].SAVAPQKNVVQTHGKKR.[T]
+,"2×Crotonyl [K27; K28]; 1×Propionyl [K8]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K23]; 1×Phospho [S]; 1×PhosphoJoin [S]","","",4,1,
+Ddis_XP_636431,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].VATQQR.[S]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]","","",8,1,
+,"1×Propionyl [K30]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K9; K10; K36]; 1×Acetyl [K8]; 1×Phospho [S28]; 1×PhosphoJoin [S28]","","",2,1,
+,"2×Crotonyl [K30; K]; 1×PhosphoJoin [S6]; 2×Propionyl + Methyl [K9; K]; 1×Dimethyl [K29]; 1×Phospho [S6]","","",4,1,
+,"1×Trimethyl [K19]; 1×Propionyl [K13]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]; 1×Phospho [T/S]; 1×PhosphoJoin [S/T]","","",16,1,
+Ddis_XP_629876,"4×Propionyl [K1(100); K6(100); K9(100); K13(100)]",0400000001,00000000010400000001,2,3,[R].KAAEIKAAKAAEK.[-]
+Ddis_XP_643120,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K7(100)]",0300000001,00000000010300000001,2,2,[R].VRGQKTKTTGRR.[G]
+,"1×Trimethyl [K3]; 1×PhosphoJoin [S11]; 1×Propionyl + Methyl [K1]; 2×Dimethyl [K13; K14]; 1×Acetyl [K6]; 1×Phospho [S11]","","",2,1,
+,"3×Trimethyl [K8; K]; 2×Propionyl [N-Term; K3]; 1×Dimethyl [K]","","",10,1,
+,"1×Crotonyl [K16]; 2×Propionyl [N-Term; K10]; 1×Dimethyl [K29]; 2×Acetyl [K3; K8]","","",10,1,
+,"1×Crotonyl [K]; 1×Trimethyl [K16]; Propionyl [K]; Acetyl [K]; 2×Propionyl + Methyl [K3; K8]","","",8,1,
+,"1×Trimethyl [K19]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K11; K18]; 1×PhosphoJoin [S16(100)]; 1×Phospho [S16]","","",2,1,
+,"1×Trimethyl [K15]; 2×PhosphoJoin [S1; S21]; 1×Propionyl [K20]; 2×Dimethyl [K14; K22]; 3×Acetyl [K2; K6; K7]; 2×Phospho [S1; S21]","","",2,1,
+,"1×Crotonyl [K20]; 1×Trimethyl [K]; 1×Propionyl + Methyl [K]; 3×Acetyl [K2; K6; K7]; 2×Phospho [S1; S21]; 2×PhosphoJoin [S1; S21]","","",18,1,
+Ddis_XP_640582,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K8(100)]",0400000001,04000000010400000001,4,3,[R].RAAKSAAKEIVSSN.[-]
+,"1×Propionyl [K9]; 1×Propionyl + Methyl [K10]; 2×Dimethyl [K36; K37]; 3×Phospho [S8; S14; S16]; 3×PhosphoJoin [S8; S14; S16]","","",2,1,
+,"Propionyl [K]; Propionyl + Methyl [K]; Acetyl [K]; 2×Phospho [S2; S7]; 2×PhosphoJoin [S2(100); S7(100)]","","",14,1,
+Ddis_XP_002649158,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K11(100)]",0400000001,04000000010400000001,6,3,[R].KQENNDQQHYKR.[K]
+Ddis_XP_641984,"2×Propionyl [K5(100); K11(100)]",0400000001,04000000010400000001,6,3,[R].AAEQKIIDDEKAR.[L]
+Ddis_XP_641984,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K11(100)]",0400000001,04000000010400000001,4,3,[R].AAEQKIIDDEKAR.[L]
+Ddis_XP_641456,"3×Propionyl [K4(100); K6(100); ]",0300000001,03000000010300000001,4,2,[M].AIDKSKR.[F]
+,"3×Trimethyl [K9; K11; K18]; 1×PhosphoJoin [S15]; 1×Propionyl [K]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K2; K8; K]; 1×Phospho [S15]","","",4,1,
+Ddis_XP_645990,"3×Propionyl [K2(100); K3(100); ]",0400000001,04000000010400000001,4,3,[M].AKKNSLAAR.[K]
+Ddis_XP_645990,"2×Propionyl [N-Term; K3]; 1×Propionyl + Methyl [K2]",0300000001,00000000010300000001,2,2,[M].AKKNSLAAR.[K]
+Ddis_XP_646657,"Propionyl [K]; 1×Propionyl + Methyl [K4]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K3]",0300000001,03000000010300000001,6,2,[K].KTKKKPKDENAPR.[R]
+Ddis_XP_646584,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,00000000010300000001,2,2,[R].QQQQKIER.[S]
+Ddis_XP_629872,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,03000000010300000001,4,2,[R].GGHQKFR.[A]
+Ddis_XP_636622,"1×Propionyl [K3(100)]",0400000001,04000000010400000001,4,3,[R].NTKSILDASSTSVSR.[F]
+Ddis_XP_636622,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,04000000010400000001,4,3,[R].NTKSILDASSTSVSR.[F]
+Ddis_XP_636622,"2×PhosphoJoin [T2(100); S4(100)]; 1×Propionyl + Methyl [K3(100)]; 2×Phospho [T2; S4]",0300000001,00000000010300000001,2,2,[R].NTKSILDASSTSVSR.[F]
+Ddis_XP_642492,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].NSQNSPSITPTR.[G]
+Ddis_XP_646481,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K2(100); K4(100); K8(100)]",0400000001,00000000010400000001,2,3,[R].AKEKELSKLR.[R]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]","","",2,1,
+,"1×Crotonyl [K]; 1×Propionyl + Methyl [K9]; 1×Dimethyl [K]; 5×Phospho [S28; S29; S31; S32; T33]; 5×PhosphoJoin [S28; S29; S31; S32; T33]","","",4,1,
+Ddis_XP_637293,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].TQQAIQQGQQQR.[Q]
+Ddis_XP_642566,"2×Propionyl [K6(100); K9(100)]",0400000001,03000000010400000001,4,3,[K].GQAAPKAEKPVQHLR.[F]
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K6(100); K9(100)]",0400000001,03000000010400000001,4,3,[K].GQAAPKAEKPVQHLR.[F]
+,"Trimethyl [K]; Dimethyl [K]; Acetyl [K]; 1×Phospho [S]; Propionyl [K]; 1×PhosphoJoin [S]","","",20,1,
+Ddis_XP_640998,"4×Propionyl [K1(100); K3(100); K5(100); K8(100)]",0400000001,00000000010400000001,2,3,[R].KAKSKAPKIQR.[L]
+Ddis_XP_640998,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K1(100); K3(100); K5(100); K8(100)]",0400000001,04000000010400000001,4,3,[R].KAKSKAPKIQR.[L]
+,"2×Crotonyl [K7; K14]; 1×Propionyl [K6]; 2×Propionyl + Methyl [K12; K13]; 1×Phospho [T8]; 1×PhosphoJoin [T8]","","",2,1,
+Ddis_XP_629921,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,8,3,[R].AGQLGYHHR.[V]
+Ddis_XP_637885,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K12(100)]",0400000001,04000000010400000001,4,3,[R].HSQNNEIDVDTKNER.[N]
+Ddis_XP_641587|Histone_H2A,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].AGITFPVSR.[V]
+Ddis_XP_647549,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,03000000010300000001,4,2,[K].YDHTKSATTNTTR.[D]
+,"2×Crotonyl [K4; K15]; 2×Propionyl [K5; K13]; 1×Acetyl [K18]","","",2,1,
+,"4×Trimethyl [K17; K24; K]; 3×PhosphoJoin [S10; S12; S16]; 1×Propionyl + Methyl [K]; 1×Dimethyl [K1]; 3×Phospho [S10; S12; S16]","","",12,1,
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K8(100)]","","",2,1,
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K4(100); K8(100); K12(100)]",0300000001,00000000010300000001,2,2,[R].QNTKRDSKSYPKHQPR.[T]
+Ddis_XP_641587|Histone_H2A,"1×Trimethyl [K17; K]; Propionyl [K]; Acetyl [K]; 1×Propionyl + Methyl [K18; K]; 1×Dimethyl [K9]",0400000001,04000000010400000001,8,3,[M].SETKPASSKPAAAAKPKKVIPR.[V]
+Ddis_XP_641587|Histone_H2A,"1×Dimethyl [K9]; Propionyl [K]; 1×Trimethyl [K9]; 1×Acetyl [K4]",0300000001,03000000010300000001,4,2,[M].SETKPASSKPAAAAKPKKVIPR.[V]
+,"1×Crotonyl [K9]; 1×Trimethyl [K]; 1×PhosphoJoin [S1]; 1×Propionyl [K15]; 1×Propionyl + Methyl [K]; 1×Phospho [S1]","","",14,1,
+Ddis_XP_641587|Histone_H2A,"Acetyl [K]; Propionyl [K]; 1×Propionyl + Methyl [K17]",0400000001,04000000010400000001,4,3,[M].SETKPASSKPAAAAKPKKVIPR.[V]
+Ddis_XP_641587|Histone_H2A,"1×Trimethyl [K9; K]; Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K17; K]",0400000001,04000000010400000001,14,3,[M].SETKPASSKPAAAAKPKKVIPR.[V]
+Ddis_XP_641587|Histone_H2A,"Propionyl [K]; Acetyl [K]; Propionyl + Methyl [K]",0400000001,04000000010400000001,10,3,[M].SETKPASSKPAAAAKPKKVIPR.[V]
+,"1×Trimethyl [K9]; 4×Propionyl [N-Term; K15; K17; K18]; 1×Propionyl + Methyl [K4]","","",4,1,
+,"1×Crotonyl [K9]; 2×Trimethyl [K4; K]; 1×Propionyl [K15]; 1×Propionyl + Methyl [K]; 1×Phospho [S1]; 1×PhosphoJoin [S1]","","",4,1,
+,"2×Propionyl + Methyl [K4(100); K9(100)]; 4×Propionyl [K15(100); K17(100); K18(100); K]","","",4,1,
+Ddis_XP_641587|Histone_H2A,"1×Trimethyl [K]; 3×Propionyl [K15; K17; K18]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]",0300000001,03000000010000000001,4,2,[M].SETKPASSKPAAAAKPKKVIPR.[V]
+Ddis_XP_001733029,"3×Propionyl + Methyl [K3(100); K5(100); K8(100)]; 3×Propionyl [K11(100); K18(100); K22(100)]",0400000001,03000000010400000001,4,3,[K].VSKGKNTKETKETTTATKTNGKR.[K]
+,"2×Crotonyl [K3; K8]; 1×Trimethyl [K5]; 1×Propionyl [K11]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]","","",4,1,
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K12(100); K13(100)]",0300000001,03000000010000000001,2,2,[R].KSGTGRPHNENKK.[G]
+,"1×Crotonyl [K]; 1×PhosphoJoin [S1]; 4×Propionyl + Methyl [K2; K3; K6; K7]; 1×Phospho [S1]","","",4,1,
+,"2×Propionyl [K7; K37]; 3×Propionyl + Methyl [K3; K6; K41]; 1×Dimethyl [K2]; 2×Phospho [T10; T11]; 2×PhosphoJoin [T10; T11]","","",2,1,
+,"Trimethyl [K]; 4×PhosphoJoin [S/T]; 1×Propionyl + Methyl [K]; Dimethyl [K]; 4×Phospho [S/T]","","",12,1,
+,"1×Crotonyl [K32]; 1×Trimethyl [K30]; 1×Phenylisocyanate [N-Term]; 3×Acetyl [K5; K19; K34]; 2×Phospho [S7; S13]; 2×PhosphoJoin [S7; S13]","","",2,1,
+,"1×Trimethyl [K34]; 1×PhosphoJoin [S17]; 2×Propionyl [K21; K39]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K24]; 1×Phospho [S17]","","",2,1,
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K2(100); K6(100); K11(100); K13(100)]",0300000001,00000000010300000001,2,2,[R].QKAEAKESLAKSK.[I]
+,"3×Trimethyl [K8; K13; K21]; 1×Propionyl [K15]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K9]; 3×Phospho [S17; S18; T19]; 3×PhosphoJoin [S17; S18; T19]","","",2,1,
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K9(100); K11(100)]","","",6,1,
+Ddis_XP_635182,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].VSEPTSQSSR.[M]
+,"3×Trimethyl [K4; K6; K30]; 1×Propionyl [K7]; 1×Dimethyl [K8]; 2×Phospho [S1; S3]; 2×PhosphoJoin [S1; S3]","","",2,1,
+,"Trimethyl [K]; Propionyl [K]; 1×Phospho [T11]; 1×PhosphoJoin [T11(100)]; 1×Propionyl + Methyl [K10]; 1×Dimethyl [K17]","","",16,1,
+Ddis_XP_640010,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0400000001,04000000010400000001,4,3,[R].KNATSQDPSR.[I]
+Ddis_XP_637714,"1×Trimethyl [K]; 2×Propionyl [K3; K4]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K14; K18]",0300000001,00000000010300000001,4,2,[R].IQKKLGEPATTTAKPTAKAAAKPK.[A]
+,"1×Trimethyl [K]; Propionyl [K]; 2×Propionyl + Methyl [K18; K22]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]","","",6,1,
+Ddis_XP_637714,"1×Trimethyl [K]; 3×Propionyl [K3; K4; K14]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K18]",0300000001,03000000010000000001,4,2,[R].IQKKLGEPATTTAKPTAKAAAKPK.[A]
+,"Trimethyl [K]; Propionyl [K]; Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]","","",16,1,
+Ddis_XP_644762,"Propionyl [K]; 1×Propionyl + Methyl [K6; K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K8; K]",0300000001,03000000010000000001,2,2,[R].NATPKKDKEEKRKPKVGR.[A]
+Ddis_XP_642817,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0400000001,04000000010000000001,2,3,[R].EINTHSQKR.[G]
+Ddis_XP_629872,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].VLDSAIESQIGEGR.[F]
+Ddis_XP_640975,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].LQQNGGGGDSSSSR.[S]
+,"2×Crotonyl [K11; K15]; 4×Trimethyl [K1; K19; K21; K26]; 1×Propionyl + Methyl [K35]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T25]; 1×PhosphoJoin [T25]","","",2,1,
+,"1×Crotonyl [K]; 1×Propionyl [K]; 3×Dimethyl [K7; K8; K14]; 1×Acetyl [K13]","","",6,1,
+,"1×Trimethyl [K20]; 2×Propionyl [K14; K19]; 2×Dimethyl [K7; K8]; 1×Acetyl [K13]","","",2,1,
+,"2×Propionyl + Methyl [K4(100); K8(100)]; 2×Propionyl [K13(100); K]","","",4,1,
+Ddis_XP_637521,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K15(100); K16(100)]",0400000001,04000000010000000001,2,3,[R].TSNTSSDDTTTESTKKR.[G]
+Ddis_XP_629942,"2×Propionyl [K1(100); K10(100)]",0400000001,00000000010400000001,4,3,[R].KEVDTTQPPKYIETR.[I]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K10(100)]","","",4,1,
+,"1×Crotonyl [K10]; 4×PhosphoJoin [T/S]; 1×Propionyl + Methyl [K4]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K7; K26]; 4×Phospho [T/S]","","",4,1,
+,"1×Phospho [S9]; 1×Propionyl [K3(100)]; 2×Crotonyl [K10(100); K11(100)]; 1×PhosphoJoin [S9(100)]","","",4,1,
+,"3×Trimethyl [K4; K5; K9]; 3×Propionyl + Methyl [K1; K16; K19]; 1×Acetyl [K10]; 1×Phospho [S8]; 1×PhosphoJoin [S8]","","",2,1,
+,"2×Crotonyl [K4; K19]; 2×Trimethyl [K5; K10]; 2×PhosphoJoin [S2; S3]; 1×Propionyl [K9]; 1×Propionyl + Methyl [K1]; 2×Phospho [S2; S3]","","",2,1,
+Ddis_XP_641818,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0400000001,04000000010400000001,4,3,[R].AGINNKHPNR.[K]
+Ddis_XP_637361,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K12(100)]",0300000001,03000000010000000001,2,2,[R].NRGADDDSDSFKR.[Q]
+Ddis_XP_639159,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K13(100)]",0400000001,03000000010400000001,4,3,[R].QHSAPNTPNYNNKISR.[G]
+,"2×PhosphoJoin [S1; T6]; 1×Propionyl [K]; 1×Propionyl + Methyl [K3]; 1×Dimethyl [K]; 2×Phospho [S1; T6]; 1×Trimethyl [K15]; 1×Acetyl [K11]","","",8,1,
+Ddis_XP_646233,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].RTVTQTTTTSSINNR.[I]
+Ddis_XP_640594,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,8,3,[R].GGSTTVTINNGSTSSGR.[G]
+Ddis_XP_629872,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,04000000010400000001,6,3,[R].DALHKHR.[L]
+Ddis_XP_636778,"2×Propionyl [K5(100); K8(100)]",0400000001,04000000010400000001,6,3,[R].RLTNKQSKVVTLR.[V]
+Ddis_XP_636778,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K8(100)]",0400000001,04000000010000000001,4,3,[R].RLTNKQSKVVTLR.[V]
+Ddis_XP_638267,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].NQPQQQQQFVNSNNR.[F]
+Ddis_XP_645662,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,04000000010000000001,2,3,[K].AAAKGSSGGAGR.[K]
+,"3×Trimethyl [K3; K8; K]; 3×Propionyl + Methyl [K2; K9; K16]; 1×Phospho [S4]; 1×PhosphoJoin [S4]","","",8,1,
+Ddis_XP_646757,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0300000001,00000000010300000001,2,2,[R].GPNQHVQK.[R]
+,"1×PhosphoJoin [S/T]; Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]; 1×Acetyl [K]; 2×Propionyl [K18; K20]; 1×Phospho [S/T]","","",48,1,
+Ddis_XP_645351,"1×Propionyl [K7(100)]",0400000001,00000000010400000001,2,3,[R].AAELNIKVTTPNAR.[L]
+,"1×Trimethyl [K2]; 1×PhosphoJoin [S7]; 1×Propionyl [K13]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K12; K14]; 1×Phospho [S7]","","",2,1,
+Ddis_XP_641955,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0400000001,03000000010400000001,4,3,[R].KQDSEVQQR.[E]
+Ddis_XP_638264,"1×Propionyl [K8(100)]",0400000001,00000000010400000001,2,3,[R].QILEQALKR.[K]
+,"1×PhosphoJoin [T31]; 1×Propionyl [K39]; 3×Acetyl [K23; K24; K32]; 1×Phospho [T31]","","",2,1,
+Ddis_XP_644639,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].VNAPPPSR.[T]
+Ddis_XP_637714,"2×Propionyl [K7(100); K]",0400000001,04000000010400000001,4,3,[M].TTTTQYKDIETK.[S]
+Ddis_XP_647663,"1×Crotonyl [K]; 1×Propionyl [K34]; 2×Acetyl [K]",0300000001,00000000010300000001,16,2,[K].KTTTTTTTNNKNNNTKGGEKKQNNNNNNNNNNNKINNR.[D]
+Ddis_XP_637714,"3×Propionyl [K1(100); K3(100); K8(100)]",0400000001,04000000010400000001,8,3,[R].KTKDALIKR.[I]
+Ddis_XP_637714,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K3(100); K8(100)]",0400000001,04000000010400000001,6,3,[R].KTKDALIKR.[I]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].FRPGTVALREIR.[RK]
+Ddis_XP_640582,"2×Propionyl [K3(100); K7(100)]",0400000001,04000000010400000001,4,3,[R].AAKSAAKEIVSSN.[-]
+,"1×Trimethyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Dimethyl [K3]; 1×Propionyl [K7(100)]","","",8,1,
+Ddis_XP_640582,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K7(100)]",0400000001,04000000010400000001,4,3,[R].AAKSAAKEIVSSN.[-]
+Ddis_XP_641319,"4×Propionyl [K3(100); K12(100); K13(100); K14(100)]",0400000001,04000000010400000001,6,3,[R].IYKNTTTDVSAKKKAR.[K]
+Ddis_XP_641319,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K3(100); K12(100); K13(100); K14(100)]",0400000001,00000000010400000001,4,3,[R].IYKNTTTDVSAKKKAR.[K]
+Ddis_XP_645064,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,03000000010300000001,4,2,[R].QANYKR.[R]
+Ddis_XP_638424,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]",0400000001,03000000010400000001,12,3,[R].KKKDAKYGFGGKKR.[Y]
+Ddis_XP_643977,"1×Phenylisocyanate [N-Term]",0400000001,04000000010300000001,4,3,[R].NLDGGGGGSNR.[L]
+Ddis_XP_638044,"1×Propionyl [K10(100)]",0400000001,04000000010400000001,4,3,[R].EILGDAAPAKEVPR.[T]
+CON_000193593,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].SGGGGGGGLGSGGSIR.[S]
+Ddis_XP_636778,"2×Propionyl [K4(100); K7(100)]",0400000001,04000000010400000001,4,3,[R].LTNKQSKVVTLR.[V]
+Ddis_XP_636778,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K7(100)]",0400000001,03000000010400000001,4,3,[R].LTNKQSKVVTLR.[V]
+,"2×Trimethyl [K7; K32]; 3×PhosphoJoin [S1; S2; S16]; 2×Propionyl [K15; K18]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K5]; 3×Phospho [S1; S2; S16]","","",2,1,
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K7(100)]","","",2,1,
+,"1×Crotonyl [K17]; 1×Trimethyl [K1]; 1×Acetyl [K]","","",14,1,
+,"2×Trimethyl [K2; K]; 2×PhosphoJoin [S1; S6]; 1×Propionyl + Methyl [K10]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]; 2×Phospho [S1; S6]","","",4,1,
+,"1×Crotonyl [K5]; 1×Propionyl + Methyl [K26]; 1×Phenylisocyanate [N-Term]; 2×Phospho [S15; T20]; 2×PhosphoJoin [S15; T20]","","",4,1,
+,"1×Crotonyl [K5]; 1×PhosphoJoin [T4]; 2×Propionyl [K1; K2]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K6]; 1×Phospho [T4]","","",4,1,
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K6(100)]","","",8,1,
+Ddis_XP_643120,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K5(100)]",0400000001,03000000010400000001,4,3,[R].GQKTKTTGR.[R]
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,8,3,[R].DSVAYTEHAGR.[R]
+Ddis_XP_645684,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].TAEISSQHR.[L]
+"","1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K2(100); K5(100)]",0300000001,03000000010000000001,2,2,[R].KKEVKR.[L]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]","","",4,1,
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K23(100)]","","",2,1,
+Ddis_XP_629025,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K13(100); K19(100)]",0400000001,03000000010400000001,4,3,[R].KHVEEANNSNSNKGSSSSKR.[G]
+,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]; Propionyl [K]","","",8,1,
+Ddis_XP_636859,"Propionyl [K]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]",0300000001,00000000010300000001,4,2,[R].SPKLGGQSKPKRVNNGEQQVATSEER.[Q]
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K9(100); K11(100)]",0400000001,00000000010400000001,2,3,[R].SPKLGGQSKPKRVNNGEQQVATSEER.[Q]
+Ddis_XP_641729,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].RNEQIAAHVTVR.[G]
+Ddis_XP_645331,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K6(100)]",0400000001,04000000010400000001,4,3,[R].KGGNNKNYQNR.[N]
+,"1×Phenylisocyanate [N-Term]","","",4,1,
+,"1×Phenylisocyanate [N-Term]","","",6,1,
+Ddis_XP_637926,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K5(100)]",0400000001,00000000010400000001,2,3,[R].AAQKKR.[D]
+,"2×Propionyl [K2; K14]; 1×Propionyl + Methyl [K6]; 1×Acetyl [K3]","","",14,1,
+Ddis_XP_642958|Histone_H4,"Propionyl [K]; 1×Propionyl + Methyl [K2]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K3; K]",0400000001,04000000010400000001,10,3,[R].HKKTQKEHINGITKPAIR.[R]
+Ddis_XP_636778,"1×Propionyl [K10(100)]",0400000001,04000000010400000001,6,3,[R].VLTVFNQTQKNHLR.[A]
+Ddis_XP_636778,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K10(100)]",0400000001,03000000010400000001,6,3,[R].VLTVFNQTQKNHLR.[A]
+,"4×Crotonyl [K6; K18; K]; 1×Trimethyl [K]; 1×Propionyl + Methyl [K3]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]","","",12,1,
+Ddis_XP_641729,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K5(100)]",0300000001,00000000010300000001,2,2,[R].VAHKKR.[A]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K9(100)]","","",2,1,
+Ddis_XP_636725,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]",0300000001,03000000010000000001,2,2,[R].EREENDKKGSNKKQDR.[K]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]","","",12,3,
+Ddis_XP_638965,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0300000001,03000000010300000001,4,2,[R].IESGDTHKR.[T]
+Ddis_XP_638266,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].YSVDNGSSGSGGSR.[I]
+Ddis_XP_637926,"2×Propionyl [K9(100); K13(100)]",0400000001,03000000010400000001,4,3,[R].DIIQSNIQKENEKQQDR.[K]
+Ddis_XP_637926,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K9(100); K13(100)]",0400000001,04000000010400000001,8,3,[R].DIIQSNIQKENEKQQDR.[K]
+Ddis_XP_637684|Histone_H2B,"4×Propionyl [K10(100); K11(100); K12(100); K13(100)]",0400000001,04000000010400000001,6,3,[R].IATEASGLAKKKKR.[Q]
+Ddis_XP_637684|Histone_H2B,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Propionyl + Methyl [K13]; 1×Acetyl [K12]",0400000001,04000000010400000001,8,3,[R].IATEASGLAKKKKR.[Q]
+Ddis_XP_640812,"3×Propionyl [K2(100); K3(100); K9(100)]",0400000001,03000000010400000001,4,3,[R].TKKVGVVGKYGTR.[Y]
+,"1×Crotonyl [K]; 1×Propionyl [K2]; 1×Phenylisocyanate [N-Term]; Dimethyl [K]; Acetyl [K]; 1×Trimethyl [K9]","","",4,1,
+Ddis_XP_643791,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K11(100)]",0400000001,03000000010400000001,4,3,[R].IVTSTATAQPKSR.[S]
+Ddis_XP_629373,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,4,3,[R].AANDPHFPDSR.[F]
+Ddis_XP_646440,"1×Propionyl + Methyl [K]; 1×Acetyl [K]; 2×Propionyl [K11(100); K14(100)]",0300000001,03000000010300000001,8,2,[R].SADEDIPLPEKQNKR.[D]
+Ddis_XP_646440,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K11(100); K14(100)]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]",0300000001,00000000010300000001,6,2,[R].SADEDIPLPEKQNKR.[D]
+Ddis_XP_643148,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,03000000010300000001,6,2,[R].TNSVKDR.[I]
+Ddis_XP_640597,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K4(100)]",0300000001,00000000010300000001,2,2,[R].NKAKSR.[S]
+CON_000213041,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].HGGGGGGFGGGGFGSR.[S]
+,"2×Propionyl [K14; K17]; 2×Propionyl + Methyl [K5; K34]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K4]; 7×Phospho [S3; S9; T11; T12; T13; S18; S31]; 7×PhosphoJoin [S3; S9; T11; T12; T13; S18; S31]","","",2,1,
+Ddis_XP_640998,"2×Propionyl [K4(100); K6(100)]",0300000001,00000000010300000001,2,2,[R].QQAKAKR.[S]
+Ddis_XP_640998,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K6(100)]",0400000001,04000000010400000001,4,3,[R].QQAKAKR.[S]
+Ddis_XP_643058,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,03000000010400000001,4,3,[R].DLQKEHQR.[A]
+,"1×Crotonyl [K3]; 1×Trimethyl [K34]; 1×Propionyl [K29]","","",20,1,
+,"1×Trimethyl [K]; 1×Propionyl [K29]; 1×Propionyl + Methyl [K]","","",4,1,
+Ddis_XP_629942,"1×Propionyl [K10(100)]",0400000001,03000000010400000001,4,3,[R].EALDLISNTKQR.[Q]
+Ddis_XP_629942,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K10(100)]",0400000001,04000000010400000001,4,3,[R].EALDLISNTKQR.[Q]
+Ddis_XP_646371,"4×Propionyl [K3(100); K9(100); K13(100); K18(100)]",0300000001,00000000010300000001,2,2,[R].GGKPAAGGKPGAKVIVEKHPR.[H]
+Ddis_XP_646371,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K3(100); K9(100); K13(100); K18(100)]",0400000001,04000000010400000001,8,3,[R].GGKPAAGGKPGAKVIVEKHPR.[H]
+,"1×Dimethyl [K10]; 1×Propionyl [K2(100)]","","",2,1,
+Ddis_XP_645920,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].APSSTISSGAAR.[K]
+Ddis_XP_641911,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].ASNNSSSNNNNSNNNTNSNFLNDSR.[K]
+,"2×Propionyl [K17; K]; 1×Acetyl [K]","","",12,1,
+Ddis_XP_639372,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K1(100); K2(100); K6(100); K24(100)]",0400000001,04000000010000000001,2,3,[R].KKEDSKDSTTSSSTSSNNERDSDKSSTR.[N]
+,"1×Crotonyl [K20]; 2×PhosphoJoin [T12; T15]; 1×Propionyl [K2]; 1×Phenylisocyanate [N-Term]; 2×Acetyl [K9; K10]; 2×Phospho [T12; T15]","","",2,1,
+,"Trimethyl [K]; Propionyl [K]; Acetyl [K]; 2×Phospho [S/T]; 2×Propionyl + Methyl [K]; 2×Dimethyl [K2; K17]; 2×PhosphoJoin [S/T]","","",10,1,
+Ddis_XP_635392,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0300000001,00000000010300000001,2,2,[R].TINKDPHQR.[D]
+Ddis_XP_638923,"Propionyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]",0300000001,00000000010300000001,6,2,[R].GNYKPKKHPR.[G]
+,"2×Crotonyl [K6; K11]; 1×Propionyl + Methyl [K2]; 2×Dimethyl [K4; K13]; 2×Acetyl [K7; K9]","","",2,1,
+Ddis_XP_642429,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0300000001,03000000010000000001,2,2,[R].EGKTDYQQR.[H]
+Ddis_XP_635397,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].SGTIDAQEIHR.[A]
+Ddis_XP_646996,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].NGAGTIANEGSVR.[I]
+Ddis_XP_646078,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K4(100)]",0300000001,00000000010300000001,2,2,[R].EKNKQPTR.[A]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K10(100)]","","",4,1,
+Ddis_XP_643762,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K4(100)]",0300000001,03000000010300000001,4,2,[K].KEAKER.[G]
+,"1×Crotonyl [K]; 1×PhosphoJoin [S1]; 1×Propionyl + Methyl [K13]; 1×Dimethyl [K14]; 1×Phospho [S1]","","",4,1,
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K11(100)]","","",2,1,
+Ddis_XP_629872,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0400000001,00000000010400000001,2,3,[R].VRGGHQKFR.[A]
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].TDATGNIR.[N]
+Ddis_XP_644524,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K10(100); K13(100)]",0400000001,04000000010300000001,6,3,[R].QAATQRQNEKQQKSDLER.[L]
+,"1×Phenylisocyanate [N-Term]","","",4,1,
+,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K2(100); K7(100); K12(100); K14(100)]","","",6,1,
+Ddis_XP_636109,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].NFNGNSTGR.[E]
+,"1×Phenylisocyanate [N-Term]","","",4,1,
+Ddis_XP_647082,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K22(100)]",0400000001,04000000010000000001,4,3,[R].QGASSGPQSSVSTYTPTTDSGKQAPAGGNNDGFRR.[Q]
+Ddis_XP_637684|Histone_H2B,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,6,2,[R].QTLHSRDIQVAVR.[I]
+,"1×Trimethyl [K]; 1×Phenylisocyanate [N-Term]; Dimethyl [K]; 1×Acetyl [K]; 3×Phospho [S7; S8; S10]; 3×PhosphoJoin [S7; S8; S10]; 1×Propionyl [K]","","",8,1,
+,"1×Trimethyl [K32]; 11×PhosphoJoin [S10; S11; S12; S13; S14; S15; S18; T19; S20; S21; S22]; 1×Propionyl [K25]; 2×Dimethyl [K17; K37]; 2×Acetyl [K5; K8]; 11×Phospho [S10; S11; S12; S13; S14; S15; S18; T19; S20; S21; S22]","","",2,1,
+Ddis_XP_647549,"1×Phenylisocyanate [N-Term]; 5×Propionyl [K1(100); K7(100); K10(100); K16(100); K21(100)]",0400000001,03000000010400000001,4,3,[R].KSLNAVKPEKSGNVAKYDHTKSATTNTTR.[D]
+,"1×Crotonyl [K]; 1×Trimethyl [K]; 1×PhosphoJoin [S11]; 2×Propionyl [K1; K21]; 1×Phenylisocyanate [N-Term]; 1×Phospho [S11]","","",6,1,
+,"4×PhosphoJoin [S9; S11; T12; S13]; 1×Propionyl + Methyl [K5]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K17; K23]; 4×Phospho [S9; S11; T12; S13]","","",2,1,
+,"2×PhosphoJoin [S2; T10]; 1×Propionyl [K18]; 4×Dimethyl [K1; K12; K13; K19]; 1×Acetyl [K7]; 2×Phospho [S2; T10]","","",4,1,
+,"1×Crotonyl [K20]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K13]","","",2,1,
+Ddis_XP_647082,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K13(100); K20(100)]",0400000001,04000000010000000001,2,3,[R].TLAGPGSSTSNHKPTVDIGKTAPAGTNNDGFRR.[Q]
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K5(100); K8(100)]","","",2,1,
+Ddis_XP_645463,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K8]",0400000001,04000000010400000001,4,3,[R].LGSIQAGKKKRDDIANINR.[K]
+,"1×Crotonyl [K]; 2×Propionyl + Methyl [K]","","",12,1,
+Ddis_XP_645463,"Propionyl [K]; 1×Propionyl + Methyl [K8; K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K8; K]",0400000001,04000000010000000001,6,3,[R].LGSIQAGKKKRDDIANINR.[K]
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Propionyl + Methyl [K13]; 1×Acetyl [K14]",0300000001,00000000010300000001,4,2,[K].SAPSTQRPKGNTKK.[V]
+,"1×Crotonyl [K39]; 5×Trimethyl [K6; K7; K28; K29; K]; 2×PhosphoJoin [T1; T3]; 1×Propionyl [K]; 1×Acetyl [K2]; 2×Phospho [T1; T3]","","",4,1,
+,"1×Acetyl [K16(100)]; 1×PhosphoJoin [S20(100)]; 2×Propionyl + Methyl [K2; K23]; 1×Phospho [S20]","","",2,1,
+,"2×Crotonyl [K4; K9]; 1×Dimethyl [K21]","","",2,1,
+,"1×Crotonyl [K]; 1×Trimethyl [K]; 2×Dimethyl [K11; K17]","","",4,1,
+,"2×Crotonyl [K4; K9]; 1×Trimethyl [K17]","","",2,1,
+,"1×Crotonyl [K]; 1×Propionyl [K/M]; Dimethyl [K]; 1×Trimethyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]","","",32,1,
+,"1×Trimethyl [K11]; 1×Propionyl [K17]; 2×Acetyl [K4; K9]","","",6,1,
+Ddis_XP_645662,"1×Crotonyl [K]; 1×Trimethyl [K]; 1×Propionyl [K21]; 1×Dimethyl [K17]",0400000001,00000000010400000001,8,3,[-].MPPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+Ddis_XP_645662,"2×Trimethyl [K4; K9]; 2×Propionyl [K17; K21]",0400000001,00000000010400000001,2,3,[-].MPPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+Ddis_XP_645662,"2×Crotonyl [K4; K9]; 1×Propionyl [K21]; 1×Dimethyl [K17]",0400000001,00000000010400000001,2,3,[-].MPPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+,"1×Crotonyl [K9]; 1×Trimethyl [K]; 1×Propionyl + Methyl [K17]; Acetyl [K]; 1×Dimethyl [K17]","","",4,1,
+,"1×Crotonyl [K9]; 2×Trimethyl [K11; K21]; 1×Dimethyl [K17]; 1×Acetyl [K4]","","",2,1,
+,"2×Crotonyl [K4; K9]; 1×Trimethyl [K21]; 1×Propionyl [N-Term]","","",4,1,
+Ddis_XP_645662,"3×Trimethyl [K]; 1×Dimethyl [K4; K]; 1×Phospho [S10]; 1×PhosphoJoin [S10]",0300000001,03000000010000000001,6,2,[-].MPPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+,"1×Crotonyl [K4]; 1×Trimethyl [K11]; Propionyl [K]; Dimethyl [K]; 1×Acetyl [K17]","","",8,1,
+,"1×Trimethyl [K]; 2×Propionyl [K]; 2×Acetyl [K]","","",6,1,
+Ddis_XP_645662,"1×Crotonyl [K11; K]; Trimethyl [K]; Propionyl [K]; 1×Acetyl [K]; 1×Propionyl + Methyl [K11]; Dimethyl [K]",0400000001,00000000010400000001,8,3,[-].MPPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+,"Trimethyl [K]; Propionyl + Methyl [K]; 1×Acetyl [K]; Propionyl [M]; 2×Dimethyl [K9; K11]","","",10,1,
+,"2×Trimethyl [K11; K]; Dimethyl [K]; 1×Acetyl [K21]; 1×Phospho [S10]; 1×Propionyl + Methyl [K4]; 1×PhosphoJoin [S10]","","",4,1,
+,"1×Crotonyl [K4]; 1×Trimethyl [K21]; 3×Propionyl [N-Term; K11; K17]; 1×Propionyl + Methyl [K9]","","",2,1,
+Ddis_XP_645662,"1×Trimethyl [K4]; 1×PhosphoJoin [S10]; 1×Propionyl [K21]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K9; K11]; 1×Phospho [S10]",0300000001,00000000010300000001,2,2,[-].MPPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+Ddis_XP_645662,"1×Trimethyl [K8; K]; Propionyl [K]; Dimethyl [K]; 1×Phospho [S9]; 1×Propionyl + Methyl [K3; K]; 1×PhosphoJoin [S9]",0400000001,04000000010300000001,10,3,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+Ddis_XP_645662,"2×Crotonyl [K8; K]; 1×Trimethyl [K]; 2×Propionyl [K16; K20]",0400000001,04000000010400000001,4,3,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+Ddis_XP_645662,"1×Crotonyl [K8; K]; 1×Trimethyl [K3; K]; Propionyl [K]; Propionyl + Methyl [K]; Dimethyl [K]",0400000001,00000000010400000001,8,3,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+Ddis_XP_645662,"Propionyl [K]; 1×Propionyl + Methyl [K3(100)]; 1×Dimethyl [K]; Acetyl [K]; 1×Trimethyl [K]",0400000001,00000000010400000001,24,3,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+Ddis_XP_645662,"Propionyl [K]; Propionyl + Methyl [K]; 1×Dimethyl [K]; 1×Trimethyl [K]; 1×Acetyl [K]",0400000001,04000000010400000001,66,3,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+,"3×Trimethyl [K3; K8; K10]; 2×Propionyl [N-Term; K20]; 1×Propionyl + Methyl [K16]","","",2,1,
+,"1×Crotonyl [K]; 1×Trimethyl [K]; 1×Propionyl [K]; 1×Propionyl + Methyl [K3]; 1×Phospho [S]; 1×PhosphoJoin [S]","","",10,1,
+,"2×Trimethyl [K3; K20]; 1×PhosphoJoin [S9]; 2×Propionyl [N-Term; K8]; 1×Acetyl [K10]; 1×Phospho [S9]","","",2,1,
+,"1×Crotonyl [K]; 1×PhosphoJoin [S9]; Propionyl [K]; 1×Propionyl + Methyl [K]; Dimethyl [K]; 1×Trimethyl [K]; 1×Phospho [S9]","","",24,1,
+Ddis_XP_645662,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K10; K]",0400000001,04000000010400000001,20,3,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+,"1×Crotonyl [K16]; 1×PhosphoJoin [S]; 3×Propionyl [N-Term; K3; K8]; 1×Dimethyl [K10]; 1×Phospho [S]","","",4,1,
+Ddis_XP_645662,"4×Propionyl [N-Term; K16; K20; K]; 1×Acetyl [K]; 1×Phospho [S]; 1×PhosphoJoin [S]",0400000001,00000000010400000001,8,3,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+Ddis_XP_645662,"1×PhosphoJoin [S15]; 3×Propionyl [N-Term; K8; K10]; 1×Propionyl + Methyl [K]; Dimethyl [K]; 1×Phospho [S15]; 1×Acetyl [K20]",0300000001,03000000010000000001,6,2,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+,"Trimethyl [K]; 1×PhosphoJoin [S]; Propionyl [K]; Dimethyl [K]; Propionyl + Methyl [K]; 1×Phospho [S]","","",14,1,
+Ddis_XP_645662,"Propionyl [K]; Propionyl + Methyl [K]; 1×Acetyl [K]",0300000001,03000000010000000001,14,2,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+Ddis_XP_645662,"Propionyl + Methyl [K]; 1×Acetyl [K3; K]; Propionyl [K]",0400000001,04000000010400000001,10,3,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+Ddis_XP_645662,"2×Crotonyl [K3; K8]; 1×Trimethyl [K10]; 1×Propionyl [K20]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K16]",0400000001,00000000010400000001,2,3,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+,"1×Crotonyl [K]; 1×Trimethyl [K16]; 1×PhosphoJoin [S9]; 1×Propionyl [K20]; 2×Propionyl + Methyl [K8; K]; 1×Phospho [S9]","","",8,1,
+,"1×Crotonyl [K]; 3×Trimethyl [K8; K]; 1×PhosphoJoin [S]; 2×Propionyl [N-Term; K]; 1×Phospho [S]","","",10,1,
+,"Propionyl [K]; 2×Propionyl + Methyl [K3; K8]; 2×Dimethyl [K]; 1×Phospho [S]; 2×Trimethyl [K3; K8]; 1×PhosphoJoin [S]","","",8,1,
+,"4×Propionyl [N-Term; K3; K10; K16]; 1×Propionyl + Methyl [K20]; 1×Dimethyl [K8]; 1×Phospho [S]; 1×PhosphoJoin [S]","","",10,1,
+Ddis_XP_645662,"1×Crotonyl [K]; 2×Trimethyl [K]; 1×PhosphoJoin [S9]; 2×Propionyl + Methyl [K]; 1×Propionyl [N-Term]; 1×Phospho [S9]",0300000001,00000000010300000001,8,2,[M].PPKAAGGKSKQIQASKAAAKGSSGGAGR.[K]
+Ddis_XP_645463,"3×Propionyl [K5(100); K9(100); K15(100)]",0400000001,00000000010400000001,6,3,[R].SGIIKGFNKGHAVAKR.[T]
+Ddis_XP_645463,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K5(100); K9(100); K15(100)]",0400000001,04000000010400000001,8,3,[R].SGIIKGFNKGHAVAKR.[T]
+Ddis_XP_645064,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].RNTVVFHR.[Y]
+Ddis_XP_635277,"1×Propionyl [K8(100)]",0400000001,00000000010400000001,2,3,[R].ATGGNGSKTPGPGAQSALR.[A]
+Ddis_XP_635277,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0400000001,03000000010400000001,4,3,[R].ATGGNGSKTPGPGAQSALR.[A]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]","","",10,2,
+Ddis_XP_646481,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0400000001,04000000010400000001,4,3,[R].KIQREEQGNN.[-]
+,"2×Propionyl [K18; K19]; 1×Acetyl [K]; 2×Phospho [T/S]; 2×PhosphoJoin [S/T]","","",16,1,
+Ddis_XP_641587|Histone_H2A,"2×Propionyl [K5(100); K7(100)]",0400000001,00000000010400000001,4,3,[R].TGEPKSKPESR.[S]
+Ddis_XP_641587|Histone_H2A,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K7(100)]",0400000001,04000000010300000001,6,3,[R].TGEPKSKPESR.[S]
+Ddis_XP_642934,"1×Trimethyl [K]; Propionyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Dimethyl [K15; K]",0300000001,00000000010300000001,6,2,[R].AATSSSSSINKPVQKKAPVGR.[G]
+Ddis_XP_642934,"1×Trimethyl [K16]; 2×Propionyl [K11; K15]; 1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].AATSSSSSINKPVQKKAPVGR.[G]
+,"1×Trimethyl [K15]; 1×Propionyl [K11]; 1×Propionyl + Methyl [K16]; 1×Phenylisocyanate [N-Term]","","",2,1,
+Ddis_XP_639281,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K4(100); K7(100)]",0300000001,03000000010000000001,2,2,[R].KNSKNRK.[-]
+Ddis_XP_641860,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K7(100)]",0400000001,04000000010400000001,4,3,[R].KETQQEKEER.[R]
+,"1×Phenylisocyanate [N-Term]","","",4,2,
+,"2×Crotonyl [K21; K35]; 2×Propionyl [K1; K36]; 2×Propionyl + Methyl [K17; K18]; 1×Phenylisocyanate [N-Term]; 2×Phospho [T15; S16]; 2×PhosphoJoin [T15; S16]","","",2,1,
+,"1×Crotonyl [K14]; 2×PhosphoJoin [S1; T18]; Propionyl [K]; Propionyl + Methyl [K]; 1×Acetyl [K4]; 2×Phospho [S1; T18]","","",4,1,
+Ddis_XP_635956,"4×Propionyl [K3(100); K4(100); K10(100); ]",0400000001,04000000010400000001,4,3,[M].GGKKFGTNSKAEEAR.[S]
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K9(100); K10(100); K15(100)]","","",10,1,
+Ddis_XP_640998,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K3(100)]",0300000001,03000000010300000001,6,2,[R].AKKAAR.[H]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]","","",4,2,
+Ddis_XP_647459,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].NSQQVIVGR.[K]
+Ddis_XP_641675,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[K].VAEGLGNAHR.[G]
+,"1×Crotonyl [K20]; 2×Trimethyl [K35; K]; 3×PhosphoJoin [T1; S31; T32]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 3×Phospho [T1; S31; T32]","","",4,1,
+Ddis_XP_644913,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].VGAVTHR.[E]
+Ddis_XP_642308,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,03000000010400000001,4,3,[R].EQQKQAEIR.[R]
+Ddis_XP_638995,"Propionyl [K]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]",0300000001,03000000010300000001,6,2,[R].TVAADKGKVKVSADVN.[-]
+Ddis_XP_638995,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K6(100); K8(100); K10(100)]",0400000001,04000000010000000001,4,3,[R].TVAADKGKVKVSADVN.[-]
+,"1×Phenylisocyanate [N-Term]; Acetyl [K]; Propionyl [K]; 1×Propionyl + Methyl [K23]","","",6,1,
+,"1×Crotonyl [K6]; 1×Trimethyl [K10]; 2×Propionyl [K22; K23]; 1×Propionyl + Methyl [K1]; 1×Phospho [S5]; 1×PhosphoJoin [S5]","","",4,1,
+,"1×Trimethyl [K10]; 2×Propionyl [K22; K23]; 2×Propionyl + Methyl [K1; K6]; 1×Phospho [S5]; 1×PhosphoJoin [S5]","","",2,1,
+Ddis_XP_647577|Histone_H3,"4×Propionyl [K1; K10; K22; K23]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K6]",0400000001,04000000010400000001,4,3,[R].KHIGSKQAHKQTPVSSSSGGVKKVHR.[F]
+,"Propionyl [K]; Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]; 1×Acetyl [K10]","","",12,1,
+,"1×Crotonyl [K6]; 1×Trimethyl [K22]; 1×Propionyl [K10]; 2×Propionyl + Methyl [K1; K23]; 1×Phospho [S5]; 1×PhosphoJoin [S5]","","",4,1,
+Ddis_XP_647577|Histone_H3,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]",0400000001,04000000010300000001,18,3,[R].KHIGSKQAHKQTPVSSSSGGVKKVHR.[F]
+,"1×Crotonyl [K10]; 1×Trimethyl [K22]; 3×Propionyl + Methyl [K1; K6; K23]; 1×Phospho [S5]; 1×PhosphoJoin [S5]","","",4,1,
+Ddis_XP_647577|Histone_H3,"4×Propionyl [K1; K6; K10; K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,4,2,[R].KHIGSKQAHKQTPVSSSSGGVKKVHR.[F]
+,"3×Propionyl [K1; K22; K23]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K6; K10]; 1×Phospho [S5]; 1×PhosphoJoin [S5]","","",10,1,
+,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; Propionyl + Methyl [K]; Propionyl [K]","","",8,1,
+,"1×Trimethyl [K22]; 1×PhosphoJoin [S15]; 1×Propionyl [K1]; 2×Propionyl + Methyl [K6; K23]; 1×Phenylisocyanate [N-Term]; 1×Phospho [S15]","","",2,1,
+Ddis_XP_638767,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K6(100); K34(100)]",0300000001,03000000010000000001,2,2,[R].KTRTPKPTSTTTGENATTESTEASPTLNGNTTTKR.[R]
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0300000001,00000000010300000001,2,2,[K].AEKPVQHLR.[F]
+Ddis_XP_002649122,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,4,2,[R].LRTDNTIR.[Y]
+,"1×Trimethyl [K]; 2×Dimethyl [K11; K]","","",8,1,
+Ddis_XP_645193,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K4(100)]",0300000001,00000000010300000001,2,2,[R].SQKKAASESTQTPR.[T]
+Ddis_XP_629876,"2×Propionyl [K5(100); K5(100)]",0400000001,04000000010400000001,8,3,[M].PIHNKVLSNDHFR.[K]
+Ddis_XP_640068,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].SLTSSPSTSSPR.[I]
+,"1×Crotonyl [K11]; 2×Propionyl [K31; K33]; 2×Propionyl + Methyl [K15; K19]; 1×Phospho [S]; 1×PhosphoJoin [S]","","",4,1,
+Ddis_XP_637740,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K3(100)]",0400000001,04000000010400000001,4,3,[R].AKKEAADEQQQR.[L]
+Ddis_XP_640870,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K8(100)]",0400000001,04000000010000000001,2,3,[R].IVPKESEKNAILR.[G]
+Ddis_XP_645990,"3×Propionyl [K4(100); K9(100); K11(100)]",0400000001,00000000010400000001,2,3,[R].ENEKTEENKEKR.[L]
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K4(100); K9(100); K11(100)]","","",2,1,
+Ddis_XP_642124,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]; 2×Propionyl [K16(100); K17(100)]",0400000001,04000000010400000001,14,3,[R].SNQSTVNETSFQGSNKKR.[N]
+,"1×Propionyl [K1]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K9]","","",2,1,
+,"1×Propionyl [K1]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K10]","","",2,1,
+Ddis_XP_643145,"3×Propionyl [K5(100); K6(100); K12(100)]",0400000001,04000000010400000001,4,3,[R].ATSQKKAVDVAKLGR.[A]
+Ddis_XP_643145,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K5(100); K6(100); K12(100)]",0400000001,04000000010400000001,8,3,[R].ATSQKKAVDVAKLGR.[A]
+Ddis_XP_643145,"2×Propionyl [K6; K12]; 2×PhosphoJoin [T2(100); S3(100)]; 1×Propionyl + Methyl [K5]; 2×Phospho [T2; S3]",0300000001,00000000010300000001,2,2,[R].ATSQKKAVDVAKLGR.[A]
+,"3×Trimethyl [K15; K16; K22]; Propionyl [K]; Propionyl + Methyl [K]; 1×Acetyl [K8]; 2×Phospho [S19; T20]; 2×PhosphoJoin [S19; T20]","","",8,1,
+,"2×Crotonyl [K]; 2×Trimethyl [K2; K9]; 1×PhosphoJoin [S4]; 2×Propionyl + Methyl [K10; K12]; 1×Dimethyl [K]; 1×Phospho [S4]","","",6,1,
+Ddis_XP_645886,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]",0300000001,03000000010000000001,6,2,[R].KTLKKHR.[K]
+,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K6(100); K9(100); K25(100); K31(100)]","","",2,1,
+Ddis_XP_638466,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K4(100); K6(100)]",0300000001,03000000010000000001,2,2,[R].QDKKDKSR.[A]
+Ddis_XP_629104,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0400000001,03000000010400000001,4,3,[R].NSESIKTTETTTTR.[K]
+Ddis_XP_643811,"1×Propionyl [K5(100)]",0400000001,04000000010400000001,8,3,[RK].AIAIKR.[NA]
+Ddis_XP_629876,"4×Propionyl [K2(100); K7(100); K10(100); K14(100)]",0400000001,04000000010400000001,4,3,[R].RKAAEIKAAKAAEK.[-]
+Ddis_XP_629876,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Propionyl + Methyl [K2]; 1×Acetyl [K7]",0400000001,04000000010400000001,10,3,[R].RKAAEIKAAKAAEK.[-]
+,"2×Trimethyl [K28; K]; 1×Dimethyl [K7]; 1×Phospho [S16]; 1×PhosphoJoin [S16]","","",4,1,
+,"1×Dimethyl [K13]; 2×Phospho [T]; 1×Acetyl [K1(100)]; 1×Propionyl + Methyl [K]","","",14,1,
+Ddis_XP_637926,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]",0400000001,00000000010400000001,6,3,[R].AAQKKRDIIQSNIQKENEKQQDR.[K]
+Ddis_XP_637926,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K4(100); K5(100); K15(100); K19(100)]",0400000001,00000000010400000001,2,3,[R].AAQKKRDIIQSNIQKENEKQQDR.[K]
+Ddis_XP_638424,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0300000001,03000000010300000001,4,2,[R].LEQQHLKSNR.[Q]
+,"1×Trimethyl [K19]; 1×Propionyl [K3]; 3×Propionyl + Methyl [K1; K21; K23]; 1×Phenylisocyanate [N-Term]; 4×Phospho [T/S]; 4×PhosphoJoin [T/S]","","",4,1,
+Ddis_XP_640068,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0400000001,04000000010400000001,8,3,[R].VKTTSTVSSSSSSSTTTTSR.[L]
+,"1×Propionyl [K3(100)]","","",4,3,
+,"2×Crotonyl [K33; K]; 1×PhosphoJoin [T3]; 1×Dimethyl [K]; 1×Phospho [T3]","","",8,1,
+,"1×Crotonyl [K33]; 1×Trimethyl [K4]; 1×PhosphoJoin [T3]; 1×Propionyl [K7]; 1×Phospho [T3]","","",2,1,
+Ddis_XP_638767,"Propionyl [K]; Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; Acetyl [K]",0400000001,04000000010400000001,24,3,[R].RNTKDVKAATTTTNTDATTNTAAASTAAAPATKTSKPKRER.[R]
+,"1×Trimethyl [K]; 1×PhosphoJoin [T11]; Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T11]; 2×Dimethyl [K4; K7]","","",8,1,
+Ddis_XP_638767,"3×Propionyl [K33; K36; K38]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T10; T]; 1×PhosphoJoin [T10; T]; 1×Dimethyl [K]; 1×Acetyl [K]",0300000001,00000000010300000001,8,2,[R].RNTKDVKAATTTTNTDATTNTAAASTAAAPATKTSKPKRER.[R]
+Ddis_XP_638090,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K9(100)]",0400000001,03000000010400000001,4,3,[R].QHQAKINLKR.[K]
+,"1×Trimethyl [K9]; 6×PhosphoJoin [S14; S16; S18; S19; S20; S22]; Propionyl [K]; Propionyl + Methyl [K]; Acetyl [K]; 1×Dimethyl [K]; 6×Phospho [S14; S16; S18; S19; S20; S22]","","",18,1,
+,"2×Trimethyl [K5; K9]; 6×PhosphoJoin [S14; S16; S18; S19; S20; S22]; 2×Propionyl [K4; K32]; 2×Propionyl + Methyl [K10; K27]; 1×Acetyl [K1]; 6×Phospho [S14; S16; S18; S19; S20; S22]","","",2,1,
+Ddis_XP_641354,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,04000000010400000001,6,3,[R].INKSNNQNNPDR.[I]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K9(100)]","","",6,1,
+Ddis_XP_646256,"1×Propionyl [K1]",0300000001,03000000010000000001,2,2,[K].KSVRKDSER.[K]
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].ISFPIYEETR.[N]
+Ddis_XP_645463,"2×Propionyl [K6(100); K11(100)]",0400000001,04000000010400000001,6,3,[R].VSELLKSGLDKR.[A]
+"Ddis_XP_647136; Ddis_XP_641203","1×Trimethyl [K3]; 2×Propionyl [K1; K4]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K6]",0300000001,03000000010000000001,2,2,[KR].KEKKGK.[E-]
+"Ddis_XP_647136; Ddis_XP_641203","1×Phenylisocyanate [N-Term]; 4×Propionyl [K1(100); K3(100); K4(100); K6(100)]",0300000001,00000000010300000001,2,2,[KR].KEKKGK.[E-]
+Ddis_XP_641729,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].NEQIAAHVTVR.[G]
+,"1×PhosphoJoin [S11]; 1×Propionyl [K3]; 1×Propionyl + Methyl [K12]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K8]; 1×Phospho [S11]","","",2,1,
+Ddis_XP_647818,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K6(100)]",0400000001,00000000010400000001,2,3,[R].SAIKYKDVR.[K]
+Ddis_XP_640998,"Propionyl [K]; 1×Propionyl + Methyl [K7]; 1×Acetyl [K8]",0400000001,04000000010400000001,4,3,[R].SVKVSSKKVVAK.[-]
+Ddis_XP_636069,"1×Propionyl [K1]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K5]",0300000001,03000000010000000001,2,2,[R].KGAAKR.[M]
+Ddis_XP_638148,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].GAVTQVR.[V]
+Ddis_XP_636778,"Propionyl [K]; 1×Propionyl + Methyl [K5]; 1×Acetyl [K6]",0400000001,00000000010400000001,4,3,[R].AVYSKKSSSKIPTDLR.[Y]
+,"1×Crotonyl [K23]; 2×PhosphoJoin [T8; T14]; 3×Propionyl [K11; K13; K17]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K5; K7; K28]; 2×Phospho [T8; T14]","","",2,1,
+Ddis_XP_635722,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K3(100)]",0300000001,00000000010300000001,2,2,[R].EKKLNPER.[T]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Propionyl [K7(100)]",0400000001,03000000010400000001,4,3,[R].EIAQEFKTDLR.[F]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Phenylisocyanate [N-Term]; 1×Dimethyl [K7]",0400000001,03000000010400000001,4,3,[R].EIAQEFKTDLR.[F]
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0400000001,04000000010400000001,4,3,[R].EIAQEFKTDLR.[F]
+,"1×Crotonyl [K1]; 1×Trimethyl [K4]; 1×Propionyl [K14]; 1×Phenylisocyanate [N-Term]; 3×Acetyl [K8; K11; K12]","","",2,1,
+,"1×Trimethyl [K28]; 2×PhosphoJoin [S9; S11]; 2×Propionyl [K12; K14]; 2×Propionyl + Methyl [K19; K26]; 2×Phospho [S9; S11]","","",2,1,
+,"4×Propionyl [K14; K15; K19; K26]; 1×Propionyl + Methyl [K3]; 4×Phospho [T4; T6; T7; T23]; 4×PhosphoJoin [T4; T6; T7; T23]","","",2,1,
+Ddis_XP_640928,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].TPINGQTQLQNQQQNQQQNQQQQQNQQFR.[K]
+,"1×Propionyl [K2(100)]","","",4,1,
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0400000001,04000000010000000001,2,3,[R].LKVPPTINQFTR.[V]
+Ddis_XP_629921,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].VSTTVPR.[A]
+Ddis_XP_637885,"1×Crotonyl [K2]; 2×Propionyl [K5; K6]; 1×Dimethyl [K11]; 2×Acetyl [K8; K9]",0300000001,00000000010300000001,2,2,[K].DKKDKKEKKDK.[K]
+Ddis_XP_640068,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K10(100)]",0400000001,03000000010400000001,4,3,[R].SNTPVNSTIKQTSTTPTSSPR.[V]
+"CON_007264311; Ddis_XP_640258","1×Propionyl [K6(100)]",0400000001,04000000010300000001,4,3,[R].LIFAGKQLEDGR.[T]
+Ddis_XP_636512,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].LDQATTR.[L]
+Ddis_XP_642934,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].GGSISLNSR.[N]
+Ddis_XP_647082,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K22(100)]",0400000001,04000000010000000001,2,3,[R].QGASSGPQSSVSTYTPTTDSGKQAPAGGNNDGFR.[R]
+Ddis_XP_643145,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0300000001,03000000010000000001,2,2,[R].GHLKIDGQR.[I]
+Ddis_XP_640068,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].LGSTTTTTSSTTVTSSPSR.[V]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K9(100)]","","",6,1,
+Ddis_XP_644806,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K14(100)]",0400000001,04000000010400000001,4,3,[R].TTSSNNITDSPVSKGR.[N]
+,"1×Crotonyl [K31]; 4×Trimethyl [K4; K34; K37; K40]; 1×Phenylisocyanate [N-Term]; 2×Phospho [T12; T14]; 2×PhosphoJoin [T12; T14]","","",2,1,
+,"2×Crotonyl [K7; K33]; 4×Trimethyl [K5; K35; K38; K41]; 1×Phospho [T15]; 1×PhosphoJoin [T15]","","",2,1,
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K8(100)]","","",6,1,
+,"1×Crotonyl [K5]; 1×Propionyl [K3]; 1×Phenylisocyanate [N-Term]","","",2,1,
+,"1×Crotonyl [K]; 1×Trimethyl [K]; 1×Dimethyl [K13]; 1×PhosphoJoin [S6(100)]; 1×Propionyl [K1(100)]; 1×Phospho [S6]","","",4,1,
+,"2×Propionyl [K3(100); K4(100)]","","",2,3,
+Ddis_XP_638307,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0300000001,03000000010000000001,2,2,[R].RFKGGVGR.[T]
+Ddis_XP_647663,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K12(100); K15(100); K27(100)]",0400000001,04000000010000000001,2,3,[R].DGNNNNTNSDNKDNKYPPDPVYDAHQKR.[I]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K27(100)]; 2×Crotonyl [K12(100); K15(100)]","","",2,1,
+,"1×Phenylisocyanate [N-Term]","","",2,1,
+Ddis_XP_646127,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0300000001,03000000010300000001,4,2,[R].LQQKQQR.[Q]
+Ddis_XP_645130,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].NFGPGSR.[T]
+,"1×Crotonyl [K26]; 2×Trimethyl [K8; K9]; 3×Propionyl + Methyl [K19; K21; K24]; 1×Phenylisocyanate [N-Term]; 2×Acetyl [K13; K15]","","",2,1,
+Ddis_XP_645463,"2×Propionyl [K7(100); K12(100)]",0300000001,00000000010300000001,2,2,[R].RVSELLKSGLDKR.[A]
+Ddis_XP_645463,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K7(100); K12(100)]",0400000001,03000000010400000001,12,3,[R].RVSELLKSGLDKR.[A]
+,"1×Trimethyl [K]; 2×PhosphoJoin [T/S]; 1×Propionyl [K31]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K29; K35; K]; 2×Phospho [T/S]","","",8,1,
+,"2×Crotonyl [K7; K26]; 1×Trimethyl [K37]; 1×PhosphoJoin [T12]; 2×Dimethyl [K6; K38]; 1×Phospho [T12]","","",2,1,
+Ddis_XP_641286,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0300000001,03000000010000000001,2,2,[R].VHDPSKSISSAVR.[K]
+,"2×Crotonyl [K]; 3×PhosphoJoin [S]; 2×Propionyl [K1; K32]; 2×Propionyl + Methyl [K2; K]; 1×Phenylisocyanate [N-Term]; 3×Phospho [S]","","",20,1,
+,"2×Crotonyl [K23; K]; 2×Trimethyl [K2; K]; 3×PhosphoJoin [S3; S4; S5]; 3×Propionyl [K1; K30; K32]; 1×Phenylisocyanate [N-Term]; 3×Phospho [S3; S4; S5]","","",4,1,
+,"1×Trimethyl [K]; 1×PhosphoJoin [S]; 2×Propionyl [K33; K39]; 3×Propionyl + Methyl [K4; K5; K]; 1×Dimethyl [K26]; 1×Phospho [S]","","",10,1,
+Ddis_XP_641888,"1×Propionyl [K4(100)]",0400000001,00000000010400000001,2,3,[R].ENQKDVENIGR.[F]
+Ddis_XP_641888,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,03000000010400000001,4,3,[R].ENQKDVENIGR.[F]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl + Methyl [K15(100)]; 1×Propionyl [K21(100)]","","",2,1,
+,"1×Phenylisocyanate [N-Term]; 1×Dimethyl [K9]","","",4,1,
+Ddis_XP_635352|Histone_H3,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K9(100)]",0400000001,00000000010400000001,2,3,[R].ETIVTTPTKTPPSTR.[S]
+Ddis_XP_640597,"2×Propionyl [K1; K3]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K4]",0300000001,03000000010000000001,2,2,[K].KEKKQR.[L]
+,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]","","",20,1,
+,"1×Crotonyl [K3]; 2×Propionyl [K15; K17]; 3×Propionyl + Methyl [K25; K32; K33]; 1×Dimethyl [K23]; 2×Phospho [S1; T9]; 2×PhosphoJoin [S1; T9]","","",2,1,
+Ddis_XP_638767,"1×Phenylisocyanate [N-Term]; 5×Propionyl [K4(100); K7(100); K33(100); K36(100); K38(100)]",0400000001,04000000010000000001,2,3,[R].RNTKDVKAATTTTNTDATTNTAAASTAAAPATKTSKPKR.[E]
+,"1×Crotonyl [K]; 1×Trimethyl [K38]; 1×PhosphoJoin [T21]; 2×Propionyl [K4; K7]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T21]","","",4,1,
+,"1×Crotonyl [K]; 3×Propionyl [K4; K7; K38]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]","","",4,1,
+Ddis_XP_629876,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,04000000010400000001,6,3,[R].RVNKTQQSLTLNTQR.[L]
+,"2×PhosphoJoin [S17; T22]; 3×Propionyl [K28; K29; K33]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K7; K13; K25]; 1×Acetyl [K1]; 2×Phospho [S17; T22]","","",4,1,
+Ddis_XP_646078,"1×Phenylisocyanate [N-Term]; 1×Dimethyl [K12]; 1×Propionyl [K1(100)]",0300000001,00000000010300000001,2,2,[K].KDDSSKLPTDEK.[K]
+,"1×Crotonyl [K7]; 2×Trimethyl [K9; K23]; 1×Propionyl [K]; 3×Dimethyl [K15; K22; K]; 1×Phospho [S1]; 1×PhosphoJoin [S1]","","",4,1,
+Ddis_XP_644762,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Dimethyl [K]; 1×Trimethyl [K]; 1×Acetyl [K10; K]",0400000001,00000000010400000001,16,3,[R].NVAAVAGFGKKKGYNTQNVPTVA.[-]
+Ddis_XP_644762,"3×Propionyl + Methyl [K10(100); K11(100); K12(100)]",0400000001,00000000010400000001,2,3,[R].NVAAVAGFGKKKGYNTQNVPTVA.[-]
+Ddis_XP_644762,"1×Trimethyl [K]; Propionyl [K]; 1×Phenylisocyanate [N-Term]; 1×Propionyl + Methyl [K]; 1×Dimethyl [K]",0400000001,04000000010400000001,28,3,[R].NVAAVAGFGKKKGYNTQNVPTVA.[-]
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl + Methyl [K10(100); K11(100); K12(100)]","","",8,1,
+,"1×Crotonyl [K]; 2×Trimethyl [K]; 1×PhosphoJoin [T16]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T16]","","",6,1,
+Ddis_XP_645463,"3×Propionyl [K7(100); K8(100); K13(100)]",0400000001,04000000010400000001,4,3,[R].TVTSTFKKQVVTKR.[V]
+Ddis_XP_645463,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K7(100); K8(100); K13(100)]",0400000001,04000000010400000001,8,3,[R].TVTSTFKKQVVTKR.[V]
+Ddis_XP_647577|Histone_H3,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[K].DIHLAR.[R]
+Ddis_XP_638767,"2×Propionyl [K3(100); K31(100)]",0300000001,00000000010300000001,2,2,[R].TPKPTSTTTGENATTESTEASPTLNGNTTTKR.[R]
+Ddis_XP_638767,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K31(100)]",0300000001,03000000010000000001,2,2,[R].TPKPTSTTTGENATTESTEASPTLNGNTTTKR.[R]
+,"2×PhosphoJoin [T/S]; 1×Propionyl [K31]; 1×Propionyl + Methyl [K3]; 2×Phospho [T/S]","","",12,1,
+,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]; Propionyl [K]","","",8,1,
+Ddis_XP_635106,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].ASQALTNVR.[N]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]","","",2,1,
+,"1×Propionyl [K18]; 3×Propionyl + Methyl [K14; K17; K23]; 2×Dimethyl [K2; K32]; 1×Phospho [S27]; 1×PhosphoJoin [S27]","","",2,1,
+Ddis_XP_629475,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K21(100); K24(100); K25(100)]",0400000001,00000000010400000001,2,3,[R].TQFATGLDPTPLSPTLDGESKPEKKESNQERER.[K]
+,"2×Propionyl [K2(100); K2(100)]","","",2,1,
+,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]","","",6,1,
+Ddis_XP_639980,"1×Crotonyl [K]; 1×PhosphoJoin [S12]; 2×Propionyl [K29; K30]; 2×Propionyl + Methyl [K]; 1×Phospho [S12]",0400000001,00000000010400000001,6,3,[R].GRPKKPKDENESDYNNTSFSDSNTDGTPKKR.[G]
+Ddis_XP_639980,"1×Crotonyl [K]; 1×Trimethyl [K]; 3×Propionyl + Methyl [K5; K]; 1×Phospho [S12]; 1×PhosphoJoin [S12]",0400000001,00000000010400000001,4,3,[R].GRPKKPKDENESDYNNTSFSDSNTDGTPKKR.[G]
+,"1×Trimethyl [K]; 1×PhosphoJoin [S12]; 4×Propionyl + Methyl [K4; K5; K7; K]; 1×Phospho [S12]","","",4,1,
+,"1×Trimethyl [K]; 3×Propionyl [K7; K29; K30]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Phospho [S/T]; 1×PhosphoJoin [S/T]","","",20,1,
+,"1×Crotonyl [K8]; 1×Trimethyl [K]; 2×Propionyl [K5; K6]","","",4,1,
+,"2×Trimethyl [K7; K8]; 2×Acetyl [K14; K21]; 1×Phospho [T17]; 1×PhosphoJoin [T17]","","",2,1,
+Ddis_XP_642958|Histone_H4,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K2(100); K3(100); K6(100); K14(100)]",0300000001,00000000010300000001,2,2,[R].HKKTQKEHINGITKPAIRR.[L]
+Ddis_XP_646440,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K4(100); K8(100)]",0400000001,03000000010400000001,4,3,[R].KVSKSIEKNR.[G]
+Ddis_XP_647082,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K22(100)]",0400000001,04000000010000000001,2,3,[R].TGASSGPQSSVSTYTPTNDSGKQAPAGGNQDGFR.[R]
+,"2×Trimethyl [K11; K]; 1×PhosphoJoin [S21]; 1×Propionyl + Methyl [K]; 1×Dimethyl [K19]; 1×Acetyl [K]; 2×Propionyl [K33; K34]; 1×Phospho [S21]","","",20,1,
+Ddis_XP_643708,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K12(100)]",0400000001,04000000010400000001,4,3,[R].QAQIALQQQQEKQR.[LQ]
+,"3×PhosphoJoin [T2; T7; S11]; 1×Propionyl [K10]; 3×Acetyl [K20; K25; K27]; 3×Phospho [T2; T7; S11]","","",2,1,
+,"Propionyl [K]; Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; Acetyl [K]; 5×Phospho [S4; S5; S8; S12; T16]; 5×PhosphoJoin [S4; S5; S8; S12; T16]","","",6,1,
+Ddis_XP_642308,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K7(100)]",0300000001,00000000010300000001,2,2,[R].KIREQQKQAEIR.[R]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K7(100)]","","",4,1,
+Ddis_XP_644082,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K9(100)]",0300000001,03000000010300000001,6,2,[R].VENEKDAPKR.[G]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K4(100)]","","",4,1,
+Ddis_XP_647262,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].LTLQQEEHR.[I]
+Ddis_XP_642566,"3×Propionyl [K5(100); K11(100); K14(100)]",0400000001,00000000010400000001,2,3,[R].AATPKGQAAPKAEKPVQHLR.[F]
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K5(100); K11(100); K14(100)]",0400000001,03000000010400000001,8,3,[R].AATPKGQAAPKAEKPVQHLR.[F]
+Ddis_XP_645351,"5×Propionyl [K2(100); K5(100); K6(100); K7(100); K10(100)]",0400000001,04000000010400000001,4,3,[R].TKIVKKKTTKFNR.[F]
+,"1×Propionyl [K7]; 1×Dimethyl [K9]; 1×PhosphoJoin [T6(100)]; 1×Phospho [T6]","","",2,1,
+Ddis_XP_640582,"1×Propionyl [K1(100)]",0400000001,04000000010000000001,2,3,[R].KPVVVHSR.[S]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]","","",6,1,
+Ddis_XP_645064,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].NTVVFHR.[Y]
+Ddis_XP_641988,"1×Crotonyl [K2]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K3]",0300000001,00000000010300000001,2,2,[K].GKKIAVR.[L]
+Ddis_XP_646757,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K12(100)]",0400000001,04000000010400000001,4,3,[R].TTSPVNDNTANKQFR.[N]
+,"3×Crotonyl [K17; K41; K]; 1×Trimethyl [K11]; 2×Propionyl + Methyl [K22; K35]; 1×Acetyl [K]; 1×Phospho [S23]; 1×PhosphoJoin [S23]","","",4,1,
+,"1×Trimethyl [K37]; 1×Propionyl [K8]; 1×Propionyl + Methyl [K16]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T]; 1×PhosphoJoin [T]","","",4,1,
+Ddis_XP_641041,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K10(100)]",0400000001,04000000010300000001,4,3,[R].QKSQIAPAEKDR.[S]
+Ddis_XP_643949,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K9(100)]",0400000001,04000000010400000001,6,3,[R].KSFNNNGEKNNNPER.[K]
+Ddis_XP_635871,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].IANGPVR.[G]
+Ddis_XP_636109,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K6(100); K9(100); K10(100)]",0400000001,04000000010300000001,6,3,[R].IASHSKSQKKIEER.[I]
+Ddis_XP_629007,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K4(100)]",0400000001,04000000010300000001,4,3,[R].AQKKIER.[E]
+,"1×Phenylisocyanate [N-Term]","","",2,1,
+,"2×Propionyl [K7; K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K12]; 1×Phospho [S8]; 1×PhosphoJoin [S8]","","",4,1,
+,"1×Trimethyl [K2]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K5; K11; K13]; 1×Acetyl [K7]","","",2,1,
+Ddis_XP_002649155,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0300000001,00000000010300000001,2,2,[R].RHGFLKR.[M]
+Ddis_XP_641053,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K11(100)]",0400000001,04000000010400000001,4,3,[R].QLNDPNSSTLKNR.[I]
+Ddis_XP_636512,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].GSAEFYTNR.[I]
+,"4×Propionyl [K1; K6; K19; K20]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K10]","","",2,1,
+,"Propionyl [K]; Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]; 1×Acetyl [K]; 1×Trimethyl [K]","","",36,1,
+Ddis_XP_646792|Histone_H3,"1×Phenylisocyanate [N-Term]; 5×Propionyl [K1(100); K6(100); K10(100); K19(100); K20(100)]",0300000001,03000000010000000001,2,2,[R].KHLGNKSSQKSFPSTQGLKKTHR.[F]
+Ddis_XP_646792|Histone_H3,"1×Phenylisocyanate [N-Term]; 1×Propionyl + Methyl [K]; 4×Propionyl [K1(100); K6(100); K10(100); K]",0400000001,04000000010400000001,6,3,[R].KHLGNKSSQKSFPSTQGLKKTHR.[F]
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K2(100); K4(100)]","","",4,1,
+Ddis_XP_640309,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K10(100); K14(100)]",0400000001,00000000010400000001,2,3,[R].NTPTPTIPDKGQPKQR.[Q]
+,"Trimethyl [K]; 1×Phenylisocyanate [N-Term]; Dimethyl [K]; 1×Acetyl [K]; 1×Propionyl [K16]","","",6,1,
+Ddis_XP_645990,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K1(100); K2(100); K10(100); K12(100)]",0400000001,04000000010400000001,6,3,[R].KKQHAADLAKEKR.[E]
+Ddis_XP_640698,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K7(100); K10(100)]",0400000001,04000000010400000001,6,3,[R].GDMQEVKAHKNPR.[Q]
+Ddis_XP_637255,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K2(100); K5(100)]",0400000001,03000000010400000001,4,3,[R].KKIDKHAER.[K]
+,"1×Propionyl [K]; 1×Propionyl + Methyl [K16]; 1×Phenylisocyanate [N-Term]; Dimethyl [K]; 1×Trimethyl [K14]; 1×Acetyl [K11]","","",6,1,
+,"3×Trimethyl [K3; K6; K15]; 2×Propionyl + Methyl [K18; K22]; 1×Acetyl [K12]","","",2,1,
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K5(100); K8(100); K9(100)]","","",4,1,
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]","","",2,1,
+Ddis_XP_646440,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K9(100)]",0400000001,04000000010400000001,6,3,[R].KDTSYTGTKSINTNSR.[R]
+Ddis_XP_647187,"2×Propionyl [K2(100); K5(100)]",0400000001,00000000010400000001,2,3,[R].NKDAKEIR.[I]
+Ddis_XP_647187,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K5(100)]",0300000001,00000000010300000001,2,2,[R].NKDAKEIR.[I]
+Ddis_XP_637145,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K3(100)]",0300000001,03000000010000000001,2,2,[R].KGKQALQER.[Q]
+,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K1(100); K6(100); K9(100); K13(100)]","","",14,1,
+,"2×Crotonyl [K12; K13]; 5×PhosphoJoin [T2; T9; S16; T17; T19]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K3]; 1×Acetyl [K6]; 5×Phospho [T2; T9; S16; T17; T19]","","",2,1,
+Ddis_XP_643911,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].DQQALLER.[S]
+,"1×Crotonyl [K15]; 1×PhosphoJoin [S/T]; 1×Propionyl [K14]; 2×Acetyl [K7; K8]; 1×Phospho [S/T]","","",4,1,
+,"1×Trimethyl [K3]; 2×PhosphoJoin [S8; S12]; 1×Propionyl [K5]; 1×Propionyl + Methyl [K14]; 1×Phenylisocyanate [N-Term]; 2×Phospho [S8; S12]","","",2,1,
+Ddis_XP_643105,"2×Propionyl [K2; K25]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K19]",0400000001,00000000010400000001,2,3,[R].EKFEAQSNEAESSPPPNRKPPPPNKR.[V]
+Ddis_XP_643105,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K2(100); K19(100); K25(100)]",0400000001,03000000010400000001,4,3,[R].EKFEAQSNEAESSPPPNRKPPPPNKR.[V]
+Ddis_XP_643105,"1×Phenylisocyanate [N-Term]; 1×Propionyl + Methyl [K19(100)]; 2×Propionyl [K2(100); K25(100)]",0400000001,04000000010000000001,2,3,[R].EKFEAQSNEAESSPPPNRKPPPPNKR.[V]
+Ddis_XP_629960,"2×Propionyl [K6(100); K6(100)]",0400000001,04000000010000000001,2,3,[M].TLGGLKPEVHAANDEIR.[Q]
+Ddis_XP_644913,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K7(100); K9(100)]",0400000001,04000000010400000001,4,3,[R].ITPEEAKFKLAR.[V]
+Ddis_XP_636778,"3×Propionyl [K5(100); K11(100); K14(100)]",0400000001,00000000010400000001,2,3,[R].VAQVKSPNPSKLAKIGTVR.[K]
+Ddis_XP_636778,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K5(100); K11(100); K14(100)]",0400000001,04000000010400000001,6,3,[R].VAQVKSPNPSKLAKIGTVR.[K]
+Ddis_XP_642766,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K6(100)]",0300000001,03000000010000000001,2,2,[R].TRALKKR.[L]
+Ddis_XP_629681,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,00000000010400000001,2,3,[R].SSKSSGSSSSR.[S]
+Ddis_XP_001134610,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K12(100)]",0300000001,03000000010000000001,2,2,[R].RVNAQHVVALNK.[-]
+Ddis_XP_643145,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0300000001,03000000010000000001,2,2,[R].GINGVSPKPR.[K]
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K3(100); K5(100)]","","",10,1,
+Ddis_XP_629945,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K9(100)]",0400000001,04000000010000000001,2,3,[R].LIEEHEANKR.[A]
+Ddis_XP_647818,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,03000000010400000001,4,3,[R].SVKVTGPR.[G]
+Ddis_XP_641675,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0300000001,03000000010300000001,4,2,[K].KVAEGLGNAHR.[G]
+,"1×Trimethyl [K]; 1×PhosphoJoin [T15]; 1×Phenylisocyanate [N-Term]; Dimethyl [K]; 1×Acetyl [K]; 1×Phospho [T15]; 1×Propionyl [K]","","",18,1,
+Ddis_XP_639947,"6×Propionyl [K3(100); K4(100); K5(100); K6(100); K9(100); ]",0300000001,00000000010300000001,2,2,[M].GQKKKKLAKGR.[L]
+,"2×Crotonyl [K9; K31]; Trimethyl [K]; 3×PhosphoJoin [S3; S7; T14]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]; Dimethyl [K]; 3×Phospho [S3; S7; T14]; 1×Propionyl [K]","","",18,1,
+Ddis_XP_643609,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0300000001,00000000010300000001,2,2,[R].TSSEVSIKPR.[I]
+Ddis_XP_629151,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,03000000010400000001,4,3,[R].AGAKNVVDTR.[I]
+Ddis_XP_640582,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K4(100); K7(100)]",0300000001,03000000010300000001,4,2,[R].EAKKIDKHSYR.[E]
+,"1×Trimethyl [K4]; 2×PhosphoJoin [S2; S15]; 3×Propionyl [N-Term; K8; K]; 1×Propionyl + Methyl [K]; 2×Phospho [S2; S15]","","",4,1,
+Ddis_XP_643517,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K4(100); K5(100); K6(100)]",0300000001,03000000010300000001,4,2,[R].DGLKKKQEEHER.[K]
+,"1×Trimethyl [K17]; 1×Propionyl + Methyl [K6]; 1×Phenylisocyanate [N-Term]; 1×Phospho [S2]; 1×PhosphoJoin [S2]","","",2,1,
+,"2×Trimethyl [K1; K2]; 1×Propionyl + Methyl [K13]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K11; K15]","","",2,1,
+,"1×Crotonyl [K6]; 3×Trimethyl [K27; K]; 1×PhosphoJoin [S]; 1×Propionyl [K39]; 1×Phenylisocyanate [N-Term]; 1×Phospho [S]","","",12,1,
+,"2×Crotonyl [K]; 3×Propionyl [K29; K32; K39]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]","","",12,1,
+,"2×Trimethyl [K29; K]; 1×PhosphoJoin [S]; 2×Propionyl [K32; K39]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K]; 1×Phospho [S]","","",12,1,
+,"2×Crotonyl [K24; K]; 2×Trimethyl [K6; K23]; 2×Propionyl [K32; K39]; 1×Phenylisocyanate [N-Term]","","",4,1,
+,"3×Crotonyl [K27; K29; K]; 1×PhosphoJoin [S/T]; 3×Propionyl [K6; K32; K39]; 1×Acetyl [K]; 1×Phospho [S/T]","","",20,1,
+Ddis_XP_636431,"1×Acetyl [K5(100)]; 2×Propionyl [K16(100); K]",0400000001,04000000010400000001,6,3,[M].SATQKQSDVDIALTSKR.[I]
+Ddis_XP_636431,"1×PhosphoJoin [S1; T]; 2×Propionyl [K5(100); K16(100)]; 1×Phospho [S1; T]",0400000001,00000000010400000001,2,3,[M].SATQKQSDVDIALTSKR.[I]
+Ddis_XP_646371,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].HEGVFIVR.[G]
+,"3×Crotonyl [K8; K24; K30]; 2×Propionyl + Methyl [K2; K5]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K12]; 1×Phospho [S/T]; 1×PhosphoJoin [T/S]","","",4,1,
+Ddis_XP_636571,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K4(100); K6(100)]",0300000001,00000000010300000001,2,2,[K].KLAKEKR.[Q]
+,"1×Crotonyl [K38]; 3×Propionyl [K18; K22; K24]; 2×Propionyl + Methyl [K3; K43]; 2×Dimethyl [K14; K29]; 1×Acetyl [K4]","","",2,1,
+Ddis_XP_629960,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0300000001,03000000010000000001,2,2,[K].VKTPAGFAHAR.[V]
+Ddis_XP_644432,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K6(100); K7(100)]",0400000001,04000000010000000001,2,3,[R].DEPVVKKR.[F]
+Ddis_XP_637722,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K7(100); K10(100)]",0400000001,04000000010400000001,4,3,[R].TTSNATKIVKTPGGR.[L]
+Ddis_XP_640870,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K10(100); K14(100)]",0300000001,00000000010300000001,2,2,[R].SRSSLAAATKTVAKTPTR.[S]
+Ddis_XP_641984,"Propionyl [K]; 1×Propionyl + Methyl [K6; K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K5; K]",0300000001,03000000010000000001,2,2,[K].KRAEKKEKQAGAAAEADR.[M]
+Ddis_XP_641984,"3×Propionyl [K3(100); K4(100); K6(100)]",0400000001,00000000010400000001,2,3,[R].AEKKEKQAGAAAEADR.[M]
+Ddis_XP_641984,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]",0400000001,04000000010400000001,10,3,[R].AEKKEKQAGAAAEADR.[M]
+Ddis_XP_646371,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].NHSLVIGVYR.[K]
+,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K2(100); K3(100); K4(100); K6(100)]","","",4,1,
+Ddis_XP_642037,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,04000000010400000001,4,3,[K].ALDKEGHGTIQGAELR.[Q]
+,"2×Trimethyl [K7; K13]; 1×Propionyl [K]; 1×Dimethyl [K]; 1×Phospho [T11]; 1×PhosphoJoin [T11]","","",4,1,
+Ddis_XP_635999,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,03000000010400000001,4,3,[R].VESQKHLGLASTSPLAGGRPGR.[R]
+,"2×Crotonyl [K18; K21]; 1×PhosphoJoin [S13]; 1×Propionyl + Methyl [K8]; 1×Acetyl [K]; 1×Phospho [S13]","","",4,1,
+,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K1(100); K3(100); K10(100); K11(100)]","","",4,1,
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]","","",4,2,
+CON_006945611,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].LAQLER.[A]
+,"1×Propionyl [N-Term]; 1×Acetyl [K3(100)]","","",4,1,
+Ddis_XP_636800,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0400000001,04000000010400000001,4,3,[R].TKGEAGTGDVVEAVR.[H]
+Ddis_XP_647549,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].AAAIEGR.[E]
+Ddis_XP_636778,"2×Propionyl [K5(100); K/A]; 1×Acetyl [K3(100)]",0300000001,03000000010300000001,4,2,[M].AEKTKAFELR.[T]
+Ddis_XP_636778,"3×Propionyl [K3(100); K5(100); ]",0400000001,03000000010400000001,4,3,[M].AEKTKAFELR.[T]
+Ddis_XP_636778,"2×Propionyl [N-Term; K5]; 1×Propionyl + Methyl [K3]",0400000001,00000000010400000001,2,3,[M].AEKTKAFELR.[T]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K9(100); K10(100)]","","",2,1,
+Ddis_XP_638261,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K6(100)]",0300000001,03000000010300000001,4,2,[R].AINKAKR.[K]
+Ddis_XP_645130,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K10(100)]",0400000001,04000000010400000001,4,3,[R].TDAEAIGFNKYR.[-]
+Ddis_XP_002649155,"1×Propionyl [K5(100)]",0400000001,00000000010400000001,2,3,[R].HGFLKR.[M]
+Ddis_XP_638611,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K8(100); K9(100)]; 1×Propionyl + Methyl [K8]; 1×Acetyl [K9]",0400000001,03000000010400000001,6,3,[R].DNPGAVTKKVR.[V]
+Ddis_XP_635732,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0300000001,03000000010000000001,2,2,[R].KQPFER.[K]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K10(100); K13(100)]","","",2,1,
+Ddis_XP_638071,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K5(100)]",0300000001,03000000010300000001,4,2,[R].ISGKKR.[S]
+Ddis_XP_636818,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0300000001,00000000010300000001,2,2,[R].GVPDAKIR.[I]
+Ddis_XP_641946,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0300000001,00000000010300000001,2,2,[R].EYTINLHKR.[L]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K10(100)]","","",6,1,
+,"Propionyl [K]; Dimethyl [K]; 1×Acetyl [K10]; 1×Phospho [S5]; 1×Trimethyl [K]; 1×PhosphoJoin [S5]","","",6,1,
+,"1×Trimethyl [K]; 1×Propionyl [K19]; 1×Dimethyl [K2]; 2×Phospho [S13; S16]; 2×PhosphoJoin [S13; S16]","","",10,1,
+Ddis_XP_642934,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K8(100); K13(100)]",0400000001,04000000010400000001,4,3,[R].AQAEQLTKNDPTKR.[A]
+Ddis_XP_640577,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,03000000010300000001,4,2,[R].ANTLKVR.[R]
+,"1×Crotonyl [K7]; 1×Trimethyl [K]; 2×Acetyl [K8; K10]","","",4,1,
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K8(100)]","","",6,1,
+Ddis_XP_629921,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K3(100)]",0300000001,03000000010300000001,4,2,[R].NKKIYR.[I]
+Ddis_XP_636030,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].GYSFTTTAER.[E]
+Ddis_XP_643105,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0400000001,04000000010400000001,4,3,[R].EKFEAQSNEAESSPPPNR.[K]
+Ddis_XP_639980,"1×Crotonyl [K]; 2×Propionyl [K30(100); K31(100)]",0400000001,00000000010400000001,6,3,[K].RGRPKKPKDENESDYNNTSFSDSNTDGTPKKR.[G]
+Ddis_XP_639980,"1×Trimethyl [K]; 2×Propionyl [K30; K31]; 1×Dimethyl [K]; 1×Phospho [S13]; 1×PhosphoJoin [S13]",0300000001,00000000010300000001,12,2,[K].RGRPKKPKDENESDYNNTSFSDSNTDGTPKKR.[G]
+,"1×Crotonyl [K]; 1×Trimethyl [K]; 1×PhosphoJoin [S13]; 2×Propionyl [K30; K31]; 1×Phospho [S13]","","",16,1,
+Ddis_XP_639980,"1×Crotonyl [K8; K]; 2×Propionyl [K30; K31]; 2×Dimethyl [K]; 1×Phospho [S13]; 1×PhosphoJoin [S13]",0300000001,00000000010300000001,4,2,[K].RGRPKKPKDENESDYNNTSFSDSNTDGTPKKR.[G]
+Ddis_XP_639980,"2×Propionyl [K30(100); K31(100)]; 3×Crotonyl [K5(100); K6(100); K8(100)]",0300000001,00000000010300000001,2,2,[K].RGRPKKPKDENESDYNNTSFSDSNTDGTPKKR.[G]
+Ddis_XP_639980,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Phospho [T18]; 1×Dimethyl [K]; Acetyl [K]; 1×PhosphoJoin [T18]; 1×Trimethyl [K8]",0300000001,00000000010300000001,16,2,[K].RGRPKKPKDENESDYNNTSFSDSNTDGTPKKR.[G]
+Ddis_XP_639980,"2×Trimethyl [K6; K8]; 2×Propionyl [K30; K31]; 1×Acetyl [K5]; 1×Phospho [T18]; 1×Propionyl + Methyl [K5]; 2×Dimethyl [K6; K8]; 1×PhosphoJoin [T18]",0300000001,00000000010300000001,4,2,[K].RGRPKKPKDENESDYNNTSFSDSNTDGTPKKR.[G]
+Ddis_XP_638090,"1×Propionyl + Methyl [K12]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K8]; Propionyl [K]",0400000001,04000000010300000001,4,3,[R].KQPTNAHKLLVKR.[Q]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]","","",6,1,
+Ddis_XP_642566,"Propionyl [K]; 1×Propionyl + Methyl [K6]; 1×Acetyl [K2]",0300000001,00000000010300000001,2,2,[R].QKAEAKESLAKSKI.[-]
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K2(100); K6(100); K11(100); K13(100)]",0400000001,04000000010000000001,2,3,[R].QKAEAKESLAKSKI.[-]
+Ddis_XP_629942,"2×Propionyl [K3(100); K11(100)]",0300000001,03000000010000000001,2,2,[R].NGKTIGADELKSVIR.[A]
+Ddis_XP_629942,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K11(100)]",0400000001,04000000010400000001,4,3,[R].NGKTIGADELKSVIR.[A]
+,"3×Propionyl [K8(100); K13(100); K17(100)]","","",2,1,
+Ddis_XP_646440,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K8(100); K13(100); K17(100)]",0400000001,04000000010300000001,6,3,[R].TNNFDTSKDFSHKEGDKR.[K]
+Ddis_XP_637293,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K6(100)]",0300000001,03000000010000000001,2,2,[K].KALVEKR.[F]
+Ddis_XP_629009,"3×Propionyl [K1; K2; K5]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K6]",0300000001,03000000010000000001,2,2,[K].KKNNKK.[V]
+,"1×Trimethyl [K7]; 3×PhosphoJoin [S]; 1×Propionyl [K]; 3×Phospho [S]","","",4,1,
+,"2×Propionyl [K10(100); K]; 1×Acetyl [K]","","",6,1,
+Ddis_XP_643145,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K10(100)]",0400000001,04000000010400000001,4,3,[R].AEKYVSEYHKTER.[E]
+Ddis_XP_644913,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0400000001,03000000010400000001,8,3,[R].EKHPGSFDIVHVTDTAGHQFATR.[L]
+,"1×Phenylisocyanate [N-Term]; 1×Dimethyl [K7]; 1×Propionyl [K4(100)]","","",2,1,
+Ddis_XP_640309,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].DLNSPSTFR.[S]
+Ddis_XP_637163,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].GTSDSAPLTSADDLVTR.[N]
+,"1×Crotonyl [K7]; 1×Trimethyl [K10]","","",2,1,
+"Ddis_XP_646792|Histone_H3; Ddis_XP_647577|Histone_H3","1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,8,2,[R].FRPGTVALR.[E]
+Ddis_XP_646786,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K4(100)]",0300000001,00000000010300000001,2,2,[R].TKTKALPR.[A]
+Ddis_XP_640582,"3×Propionyl [K4(100); K7(100); ]",0400000001,04000000010400000001,4,3,[M].VSLKLQKR.[L]
+Ddis_XP_639076,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K10(100); K19(100)]",0300000001,00000000010300000001,2,2,[R].IAQNQLDGLKDDHDNERVKVR.[E]
+Ddis_XP_645064,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0400000001,04000000010400000001,4,3,[R].GLTSAGIKAR.[G]
+Ddis_XP_641587|Histone_H2A,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[K].AAEGSSQIY.[-]
+Ddis_XP_637926,"1×Phenylisocyanate [N-Term]; 5×Propionyl [K4(100); K5(100); K6(100); K9(100); K10(100)]",0300000001,00000000010300000001,2,2,[R].LSQKKKNEKKIR.[E]
+,"1×Crotonyl [K6]; 1×Trimethyl [K20]; 2×Propionyl + Methyl [K3; K34]","","",2,1,
+Ddis_XP_646440,"2×Propionyl [K11(100); K14(100)]; 1×Propionyl + Methyl [K14; K]; 1×Acetyl [K11; K]",0300000001,00000000010300000001,4,2,[R].SADEDIPLPEKQNKRDFNR.[S]
+,"1×Propionyl + Methyl [K11]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K14]","","",6,1,
+Ddis_XP_635154,"1×Phenylisocyanate [N-Term]",0400000001,04000000010300000001,4,3,[R].LASASPAPPAPITR.[A]
+,"1×Propionyl [N-Term]; 1×Phospho [S14]; 1×Acetyl [K18(100)]; 1×PhosphoJoin [S14(100)]","","",4,1,
+,"2×Trimethyl [K6; K7]; 2×PhosphoJoin [S5(100); S14(100)]; 2×Propionyl + Methyl [K17; K20]; 2×Phospho [S5; S14]","","",4,1,
+Ddis_XP_638266,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].FDNNNLPR.[I]
+Ddis_XP_638255,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K4(100)]",0400000001,04000000010400000001,4,3,[R].NNKKLLGR.[V]
+Ddis_XP_645684,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K4(100); K6(100); K8(100)]",0400000001,03000000010400000001,4,3,[R].QSNKEKSKQEIIER.[I]
+Ddis_XP_642657,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K9(100)]",0400000001,04000000010400000001,4,3,[R].GGNKSTPFKVGGQVGDEQR.[Q]
+,"2×PhosphoJoin [S1; T6]; 1×Propionyl + Methyl [K3]; 1×Dimethyl [K9]; 2×Phospho [S1; T6]","","",2,1,
+,"2×Trimethyl [K1; K28]; 7×PhosphoJoin [S9; S10; S12; S14; S15; S16; S18]; 3×Propionyl + Methyl [K5; K6; K23]; 2×Dimethyl [K32; K33]; 7×Phospho [S9; S10; S12; S14; S15; S16; S18]","","",2,1,
+Ddis_XP_638995,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].MSAALSHDLR.[T]
+,"1×Crotonyl [K13]; 1×Trimethyl [K8]; 1×Propionyl + Methyl [K10]; 1×Dimethyl [K19]","","",2,1,
+,"1×Crotonyl [K28]; 1×PhosphoJoin [S1]; 1×Propionyl + Methyl [K7]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K5; K29]; 1×Phospho [S1]","","",2,1,
+Ddis_XP_641769,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K11(100); K15(100)]",0300000001,03000000010000000001,2,2,[R].VSEDWSNSSDKTSNKR.[F]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]","","",4,1,
+Ddis_XP_636241,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K10(100)]",0400000001,04000000010400000001,4,3,[R].ATANQTLLEKR.[N]
+Ddis_XP_629876,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,04000000010400000001,6,3,[R].VNKTQQSLTLNTQR.[L]
+Ddis_XP_636772,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K6(100)]",0400000001,04000000010000000001,2,3,[R].VISEKKTV.[-]
+Ddis_XP_644428,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].TTPSYVAFNETER.[L]
+Ddis_XP_641319,"3×Propionyl [K3(100); K7(100); K15(100)]",0400000001,00000000010400000001,2,3,[R].AQKPEVKQAAAEQAKR.[E]
+Ddis_XP_641319,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K7(100); K15(100)]",0400000001,04000000010400000001,4,3,[R].AQKPEVKQAAAEQAKR.[E]
+Ddis_XP_637176,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K4(100); K6(100)]",0400000001,04000000010400000001,6,3,[R].KVNKTKHVVLNR.[Q]
+,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]","","",6,1,
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]","","",4,1,
+Ddis_XP_636069,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K8(100)]",0300000001,03000000010000000001,2,2,[R].KDLESHTKELEAR.[L]
+Ddis_XP_646617,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K11(100)]",0400000001,04000000010400000001,6,3,[R].QATKDAGTISKLNVQR.[I]
+Ddis_XP_638666,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K7(100); K11(100)]",0400000001,04000000010400000001,4,3,[R].GLHETVKALDKR.[T]
+Ddis_XP_639076,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K10(100)]",0400000001,04000000010400000001,8,3,[R].IAQNQLDGLKDDHDNER.[V]
+,"2×Crotonyl [K25; K]; 1×PhosphoJoin [S12]; 2×Propionyl [K14; K27]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K8]; 1×Phospho [S12]","","",4,1,
+,"2×Trimethyl [K5; K9]; 1×PhosphoJoin [T22]; 1×Propionyl [K13]; 2×Propionyl + Methyl [K25; K26]; 1×Dimethyl [K23]; 1×Phospho [T22]","","",2,1,
+,"1×Crotonyl [K16]; 1×Dimethyl [K]; 1×Acetyl [K4]","","",4,1,
+,"3×Propionyl [K6(100); K9(100); K19(100)]","","",2,1,
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K6(100); K9(100); K19(100)]","","",4,1,
+Ddis_XP_641456,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,03000000010400000001,4,3,[R].EVYKHFGR.[A]
+Ddis_XP_642934,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].EFQNLPR.[L]
+Ddis_XP_646371,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0400000001,04000000010400000001,10,3,[R].SKIAAGLHR.[G]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K6(100)]","","",4,1,
+Ddis_XP_642039,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,04000000010400000001,4,3,[R].TAQKIVADAR.[Q]
+Ddis_XP_642577,"3×Propionyl [K2(100); K16(100); ]",0300000001,03000000010000000001,2,2,[M].AKERGDLLFPSIESEKR.[K]
+Ddis_XP_639947,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K5(100); K7(100)]",0400000001,04000000010400000001,4,3,[R].AQKNKLKTVGR.[S]
+Ddis_XP_638099,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Propionyl + Methyl [K10]; 1×Acetyl [K]",0400000001,00000000010400000001,6,3,[R].RKDQEANVDKKIKEKER.[K]
+"CON_007264311; Ddis_XP_640258","1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K6(100)]",0400000001,00000000010400000001,2,3,[K].AKIQDKEGIPPDQQR.[L]
+,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K6(100)]; 1×Propionyl + Methyl [K2(100)]","","",6,1,
+,"4×Propionyl [K9; K12; K15; K16]; 1×Dimethyl [K7]; 1×Acetyl [K4]; 2×Phospho [S5; S8]; 2×PhosphoJoin [S5; S8]","","",2,1,
+Ddis_XP_636369,"1×Propionyl [K4]",0400000001,00000000010400000001,2,3,[R].GPIKKIR.[F]
+Ddis_XP_638424,"1×Phenylisocyanate [N-Term]; 6×Propionyl [K1(100); K2(100); K5(100); K7(100); K11(100); K14(100)]",0400000001,03000000010400000001,4,3,[R].KKVEKSKLPVKGDKR.[K]
+Ddis_XP_640068,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K11(100)]",0400000001,00000000010400000001,2,3,[R].VASTSSLTPQKSLTPNR.[L]
+Ddis_XP_642429,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K5(100); K6(100)]",0400000001,04000000010400000001,4,3,[R].TLKQKKAR.[V]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K6(100); K9(100)]","","",2,1,
+Ddis_XP_638090,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Propionyl + Methyl [K8]; 1×Acetyl [K10]",0400000001,04000000010400000001,4,3,[R].KHVELINKEKER.[K]
+Ddis_XP_638090,"1×Trimethyl [K]; 1×Phenylisocyanate [N-Term]; 1×Propionyl + Methyl [K]; 1×Propionyl [K1(100)]",0400000001,00000000010400000001,4,3,[R].KHVELINKEKER.[K]
+Ddis_XP_637573,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].LFVQSTSHNR.[K]
+Ddis_XP_640676,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0300000001,03000000010300000001,6,2,[R].VLKAGSR.[L]
+,"1×Propionyl + Methyl [K31]; Acetyl [K]; 1×Phospho [T/S]; 2×Propionyl [K31; K32]; 1×PhosphoJoin [T/S]","","",8,1,
+Ddis_XP_640615,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0300000001,00000000010300000001,2,2,[R].NVPIVPKR.[T]
+Ddis_XP_001733029,"1×Propionyl + Methyl [K2; K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K3; K]; Propionyl [K]",0400000001,00000000010400000001,4,3,[R].HKKYNIQKYVSPAVNR.[F]
+Ddis_XP_643507,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K2(100); K9(100)]",0300000001,03000000010000000001,2,2,[R].KKDVGIDGKR.[K]
+Ddis_XP_643123,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].FENNFNTR.[F]
+Ddis_XP_646256,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,03000000010000000001,4,2,[R].ALIAKLR.[D]
+"","1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K5(100)]",0300000001,03000000010000000001,4,2,[R].KIAIKR.[I]
+Ddis_XP_640998,"2×Propionyl [K3(100); K13(100)]",0400000001,00000000010400000001,2,3,[R].HTKASNEAAEYAKLVAQR.[Q]
+Ddis_XP_640998,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K13(100)]",0400000001,04000000010400000001,4,3,[R].HTKASNEAAEYAKLVAQR.[Q]
+Ddis_XP_638786,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].LIDEAPQR.[G]
+Ddis_XP_640812,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].LRELNN.[-]
+Ddis_XP_643145,"4×Propionyl [K7(100); K17(100); K18(100); K/S]; 1×Acetyl [K3(100)]",0400000001,04000000010400000001,6,3,[M].SQKVATKTAPVPESILKKR.[A]
+Ddis_XP_643145,"1×Crotonyl [K7]; 2×Propionyl [K17; K18]; 1×Dimethyl [K3]; 1×Phospho [T6]; 1×PhosphoJoin [T6]",0300000001,00000000010300000001,2,2,[M].SQKVATKTAPVPESILKKR.[A]
+Ddis_XP_641158,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K6(100)]",0400000001,03000000010400000001,4,3,[R].SKSLIKR.[L]
+Ddis_XP_638126,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K12(100); K17(100)]",0400000001,04000000010400000001,8,3,[R].ASKAAVTQVGEKPALVKTHAR.[N]
+,"1×Phenylisocyanate [N-Term]; 2×Dimethyl [K5; K8]","","",4,1,
+Ddis_XP_639348,"1×Phenylisocyanate [N-Term]; 1×Dimethyl [K5]; 1×Propionyl + Methyl [K8(100)]",0400000001,00000000010400000001,2,3,[R].TITGKFFKQN.[-]
+Ddis_XP_638412,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,6,3,[R].AELVAQR.[D]
+,"2×Propionyl [K7; K13]; 1×Propionyl + Methyl [K10]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K15]; 2×Acetyl [K3; K5]","","",2,1,
+Ddis_XP_638554,"2×Propionyl [K1(100); K6(100)]",0400000001,00000000010400000001,2,3,[R].KDYDGKFHLR.[L]
+Ddis_XP_638554,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K6(100)]",0400000001,04000000010300000001,4,3,[R].KDYDGKFHLR.[L]
+Ddis_XP_644970,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0400000001,04000000010400000001,4,3,[R].GPSALNKLQER.[I]
+Ddis_XP_641862,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K6(100)]",0300000001,00000000010300000001,2,2,[R].YGPQKK.[-]
+Ddis_XP_638746,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].SLLVADPRR.[C]
+,"2×Crotonyl [K22; K]; 6×PhosphoJoin [T4; S10; S12; S15; S16; S35]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]; 6×Phospho [T4; S10; S12; S15; S16; S35]","","",4,1,
+,"1×Propionyl [K12]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K14; K22; K23]; 1×Phospho [S11]; 2×Trimethyl [K]; 1×PhosphoJoin [S11]","","",6,1,
+Ddis_XP_640998,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[R].LVTPTTVAR.[R]
+Ddis_XP_640698,"5×Propionyl [K4(100); K5(100); K10(100); K11(100); K15(100)]",0400000001,00000000010400000001,2,3,[R].NGIKKAVVHKKTSSKGVELGFAR.[N]
+,"1×Crotonyl [K4]; 2×Propionyl [K11; K15]; 2×Propionyl + Methyl [K5; K10]","","",2,1,
+Ddis_XP_643631,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0300000001,03000000010000000001,2,2,[R].KVLTNR.[L]
+,"3×Trimethyl [K8; K24; K28]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K23]; 4×PhosphoJoin [S7(100); S12(100); S19(100); T20(100)]; 1×Propionyl + Methyl [K5]; 4×Phospho [S7; S12; S19; T20]","","",4,1,
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K13(100)]","","",2,1,
+Ddis_XP_635846,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K6(100); K7(100)]",0400000001,04000000010400000001,4,3,[R].IFKNNKKHR.[K]
+Ddis_XP_644432,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].FINDTTR.[S]
+,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]; 2×Propionyl [K7(100); K8(100)]","","",6,1,
+Ddis_XP_640594,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].VIVNSTASGSLNDR.[F]
+Ddis_XP_644432,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K11(100); K24(100); K25(100)]",0400000001,00000000010400000001,2,3,[R].LINEEEEENNKTSTTTTTTTSNIKKR.[K]
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K2(100); K14(100)]","","",12,1,
+,"2×Crotonyl [K2; K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K21(100)]","","",4,1,
+Ddis_XP_629876,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].TIGIAVDTR.[R]
+Ddis_XP_636778,"3×Propionyl [K2(100); K4(100); K12(100)]",0300000001,03000000010300000001,4,2,[R].TKNKTQLLEHLKELR.[T]
+Ddis_XP_636778,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K2(100); K4(100); K12(100)]",0400000001,04000000010400000001,8,3,[R].TKNKTQLLEHLKELR.[T]
+Ddis_XP_001134482,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[K].LIGKGANGK.[V]
+Ddis_XP_001732984,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K4(100); K6(100); K7(100)]",0400000001,00000000010400000001,2,3,[R].FTNKEKKR.[G]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K7(100)]","","",2,1,
+,"4×Crotonyl [K2; K27; K36; K40]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K28; K30; K33]; 1×Acetyl [K15]; 1×Phospho [S35]; 1×PhosphoJoin [S35]","","",2,1,
+Ddis_XP_641862,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K5(100); K6(100); K7(100)]",0400000001,04000000010400000001,6,3,[R].DLEEKKKR.[Y]
+,"1×PhosphoJoin [T20]; 2×Propionyl [K19; K30]; 2×Dimethyl [K18; K]; 1×Phospho [T20]","","",4,1,
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].DLTHFTHWPR.[Y]
+Ddis_XP_638266,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K11(100)]",0400000001,04000000010400000001,4,3,[R].NNFKNESSPVKFTAR.[L]
+Ddis_XP_644082,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0300000001,03000000010000000001,2,2,[R].QFVKAEER.[E]
+Ddis_XP_643120,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].LTTIMNHPR.[Q]
+Ddis_XP_638090,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,04000000010000000001,2,3,[R].LQKEIHDWR.[L]
+,"1×Phenylisocyanate [N-Term]","","",6,1,
+,"2×Crotonyl [K6; K9]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]; 2×Acetyl [K13; K14]","","",6,1,
+Ddis_XP_641632,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K7(100); K8(100)]",0400000001,00000000010400000001,2,3,[R].LADEAEKKR.[L]
+Ddis_XP_638090,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K10(100); K12(100)]",0300000001,03000000010300000001,4,2,[R].LRKHVELINKEKER.[K]
+Ddis_XP_638044,"Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]",0400000001,00000000010400000001,14,3,[M].VKPKKEVDKDDLTKEELKLR.[R]
+Ddis_XP_642751,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K3(100)]",0300000001,03000000010000000001,2,2,[R].KIKLRAEEVEGR.[N]
+Ddis_XP_638767,"1×Propionyl [K5(100)]",0400000001,00000000010400000001,2,3,[R].EFDGKQVNVEIAR.[E]
+Ddis_XP_638767,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,04000000010400000001,4,3,[R].EFDGKQVNVEIAR.[E]
+Ddis_XP_640973,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K6(100)]",0300000001,03000000010000000001,2,2,[R].KLEEYKER.[N]
+Ddis_XP_636030,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K18(100)]",0400000001,04000000010400000001,4,3,[R].VAPEEHPVLLTEAPLNPKANR.[E]
+Ddis_XP_643949,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K6(100)]",0300000001,00000000010300000001,2,2,[R].TSSKFKLR.[K]
+Ddis_XP_646325,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,04000000010400000001,4,3,[R].ISKVTAAR.[K]
+Ddis_XP_635871,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,04000000010400000001,4,3,[R].GISYKLQEEER.[E]
+,"1×Crotonyl [K17]; 1×Trimethyl [K]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K9; K15]; 1×Acetyl [K]","","",4,1,
+,"1×Crotonyl [K17]; 2×Trimethyl [K6; K20]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K9; K15]","","",2,1,
+,"1×Acetyl [K3(100)]; 4×Propionyl [K6(100); K10(100); K21(100); K]","","",2,1,
+Ddis_XP_639227,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K9(100)]",0400000001,04000000010300000001,4,3,[R].AVSKVPGLKR.[L]
+Ddis_XP_645463,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].EISGFSPYER.[R]
+,"1×PhosphoJoin [S2]; 1×Propionyl [K]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K19; K24]; 1×Acetyl [K18]; 1×Phospho [S2]","","",4,1,
+"CON_007264311; Ddis_XP_640258","1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[K].ESTLHLVLR.[L]
+Ddis_XP_629633,"3×Propionyl [K5(100); K9(100); ]",0400000001,04000000010400000001,4,3,[M].ALDNKFVAKGLR.[L]
+,"1×Crotonyl [K7]; 5×PhosphoJoin [S16; S18; S19; S21; S24]; 1×Propionyl [K23]; 2×Dimethyl [K27; K32]; 5×Phospho [S16; S18; S19; S21; S24]","","",2,1,
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]","","",2,1,
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K5(100)]","","",6,1,
+,"1×Propionyl [K4(100)]","","",4,2,
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]","","",8,2,
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K5(100)]","","",2,1,
+,"1×Crotonyl [K6]; 2×Trimethyl [K5; K31]; 4×PhosphoJoin [S17; S19; S20; S21]; 1×Propionyl [K1]; 1×Phenylisocyanate [N-Term]; 4×Phospho [S17; S19; S20; S21]","","",2,1,
+,"1×Crotonyl [K]; 2×PhosphoJoin [T10; S13]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K39; K40]; 2×Phospho [T10; S13]","","",12,1,
+,"2×Crotonyl [K23; K24]; 1×Trimethyl [K14]; 2×Propionyl [K1; K7]; 2×Dimethyl [K39; K40]; 2×Phospho [T10; S13]; 2×PhosphoJoin [T10; S13]","","",2,1,
+,"3×Trimethyl [K14; K15; K]; 3×PhosphoJoin [T10; S13; S16]; 1×Propionyl [K]; 3×Dimethyl [K1; K39; K40]; 3×Phospho [T10; S13; S16]","","",8,1,
+,"2×Crotonyl [K15; K23]; 1×Propionyl [K]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K39; K40]; 2×Phospho [T10; S13]; 2×PhosphoJoin [T10; S13]","","",4,1,
+Ddis_XP_636030,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,8,3,[R].AVFPSIVGRPR.[HY]
+Ddis_XP_645463,"3×Propionyl [K8(100); K9(100); K10(100)]",0400000001,00000000010400000001,2,3,[R].LGSIQAGKKKR.[D]
+Ddis_XP_645463,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K8(100); K9(100); K10(100)]",0400000001,04000000010000000001,2,3,[R].LGSIQAGKKKR.[D]
+Ddis_XP_638995,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K6(100); K8(100); K10(100)]",0400000001,04000000010400000001,6,3,[R].TVAADKGKVK.[V]
+Ddis_XP_643542,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0300000001,03000000010300000001,4,2,[R].VVKLNTTR.[K]
+Ddis_XP_635722,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K6(100); K7(100)]",0400000001,04000000010400000001,4,3,[R].QIEVFKKHVTR.[N]
+Ddis_XP_635997,"Propionyl [K]; 1×Propionyl + Methyl [K22]; 1×Acetyl [K21]",0400000001,00000000010400000001,8,3,[M].VGKVEKSVVSKTTPNKDTNNKKR.[K]
+Ddis_XP_642484,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].LVNSDEIQAAVR.[A]
+Ddis_XP_647663,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K7(100); K8(100); K9(100); K14(100)]",0400000001,04000000010400000001,4,3,[R].RQELLEKKKAEEEKR.[I]
+,"1×Propionyl [K]; 1×Phenylisocyanate [N-Term]","","",6,1,
+Ddis_XP_644762,"1×Trimethyl [K12]; Propionyl [K]; 1×Phenylisocyanate [N-Term]; 1×Propionyl + Methyl [K13; K]; 1×Dimethyl [K11; K]",0300000001,00000000010300000001,2,2,[R].RNVAAVAGFGKKKGYNTQNVPTVA.[-]
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl + Methyl [K11(100); K12(100); K13(100)]","","",6,1,
+Ddis_XP_644192,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K6(100); K7(100)]",0400000001,03000000010400000001,4,3,[R].DDPAGKKVGLIAAR.[R]
+,"1×Phenylisocyanate [N-Term]; 2×Acetyl [K3(100); K4(100)]","","",4,1,
+Ddis_XP_635128,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K10(100)]",0400000001,04000000010000000001,2,3,[R].NTAASIGGLK.[-]
+,"3×Trimethyl [K13; K]; 2×PhosphoJoin [T4; S6]; 1×Propionyl [K11]; 1×Dimethyl [K]; 2×Phospho [T4; S6]","","",8,1,
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]","","",6,1,
+Ddis_XP_646584,"1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 2×Propionyl [K4(100); K5(100)]",0400000001,03000000010400000001,10,3,[R].SILKKQQR.[K]
+Ddis_XP_638099,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,04000000010400000001,4,3,[R].AIKLEEIGPR.[M]
+,"2×Trimethyl [K19; K35]; 7×PhosphoJoin [T6; S8; T12; T21; S23; T25; S27]; 1×Propionyl [K18]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K7]; 7×Phospho [T6; S8; T12; T21; S23; T25; S27]","","",2,1,
+,"1×Trimethyl [K32]; 7×PhosphoJoin [S7; S8; T11; S15; S19; T21; S22]; 2×Propionyl [K27; K29]; 1×Dimethyl [K39]; 1×Acetyl [K6]; 7×Phospho [S7; S8; T11; S15; S19; T21; S22]","","",2,1,
+,"2×Crotonyl [K13; K23]; 2×Trimethyl [K25; K]; 7×PhosphoJoin [T15; T16; T17; T18; S20; T22; T24]; 2×Propionyl + Methyl [K31; K]; 1×Acetyl [K12]; 7×Phospho [T15; T16; T17; T18; S20; T22; T24]","","",4,1,
+,"2×Crotonyl [K13; K23]; 3×Trimethyl [K12; K25; K]; 7×PhosphoJoin [T15; T16; T17; T18; S20; T22; T24]; 2×Propionyl + Methyl [K31; K]; 7×Phospho [T15; T16; T17; T18; S20; T22; T24]","","",4,1,
+,"4×Trimethyl [K3; K9; K26; K42]; 3×PhosphoJoin [T1; S2; S5]; 1×Propionyl [K32]; 3×Dimethyl [K27; K30; K35]; 3×Phospho [T1; S2; S5]","","",2,1,
+Ddis_XP_637926,"1×Acetyl [K3(100)]; 3×Propionyl [K6(100); K10(100); K/S]",0400000001,04000000010400000001,6,3,[M].SNKVIKQQLKVLNGEELR.[V]
+,"1×Crotonyl [K6]; 1×Propionyl [K10]; 1×Dimethyl [K3]; 1×Phospho [S1]; 1×PhosphoJoin [S1]","","",2,1,
+Ddis_XP_644192,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K2(100); K3(100); K8(100)]",0400000001,00000000010400000001,2,3,[R].VKKNNWPKVR.[G]
+Ddis_XP_635871,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K8(100)]",0400000001,04000000010400000001,4,3,[R].ASKLLIEKHYPR.[L]
+Ddis_XP_636859,"1×Propionyl [K8(100)]",0400000001,00000000010400000001,2,3,[R].VAGEGETKNAQWDEFEPIQR.[E]
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0400000001,03000000010400000001,6,3,[R].VAGEGETKNAQWDEFEPIQR.[E]
+,"2×Crotonyl [K11; K34]; 1×Trimethyl [K4]; 3×Dimethyl [K18; K19; K20]; 8×Phospho [S7; S9; S21; T22; T24; T25; S28; T29]; 8×PhosphoJoin [S7; S9; S21; T22; T24; T25; S28; T29]","","",2,1,
+,"3×Trimethyl [K5; K22; K38]; 1×PhosphoJoin [S2]; 2×Dimethyl [K9; K15]; 1×Acetyl [K35]; 1×Phospho [S2]","","",2,1,
+,"4×Trimethyl [K5; K22; K35; K38]; 1×PhosphoJoin [S2]; 2×Dimethyl [K9; K15]; 1×Phospho [S2]","","",2,1,
+Ddis_XP_647818,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K13(100)]",0400000001,03000000010400000001,6,3,[R].KVQIPENVTVDVKGR.[S]
+Ddis_XP_642566,"1×Propionyl [K3(100)]",0300000001,00000000010300000001,4,2,[KR].YIKLQR.[VQ]
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,04000000010000000001,4,3,[KR].YIKLQR.[VQ]
+,"1×Crotonyl [K32]; 3×Trimethyl [K7; K10; K34]; 7×PhosphoJoin [S18; S19; S20; S21; S22; S23; T30]; 2×Propionyl + Methyl [K14; K24]; 1×Phenylisocyanate [N-Term]; 7×Phospho [S18; S19; S20; S21; S22; S23; T30]","","",2,1,
+,"1×Crotonyl [K]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K12; K38; K]; 3×Acetyl [K13; K14; K37]; 4×Phospho [S19; S21; S29; S34]; 4×PhosphoJoin [S19; S21; S29; S34]","","",4,1,
+,"3×Crotonyl [K5; K17; K20]; 1×Propionyl + Methyl [K26]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K3]; 7×Phospho [S1; S7; T9; S10; S11; S12; S16]; 7×PhosphoJoin [S1; S7; T9; S10; S11; S12; S16]","","",2,1,
+Ddis_XP_644082,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].DNVQLLISR.[L]
+Ddis_XP_642043,"1×Phenylisocyanate [N-Term]; 5×Propionyl [K4(100); K5(100); K10(100); K16(100); K17(100)]",0400000001,03000000010400000001,4,3,[R].AAHKKAVAQKAAGHVKKTL.[-]
+,"1×Propionyl [K11]; 1×Dimethyl [K]; 1×Acetyl [K4]; 1×Phospho [T/S]; 1×PhosphoJoin [S/T]","","",16,1,
+Ddis_XP_638767,"1×Phenylisocyanate [N-Term]; 5×Propionyl [K3(100); K6(100); K32(100); K35(100); K37(100)]",0400000001,00000000010400000001,2,3,[R].NTKDVKAATTTTNTDATTNTAAASTAAAPATKTSKPKR.[E]
+Ddis_XP_647577|Histone_H3,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K4(100)]",0400000001,04000000010400000001,4,3,[R].KYQKSTDLLIR.[K]
+,"1×Phenylisocyanate [N-Term]; 1×Dimethyl [K14]; 9×Phospho [S1; S5; S13; S17; S22; S23; S24; S25; S26]; 9×PhosphoJoin [S1; S5; S13; S17; S22; S23; S24; S25; S26]","","",2,1,
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,03000000010300000001,4,2,[R].RVLLKR.[L]
+,"1×Crotonyl [K27]; 1×Phenylisocyanate [N-Term]; 2×Phospho [T7; T8]; 2×PhosphoJoin [T7; T8]","","",6,1,
+,"3×Propionyl [K1; K2; K35]; 1×Propionyl + Methyl [K3]; 1×Phenylisocyanate [N-Term]; 2×Phospho [T13; T14]; 2×PhosphoJoin [T13; T14]","","",2,1,
+Ddis_XP_636672,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,04000000010400000001,4,3,[R].LFKTEQPR.[T]
+Ddis_XP_646136,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0400000001,04000000010400000001,4,3,[R].EQQLLFAKAR.[S]
+Ddis_XP_638307,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0400000001,04000000010400000001,4,3,[R].AKAYLNNVLAHR.[E]
+,"2×Crotonyl [K30; K31]; 1×Trimethyl [K28]; 2×PhosphoJoin [S17; T18]; 1×Propionyl + Methyl [K11]; 2×Dimethyl [K19; K34]; 2×Phospho [S17; T18]","","",2,1,
+Ddis_XP_641456,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K8(100); K12(100)]",0400000001,03000000010400000001,4,3,[R].GNNTFLIKGVTKAR.[E]
+Ddis_XP_647577|Histone_H3,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0300000001,00000000010300000001,2,2,[R].VTIMPKDIHLAR.[R]
+Ddis_XP_638746,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].SLLVADPR.[R]
+Ddis_XP_641724,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K8(100)]",0400000001,04000000010400000001,6,3,[R].AVGVIINKR.[V]
+Ddis_XP_638709,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K2(100); K3(100); K4(100)]",0400000001,00000000010400000001,2,3,[R].DKKKIFTQR.[A]
+Ddis_XP_641456,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K4(100); K7(100); K11(100)]",0400000001,03000000010400000001,4,3,[R].TNSKFNKVVLKR.[L]
+Ddis_XP_637740,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].LVELELEDARR.[N]
+Ddis_XP_629633,"3×Propionyl [K5(100); K6(100); K10(100)]",0400000001,00000000010400000001,2,3,[R].STAAKKVQQKVALR.[K]
+Ddis_XP_629633,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K5(100); K6(100); K10(100)]",0400000001,03000000010400000001,4,3,[R].STAAKKVQQKVALR.[K]
+Ddis_XP_637928,"1×Phenylisocyanate [N-Term]",0400000001,04000000010000000001,2,3,[R].VNHAVYLLTQGTR.[A]
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]",0300000001,03000000010300000001,4,2,[R].LGELVHMR.[N]
+,"Dimethyl [K]; Acetyl [K]; 1×Propionyl + Methyl [K6]","","",8,1,
+,"1×Crotonyl [K13]; 1×Trimethyl [K23]; 4×PhosphoJoin [T12; T14; T18; T20]; 2×Propionyl [K8; K11]; 3×Dimethyl [K7; K24; K27]; 4×Phospho [T12; T14; T18; T20]","","",2,1,
+,"1×Crotonyl [K13]; 3×Trimethyl [K7; K8; K23]; 4×PhosphoJoin [T12; T14; T18; T20]; 1×Propionyl [K11]; 2×Dimethyl [K24; K27]; 4×Phospho [T12; T14; T18; T20]","","",2,1,
+Ddis_XP_646584,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K3(100); K4(100); K11(100); K14(100)]",0400000001,03000000010400000001,4,3,[R].AVKKQNIYLEKQAKR.[Q]
+Ddis_XP_644192,"1×Propionyl + Methyl [K]; 1×Acetyl [K]; Propionyl [K]",0400000001,00000000010400000001,6,3,[R].IKLPSGSKKNVSSLAR.[A]
+Ddis_XP_644192,"1×Phenylisocyanate [N-Term]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]; Propionyl [K]",0400000001,04000000010400000001,8,3,[R].IKLPSGSKKNVSSLAR.[A]
+Ddis_XP_642751,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0400000001,04000000010300000001,4,3,[R].KEWYVVR.[A]
+,"1×Crotonyl [K32]; 3×Trimethyl [K4; K33; K35]; 1×Propionyl + Methyl [K17]","","",2,1,
+Ddis_XP_643145,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0400000001,04000000010300000001,4,3,[R].LNSVYFKR.[A]
+Ddis_XP_641724,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K5(100)]",0400000001,04000000010400000001,4,3,[R].IIAKKIHVR.[T]
+Ddis_XP_645351,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K12(100)]",0400000001,04000000010400000001,4,3,[R].YAAVIFHGVSAKSR.[K]
+Ddis_XP_629872,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K3(100); K4(100); K5(100); K8(100)]",0400000001,03000000010400000001,4,3,[R].LQKKKSAK.[-]
+,"1×Trimethyl [K11]; 1×Propionyl [K5]; 1×Propionyl + Methyl [K27]; 2×Dimethyl [K31; K33]; 4×Phospho [T1; T2; T9; T17]; 4×PhosphoJoin [T1; T2; T9; T17]","","",2,1,
+,"2×Propionyl [K1; K14]; 1×Dimethyl [K15]; 1×Phospho [T5]; 1×PhosphoJoin [T5(100)]","","",4,1,
+Ddis_XP_644913,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K7(100)]",0300000001,03000000010300000001,4,2,[R].LVKVDGKVR.[T]
+Ddis_XP_638554,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K9(100); K15(100)]",0400000001,00000000010400000001,2,3,[R].DSLGVAQVKNVTGSKILR.[I]
+,"1×Acetyl [K10(100)]; 1×Propionyl + Methyl [K17(100)]","","",2,1,
+Ddis_XP_637714,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K9(100); K10(100)]",0400000001,00000000010400000001,2,3,[K].AAKDLDVFKKGR.[K]
+Ddis_XP_638923,"1×Propionyl [N-Term]",0400000001,04000000010400000001,4,3,[M].TLFSSLLSR.[V]
+Ddis_XP_646473,"1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[K].VILIAR.[N]
+"","1×Phenylisocyanate [N-Term]",0300000001,03000000010000000001,2,2,[K].VLLAIR.[E]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]","","",6,2,
+,"1×Crotonyl [K25]; 2×Trimethyl [K15; K27]; 1×Propionyl [K33]; 4×Phospho [S5; S13; S14; S17]; 4×PhosphoJoin [S5; S13; S14; S17]","","",2,1,
+Ddis_XP_644504,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K2(100); K6(100); K9(100)]",0400000001,03000000010400000001,4,3,[R].GKEIGKPLK.[-]
+Ddis_XP_644439,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K6(100)]",0300000001,00000000010300000001,2,2,[R].VFFQNKR.[A]
+Ddis_XP_636620,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]",0300000001,03000000010300000001,10,2,[R].KIEEQLLEKQLKEKRDR.[I]
+Ddis_XP_643145,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].EHLINNLIHR.[M]
+,"2×Trimethyl [K5; K]; 2×Propionyl [N-Term; K8]; 1×Propionyl + Methyl [K]","","",4,1,
+Ddis_XP_638424,"1×Propionyl + Methyl [K3]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K4]; 2×Propionyl [K7(100); K13(100)]",0300000001,03000000010000000001,2,2,[R].EIKKFGKQVQTQKLQER.[Q]
+,"1×Crotonyl [K13]; 2×Trimethyl [K5; K6]","","",2,1,
+,"1×Phenylisocyanate [N-Term]","","",4,1,
+Ddis_XP_641888,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].IGPETIQDPALIITR.[K]
+,"1×Crotonyl [K9]; 2×Propionyl [K3; K5]; 1×Phenylisocyanate [N-Term]","","",2,1,
+Ddis_XP_640703,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].AAILPEIR.[K]
+Ddis_XP_638974,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K5(100)]",0400000001,04000000010400000001,4,3,[R].KNHLKEIEGFLR.[K]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K7(100); K13(100)]","","",4,1,
+Ddis_XP_638090,"2×Propionyl [K6(100); K8(100)]",0400000001,00000000010400000001,2,3,[R].ILDEIKQKR.[L]
+Ddis_XP_638090,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K6(100); K8(100)]",0400000001,04000000010400000001,4,3,[R].ILDEIKQKR.[L]
+Ddis_XP_646371,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].TNVIPIIEDAR.[H]
+Ddis_XP_646060,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K6(100)]",0400000001,04000000010300000001,6,3,[R].VIKSSKSFN.[-]
+,"1×Propionyl [K24]; 1×Propionyl + Methyl [K23]; 2×Dimethyl [K27; K31]; 3×Phospho [S6; S12; S20]; 3×PhosphoJoin [S6; S12; S20]","","",2,1,
+,"1×Trimethyl [K23]; 1×Propionyl + Methyl [K22]; 2×Acetyl [K1; K24]; 1×Phospho [S10]; 1×PhosphoJoin [S10]","","",2,1,
+Ddis_XP_635999,"1×Phenylisocyanate [N-Term]",0400000001,03000000010400000001,4,3,[R].IFEGSALLR.[R]
+Ddis_XP_643609,"1×Phenylisocyanate [N-Term]; 5×Propionyl [K8(100); K10(100); K21(100); K22(100); K25(100)]",0300000001,00000000010300000001,2,2,[R].SSGEVITKPKNSNNNVDNESKKVTKNR.[T]
+Ddis_XP_641456,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K9(100)]",0400000001,04000000010000000001,2,3,[R].SRIVKAGGKALSFDQFALVRPR.[G]
+Ddis_XP_637656|Histone_H2A,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K2(100); K6(100); K9(100)]",0400000001,00000000010400000001,4,3,[R].VKPVPKSTKAGLIFPVGR.[I]
+Ddis_XP_637722,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K8(100); K11(100)]",0400000001,03000000010400000001,4,3,[R].LVYQYIGKTGKVPR.[C]
+Ddis_XP_635999,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0300000001,03000000010000000001,2,2,[R].VGKQLVNVPSFLVR.[V]
+Ddis_XP_637112,"1×Phenylisocyanate [N-Term]",0400000001,04000000010400000001,4,3,[R].TISNPLLIETVIPN.[-]
+Ddis_XP_636270,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0400000001,04000000010400000001,4,3,[R].KIGILSPIVVPDQ.[-]
+Ddis_XP_642298,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K3(100)]",0300000001,03000000010000000001,2,2,[R].KIKPII.[-]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]","","",4,1,
+,"3×Trimethyl [K20; K24; K25]; 1×Phenylisocyanate [N-Term]; 3×Dimethyl [K4; K5; K38]; 1×Acetyl [K10]; 1×Phospho [S33]; 1×PhosphoJoin [S33]","","",2,1,
+,"2×Propionyl [K5(100); K7(100)]","","",2,1,
+Ddis_XP_001134557,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].NNNNDNRIQNNNNNNNNNNNDR.[A]
+Ddis_XP_640699,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].SSSSSSSQQPTQR.[S]
+,"1×Propionyl + Methyl [K17]; 1×Acetyl [K36]; 1×Phospho [T14]; 1×PhosphoJoin [T14]","","",2,1,
+,"1×Trimethyl [K36]; 1×Propionyl + Methyl [K17]; 1×Phospho [T14]; 1×PhosphoJoin [T14]","","",2,1,
+,"1×Crotonyl [K3]; 1×Trimethyl [K7]","","",2,1,
+Ddis_XP_645331,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K26(100)]",0400000001,00000000010400000001,4,3,[R].NKHQNQQGNQNQQGNQQGGGNQQQNKQGGHR.[G]
+,"1×Propionyl + Methyl [K14(100)]; 1×Propionyl [K]","","",2,1,
+,"4×PhosphoJoin [S3(100); S5(100); T22(100); T24(100)]; 2×Propionyl + Methyl [K23(100); K26(100)]; 4×Phospho [S3; S5; T22; T24]","","",2,1,
+,"1×Trimethyl [K1]; 1×Propionyl [K26]; 1×Phenylisocyanate [N-Term]; 2×Phospho [T4; S9]; 2×PhosphoJoin [T4(100); S9(100)]","","",2,1,
+Ddis_XP_638071,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].SASRSDSQAPTSEER.[G]
+Ddis_XP_629242,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].GVQHPTR.[G]
+Ddis_XP_645332,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].DDAPPRR.[D]
+,"1×Trimethyl [K]; 1×PhosphoJoin [S7]; 1×Propionyl + Methyl [K]; 1×Acetyl [K11]; 1×Phospho [S7]","","",4,1,
+Ddis_XP_646455,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,00000000010400000001,2,3,[R].NNNKNNNNER.[G]
+,"1×Trimethyl [K8]; 2×PhosphoJoin [S10; S11]; 1×Acetyl [K15]; 2×Phospho [S10; S11]","","",2,1,
+Ddis_XP_647159,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0300000001,00000000010300000001,2,2,[R].SKQEDEHR.[K]
+Ddis_XP_635459,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].SNDNNQSLSSSR.[E]
+Ddis_XP_630003,"1×Crotonyl [K4]; 1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].SNPKISRK.[D]
+,"1×Propionyl [K]; 1×Propionyl + Methyl [K]; 1×Acetyl [K4]","","",4,1,
+Ddis_XP_638899,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].QAHEALENQR.[R]
+Ddis_XP_638611,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].AGHNIPR.[A]
+Ddis_XP_637840,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].EQQQQQQQQQLR.[E]
+Ddis_XP_647082,"1×Propionyl [K22(100)]",0400000001,00000000010400000001,2,3,[R].TGASSGPQSSVSTYTPTNDSGKQAPAGGNQDGFRR.[T]
+Ddis_XP_646440,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].YHGDDEEDDER.[A]
+Ddis_XP_636620,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K11(100); K13(100)]",0400000001,00000000010400000001,2,3,[K].QNDTNTTTNNKNKR.[S]
+Ddis_XP_640366,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K13(100)]",0300000001,00000000010300000001,2,2,[R].NATNKNNNNDNTKSNSTNR.[N]
+,"2×Trimethyl [K19; K]; 1×PhosphoJoin [T7]; 1×Propionyl [K33]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T7]","","",4,1,
+,"2×Crotonyl [K]; 1×Propionyl [K33]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]","","",8,1,
+,"1×Crotonyl [K]; Propionyl [K]; 1×Phenylisocyanate [N-Term]; Dimethyl [K]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]; 1×Trimethyl [K10]","","",18,1,
+,"1×Crotonyl [K10]; 1×Trimethyl [K15]; 1×PhosphoJoin [T14]; 3×Propionyl [K19; K20; K33]; 1×Phospho [T14]","","",2,1,
+,"2×Crotonyl [K15; K19]; 1×Propionyl [K33]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T]; 1×PhosphoJoin [T]","","",14,1,
+Ddis_XP_640703,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].SSFIVYR.[Q]
+Ddis_XP_639127,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].SYNNNNNYQR.[R]
+Ddis_XP_646200,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].EAEHLAR.[L]
+Ddis_XP_635459,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,00000000010400000001,2,3,[R].DNDKSNQVQR.[N]
+Ddis_XP_645640,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K4(100); K11(100)]",0400000001,00000000010400000001,2,3,[R].GSKKENSGEVKTIPR.[D]
+Ddis_XP_639227,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].NNNFSNR.[N]
+,"1×Crotonyl [K2]; 1×Trimethyl [K23]; 2×PhosphoJoin [S/T]; 1×Propionyl [K3]; 2×Propionyl + Methyl [K4; K5]; 2×Phospho [S/T]","","",14,1,
+Ddis_XP_647006,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K9(100); K11(100)]",0300000001,00000000010300000001,2,2,[R].EGHDQYEGKGKR.[F]
+Ddis_XP_637840,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].EQQQFQQQNR.[H]
+Ddis_XP_647577|Histone_H3,"1×Trimethyl [K16]; 1×Propionyl [K17]; 1×Crotonyl [K4(100)]",0300000001,00000000010300000001,2,2,[K].QAHKQTPVSSSSGGVKKVHR.[F]
+Ddis_XP_638825,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].NNGNEVIQSSSSTSSPR.[V]
+,"1×Phenylisocyanate [N-Term]","","",2,1,
+Ddis_XP_640076,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K5(100); K6(100)]",0400000001,00000000010400000001,2,3,[R].APITKKGNTAPR.[S]
+Ddis_XP_002649158,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[R].GLNNSNSSYQR.[K]
+Ddis_XP_637177,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].NSQQYQQYR.[Q]
+,"1×PhosphoJoin [T1]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K7]; 1×Acetyl [K2]; 1×Phospho [T1]","","",2,1,
+Ddis_XP_640870,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K12(100)]",0300000001,00000000010300000001,2,2,[R].GNHIVGGEHLSKTR.[L]
+,"1×Trimethyl [K]; 1×PhosphoJoin [T1]; 3×Propionyl [K4; K7; K8]; 1×Acetyl [K]; 1×Phospho [T1]","","",4,1,
+Ddis_XP_641888,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,00000000010400000001,2,3,[R].RENQKDVENIGR.[F]
+Ddis_XP_645217,"1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[K].KGPVEKEKQER.[I]
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,00000000010400000001,2,3,[K].TENKVENR.[S]
+Ddis_XP_645351,"1×Propionyl [K7(100)]",0400000001,00000000010400000001,2,3,[R].FQSDLFKR.[V]
+Ddis_XP_645351,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0400000001,00000000010400000001,2,3,[R].FQSDLFKR.[V]
+Ddis_XP_635956,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K5(100)]",0300000001,00000000010300000001,2,2,[R].DKEQKQR.[E]
+Ddis_XP_638790,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K12(100)]",0400000001,00000000010400000001,2,3,[R].TKFEDINNNNIKSHSR.[S]
+,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K3(100); K31(100)]","","",2,1,
+Ddis_XP_638099,"1×Propionyl + Methyl [K8]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K5]",0300000001,00000000010300000001,2,2,[R].RDEAKIEKER.[R]
+,"1×PhosphoJoin [S16]; 1×Propionyl [K36]; 2×Propionyl + Methyl [K17; K]; 1×Acetyl [K2]; 1×Phospho [S16]","","",4,1,
+,"1×Crotonyl [K]; 1×Trimethyl [K]; 1×Propionyl + Methyl [K16]; 2×Acetyl [K3; K23]; 1×Phospho [T8]; 1×PhosphoJoin [T8]","","",4,1,
+Ddis_XP_639947,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0300000001,00000000010300000001,4,2,[KR].QNEIKR.[K]
+,"1×Trimethyl [K9]","","",2,1,
+,"2×Trimethyl [K26; K32]; 3×Dimethyl [K19; K21; K22]; 1×Phospho [S1]; 1×PhosphoJoin [S1]","","",2,1,
+,"2×Crotonyl [K]; 2×Propionyl [K21; K22]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K]","","",6,1,
+,"3×Trimethyl [K6; K11; K]; 1×PhosphoJoin [S15]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Phospho [S15]","","",4,1,
+Ddis_XP_644298,"1×Propionyl [K19]; 1×Phenylisocyanate [N-Term]",0300000001,00000000010300000001,2,2,[K].SAGNNIPTSKSSVELSVNK.[K]
+Ddis_XP_635871,"2×Propionyl [K11(100); K16(100)]",0400000001,00000000010400000001,2,3,[R].DNYVPQESAIKTNEVKIDR.[D]
+Ddis_XP_635871,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K11(100); K16(100)]",0300000001,00000000010300000001,2,2,[R].DNYVPQESAIKTNEVKIDR.[D]
+,"3×Trimethyl [K8; K11; K25]; 1×PhosphoJoin [S2]; 3×Propionyl + Methyl [K28; K29; K34]; 1×Phospho [S2]","","",2,1,
+,"2×PhosphoJoin [T8; S21]; 2×Propionyl [K14; K34]; 2×Propionyl + Methyl [K31; K33]; 1×Dimethyl [K25]; 2×Phospho [T8; S21]","","",6,1,
+,"1×Crotonyl [K4]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K18]; 3×Acetyl [K29; K35; K36]; 1×Phospho [T/S]; 1×PhosphoJoin [T/S]","","",4,1,
+,"1×Trimethyl [K]; 1×Propionyl [K14]; 1×Dimethyl [K15]; 1×Acetyl [K5]","","",4,1,
+Ddis_XP_636772,"1×Phenylisocyanate [N-Term]; 1×Phospho [S9]; 1×Propionyl + Methyl [K14(100)]; 1×Propionyl [K20(100)]; 1×PhosphoJoin [S]",0300000001,00000000010300000001,2,2,[M].NYEDDNVESGQAGKSDAEYKADIANR.[E]
+,"3×Crotonyl [K3; K28; K32]; 1×Propionyl [K20]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K12]; 1×Phospho [T4]; 1×PhosphoJoin [T4]","","",2,1,
+Ddis_XP_645351,"2×Propionyl [K1(100); K13(100)]",0300000001,00000000010300000001,2,2,[R].KAIVERAAELNIKVTTPNAR.[L]
+,"1×Trimethyl [K2]; 2×Propionyl [K3; K4]; 1×Propionyl + Methyl [K7]; 1×Dimethyl [K10]","","",2,1,
+Ddis_XP_640703,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K1(100); K4(100); K8(100); K9(100)]",0400000001,00000000010400000001,2,3,[R].KDSKVDLKKIR.[S]
+Ddis_XP_643145,"2×Propionyl [K1(100); K4(100)]",0300000001,00000000010300000001,2,2,[R].KVLKLLR.[L]
+Ddis_XP_644192,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0300000001,00000000010300000001,2,2,[R].AFHKYR.[V]
+,"1×Crotonyl [K4]; 2×Trimethyl [K32; K33]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K6; K19]; 2×Phospho [S/T]; 2×PhosphoJoin [S/T]","","",4,1,
+,"1×Crotonyl [K5]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K7]","","",2,1,
+,"1×Crotonyl [K7]; 2×Propionyl + Methyl [K5; K27]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K17; K26]; 3×Phospho [S3; S9; S12]; 3×PhosphoJoin [S3; S9; S12]","","",2,1,
+,"2×Propionyl [K9; K10]; 1×Dimethyl [K14]; 1×PhosphoJoin [T11(100)]; 1×Propionyl + Methyl [K]; 1×Acetyl [K]; 1×Phospho [T11]","","",6,1,
+Ddis_XP_639351,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K7(100)]",0300000001,00000000010300000001,2,2,[R].RHITFSKR.[K]
+,"1×PhosphoJoin [S14]; 1×Propionyl + Methyl [K20]; 2×Acetyl [K6; K15]; 1×Phospho [S14]","","",2,1,
+Ddis_XP_644913,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K5(100)]",0400000001,00000000010400000001,2,3,[R].NAALKR.[R]
+Ddis_XP_637840,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K8(100); K9(100)]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]",0300000001,00000000010300000001,6,2,[R].EISQTPQKKR.[R]
+Ddis_XP_641585,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K3(100)]",0300000001,00000000010300000001,2,2,[K].GKKAELQTR.[L]
+Ddis_XP_636797,"1×Propionyl [K17(100)]",0400000001,00000000010400000001,2,3,[R].DIQAGIQSGEIEVVEPK.[-]
+Ddis_XP_635732,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K6(100); K11(100)]",0400000001,00000000010400000001,2,3,[R].KENEEKGIPNKPR.[K]
+Ddis_XP_647187,"5×Propionyl [K2(100); K3(100); K6(100); K10(100); K12(100)]",0400000001,00000000010400000001,2,3,[R].IKKVGKNLTKFKVR.[C]
+Ddis_XP_643982,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K6(100)]",0400000001,00000000010400000001,2,3,[R].KENELKYGNDR.[S]
+,"2×Trimethyl [K14; K21]; 2×PhosphoJoin [S7; T10]; 2×Propionyl + Methyl [K9; K11]; 2×Dimethyl [K1; K22]; 1×Acetyl [K5]; 2×Phospho [S7; T10]","","",2,1,
+,"2×Trimethyl [K12; K21]; 1×PhosphoJoin [S]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K1; K10]; 1×Phospho [S]","","",4,1,
+,"1×Propionyl + Methyl [K8]; 2×Dimethyl [K14; K16]; 1×Acetyl [K1]","","",2,1,
+"CON_007264311; Ddis_XP_640258","1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0400000001,00000000010400000001,2,3,[K].IQDKEGIPPDQQR.[L]
+Ddis_XP_629633,"2×Propionyl [K5(100); K8(100)]",0400000001,00000000010400000001,2,3,[R].VIAAKASKFAPSIPAEIR.[S]
+Ddis_XP_644676,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0400000001,00000000010400000001,2,3,[R].QFKNIDDDSDHVITR.[N]
+Ddis_XP_635732,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K7(100); K10(100)]",0400000001,00000000010400000001,4,3,[R].NQDIIDKSNKR.[K]
+Ddis_XP_641632,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]",0300000001,00000000010300000001,2,2,[R].ELKAEAER.[V]
+Ddis_XP_646781,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K9(100); K15(100); K16(100)]",0400000001,00000000010400000001,2,3,[R].LGPNTPNAKGGPGGKKR.[K]
+Ddis_XP_638266,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K23(100)]",0400000001,00000000010400000001,2,3,[R].LDTTSINGGGGGSSGGGGSGSTKPLR.[R]
+Ddis_XP_636859,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K11(100)]",0400000001,00000000010400000001,2,3,[K].QQGSVTLEAPKLR.[V]
+,"1×Phenylisocyanate [N-Term]; 1×Dimethyl [K18]; 1×Phospho [S14]; 1×PhosphoJoin [S14(100)]","","",4,1,
+Ddis_XP_645137,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K1(100); K5(100); K6(100)]",0400000001,00000000010400000001,4,3,[R].KSQYKKSIDSDESR.[R]
+,"3×Trimethyl [K9; K30; K34]; 2×PhosphoJoin [S5; S13]; 2×Dimethyl [K2; K8]; 2×Phospho [S5; S13]","","",2,1,
+Ddis_XP_647117,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K13(100); K14(100)]",0400000001,00000000010400000001,2,3,[R].NSTLNSGSSSLSKKPVLSR.[A]
+Ddis_XP_640258,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K6(100)]",0300000001,00000000010300000001,2,2,[K].TKIQDKEGIPPDQQR.[L]
+,"1×Crotonyl [K7]; 2×Trimethyl [K8; K11]; 2×Propionyl + Methyl [K13; K14]; 1×Dimethyl [K20]","","",2,1,
+,"1×Phenylisocyanate [N-Term]","","",2,1,
+,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K16(100); K18(100)]","","",2,1,
+,"2×PhosphoJoin [S3; S26]; 1×Propionyl [K31]; 1×Propionyl + Methyl [K34]; 2×Phospho [S3; S26]","","",2,1,
+Ddis_XP_001134610,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K11(100)]",0300000001,00000000010300000001,2,2,[R].VNAQHVVALNK.[-]
+Ddis_XP_641319,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K4(100); K13(100); K14(100); K15(100)]",0400000001,00000000010400000001,2,3,[R].RIYKNTTTDVSAKKKAR.[K]
+Ddis_XP_636778,"1×Dimethyl [K13]; 1×Crotonyl [K4(100)]",0300000001,00000000010300000001,2,2,[K].SSSKIPTDLRYKKTR.[A]
+Ddis_XP_645684,"1×Phenylisocyanate [N-Term]; 5×Propionyl [K1(100); K4(100); K7(100); K8(100); K13(100)]",0300000001,00000000010300000001,2,2,[K].KLEKQQKKETQQKER.[Q]
+Ddis_XP_638307,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0300000001,00000000010300000001,2,2,[K].LKIAHVQVQR.[A]
+Ddis_XP_644428,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K4(100); K11(100)]",0400000001,00000000010400000001,2,3,[R].QATKDAGAIAKLNVQR.[I]
+,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K3(100)]","","",2,1,
+,"1×Trimethyl [K15]; 1×Propionyl + Methyl [K14]; 1×Phospho [T]; 1×Propionyl [K4(100)]; 1×PhosphoJoin [T]","","",4,1,
+Ddis_XP_636248,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K4(100)]",0300000001,00000000010300000001,2,2,[R].LREKDELSLIHNR.[L]
+Ddis_XP_641587|Histone_H2A,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0300000001,00000000010300000001,2,2,[K].KAAEGSSQIY.[-]
+Ddis_XP_645635,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K1(100); K3(100)]",0400000001,00000000010400000001,2,3,[R].KSKSNLDLPQEEPLTVTR.[S]
+,"1×Trimethyl [K]; 1×Propionyl [K3]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T23]; 1×PhosphoJoin [T23]","","",6,1,
+,"1×Crotonyl [K]; 1×Propionyl [K]; 1×Propionyl + Methyl [K21]; 1×Phenylisocyanate [N-Term]; 1×Phospho [T/S]; 1×PhosphoJoin [S/T]","","",8,1,
+Ddis_XP_642039,"2×Propionyl [N-Term; K]; 1×Acetyl [K]",0300000001,00000000010300000001,4,2,[M].SSEDGIKKLLDAER.[T]
+Ddis_XP_646371,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K2(100); K21(100)]",0400000001,00000000010400000001,2,3,[R].GKEESLATLNSVPGESVYGEKR.[V]
+,"1×Crotonyl [K]; 2×Trimethyl [K19; K34]; 2×PhosphoJoin [S5; T18]; 1×Acetyl [K]; 2×Phospho [S5; T18]","","",4,1,
+,"1×Crotonyl [K21]; 1×Trimethyl [K18]; 1×Propionyl [K30]; 1×Phospho [T]; 1×PhosphoJoin [T]","","",4,1,
+Ddis_XP_647630,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K1(100)]",0400000001,00000000010400000001,2,3,[R].KNLSNQIGSAIGNRG.[-]
+Ddis_XP_641203,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].EAFQQSIIDSR.[K]
+Ddis_XP_629876,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,4,3,[R].TWFNQPAR.[K]
+Ddis_XP_642566,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K2(100); K6(100); K11(100)]",0300000001,00000000010300000001,2,2,[R].QKAEAKESLAK.[S]
+Ddis_XP_638598,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K3(100); K4(100); K7(100)]",0400000001,00000000010400000001,2,3,[R].FQKKVVKGR.[Q]
+Ddis_XP_646584,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K1(100); K10(100); K16(100); K17(100)]",0400000001,00000000010400000001,2,3,[R].KEQPLDENGKPIPVEKKLSR.[G]
+,"1×Trimethyl [K20]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K30]; 1×Acetyl [K6]; 4×Phospho [T1; T4; T5; S7]; 4×PhosphoJoin [T1; T4; T5; S7]","","",2,1,
+,"2×Trimethyl [K6; K20]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K30]; 4×Phospho [T1; T4; T5; S7]; 4×PhosphoJoin [T1; T4; T5; S7]","","",2,1,
+,"2×Crotonyl [K9; K15]; 1×Trimethyl [K6]; 1×Phenylisocyanate [N-Term]; 1×Acetyl [K29]; 4×Phospho [S1; S5; T22; T27]; 4×PhosphoJoin [S1; S5; T22; T27]","","",2,1,
+,"1×Trimethyl [K30]; 1×PhosphoJoin [S]; 1×Propionyl + Methyl [K7]; 1×Phenylisocyanate [N-Term]; 2×Dimethyl [K9; K22]; 1×Phospho [S]","","",4,1,
+Ddis_XP_640577,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0400000001,00000000010400000001,2,3,[R].IKSLVANIHR.[L]
+Ddis_XP_638466,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K2(100)]",0400000001,00000000010400000001,2,3,[R].IKILTGNAHR.[E]
+,"2×Crotonyl [K6; K]; 1×Propionyl + Methyl [K]; 1×Phenylisocyanate [N-Term]; 1×Phospho [S4]; 1×PhosphoJoin [S4]; 1×Dimethyl [K]; 1×Acetyl [K]","","",20,1,
+Ddis_XP_639348,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].NRVESLIQVLNR.[A]
+Ddis_XP_635999,"1×Phenylisocyanate [N-Term]; 2×Propionyl [K8(100); K13(100)]",0300000001,00000000010300000001,2,2,[R].RLQTLVFKNGLAKSIHHAR.[V]
+Ddis_XP_638264,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].LTIPADLAYGR.[S]
+,"1×Crotonyl [K32]; 1×PhosphoJoin [S26]; 1×Propionyl [K]; 1×Phenylisocyanate [N-Term]; 2×Acetyl [K13; K25]; 1×Phospho [S26]","","",4,1,
+Ddis_XP_642751,"1×Phenylisocyanate [N-Term]",0400000001,00000000010400000001,2,3,[R].IEGSSIFPIHNVFIR.[K]
+Ddis_XP_641041,"1×Phenylisocyanate [N-Term]; 3×Propionyl [K19(100); K23(100); K26(100)]",0400000001,00000000010400000001,2,3,[R].STTTTTNTSNIQDTLSNIKNNLKNNKR.[K]
+Ddis_XP_646617,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K10(100)]",0300000001,00000000010300000001,2,2,[R].LVSHFVDEFKR.[K]
+,"1×Trimethyl [K9]; 2×Propionyl [K7; K8]; 1×Phenylisocyanate [N-Term]; 1×Dimethyl [K23]","","",2,1,
+Ddis_XP_641984,"1×Phenylisocyanate [N-Term]; Propionyl [K]; 1×Acetyl [K]; 1×Propionyl + Methyl [K]",0400000001,00000000010400000001,6,3,[R].IREEEEKKRAAEQKIIDDEKAR.[L]
+Ddis_XP_642577,"1×Phenylisocyanate [N-Term]; 1×Propionyl [K12(100)]",0400000001,00000000010400000001,2,3,[R].GDLLFPSIESEKR.[K]
+,"1×Phenylisocyanate [N-Term]; 4×Propionyl [K3(100); K8(100); K9(100); K11(100)]","","",2,1,

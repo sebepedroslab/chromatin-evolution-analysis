@@ -1,6 +1,0 @@
-Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
-Fabtro_Gene.1127|Histone_H3	Fabtro_Gene.1127|Histone_H3	H3	FALSE	TKQTA R	Me1	K	2				100	TKQTAR	res
-Fabtro_Gene.1127|Histone_H3	Fabtro_Gene.1127|Histone_H3	H3	FALSE	TKQTA RKSTG GKAPR	Me1	K	2				91.03	TKQTARKSTGGKAPR	res
-Fabtro_Gene.1127|Histone_H3	Fabtro_Gene.1127|Histone_H3	H3	FALSE	KSTGG KAPRK SLATK	Me1	K	10				99.1	KSTGGKAPRKSLATK	res
-Fabtro_Gene.1127|Histone_H3	Fabtro_Gene.1127|Histone_H3	H3	FALSE	KSTGG KAPRK SLATK AAR	Me1	K	10				99.1	KSTGGKAPRKSLATKAAR	res
-Fabtro_Gene.1127|Histone_H3	Fabtro_Gene.1127|Histone_H3	H3	FALSE	KSTGG KAPRK SLATK AAR	Me1	K	10				84.68	KSTGGKAPRKSLATKAAR	res

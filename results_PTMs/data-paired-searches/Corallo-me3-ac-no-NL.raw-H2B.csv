@@ -1,4 +1,0 @@
-Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
-Clim_g1810|Histone_H2B	Clim_g1810|Histone_H2B	H2B	FALSE	AAGKK GGDKG GKRK	Me3	K	4				29.54	AAGKKGGDKGGKRK	res
-Clim_g1810|Histone_H2B	Clim_g1810|Histone_H2B	H2B	FALSE	AAGKK GGDKG GKRK	Me3	K	9				32.65	AAGKKGGDKGGKRK	res
-Clim_g1810|Histone_H2B	Clim_g1810|Histone_H2B	H2B	FALSE	AAGKK GGDKG GKRK	Me3	K	14				32.73	AAGKKGGDKGGKRK	res

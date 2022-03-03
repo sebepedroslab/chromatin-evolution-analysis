@@ -1,9 +1,0 @@
-Protein_ID	New_Protein_ID	Histone_Type	is_variant	Clean_peptide	Modification	Residue	Position_in_peptide	aa_in_reference	Positions_in_Reference	Positions_in_Protein	ptmRS_Best_Site_Probabilities	Peptide_Sequence	Peptide_position
-Ddis_XP_635352|Histone_H3	Ddis_XP_635352|Histone_H3	H3	FALSE	ETIVT TPTKT PPSTR	Me1	K	9				100	ETIVTTPTKTPPSTR	res
-Ddis_XP_646792|Histone_H3	Ddis_XP_646792|Histone_H3	H3	FALSE	KSTGA KVPR	Me1	K	1				100	KSTGAKVPR	res
-Ddis_XP_646792|Histone_H3	Ddis_XP_646792|Histone_H3	H3	FALSE	ARTKQ TAR	Me1	K	4				100	ARTKQTAR	res
-Ddis_XP_646792|Histone_H3	Ddis_XP_646792|Histone_H3	H3	FALSE	KHLGN KSSQK SFPST QGLKK THR	Me1	K	6				88.6	KHLGNKSSQKSFPSTQGLKKTHR	res
-Ddis_XP_646792|Histone_H3	Ddis_XP_646792|Histone_H3	H3	FALSE	EIAQE FKTDL R	Me1	K	7				100	EIAQEFKTDLR	res
-Ddis_XP_646792|Histone_H3	Ddis_XP_646792|Histone_H3	H3	FALSE	KHLGN KSSQK SFPST QGLKK THR	Me1	K	20				94.38	KHLGNKSSQKSFPSTQGLKKTHR	res
-Ddis_XP_647577|Histone_H3	Ddis_XP_647577|Histone_H3	H3	FALSE	KYQKS TDLLI R	Me1	K	1				50	KYQKSTDLLIR	res
-Ddis_XP_647577|Histone_H3	Ddis_XP_647577|Histone_H3	H3	FALSE	KYQKS TDLLI R	Me1	K	4				50	KYQKSTDLLIR	res
