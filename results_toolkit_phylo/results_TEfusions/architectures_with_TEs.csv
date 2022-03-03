@@ -597,6 +597,7 @@ Morvir_scaffold32.g2.t1	zf-CW.HG1.16:MORC1/MORC2/MORC3/MORC4	MORC1/MORC2	zf-CW	R
 Morvir_scaffold390.g6.t3	SAM.HG1.3:SAMHD1	islike:SAMHD1	SAM	SH3_9 SAM_1 C1_1 RhoGAP SH2 Exo_endo_phos_2 RVT_1 SH2
 Morvir_scaffold39.g109.t1	Chromo.HG3.0:NA		Chromo	rve Chromo
 Morvir_scaffold434.g2.t1	PHD.HG11.1:like:PYGO1/PYGO2:likeclu:2		PHD	S1 RVT_1 PHD EIF_2_alpha
+Morvir_scaffold44.g13.t1	YEATS.HG1.6:YEATS2	YEATS2	YEATS	RVT_1 RT_RNaseH_2 Integrase_H2C2 rve YEATS
 Morvir_scaffold44.g6.t2	CupinJmjC.HG5.1:NA		CupinJmjC	Cupin_8 RVT_1 Cupin_8
 Morvir_scaffold56.g37.t3	PHD.HG11.1:like:PYGO1/PYGO2:likeclu:2		PHD	BRO1 RVT_1 PHD BRO1 ALIX_LYPXL_bnd
 Morvir_scaffold5.g135.t1	PHD.HG11.1:like:PYGO1/PYGO2:likeclu:2		PHD	RVT_1 PHD WD40 WD40 WD40 WD40
@@ -1023,4 +1024,3 @@ Vitbra_CEL96907.1	Chromo.HG2.1:NA		Chromo	RT_RNaseH_2 Integrase_H2C2 rve Chromo 
 Vitbra_CEM31695.1	Chromo.HG2.1:NA		Chromo	Integrase_H2C2 rve Chromo
 Vitbra_CEM32443.1	Chromo.HG2.1:NA		Chromo	RT_RNaseH Integrase_H2C2 rve Chromo
 Vitbra_CEM32770.1	Chromo.HG2.1:NA		Chromo	rve Chromo
-Morvir_scaffold44.g13.t1	YEATS.HG1.6:YEATS2	YEATS2	YEATS	RVT_1 RT_RNaseH_2 Integrase_H2C2 rve YEATS

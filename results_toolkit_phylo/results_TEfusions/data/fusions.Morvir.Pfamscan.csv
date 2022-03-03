@@ -1,4 +1,4 @@
-# pfam_scan.pl,  run at Fri Dec 18 14:45:15 2020
+# pfam_scan.pl,  run at Tue Feb 22 09:13:51 2022
 #
 # Copyright (c) 2009 Genome Research Ltd
 # Freely distributed under the GNU 
@@ -620,6 +620,32 @@ Morvir_scaffold434.g2.t1    1298   1410   1298   1411 PF07541.13  EIF_2_alpha   
 #PP        79***********99999*****************************************************************888877666....******************986
 #SEQ       LYQKTAWYFDEKYKTtggSYEAFKHAVGEPTIFDDCGLDDVTKEALLVDIRRRLTPQAVKVRSDIEVACYGYEGIDAVKQALKEGLKlSTPE----LPIKINLIAPPVYVVTTTTLE
 #CS        HHHCTHHHHTTTTS-...HHHHHHHHHSTTHHHHHTTS-TTTHHHHHHCTHHHHHHT-EEEEEEEEEEE-STTHHHHHHHHHHHHST.S..TSSSEEEEEEEESSSSEEEEEEEES.
+Morvir_scaffold44.g13.t1     519    640    503    642 PF00078.28  RVT_1             Family    63   220   222     69.2   3.5e-19   1 CL0027   
+#HMM       kkkkkaklllklDlkkaFdsvpleellrkltafkvptklinliksflstrsfsvrvngeeskgryekkglpqGsvlSPllfnlfmnellrelrkrakgvtllrYaDDililskskeelqelleaveewlkesglkinpeKtklvlftvkseevkyLGv
+#MATCH      k ++ + ++klDl +a+++v l+e++rk+ +++++                          g+y++++lp+G++ +P++f+++m+ +l+ l+       + +  DD+l++ ++  e+q+ l+a+ ++l+++g+k+n++K+ ++     +eev+y  +
+#PP        56788899************************9999.........................79******************************8......78889***************************************.....999999765
+#SEQ       TKLNGGQKFSKLDLTQAYNQVLLDEESRKYVTINTH-------------------------LGLYQYTRLPFGIASAPAVFQRTMETVLQGLDG------VGCILDDVLVTGRNDAEHQQNLKATLKRLNDYGIKLNKAKCYFM-----KEEVEYFAF
+#CS        CCHTS--EEEEEEBCCGCCCSBB-GGGGGGG-EEET.........................TEEEEESB--ST-TTHHHHHHHHHHHHHTT-T......TEEECTTEEEEEESSHHHHHHHHHHHHHHHHHTT--BEGGG-EEE.....ESSEEETTE
+Morvir_scaffold44.g13.t1     705    803    705    803 PF17919.2   RT_RNaseH_2       Domain     1   100   100    117.0   3.1e-34   1 CL0219   
+#HMM       WteeqekafeklkealtsapvLalpdpdkpfiletDaSdtgiGavLsqedddgkerpiafaSrklskaernysttekellAivfalkkfrhyllgrkftv
+#MATCH     W+e++ +a  ++ke l+s++vL ++dp+k+++l +DaS +g+Gav+s++ d++  rpia+aSr+l+++e nys++eke+lAi+++++kf++yl+gr+ft+
+#PP        ***************************************************65.5*******************************************85
+#SEQ       WSEDCHNACVRIKELLVSSKVLIHYDPKKEVTLAVDASAYGLGAVISHNIDGD-DRPIAYASRTLNSSECNYSQIEKEALAIIYGVRKFHQYLYGRRFTL
+Morvir_scaffold44.g13.t1     946    998    946   1001 PF17921.2   Integrase_H2C2    Domain     1    55    58     47.5   1.4e-12   1 CL0361   
+#HMM       vpkslrkeilkelHdsagHlGiektlarlrrryyWpgmrkdvkkyvksCetCqrr
+#MATCH     +p++ r +il+elH    H+Gi +++a++r +++Wp+++ d+++ v +C+ C ++
+#PP        7999***********..9**********************************986
+#SEQ       IPDRYRDKILEELHT--NHPGIVRMKALARLYVWWPNLDLDIENKVLKCDGCRKQ
+Morvir_scaffold44.g13.t1    1015   1106   1013   1106 PF00665.27  rve               Domain     3   102   102     50.4   2.1e-13   1 CL0219   
+#HMM       apgelwqvDvt.viripdgggkayllvviddfsrlilaeavsdemsastvvalleravakfggvepervlsDngseytskafreflaelgirvsftrpgrp
+#MATCH     +p e++++D+   +   +      +l vid++s+++ ++ +s+  sa++++ +l+ +++++g   p++v+sDng+++t+ +f+ fl+++g+r+  ++p++p
+#PP        677888888887444..2....46899*****************.******************..**********************************98
+#SEQ       KPWERVHIDYAgPFL--N----EMFLMVIDAHSKWLDVVRMSST-SAESTINALRYMFSSYGL--PKEVISDNGPQFTAAEFELFLKNNGVRHIKSAPYHP
+Morvir_scaffold44.g13.t1    1525   1604   1524   1606 PF03366.17  YEATS             Domain     2    79    81     85.9   1.4e-24   1 CL0154   
+#HMM       hkWtvavrsa.asddlskfikkVqFkLhetyan.ptrvvdkpPFevtetGwGeFeiqikiffvpeaekpltlehhLklhp
+#MATCH     hkW+v++r++ ++ d+skfikkV F Lh++y + +   ++kpPF++t++GwGeF ++++++fv+ ++k+++++hhLkl++
+#PP        9*********9999*****************8735589***************************999**********87
+#SEQ       HKWMVYLRGPkDNPDVSKFIKKVIFFLHPSYIPnDIVEISKPPFQLTRRGWGEFPVRLQLHFVDPKNKKVDVFHHLKLDK
 Morvir_scaffold44.g6.t2       60    205     58    272 PF13621.7   Cupin_8           Domain     3   172   254     36.4   4.9e-09   1 CL0029   
 #HMM       effreyvakskPviitgalkdwpalqkwtddeylleylkek..agdvkvsveetpdgeadsldendelkfvepeeeemtfeefldelearrdtrsetylylqnanlaeefpelk.adsdlpfateafgke..peavnlWlGnsasvsslHkDhyeNlycvvrGrKeftLfpPsda
 #MATCH     +ff+ yv k+kP++i+g +++ +a+ +w++     ey+++    +d+ v+ve t+       +e     + +++++ m+f++fl+ +++++       +yl      + +pe+  +d  lp + ++ + +   e   lW +   + s+lH D  + + cv+rG+ e+ +f+  d 
