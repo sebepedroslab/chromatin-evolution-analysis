@@ -38,6 +38,7 @@ diamond blastp -d all.Histone.domains.fasta -q all.Histone.domains.fasta -o all.
 4. Alignments to histones used for proteomics analyses:
 
 ```bash
+diamond makedb --in all_proteomes_for_proteomics_2021-09-08.fasta -d ~/histonome-ops/data/all_proteomes_for_proteomics_2021-09-08.fasta
 diamond blastp -d all_proteomes_for_proteomics_2021-09-08.fasta -q all.Histone.domains.fasta -o all.Histone.to_proteomics.csv --more-sensitive --max-target-seqs 100 --quiet && gzip all.Histone.to_proteomics.csv
 ```
 
@@ -66,6 +67,52 @@ killall inkscape
 # To create composites from PDF:
 # pdfjam --nup 4x3 euk.Histone.to_histdb.Spring-Naive-cla.pdf --outfile ../euk.Histone.to_histdb.Spring-Naive-composite.pdf
 # pdfjam --nup 5x5 all.Histone.to_histdb.Spring-Naive-cla.pdf --outfile ../all.Histone.to_histdb.Spring-Naive-composite.pdf
+```
+
+6. Variant classification for H2A, H2B, and H3:
+
+```bash
+# based on hmms from histonedb (download manually and store in histonedb_hmms/)
+mkdir -p histonedb_hmms/
+for i in histonedb_references/variants_*.fasta ; do 
+o=$(echo $(basename ${i}) | sed "s/variants_//")
+cp ${i} histonedb_hmms/${o%%.fasta}.fasta
+hmmbuild -n ${o%%.fasta} histonedb_hmms/${o%%.fasta}.hmm histonedb_hmms/${o%%.fasta}.fasta
+done
+
+# # new hmm for macroH2A
+# xargs faidx -d ' ' euk.Histone.domains.fasta < histonedb_hmms/H2A_macroH2Acustom.txt  | mafft --localpair --thread 1 --reorder --maxiterate 1000 - > histonedb_hmms/H2A_macroH2Acustom.fasta
+# hmmbuild -n H2A_macroH2Acustom histonedb_hmms/H2A_macroH2Acustom.hmm histonedb_hmms/H2A_macroH2Acustom.fasta
+
+cat histonedb_hmms/[^db]*.hmm > histonedb_hmms/db_variants.hmm
+hmmpress histonedb_hmms/db_variants.hmm
+
+# hmmscan
+hmmscan \
+-o variants/euk.Histone.domains.to_hmm_database.csv \
+--tblout variants/euk.Histone.domains.to_hmm_database.tab.csv \
+--domtblout variants/euk.Histone.domains.to_hmm_database.domtab.csv \
+--pfamtblout variants/euk.Histone.domains.to_hmm_database.pfamtab.csv \
+histonedb_hmms/db_variants.hmm euk.Histone.domains.fasta 
+
+# based on blast?
+for i in histonedb_references/variants_H2A*.fasta ; do
+
+diamond blastp -d ${i} -q alignments/euk.Histone.to_histdb/CC4_H2A.fasta -o variants/ccs_to.${o%%.fasta}.csv --more-sensitive --max-target-seqs 1 --quiet
+done
+
+for i in histonedb_references/variants_H2B*.fasta ; do
+o=$(basename ${i})
+diamond blastp -d ${i} -q alignments/euk.Histone.to_histdb/CC0_H2B.fasta -o variants/ccs_to.${o%%.fasta}.csv --more-sensitive --max-target-seqs 1 --quiet
+done
+
+for i in histonedb_references/variants_H3*.fasta ; do
+o=$(basename ${i})
+diamond blastp -d ${i} -q alignments/euk.Histone.to_histdb/CC2_H3.fasta -o variants/ccs_to.${o%%.fasta}.csv --more-sensitive --max-target-seqs 1 --quiet
+done
+
+Rscript s10_classify_variants_targeted.R
+Rscript s11_paint_macro_phylogeny.R
 ```
 
 ## Targeted phylogenies
@@ -155,4 +202,3 @@ cat alignments/Erives_2017.archaeal_histones.to_NCBI.diamond.hits_nr.c95.fasta >
 
 # run phylogeny
 qsub -N virhis -pe smp 8 qsub_alignment-alrt.sh alignments/vir.concatenated/cat_histones.fasta 8
-```
