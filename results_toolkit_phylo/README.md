@@ -144,7 +144,7 @@ For the eukaryotic dataset, call orthologous groups from phylogenies using speci
 
 ```bash
 # call orthologs from each tree:
-for i in gene_trees/*treefile ; do python s02_parse_phylogeny_2020-11-30.py -i $i -o gene_trees/ -r human_gene_names.csv  -refsps Hsap -itermidroot 10 -min_transfer_support 50 -cut_gene_names 100 -ogprefix $(basename $i | cut -f2,3 -d '.'). -p $(basename $i | sed "s/.seqs.iqtree.treefile/.possom/") ; done
+for i in gene_trees/*treefile ; do possvm -i $i -o gene_trees/ -r human_gene_names.csv  -refsps Hsap -itermidroot 10 -min_transfer_support 50 -cut_gene_names 100 -ogprefix $(basename $i | cut -f2,3 -d '.'). -p $(basename $i | sed "s/.seqs.iqtree.treefile/.possom/") ; done
 
 # concatenate all OGs in a single table:
 # beware: step to remove Plebac, which is completely synonymous with Pbla in trees
@@ -310,8 +310,19 @@ Second, validate structure of fusion genes. This consists of various steps:
 
 ```bash
 # for each sequence with TE domains, find equivalent gene ID in GTF-able db (BLAST)
-# next, RNA-seq data from SRA & map it (salmon) for all species specified in the ../data/validation_species.csv file
-bash s10_txvalidation_sra-map_2020-12-16.sh # this will take a while...
+# next, RNA-seq data from SRA & map it (bwa) for all species specified in the ../data/validation_species.csv file
+# create bwa indexes
+s=<species id>
+bwa index ${s}.cds.fasta ${s}/bwa_index/${s}.cds.fasta
+
+# map
+r1=<read pair 1>
+r2=<read pair 2>
+qsub qsub_bwamem.sh $r1 $r2 ${s}/bwa_index/${s}.cds.fasta 6 ${s}/mapping_bwa/
+
+# once mapping is done, concatenate
+qsub qsub_bwamem-concat.sh <list of bams> ${s}/mapping_bwa_merge/ merge.bwa
+
 # next, check expression status, gene structure and assembly contiguity for all candidate genes
 bash s11_txvalidation_expr-assembly_2020-12-16.sh
 ```
@@ -325,7 +336,7 @@ while read -a i ; do bash s01_hmmsearches_v08_2020-12-21-DOMAINS.sh ${i[2]} ${i[
 # find TE clusters
 mkdir -p gene_trees_TE/
 cp alignments_TEs_Dec20/euk*treefile gene_trees_TE/
-for i in gene_trees_TE/*treefile ; do python s02_parse_phylogeny_2020-11-30.py -i $i -o gene_trees_TE/ -r human_gene_names.csv  -refsps Hsap -itermidroot 10 -min_transfer_support 50 -cut_gene_names 100 -ogprefix $(basename $i | cut -f2,3 -d '.'). -p $(basename $i | sed "s/.seqs.iqtree.treefile/.possom/") ; done
+for i in gene_trees_TE/*treefile ; do possvm -i $i -o gene_trees_TE/ -r human_gene_names.csv  -refsps Hsap -itermidroot 10 -min_transfer_support 50 -cut_gene_names 100 -ogprefix $(basename $i | cut -f2,3 -d '.'). -p $(basename $i | sed "s/.seqs.iqtree.treefile/.possom/") ; done
 ```
 
 Finally, analyse candidate TE fusions:
