@@ -1,6 +1,6 @@
 # Chromatin evolution
 
-This repository contains all the necessary code to reproduce the comparative proteomics & comparative genomics analyses of our manuscript [**Comparative proteogenomics deciphers the origin and evolution of eukaryotic chromatin**](https://github.com/sebepedroslab/chromatin-evolution-analysis) (Grau-Bové et al. 2021).
+This repository contains all the necessary code to reproduce the comparative proteomics & comparative genomics analyses of our manuscript [**A phylogenetic and proteomic reconstruction of eukaryotic chromatin evolution**](https://www.nature.com/articles/s41559-022-01771-6) (Grau-Bové et al., Nature Ecology and Evolution 2022).
 
 The data and code are structured as follows:
 
