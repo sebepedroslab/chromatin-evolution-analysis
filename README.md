@@ -1,6 +1,6 @@
 # Chromatin evolution
 
-This repository contains all the necessary code to reproduce the comparative proteomics & comparative genomics analyses of our manuscript [**A phylogenetic and proteomic reconstruction of eukaryotic chromatin evolution**](https://www.nature.com/articles/s41559-022-01771-6) (Grau-Bové et al., Nature Ecology and Evolution 2022).
+This repository contains all the necessary code to reproduce the comparative proteomics & comparative genomics analyses of our manuscript **A phylogenetic and proteomic reconstruction of eukaryotic chromatin evolution** (Grau-Bové et al., [Nature Ecology and Evolution 2022](https://www.nature.com/articles/s41559-022-01771-6), free PDF available [here](https://www.sebepedroslab.org/_files/ugd/d1ace5_23ff83e58266497f8de5d657ff376708.pdf)).
 
 The data and code are structured as follows:
 
